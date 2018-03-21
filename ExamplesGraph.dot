@@ -1,0 +1,37 @@
+graph {
+edge[penwidth=3]
+ Farsi[label=" جوایز\nFarsi",color="#3366CC",penwidth=5	] 
+
+ Farsi2[label=" زندگی‌نامه \n Farsi",color="#3366CC",penwidth=5  ]
+ Spanish[label="Premios\nSpanish",color="#109618",penwidth=5  ] 
+ Spanish2[label="Biografía \nSpanish",color="#109618",penwidth=5  ] 
+ English[label="Awards\nEnglish ",color="#990099",penwidth=5  	]
+ English2[label="Biography\nEnglish ",color="#990099",penwidth=5  	]
+ Russian[label="Награды\nRussian",color="#ff9900",penwidth=5  	]
+ Russian2[label="Биография\nRussian",color="#ff9900",penwidth=5  	]
+ Japanese[label="賞\nJapanese",color="#dd4477",penwidth=5 	]
+ Japanese2[label="伝記\nJapanese",color="#dd4477",penwidth=5  ]
+	
+ Farsi--  Spanish ;
+ English--  Spanish ;
+ English--  Farsi ;
+ Russian-- Farsi;
+ Russian -- Spanish;
+ Russian -- English;
+ Russian -- Japanese;
+ Japanese -- Farsi;
+ Japanese -- English;
+ Japanese -- Spanish;
+ 
+
+ Farsi2--  Spanish2 ;
+ English2--  Spanish2 ;
+ English2--  Farsi2 ;
+ Russian2-- Farsi2;
+ Russian2 -- Spanish2;
+ Russian2 -- English2;
+ Russian2 -- Japanese2;
+ Japanese2 -- Farsi2;
+ Japanese2 -- English2;
+ Japanese2 -- Spanish2;
+}
