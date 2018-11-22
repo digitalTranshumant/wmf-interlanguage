@@ -27,7 +27,7 @@
 15: SectionFasttextDistance-my_alingments.ipynb: same than 12, but with the alingments generated in 02  <br>
 
 
-## Build Ground Truth 
+## Build baseline 
 16 GetGoogleTranslations.ipynb <br>
 
 ## Experiments 
