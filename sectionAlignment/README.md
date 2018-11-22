@@ -36,4 +36,6 @@
 17 SectionAligmentClassifier.ipynb: Train and test Alignment Classifer <br>
 18 SynonymClassifierExperiments.ipynb: Train and test Synonym Classifier<br>
 
+== Adding New languages ==
 
+19 SectionAligmentClassifierPlusNew.ipynb: Execute the model in languages without Ground Truth 
