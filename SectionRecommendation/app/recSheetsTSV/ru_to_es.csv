@@ -1,0 +1,151 @@
+secFrom	langTo	prob	isTranslation
+Примечания	Referencias	0.9969484210014343	False
+Примечания	Notas	0.9946709275245667	True
+Примечания	Notas y referencias	0.9937396049499512	False
+Примечания	Enlaces externos	0.9821864366531372	False
+Примечания	Bibliografía	0.9819710850715637	False
+Примечания	Fuentes	0.9200695157051086	False
+Примечания	Bibliografía adicional	0.8757960200309753	False
+Примечания	Véase también	0.8721081018447876	False
+Примечания	Enlaces	0.8593851327896118	False
+Примечания	Referencia	0.8154917359352112	False
+Ссылки	Enlaces externos	0.9964665174484253	False
+Ссылки	Notas y referencias	0.9951867461204529	False
+Ссылки	Referencias	0.9951395988464355	True
+Ссылки	Bibliografía	0.9919456839561462	False
+Ссылки	Notas	0.9888057708740234	False
+Ссылки	Referencia	0.9651048183441162	False
+Ссылки	Fuentes	0.9648895859718323	False
+Ссылки	Enlaces	0.9178791642189026	False
+Ссылки	Véase también	0.8620322942733765	False
+Ссылки	Referencias y notas de pie	0.8190541863441467	False
+Литература	Bibliografía	0.9954506754875183	True
+Литература	Referencias	0.9938914775848389	False
+Литература	Notas	0.9780158400535583	False
+Литература	Notas y referencias	0.9766071438789368	False
+Литература	Enlaces externos	0.9663573503494263	False
+Литература	Literatura	0.9619548320770264	True
+Литература	Bibliografía adicional	0.9013375639915466	False
+Литература	Lectura adicional	0.8489386439323425	False
+Литература	Fuentes	0.8452181816101074	False
+Литература	Referencia	0.8392205834388733	False
+Биография	Biografía	0.9971816539764404	True
+Биография	Vida	0.984466552734375	False
+Биография	Historia	0.9803035259246826	False
+Биография	Trayectoria	0.9798341393470764	False
+Биография	Carrera	0.9728662967681885	False
+Биография	Semblanza	0.9704603552818298	False
+Биография	Vida y carrera	0.9557393193244934	False
+Биография	Primeros años	0.9514039754867554	False
+Биография	Vida y obra	0.9501755833625793	False
+Биография	Vida personal	0.9499902725219727	False
+См. также	Véase también	0.9968019723892212	True
+См. также	Véase	0.930081307888031	False
+См. также	Fallecimientos	0.921047031879425	False
+См. также	Referencias	0.9012357592582703	False
+См. также	Ver también	0.8861746191978455	False
+См. также	Notas	0.7799587845802307	False
+См. также	Bibliografía	0.7704651951789856	False
+См. также	Véase además	0.764511227607727	False
+См. также	Referencia	0.651417076587677	False
+См. также	Fuentes	0.6197147965431213	False
+История	Historia	0.9967591166496277	True
+История	Generalidades	0.9105200171470642	False
+История	Composición	0.8881749510765076	False
+История	Geografía	0.8568235039710999	False
+История	Biografía	0.84505695104599	False
+История	Reseña histórica	0.8106196522712708	False
+История	Descripción	0.7857677340507507	False
+История	Orígenes	0.6936317682266235	False
+История	Historial	0.6820354461669922	False
+История	Mitología	0.6730931401252747	False
+Население	Población	0.986772358417511	True
+Население	Demografía	0.9519388675689697	False
+Население	Municipios	0.8878244757652283	False
+Население	Subdivisiones	0.8186774253845215	False
+Население	División administrativa	0.7586170434951782	False
+Население	Principales ciudades	0.7288026213645935	False
+Население	Economía	0.7111939191818237	False
+Население	Organización territorial	0.6827818155288696	False
+Население	Geografía humana	0.6380066871643066	False
+Население	Ciudades y municipios	0.591050386428833	False
+География	Geografía	0.9967369437217712	True
+География	Localización	0.9424053430557251	False
+География	Economía y transporte	0.9403497576713562	False
+География	Ubicación	0.9362590909004211	False
+География	Historia	0.8714337944984436	False
+География	Demografía	0.8631912469863892	False
+География	Condados adyacentes	0.8614931106567383	False
+География	Situación	0.8573636412620544	False
+География	Geografía y clima	0.8555094599723816	False
+География	Hidrografía	0.8530353307723999	False
+Награды	Premios	0.9976615905761719	False
+Награды	Distinciones honoríficas	0.995089590549469	False
+Награды	Condecoraciones	0.9945080876350403	True
+Награды	Premios y nominaciones	0.9929865002632141	False
+Награды	Reconocimientos	0.9883345365524292	False
+Награды	Premios y reconocimientos	0.9874545335769653	False
+Награды	Distinciones	0.9864087104797363	False
+Награды	Honores	0.9840653538703918	False
+Награды	Galardones	0.9802560806274414	False
+Награды	Premios y honores	0.9739822149276733	False
+Экономика	Economía	0.9962336421012878	True
+Экономика	Economía y transporte	0.968619704246521	False
+Экономика	Industria	0.9262599945068359	False
+Экономика	Demografía	0.8192403316497803	False
+Экономика	Economía local	0.8153544664382935	False
+Экономика	Transporte	0.8014926314353943	False
+Экономика	Transportes	0.7819074392318726	False
+Экономика	Infraestructura	0.7807420492172241	False
+Экономика	Turismo	0.754381537437439	False
+Экономика	Geografía	0.7093438506126404	False
+Достопримечательности	Lugares de interés	0.9926481246948242	True
+Достопримечательности	Lugares y monumentos	0.9867064356803894	False
+Достопримечательности	Monumentos	0.9859236478805542	False
+Достопримечательности	Sitios de interés	0.9817195534706116	False
+Достопримечательности	Patrimonio	0.9791005849838257	False
+Достопримечательности	Turismo	0.9780174493789673	False
+Достопримечательности	Monumentos y lugares de interés	0.9725270867347717	False
+Достопримечательности	Atractivos turísticos	0.9673567414283752	False
+Достопримечательности	Puntos de interés	0.9545934200286865	False
+Достопримечательности	Cultura y lugares de interés	0.9461831450462341	False
+Карьера	Carrera	0.9932993650436401	False
+Карьера	Trayectoria	0.9811034202575684	True
+Карьера	Carrera profesional	0.9788804650306702	False
+Карьера	Carrera deportiva	0.9669805765151978	False
+Карьера	Biografía	0.9540989995002747	False
+Карьера	Trayectoria deportiva	0.943999707698822	False
+Карьера	Trayectoria como jugador	0.939628005027771	False
+Карьера	Vida y carrera	0.9328152537345886	False
+Карьера	Filmografía	0.9303016066551208	False
+Карьера	Carrera como jugador	0.9271143674850464	False
+Семья	Familia	0.9947762489318848	True
+Семья	Vida personal	0.9790987968444824	False
+Семья	Descendencia	0.9781852960586548	False
+Семья	Matrimonio y descendencia	0.9756937623023987	False
+Семья	Matrimonio e hijos	0.974361777305603	False
+Семья	Matrimonio	0.966578483581543	False
+Семья	Vida familiar	0.9565281867980957	False
+Семья	Vida privada	0.9394051432609558	False
+Семья	Hijos	0.9360535740852356	False
+Семья	Matrimonios y descendencia	0.9294936656951904	False
+Демография	Demografía	0.9890318512916565	True
+Демография	Evolución demográfica	0.987043023109436	False
+Демография	Población	0.9061861038208008	False
+Демография	Economía	0.748400866985321	False
+Демография	Geografía	0.6783209443092346	False
+Демография	Geografía física	0.4615783095359802	False
+Демография	Educación	0.3857688903808594	False
+Демография	Gobierno y administración	0.35722118616104126	False
+Демография	Municipios	0.3382638692855835	False
+Демография	Política	0.2894071936607361	False
+Память	Homenajes	0.9766789078712463	False
+Память	Memoria	0.9749764800071716	True
+Память	Eponimia	0.9742302894592285	False
+Память	Reconocimientos	0.963505208492279	False
+Память	Homenaje	0.9395924210548401	False
+Память	Legado	0.9351827502250671	False
+Память	Honores	0.9295458793640137	False
+Память	Monumentos	0.9148805141448975	False
+Память	Conmemoraciones	0.8744518756866455	False
+Память	Premios y honores	0.8301709890365601	False

@@ -1,0 +1,431 @@
+secFrom	langTo	prob	isTranslation
+Liens externes	Литература	0.9975764155387878	False
+Liens externes	Примечания	0.9967164397239685	False
+Liens externes	Ссылки	0.9955469369888306	True
+Liens externes	Источники	0.9895588159561157	False
+Liens externes	Топографические карты	0.9487740993499756	False
+Liens externes	См. также	0.9408828020095825	False
+Liens externes	Примечание	0.9026902318000793	False
+Liens externes	Ссылка	0.865317165851593	False
+Liens externes	Внешние ссылки	0.8649440407752991	False
+Liens externes	Список видов	0.8530960083007812	False
+Voir aussi	Примечания	0.9959795475006104	False
+Voir aussi	Ссылки	0.9877321720123291	False
+Voir aussi	Литература	0.9723552465438843	False
+Voir aussi	Источники	0.9716837406158447	False
+Voir aussi	См. также	0.9413735270500183	True
+Voir aussi	Демография	0.8438078761100769	False
+Voir aussi	Галерея	0.6229855418205261	False
+Voir aussi	Внешние ссылки	0.5889909267425537	False
+Voir aussi	Данные водного реестра	0.5811036825180054	False
+Voir aussi	Население	0.5576295852661133	False
+Biographie	Биография	0.99480801820755	True
+Biographie	Карьера	0.9919319748878479	False
+Biographie	Клубная карьера	0.9897705316543579	False
+Biographie	Биография и творчество	0.9797374606132507	False
+Biographie	Международная карьера	0.9774988889694214	False
+Biographie	История	0.9710407257080078	False
+Biographie	Биография и карьера	0.970332145690918	False
+Biographie	Жизнь и творчество	0.9695641398429871	False
+Biographie	Спортивная карьера	0.9615845680236816	False
+Biographie	Карьера игрока	0.9573789238929749	False
+Références	Примечания	0.9988000392913818	True
+Références	Литература	0.9968168139457703	False
+Références	Ссылки	0.9968151450157166	False
+Références	Источники	0.9928619265556335	False
+Références	Галерея	0.9843636155128479	False
+Références	География	0.9760465025901794	False
+Références	Примечание	0.949399471282959	False
+Références	Библиография	0.9469936490058899	False
+Références	Внешние ссылки	0.9259223341941833	False
+Références	Дополнительная литература	0.8648331165313721	False
+Histoire	История	0.9934131503105164	True
+Histoire	Сюжет	0.9803889393806458	False
+Histoire	Биография	0.7866244316101074	False
+Histoire	География	0.7855691313743591	False
+Histoire	Описание	0.7468761205673218	False
+Histoire	Открытие	0.7373768091201782	False
+Histoire	Экономика	0.7044650912284851	False
+Histoire	История создания	0.7020492553710938	False
+Histoire	История открытия	0.6704723238945007	False
+Histoire	Список композиций	0.6654571890830994	False
+Bibliographie	Литература	0.9974583983421326	False
+Bibliographie	Примечания	0.9945136308670044	False
+Bibliographie	Источник	0.9862807989120483	False
+Bibliographie	Библиография	0.986162543296814	True
+Bibliographie	Источники	0.9805731177330017	False
+Bibliographie	Ссылки	0.9382025599479675	False
+Bibliographie	Комментарии	0.8454008102416992	False
+Bibliographie	Книги	0.8135920763015747	False
+Bibliographie	См. также	0.7764245867729187	False
+Bibliographie	Сочинения	0.7547274231910706	False
+Géographie	География	0.9927223324775696	True
+Géographie	Географическое положение	0.98395174741745	False
+Géographie	Расположение	0.9757306575775146	False
+Géographie	География и климат	0.973412275314331	False
+Géographie	Физико-географическая характеристика	0.9576945304870605	False
+Géographie	Общие сведения	0.9421098232269287	False
+Géographie	Административно-территориальное деление	0.9129083752632141	False
+Géographie	Описание	0.9126505255699158	False
+Géographie	Гидрография	0.9016455411911011	False
+Géographie	Транспорт	0.8882672190666199	False
+Description	Описание	0.9875314831733704	True
+Description	Население	0.9637746810913086	False
+Description	Особенности рукописи	0.9083927273750305	False
+Description	Ботаническое описание	0.9049533605575562	False
+Description	Сюжет	0.9041045904159546	False
+Description	Информация об энергоблоках	0.8604256510734558	False
+Description	Внешний вид	0.8126267194747925	False
+Description	История	0.8014733791351318	False
+Description	География	0.7877760529518127	False
+Description	Систематика	0.7234456539154053	False
+Historique	История	0.9928026795387268	True
+Historique	Об альбоме	0.9738475680351257	False
+Historique	Список композиций	0.9600597023963928	False
+Historique	История создания	0.9498628973960876	False
+Historique	Публикации	0.944795548915863	False
+Historique	Открытие	0.9404143691062927	False
+Historique	История открытия	0.8950815200805664	False
+Historique	История породы	0.8399592041969299	False
+Historique	Общие сведения	0.8351582288742065	False
+Historique	Служба	0.8185689449310303	False
+Synopsis	Сюжет	0.9945175051689148	False
+Synopsis	Синопсис	0.9816308617591858	False
+Synopsis	Описание	0.9478387236595154	False
+Synopsis	Содержание	0.9201849102973938	False
+Synopsis	Описание сюжета	0.894440233707428	False
+Synopsis	Персонажи	0.8908876776695251	False
+Synopsis	Интересные факты	0.8214263319969177	False
+Synopsis	В ролях	0.8163937926292419	False
+Synopsis	Краткое содержание	0.8111851215362549	False
+Synopsis	Создание	0.8047117590904236	False
+Sources	Примечания	0.9980260133743286	False
+Sources	Источники	0.9977572560310364	True
+Sources	Литература	0.9976074695587158	False
+Sources	Ссылки	0.9967139959335327	False
+Sources	Источник	0.9575315117835999	False
+Sources	Топографические карты	0.8275516629219055	False
+Sources	Список литературы	0.7920961380004883	False
+Sources	См. также	0.775529146194458	False
+Sources	Письменность	0.7327876091003418	False
+Sources	Галерея	0.7151869535446167	False
+Démographie	Население	0.9955326318740845	False
+Démographie	Экономика	0.9521664977073669	False
+Démographie	Демография	0.9500921964645386	True
+Démographie	Административное деление	0.9252108335494995	False
+Démographie	Административно-территориальное деление	0.7260387539863586	False
+Démographie	Географическое положение	0.581699550151825	False
+Démographie	Примечания	0.5030609965324402	False
+Démographie	Религия	0.4923175275325775	False
+Démographie	География	0.49218082427978516	False
+Démographie	Галерея	0.4904156029224396	False
+Articles connexes	Примечания	0.9919148683547974	False
+Articles connexes	Ссылки	0.9820588231086731	False
+Articles connexes	См. также	0.9709355235099792	True
+Articles connexes	Литература	0.9692951440811157	False
+Articles connexes	См.также	0.9220042824745178	False
+Articles connexes	Источники	0.9190696477890015	False
+Articles connexes	Религия	0.8977253437042236	False
+Articles connexes	Смотрите также	0.8273605704307556	False
+Articles connexes	Примечание	0.6591557264328003	False
+Articles connexes	Достопримечательности	0.6558067798614502	False
+Carrière	Карьера	0.9966698288917542	True
+Carrière	Профессиональная карьера	0.9922858476638794	False
+Carrière	Спортивная карьера	0.989592432975769	False
+Carrière	Клубная карьера	0.9889249205589294	False
+Carrière	Биография	0.9879798889160156	False
+Carrière	Фильмография	0.9802858829498291	False
+Carrière	Карьера в сборной	0.9789466857910156	False
+Carrière	Игровая карьера	0.9724666476249695	False
+Carrière	Карьера игрока	0.9701147079467773	False
+Carrière	Статистика	0.9466863870620728	False
+Filmographie	Фильмография	0.9970603585243225	True
+Filmographie	Избранная фильмография	0.9960111379623413	False
+Filmographie	Частичная фильмография	0.9746876358985901	False
+Filmographie	Карьера	0.9720981121063232	False
+Filmographie	Жизнь и карьера	0.9709264039993286	False
+Filmographie	Фильмы	0.9560222625732422	False
+Filmographie	Работы	0.9319784045219421	False
+Filmographie	Творчество	0.9281171560287476	False
+Filmographie	Биография	0.9123449921607971	False
+Filmographie	Экранизации	0.8835974335670471	False
+Politique et administration	Администрация	0.995806097984314	True
+Politique et administration	Административное деление	0.9479416012763977	False
+Politique et administration	Административно-территориальное деление	0.8983661532402039	False
+Politique et administration	Экономика	0.8291786313056946	False
+Politique et administration	Политика	0.7829158306121826	True
+Politique et administration	Органы власти	0.6643843054771423	False
+Politique et administration	Государственное устройство	0.5269242525100708	False
+Politique et administration	Власть	0.43074971437454224	False
+Politique et administration	Политическое устройство	0.4018329381942749	False
+Politique et administration	Характеристика	0.39837250113487244	False
+Économie	Экономика	0.9933399558067322	True
+Économie	Промышленность	0.9537850022315979	False
+Économie	Транспорт	0.8653757572174072	False
+Économie	Инфраструктура	0.8354676961898804	False
+Économie	Экономика и промышленность	0.8058069348335266	False
+Économie	Туризм	0.7923144102096558	False
+Économie	Культура	0.7691567540168762	False
+Économie	Экономика и транспорт	0.7449017763137817	False
+Économie	Демография	0.7035931944847107	False
+Économie	Административное деление	0.680020272731781	False
+Œuvres	Работы	0.9906484484672546	True
+Œuvres	Произведения	0.9900426864624023	False
+Œuvres	Библиография	0.9873237013816833	False
+Œuvres	Сочинения	0.9868066906929016	False
+Œuvres	Избранные произведения	0.9820449352264404	False
+Œuvres	Основные произведения	0.9819991588592529	False
+Œuvres	Труды	0.9809946417808533	True
+Œuvres	Избранные труды	0.978543221950531	False
+Œuvres	Творчество	0.976874053478241	False
+Œuvres	Научные работы	0.9731970429420471	False
+Discographie	Дискография	0.9959394931793213	True
+Discographie	Избранная дискография	0.9759935736656189	False
+Discographie	Альбомы	0.9707205891609192	False
+Discographie	Сольная дискография	0.9470212459564209	False
+Discographie	Синглы	0.9337469339370728	False
+Discographie	Видеография	0.9102192521095276	False
+Discographie	Репертуар	0.8912551999092102	False
+Discographie	Фильмография	0.8833969235420227	False
+Discographie	Записи	0.8749376535415649	False
+Discographie	Исполнители	0.8081879019737244	False
+Source	Примечания	0.9966139197349548	False
+Source	Литература	0.9856051802635193	False
+Source	Ссылки	0.9794553518295288	False
+Source	Источники	0.9779101610183716	False
+Source	Библиография	0.8774781823158264	False
+Source	Источник	0.8688232898712158	True
+Source	Галерея	0.7945820093154907	False
+Source	География	0.7243571877479553	False
+Source	См. также	0.691861093044281	False
+Source	Статистика	0.6292901039123535	False
+Étymologie	Этимология	0.9917130470275879	True
+Étymologie	Происхождение названия	0.984998881816864	False
+Étymologie	Этимология названия	0.9728654026985168	False
+Étymologie	Ареал	0.9592320322990417	False
+Étymologie	Название	0.883320689201355	False
+Étymologie	Происхождение термина	0.8614287972450256	False
+Étymologie	История открытия	0.8329870700836182	False
+Étymologie	Происхождение	0.7433722019195557	False
+Étymologie	Распространение и места обитания	0.7273554801940918	False
+Étymologie	Имя	0.674566388130188	False
+Administration	Административное деление	0.9893913269042969	False
+Administration	Администрация	0.9871335029602051	True
+Administration	Административно-территориальное деление	0.9493491053581238	False
+Administration	Политика	0.9011913537979126	False
+Administration	Административное устройство	0.8798584342002869	False
+Administration	Города	0.8728604316711426	False
+Administration	География и экономика	0.8592566251754761	False
+Administration	Территориальное деление	0.8452173471450806	False
+Administration	Округа	0.7957959175109863	False
+Administration	Демография	0.6614232063293457	False
+Statistiques	Статистика выступлений	0.9960660338401794	False
+Statistiques	Статистика	0.9929047226905823	True
+Statistiques	Турнирная таблица	0.9862090349197388	False
+Statistiques	Бомбардиры	0.9793747067451477	False
+Statistiques	Клубная статистика	0.9659168124198914	False
+Statistiques	Примечания	0.9657806158065796	False
+Statistiques	Статистика в НБА	0.9594940543174744	False
+Statistiques	Положение в чемпионате после Гран-при	0.9552233219146729	False
+Statistiques	Игровая карьера	0.9530818462371826	False
+Statistiques	Лучшие бомбардиры	0.9515078067779541	False
+Publications	Публикации	0.9949761629104614	False
+Publications	Библиография	0.9932697415351868	False
+Publications	Труды	0.9913598895072937	False
+Publications	Произведения	0.9837244749069214	False
+Publications	Основные работы	0.9821011424064636	False
+Publications	Основные произведения	0.9817019701004028	False
+Publications	Издания	0.977691650390625	False
+Publications	Избранные труды	0.9749765992164612	False
+Publications	Научные труды	0.9738442897796631	False
+Publications	Избранные публикации	0.9735177755355835	False
+Galerie	Галерея	0.9969063401222229	True
+Galerie	Фотогалерея	0.9868721961975098	True
+Galerie	Фотографии	0.9576897025108337	False
+Galerie	Фото	0.9560552835464478	False
+Galerie	Достопримечательности	0.9458034634590149	False
+Galerie	Изображения	0.9381745457649231	False
+Galerie	Участники	0.91318678855896	False
+Galerie	Флот	0.9091871380805969	False
+Galerie	Галерея работ	0.9054190516471863	False
+Galerie	Примечания	0.8912724256515503	False
+Résultats	Результаты	0.9970391988754272	True
+Résultats	Медалисты	0.9928921461105347	False
+Résultats	Призёры	0.9886101484298706	False
+Résultats	Турнирная таблица	0.9778647422790527	False
+Résultats	Результаты соревнований	0.9760507941246033	False
+Résultats	Соревнование	0.9748798608779907	False
+Résultats	Результаты выборов	0.9712491631507874	False
+Résultats	Кандидаты	0.9703115224838257	False
+Résultats	Результаты матчей	0.9678313732147217	False
+Résultats	Соревнования	0.9667083621025085	False
+Caractéristiques	Характеристики	0.9909018874168396	True
+Caractéristiques	Особенности	0.9849997162818909	False
+Caractéristiques	Свойства	0.9717339277267456	False
+Caractéristiques	Тактико-технические характеристики	0.9675998687744141	False
+Caractéristiques	Возможности	0.9630038142204285	False
+Caractéristiques	Характеристика	0.9605419635772705	True
+Caractéristiques	Технические характеристики	0.9574669003486633	False
+Caractéristiques	Физические характеристики	0.9514899849891663	False
+Caractéristiques	Описание	0.9187496900558472	False
+Caractéristiques	Технические особенности	0.9126113653182983	False
+Population et société	Население	0.9406232833862305	True
+Population et société	Населённые пункты	0.8848161101341248	False
+Population et société	Демография	0.8488078117370605	False
+Population et société	Экономика	0.7062578201293945	False
+Population et société	Спорт	0.5282400846481323	False
+Population et société	Административно-территориальное деление	0.4702809453010559	False
+Population et société	Культура	0.4326167404651642	False
+Population et société	Фотогалерея	0.4037194848060608	False
+Population et société	Администрация	0.3475598692893982	False
+Population et société	Транспорт	0.3165265619754791	False
+Naissances	Родились	0.9897167086601257	True
+Naissances	Скончались	0.7493211030960083	False
+Naissances	События	0.12339650839567184	False
+Naissances	Умерли	0.08660247176885605	False
+Naissances	Примечания	0.07336678355932236	False
+Naissances	Галерея	0.05350261926651001	False
+Naissances	Народный календарь, приметы и фольклор Руси	0.049166955053806305	False
+Naissances	Население	0.04777297377586365	False
+Naissances	Города-побратимы	0.046124670654535294	False
+Naissances	Экономика	0.045624297112226486	False
+Liste des espèces	Виды	0.988997757434845	False
+Liste des espèces	Систематика	0.9849070310592651	False
+Liste des espèces	Классификация	0.9837093353271484	False
+Liste des espèces	Иллюстрации	0.9446431994438171	False
+Liste des espèces	Галерея	0.9334938526153564	False
+Liste des espèces	Содержание	0.9300116896629333	False
+Liste des espèces	Список видов	0.9189967513084412	True
+Liste des espèces	Фото	0.9032315015792847	False
+Liste des espèces	Состав рода	0.8978075385093689	False
+Liste des espèces	Хозяйственное значение	0.8343766927719116	False
+Architecture	Архитектура	0.9972372055053711	True
+Architecture	Архитектура и оформление	0.9777581095695496	False
+Architecture	Достопримечательности	0.9569833874702454	False
+Architecture	Строительство	0.9449499249458313	False
+Architecture	Интерьер	0.8616920113563538	False
+Architecture	Технические особенности	0.8414955139160156	False
+Architecture	Описание	0.8223837614059448	False
+Architecture	Галерея	0.8105494379997253	False
+Architecture	Культура	0.7655887603759766	False
+Architecture	Особенности	0.7216320037841797	False
+Production	Производство	0.9971545934677124	True
+Production	Создание	0.9835378527641296	False
+Production	Съёмки	0.9786198735237122	False
+Production	В ролях	0.9697260856628418	False
+Production	Создание фильма	0.9657589197158813	False
+Production	Участники записи	0.9608380198478699	False
+Production	Актёрский состав	0.9601731300354004	False
+Production	Работы	0.9532977342605591	False
+Production	История создания	0.9360973238945007	False
+Production	Актёры и персонажи	0.9348430037498474	False
+Culture	Культура	0.9904871582984924	True
+Culture	Ссылки	0.9678182005882263	False
+Culture	Фотогалерея	0.9374107718467712	False
+Culture	В культуре	0.9013187885284424	False
+Culture	Выращивание	0.8993675708770752	False
+Culture	В кино	0.8779513835906982	False
+Culture	Достопримечательности	0.8114903569221497	False
+Culture	В литературе	0.7920403480529785	False
+Culture	Спорт	0.7330762147903442	False
+Culture	Религия	0.6953728199005127	False
+Contexte	Предыстория	0.9955770969390869	False
+Contexte	Предпосылки	0.9896412491798401	False
+Contexte	Контекст	0.9814673066139221	True
+Contexte	Предшествующие события	0.9585956335067749	False
+Contexte	Об альбоме	0.9449184536933899	False
+Contexte	Участники	0.9447404146194458	False
+Contexte	Контекст выборов	0.9326909184455872	False
+Contexte	Предвыборная кампания	0.9172585010528564	False
+Contexte	Сюжет	0.8317926526069641	False
+Contexte	Призёры	0.8279469609260559	False
+Population	Население	0.9934961795806885	True
+Population	Демография	0.9393091201782227	False
+Population	Населённые пункты	0.8841592073440552	False
+Population	Города	0.7829491496086121	False
+Population	Внешний вид	0.7498435974121094	False
+Population	Административное деление	0.7113763093948364	False
+Population	Административно-территориальное устройство	0.6874760985374451	False
+Population	Экономика	0.6378726959228516	False
+Population	Административно-территориальное деление	0.5494353771209717	False
+Population	Климат	0.44034045934677124	False
+Photos	Галерея	0.9836097955703735	False
+Photos	Примечания	0.8730058670043945	False
+Photos	Ссылки	0.5319625735282898	False
+Photos	Литература	0.5082090497016907	False
+Photos	Погребальный комплекс	0.48766183853149414	False
+Photos	Фотографии	0.4550473093986511	True
+Photos	См. также	0.44867441058158875	False
+Photos	Уроженцы	0.41440555453300476	False
+Photos	Достопримечательности	0.32088011503219604	False
+Photos	Техника и вооружение	0.2988148629665375	False
+Seconde Guerre mondiale	Вторая мировая война	0.9701186418533325	True
+Seconde Guerre mondiale	После войны	0.9211875200271606	False
+Seconde Guerre mondiale	Во время Второй мировой войны	0.91939777135849	False
+Seconde Guerre mondiale	Командующие армией	0.9005809426307678	False
+Seconde Guerre mondiale	Командующие	0.5033175349235535	False
+Seconde Guerre mondiale	После Второй мировой войны	0.44814637303352356	False
+Seconde Guerre mondiale	Биография	0.3033464550971985	False
+Seconde Guerre mondiale	Ход событий	0.28947436809539795	False
+Seconde Guerre mondiale	Награды	0.28406643867492676	False
+Seconde Guerre mondiale	История	0.2180706262588501	False
+Matchs	Турнирная таблица	0.9761229157447815	False
+Matchs	Международные матчи	0.9747489094734192	False
+Matchs	Матчи	0.9697486758232117	True
+Matchs	Лучшие бомбардиры	0.9467171430587769	False
+Matchs	3 тур	0.9398736357688904	False
+Matchs	Результаты	0.9159104824066162	False
+Matchs	2 тур	0.9156461358070374	False
+Matchs	Бомбардиры	0.9131522178649902	False
+Matchs	1 тур	0.9067767262458801	False
+Matchs	Статистика	0.8377596735954285	False
+Carrière sportive	Спортивная карьера	0.9829410910606384	True
+Carrière sportive	Профессиональная карьера	0.9808294773101807	False
+Carrière sportive	Карьера	0.9682084918022156	False
+Carrière sportive	Клубная карьера	0.958872377872467	False
+Carrière sportive	Биография	0.8776464462280273	False
+Carrière sportive	Любительская карьера	0.810229480266571	False
+Carrière sportive	Статистика	0.7404383420944214	False
+Carrière sportive	Мировые рекорды	0.7290472984313965	False
+Carrière sportive	Соревнования	0.7102788090705872	False
+Carrière sportive	Спортивная биография	0.6962721943855286	False
+L'histoire	История	0.9714919924736023	True
+L'histoire	Сюжет	0.9559445977210999	False
+Faune et flore	Флора и фауна	0.9240238070487976	True
+Faune et flore	География	0.7401443719863892	False
+L'histoire	Персонажи	0.6293311715126038	False
+Faune et flore	Фауна	0.5781183838844299	False
+L'histoire	Основные персонажи	0.5210855007171631	False
+Faune et flore	Животный мир	0.49928486347198486	False
+L'histoire	География	0.40964800119400024	False
+Faune et flore	Экономика	0.3943781554698944	False
+L'histoire	Описание	0.36507222056388855	False
+Faune et flore	Флора	0.271810382604599	False
+Faune et flore	Описание	0.22465911507606506	False
+Faune et flore	Фотографии	0.21364235877990723	False
+Faune et flore	Рельеф	0.2124980390071869	False
+L'histoire	Переводы на русский язык	0.21099357306957245	False
+L'histoire	Современное состояние	0.1798083633184433	False
+Faune et flore	Природа	0.17636555433273315	False
+L'histoire	Примечания	0.14995302259922028	False
+L'histoire	Игровой процесс	0.12078273296356201	False
+Recherche	Научный вклад	0.9587586522102356	False
+Recherche	Исследования	0.9285287261009216	True
+Recherche	Научная деятельность	0.3380953371524811	False
+Recherche	Образование	0.3023888170719147	False
+Recherche	Достопримечательности	0.2985330820083618	False
+Recherche	Направления исследований	0.2376369684934616	False
+Recherche	Лечение	0.19092099368572235	False
+Recherche	Факультеты	0.18775255978107452	False
+Recherche	Диагностика	0.1605227291584015	False
+Recherche	Экономика	0.158186137676239	False
+Hydrographie	Гидрография	0.9911283254623413	True
+Hydrographie	Физическая география	0.9627490639686584	False
+Hydrographie	Притоки	0.9495574831962585	False
+Hydrographie	Гидрология	0.9380518198013306	False
+Hydrographie	География	0.8850652575492859	False
+Hydrographie	Рельеф	0.8226941823959351	False
+Hydrographie	Геология	0.5652229189872742	False
+Hydrographie	Природные ресурсы	0.49547430872917175	False
+Hydrographie	Климат	0.4853465259075165	False
+Hydrographie	Хозяйственная деятельность	0.46160852909088135	False

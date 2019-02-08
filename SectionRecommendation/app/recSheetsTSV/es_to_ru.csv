@@ -1,0 +1,161 @@
+secFrom	langTo	prob	isTranslation
+Referencias	Примечания	0.9989172220230103	True
+Referencias	Литература	0.9969235062599182	False
+Referencias	Источники	0.9908055663108826	False
+Referencias	Ссылки	0.9902785420417786	False
+Referencias	Примечание	0.9655799269676208	False
+Referencias	Библиография	0.9611750245094299	False
+Referencias	Внешние ссылки	0.9245346784591675	False
+Referencias	Источник	0.8962883949279785	False
+Referencias	См. также	0.8733339905738831	False
+Referencias	Интересные факты	0.8681752681732178	False
+Enlaces externos	Ссылки	0.9985387325286865	False
+Enlaces externos	Примечания	0.997816801071167	False
+Enlaces externos	Источники	0.9958447813987732	False
+Enlaces externos	Литература	0.99236661195755	False
+Enlaces externos	Внешние ссылки	0.9699565172195435	True
+Enlaces externos	Примечание	0.9567732214927673	False
+Enlaces externos	Топографические карты	0.914910614490509	False
+Enlaces externos	Статьи	0.845599353313446	False
+Enlaces externos	Интересные факты	0.7982277870178223	False
+Enlaces externos	Сноски	0.7973456978797913	False
+Véase también	См. также	0.9978470802307129	True
+Véase también	См.также	0.9818596243858337	False
+Véase también	Примечания	0.9025341272354126	False
+Véase también	Смотрите также	0.8831355571746826	False
+Véase también	Ссылки	0.8699687719345093	False
+Véase también	Источники	0.8155262470245361	False
+Véase también	Интересные факты	0.7214312553405762	False
+Véase también	Литература	0.6818940043449402	False
+Véase también	Галерея	0.5529731512069702	False
+Véase también	Смотри также	0.5140946507453918	False
+Historia	История	0.9967013001441956	True
+Historia	Биография	0.9836364388465881	False
+Historia	Сюжет	0.9828152060508728	False
+Historia	История создания	0.9780095815658569	False
+Historia	История открытия	0.9125570058822632	False
+Historia	История группы	0.8866640329360962	False
+Historia	История изучения	0.8854515552520752	False
+Historia	История компании	0.8752338290214539	False
+Historia	История возникновения	0.8509830832481384	False
+Historia	Карьера	0.8447034358978271	False
+Bibliografía	Литература	0.9963967204093933	False
+Bibliografía	Примечания	0.9958208799362183	False
+Bibliografía	Библиография	0.9937264919281006	True
+Bibliografía	Источники	0.992760181427002	False
+Bibliografía	Ссылки	0.9869579672813416	False
+Bibliografía	Комментарии	0.9394183158874512	False
+Bibliografía	Дополнительная литература	0.9236173033714294	False
+Bibliografía	См. также	0.8726721405982971	False
+Bibliografía	Публикации на русском языке	0.8571836352348328	False
+Bibliografía	Источники и литература	0.8451306819915771	False
+Demografía	Демография	0.9959267377853394	True
+Demografía	Население	0.9873284101486206	False
+Demografía	Административное деление	0.9409807324409485	False
+Demografía	Учреждение и состав	0.823959469795227	False
+Demografía	Административно-территориальное деление	0.8187243342399597	False
+Demografía	Административное устройство	0.7885187864303589	False
+Demografía	Экономика	0.7307461500167847	False
+Demografía	История	0.7287484407424927	False
+Demografía	География	0.6604312658309937	False
+Demografía	Муниципалитеты	0.6164522767066956	False
+Biografía	Биография	0.9974232912063599	True
+Biografía	Биография и творчество	0.9920338988304138	False
+Biografía	Жизнь и творчество	0.9897928237915039	False
+Biografía	Карьера	0.9868997931480408	False
+Biografía	Жизнь и карьера	0.9863551259040833	False
+Biografía	История	0.9822496175765991	False
+Biografía	Жизнеописание	0.9783635139465332	False
+Biografía	Биография и карьера	0.9699362516403198	False
+Biografía	Краткая биография	0.9559456706047058	False
+Biografía	Клубная карьера	0.9469466209411621	False
+Geografía	География	0.996496856212616	True
+Geografía	Географическое положение	0.9928308129310608	False
+Geografía	Общие сведения	0.9862127304077148	False
+Geografía	Физико-географическая характеристика	0.9679043292999268	False
+Geografía	География и климат	0.9653590321540833	False
+Geografía	Описание	0.9438100457191467	False
+Geografía	Гидрология	0.9391618967056274	False
+Geografía	Расположение	0.9305140376091003	False
+Geografía	Населённые пункты	0.9207311868667603	False
+Geografía	Административное деление	0.9201239347457886	False
+Descripción	Описание	0.9953275918960571	True
+Descripción	Ботаническое описание	0.9890159964561462	False
+Descripción	Биологическое описание	0.9843931794166565	False
+Descripción	Общие сведения	0.9515421390533447	False
+Descripción	Общее описание	0.9433871507644653	False
+Descripción	Морфология	0.9389159083366394	False
+Descripción	Конструкция	0.924993634223938	False
+Descripción	Внешний вид	0.9117898344993591	False
+Descripción	Общая характеристика	0.9102383255958557	False
+Descripción	Описание конструкции	0.909525990486145	False
+Notas	Примечания	0.9981503486633301	True
+Notas	Литература	0.9871550798416138	False
+Notas	Источники	0.9592308402061462	False
+Notas	Ссылки	0.9590722322463989	False
+Notas	Библиография	0.8249214291572571	False
+Notas	Факты	0.6643463969230652	False
+Notas	См. также	0.5856684446334839	False
+Notas	Источник	0.523685872554779	False
+Notas	Интересные факты	0.5173577666282654	False
+Notas	Сочинения	0.48200085759162903	False
+Palmarés	Титулы и достижения	0.9931476712226868	False
+Palmarés	Достижения	0.9911847710609436	False
+Palmarés	Статистика выступлений	0.9843772649765015	False
+Palmarés	Сезоны по дивизионам	0.9791935086250305	False
+Palmarés	Титулы	0.9709528088569641	False
+Palmarés	Статистика	0.9649282693862915	False
+Palmarés	Награды	0.9644452929496765	False
+Palmarés	Награды и достижения	0.9438264966011047	False
+Palmarés	Карьера игрока	0.9299602508544922	False
+Palmarés	Победы	0.9245143532752991	False
+Clubes	Статистика выступлений	0.9668256044387817	False
+Clubes	Клубная статистика	0.9623140692710876	False
+Clubes	Тренерская карьера	0.9580681324005127	False
+Clubes	Карьера игрока	0.9353577494621277	False
+Clubes	Статистика	0.9258378148078918	False
+Clubes	Клубная карьера	0.9225934147834778	False
+Clubes	Карьера	0.9160469174385071	False
+Clubes	Футбольная карьера	0.8947991728782654	False
+Clubes	Карьера тренера	0.888502299785614	False
+Clubes	Результаты матчей	0.8868322968482971	False
+Taxonomía	Систематика	0.9830507636070251	False
+Taxonomía	Классификация	0.9804626703262329	False
+Taxonomía	Таксономия	0.9788034558296204	True
+Taxonomía	Подвиды	0.9256090521812439	False
+Taxonomía	Название	0.89886075258255	False
+Taxonomía	Таксономия и систематика	0.8878109455108643	False
+Taxonomía	Распространение и подвиды	0.8671733140945435	False
+Taxonomía	Ботаническое описание	0.7934234738349915	False
+Taxonomía	История изучения	0.7775375843048096	False
+Taxonomía	Этимология названия	0.7741127610206604	False
+Discografía	Дискография	0.9978591799736023	True
+Discografía	Синглы	0.9841063618659973	False
+Discografía	Избранная дискография	0.9760473966598511	False
+Discografía	Альбомы	0.9730696678161621	False
+Discografía	Сольная дискография	0.9706539511680603	False
+Discografía	Репертуар	0.9680637121200562	False
+Discografía	Музыкальная карьера	0.9385630488395691	False
+Discografía	Творчество	0.8956661820411682	False
+Discografía	Биография	0.8823136687278748	False
+Discografía	Фильмография	0.87424635887146	False
+Filmografía	Фильмография	0.9981695413589478	True
+Filmografía	Избранная фильмография	0.9962671399116516	False
+Filmografía	Фильмы	0.9824656248092651	False
+Filmografía	Частичная фильмография	0.982229471206665	False
+Filmografía	Творчество	0.9805448055267334	False
+Filmografía	Карьера	0.9790943264961243	False
+Filmografía	Роли	0.9738712906837463	False
+Filmografía	Жизнь и карьера	0.9613884091377258	False
+Filmografía	Карьера в кино	0.9559270739555359	False
+Filmografía	Биография и карьера	0.950810432434082	False
+Carrera	Карьера	0.9944868683815002	True
+Carrera	Клубная карьера	0.9939369559288025	False
+Carrera	Жизнь и карьера	0.9933379888534546	False
+Carrera	Биография	0.9912988543510437	False
+Carrera	Спортивная карьера	0.9882490634918213	False
+Carrera	Профессиональная карьера	0.9866531491279602	False
+Carrera	Карьера игрока	0.9822865128517151	False
+Carrera	Биография и карьера	0.9816608428955078	False
+Carrera	Музыкальная карьера	0.9777595400810242	False
+Carrera	Избранная фильмография	0.9776763916015625	False

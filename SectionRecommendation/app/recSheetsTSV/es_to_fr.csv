@@ -1,0 +1,3345 @@
+secFrom	langTo	prob	isTranslation
+Referencias	Notes et références	0.9982843995094299	False
+Referencias	Références	0.9971754550933838	True
+Referencias	Liens externes	0.991814136505127	False
+Referencias	Voir aussi	0.9894424676895142	False
+Referencias	Sources	0.9886115193367004	False
+Referencias	Bibliographie	0.9870842099189758	False
+Referencias	Notes	0.9763328433036804	False
+Referencias	Référence	0.9723349809646606	False
+Referencias	Articles connexes	0.9687721729278564	False
+Referencias	Sources et références	0.9578148126602173	False
+Enlaces externos	Liens externes	0.998325765132904	True
+Enlaces externos	Notes et références	0.9972151517868042	False
+Enlaces externos	Références	0.9966387748718262	False
+Enlaces externos	Lien externe	0.9957067370414734	False
+Enlaces externos	Voir aussi	0.9940727353096008	False
+Enlaces externos	Sources	0.9930071830749512	False
+Enlaces externos	Notes	0.9913169145584106	False
+Enlaces externos	Source	0.9833623766899109	False
+Enlaces externos	Bibliographie	0.9818623661994934	False
+Enlaces externos	Articles connexes	0.9791958332061768	False
+Véase también	Voir aussi	0.9857531189918518	True
+Véase también	Articles connexes	0.9758027195930481	False
+Véase también	Lien interne	0.9551809430122375	False
+Véase también	Article connexe	0.9405706524848938	False
+Véase también	Liens internes	0.9057965278625488	False
+Véase también	Voir également	0.8588753342628479	False
+Véase también	Pour approfondir	0.7759490013122559	False
+Véase también	Annexes	0.6759747266769409	False
+Véase también	Notes et références	0.6306448578834534	False
+Véase también	Lien externe	0.6165022850036621	False
+Historia	Histoire	0.9976813793182373	True
+Historia	Historique	0.9949111342430115	False
+Historia	Biographie	0.9839231371879578	False
+Historia	Carrière	0.9461489915847778	False
+Historia	Origines	0.9301020503044128	False
+Historia	Géographie	0.9035564064979553	False
+Historia	L'histoire	0.8903777003288269	False
+Historia	Genèse	0.8686703443527222	False
+Historia	Synopsis	0.8674664497375488	False
+Historia	Chronologie	0.8290760517120361	False
+Bibliografía	Bibliographie	0.9984622001647949	True
+Bibliografía	Références	0.9948052763938904	False
+Bibliografía	Notes et références	0.9937053322792053	False
+Bibliografía	Sources	0.9883890151977539	False
+Bibliografía	Publications	0.9780775308609009	False
+Bibliografía	Liens externes	0.9720782041549683	False
+Bibliografía	Notes	0.9092746376991272	False
+Bibliografía	Sources et références	0.8955700993537903	False
+Bibliografía	Sources et bibliographie	0.893347978591919	False
+Bibliografía	Articles connexes	0.8890456557273865	False
+Demografía	Démographie	0.9913163185119629	True
+Demografía	Population	0.9789496660232544	False
+Demografía	Histoire	0.9586815237998962	False
+Demografía	Géographie	0.8539884090423584	False
+Demografía	Population et société	0.6867659687995911	False
+Demografía	Subdivisions administratives	0.6246523261070251	False
+Demografía	Toponymie	0.6161501407623291	False
+Demografía	Urbanisme	0.5844960808753967	False
+Demografía	Économie	0.5192461609840393	False
+Demografía	Localités	0.5056628584861755	False
+Biografía	Biographie	0.9982272982597351	True
+Biografía	Carrière	0.9850480556488037	False
+Biografía	Filmographie	0.9449528455734253	False
+Biografía	Sa vie	0.9349217414855957	False
+Biografía	Éléments biographiques	0.9307657480239868	False
+Biografía	Histoire	0.9222884178161621	False
+Biografía	Biographie et carrière	0.9147332310676575	False
+Biografía	Biographie fictive	0.9114583730697632	False
+Biografía	Biographie du personnage	0.8907036781311035	False
+Biografía	Présentation	0.8816027641296387	False
+Geografía	Géographie	0.9942992925643921	True
+Geografía	Histoire	0.9664087891578674	False
+Geografía	Situation	0.8965816497802734	False
+Geografía	Situation géographique	0.8665470480918884	False
+Geografía	Localisation	0.8576991558074951	False
+Geografía	Comtés voisins	0.8449176549911499	False
+Geografía	Démographie	0.8360654711723328	False
+Geografía	Géolocalisation	0.8212677836418152	False
+Geografía	Comtés adjacents	0.8140882849693298	False
+Geografía	Toponyme	0.7744259834289551	False
+Distribución geográfica	Répartition géographique	0.9889782071113586	True
+Distribución geográfica	Habitat et répartition	0.986042857170105	False
+Distribución geográfica	Répartition et habitat	0.9834286570549011	False
+Distribución geográfica	Distribution et habitat	0.9807078242301941	False
+Distribución geográfica	Distribution	0.9744392037391663	False
+Distribución geográfica	Répartition	0.9695423245429993	False
+Distribución geográfica	Distribution géographique	0.9421637654304504	False
+Distribución geográfica	Habitat	0.9357324838638306	False
+Distribución geográfica	Description de l'espèce	0.8226423859596252	False
+Distribución geográfica	Étymologie	0.7914052605628967	False
+Descripción	Description	0.9969559907913208	True
+Descripción	Morphologie	0.9839391708374023	False
+Descripción	Géographie	0.9782006740570068	False
+Descripción	Histoire	0.959850013256073	False
+Descripción	Présentation	0.9132279753684998	False
+Descripción	Historique	0.9089379906654358	False
+Descripción	Description morphologique	0.901794970035553	False
+Descripción	Description générale	0.8920864462852478	False
+Descripción	Contexte	0.880540132522583	False
+Descripción	Classification	0.8548205494880676	False
+Notas	Notes et références	0.9981626868247986	False
+Notas	Notes	0.995433509349823	True
+Notas	Références	0.9943780303001404	False
+Notas	Bibliographie	0.9753422141075134	False
+Notas	Sources	0.9645088315010071	False
+Notas	Sources et références	0.9366730451583862	False
+Notas	Liens externes	0.8645816445350647	False
+Notas	Voir aussi	0.8191730976104736	False
+Notas	Source	0.7809215784072876	False
+Notas	Annexes	0.7778811454772949	False
+Palmarés	Palmarès	0.9953730702400208	True
+Palmarés	Palmarès sur route	0.9891933798789978	False
+Palmarés	Résultats sur les grands tours	0.9729890823364258	False
+Palmarés	Palmarès sur piste	0.9692077040672302	False
+Palmarés	Palmarès et résultats	0.9502016305923462	False
+Palmarés	Palmarès et classements mondiaux	0.9494358897209167	False
+Palmarés	Bilan par club	0.9335932731628418	False
+Palmarés	Palmarès de joueur	0.9221767783164978	False
+Palmarés	Biographie	0.8952329754829407	False
+Palmarés	Carrière de joueur	0.8805536031723022	False
+Clubes	Clubs	0.9955215454101562	True
+Clubes	Club	0.9819726943969727	False
+Clubes	Clubs successifs	0.9695830941200256	False
+Clubes	Carrière de joueur	0.9673187732696533	False
+Clubes	Carrière	0.9486325979232788	False
+Clubes	Carrière en club	0.9464039206504822	False
+Clubes	Palmarès	0.9266284704208374	False
+Clubes	Biographie	0.9029864072799683	False
+Clubes	Bilan de la saison	0.8855745196342468	False
+Clubes	Statistiques	0.8849433660507202	False
+Trayectoria	Biographie	0.9940306544303894	False
+Trayectoria	Carrière	0.9923714399337769	True
+Trayectoria	Carrière en club	0.9628127217292786	False
+Trayectoria	Carrière de joueur	0.9593921899795532	False
+Trayectoria	Clubs	0.9585205912590027	False
+Trayectoria	Carrière professionnelle	0.9476221203804016	False
+Trayectoria	Parcours	0.9321344494819641	True
+Trayectoria	Palmarès	0.9076955318450928	False
+Trayectoria	Carrière sportive	0.8764532208442688	False
+Trayectoria	Filmographie	0.869803249835968	False
+Taxonomía	Taxinomie	0.9944230914115906	False
+Taxonomía	Taxonomie	0.9918334484100342	True
+Taxonomía	Systématique	0.9897087216377258	False
+Taxonomía	Liste des genres	0.987079381942749	False
+Taxonomía	Liste des espèces	0.9866679906845093	False
+Taxonomía	Classification	0.9775406718254089	False
+Taxonomía	Espèces	0.9123812913894653	False
+Taxonomía	Liste des familles	0.9001709818840027	False
+Taxonomía	Liste des sous-espèces	0.8763724565505981	False
+Taxonomía	Nomenclature et systématique	0.8210525512695312	False
+Discografía	Discographie	0.9982730150222778	True
+Discografía	Discographie sélective	0.9909492135047913	False
+Discografía	Albums	0.9838347434997559	False
+Discografía	Singles	0.9789929986000061	False
+Discografía	Discographie partielle	0.9707536101341248	False
+Discografía	Discographie solo	0.9507593512535095	False
+Discografía	Musique	0.9374353885650635	False
+Discografía	Discographie (albums)	0.9340999722480774	False
+Discografía	Biographie	0.9209402203559875	False
+Discografía	Vidéographie	0.9165080189704895	False
+Filmografía	Filmographie	0.9967526793479919	True
+Filmografía	Filmographie sélective	0.9860420823097229	False
+Filmografía	Filmographie partielle	0.980932354927063	False
+Filmografía	Télévision	0.9791237115859985	False
+Filmografía	Carrière	0.9781910181045532	False
+Filmografía	Biographie	0.9685221910476685	False
+Filmografía	Rôles	0.9507218599319458	False
+Filmografía	Discographie	0.9463793635368347	False
+Filmografía	Doublage	0.9414812326431274	False
+Filmografía	Voix françaises	0.9356639385223389	False
+Lista de canciones	Liste des titres	0.9970171451568604	True
+Lista de canciones	Liste des pistes	0.9969606995582581	False
+Lista de canciones	Liste des chansons	0.9967901110649109	True
+Lista de canciones	Titres	0.9948480129241943	False
+Lista de canciones	Liste des morceaux	0.9870234727859497	False
+Lista de canciones	Pistes	0.9824851155281067	False
+Lista de canciones	Singles	0.979010820388794	False
+Lista de canciones	Titres de l’album	0.9679403901100159	False
+Lista de canciones	Composition du groupe	0.9652449488639832	False
+Lista de canciones	Formats et liste des pistes	0.9639795422554016	False
+Carrera	Carrière	0.9961407780647278	True
+Carrera	Biographie	0.980755627155304	False
+Carrera	Carrière professionnelle	0.92585688829422	False
+Carrera	Carrière de joueur	0.9206714034080505	False
+Carrera	Carrière musicale	0.9141495227813721	False
+Carrera	Filmographie	0.8847132921218872	False
+Carrera	Qualifications	0.8631213903427124	False
+Carrera	Carrière en club	0.8625504970550537	False
+Carrera	Carrière NBA	0.8570204377174377	False
+Carrera	Palmarès	0.8528286814689636	False
+Argumento	Argument	0.9937113523483276	True
+Argumento	Synopsis	0.9930946826934814	False
+Argumento	Personnages	0.9784562587738037	False
+Argumento	Résumé	0.9768732786178589	False
+Argumento	Trame	0.9763953685760498	False
+Argumento	Scénario	0.9683578610420227	False
+Argumento	Intrigue	0.9486428499221802	False
+Argumento	Histoire	0.9452695846557617	False
+Argumento	Contexte	0.9257481098175049	False
+Argumento	Système de jeu	0.9120832085609436	False
+Características	Caractéristiques	0.995919942855835	True
+Características	Fonctionnalités	0.988027811050415	False
+Características	Description	0.9858317375183105	False
+Características	Système de jeu	0.9601790308952332	False
+Características	Morphologie	0.9486369490623474	False
+Características	Caractéristiques techniques	0.9466394782066345	False
+Características	Caractéristiques générales	0.9369240403175354	False
+Características	Caractéristiques physiques	0.8906404972076416	False
+Características	Présentation	0.8896732330322266	False
+Características	Fonctionnement	0.8633047342300415	False
+Morfología	Morphologie	0.997759222984314	True
+Morfología	Description	0.9805035591125488	False
+Morfología	Géographie	0.9772632718086243	False
+Morfología	Caractéristiques	0.9747294187545776	False
+Morfología	Description et caractéristiques	0.9742374420166016	False
+Morfología	Répartition	0.8230181932449341	False
+Morfología	Systématique	0.777088463306427	False
+Morfología	Taxonomie	0.7613682746887207	False
+Morfología	Classification	0.7467827796936035	False
+Morfología	Biologie	0.7460300326347351	False
+Obras	Œuvre	0.9966661334037781	False
+Obras	Œuvres	0.9964073300361633	True
+Obras	Ouvrages	0.9959864020347595	False
+Obras	Publications	0.9933449029922485	False
+Obras	Son œuvre	0.9877638220787048	False
+Obras	Œuvres principales	0.9863372445106506	False
+Obras	Travaux	0.982657253742218	True
+Obras	Œuvres dans les collections publiques	0.9811257123947144	False
+Obras	Écrits	0.971824586391449	False
+Obras	Principales œuvres	0.9692641496658325	False
+Hábitat	Habitat	0.9972236156463623	True
+Hábitat	Habitat et répartition	0.9900977611541748	False
+Hábitat	Répartition	0.9894802570343018	False
+Hábitat	Répartition et habitat	0.9873572587966919	False
+Hábitat	Distribution et habitat	0.9847238063812256	False
+Hábitat	Écologie	0.9758872985839844	False
+Hábitat	Aire de répartition	0.9758167862892151	False
+Hábitat	Biologie	0.9675934910774231	False
+Hábitat	Répartition géographique	0.9611471891403198	False
+Hábitat	Alimentation	0.9511327147483826	False
+Reparto	Distribution	0.9948626160621643	True
+Reparto	Production	0.9604543447494507	False
+Reparto	Acteurs et personnages	0.9445257186889648	False
+Reparto	Personnages	0.9197830557823181	False
+Reparto	Synopsis	0.9176087975502014	False
+Reparto	Résumé	0.9040350317955017	False
+Reparto	Autour du film	0.9013895392417908	False
+Reparto	Scénario	0.8957275152206421	False
+Reparto	Casting	0.853939414024353	False
+Reparto	Acteurs	0.8083550930023193	False
+Notas y referencias	Notes et références	0.9990246295928955	True
+Notas y referencias	Références	0.9972707629203796	False
+Notas y referencias	Notes	0.995570719242096	False
+Notas y referencias	Bibliographie	0.9894949793815613	False
+Notas y referencias	Sources	0.986884593963623	False
+Notas y referencias	Articles connexes	0.9824255704879761	False
+Notas y referencias	Liens externes	0.9773719906806946	False
+Notas y referencias	Voir aussi	0.9552181959152222	False
+Notas y referencias	Annexes	0.9527543783187866	False
+Notas y referencias	Lien externe	0.8781270384788513	False
+Premios	Prix	0.9956895709037781	True
+Premios	Récompenses	0.99284428358078	False
+Premios	Distinctions	0.9922858476638794	False
+Premios	Prix et récompenses	0.991874635219574	True
+Premios	Récompenses et nominations	0.9890519976615906	False
+Premios	Récompenses et distinctions	0.988146960735321	False
+Premios	Prix et distinctions	0.9873600602149963	False
+Premios	Récompenses individuelles	0.9506282806396484	False
+Premios	Nominations et récompenses	0.9372615218162537	False
+Premios	Nominations	0.933297336101532	False
+Sinopsis	Synopsis	0.9972988963127136	True
+Sinopsis	Résumé	0.9938082098960876	False
+Sinopsis	Personnages	0.9575353264808655	False
+Sinopsis	Trame	0.9509677290916443	False
+Sinopsis	Histoire	0.945244550704956	False
+Sinopsis	Intrigue	0.9329790472984314	False
+Sinopsis	Argument	0.9300448298454285	False
+Sinopsis	Scénario	0.91163569688797	False
+Sinopsis	Contenu	0.8844335079193115	False
+Sinopsis	Résumé détaillé	0.8583950400352478	False
+Palmarés internacional	Palmarès	0.9868245720863342	True
+Palmarés internacional	Palmarès en VTT	0.9809149503707886	False
+Palmarés internacional	Carrière	0.9779862761497498	False
+Palmarés internacional	Palmarès en BMX	0.9748322367668152	False
+Palmarés internacional	Palmarès en biathlon	0.9318262934684753	False
+Palmarés internacional	Carrière sportive	0.888876736164093	False
+Palmarés internacional	Biographie	0.8240737318992615	False
+Palmarés internacional	Résultats	0.7829607725143433	False
+Palmarés internacional	Records	0.7608460783958435	False
+Palmarés internacional	Palmarès en ski de fond	0.4488222301006317	False
+Especies	Espèces	0.9956894516944885	True
+Especies	Liste des espèces	0.9925745725631714	False
+Especies	Classification	0.9739795327186584	False
+Especies	Taxinomie	0.972337007522583	False
+Especies	Liste des espèces et sous-espèces	0.9714204668998718	False
+Especies	Liste des genres	0.9669451713562012	False
+Especies	Liste d'espèces	0.9646299481391907	False
+Especies	Taxonomie	0.9457035660743713	False
+Especies	Principales espèces	0.9369813799858093	False
+Especies	Espèces rencontrées en Europe	0.9259954690933228	False
+Obra	Œuvres	0.9955525994300842	True
+Obra	Œuvre	0.9938337802886963	True
+Obra	Publications	0.9876667261123657	False
+Obra	Ouvrages	0.982271671295166	False
+Obra	Travaux	0.9805527329444885	False
+Obra	Son œuvre	0.977393388748169	False
+Obra	Œuvres principales	0.9689548015594482	False
+Obra	Ses œuvres	0.9378728866577148	False
+Obra	Œuvre littéraire	0.9365763664245605	False
+Obra	Biographie	0.9248021245002747	False
+Economía	Économie	0.9971818923950195	True
+Economía	Tourisme	0.9171549081802368	False
+Economía	Industrie	0.8984637260437012	False
+Economía	Culture	0.8753411769866943	False
+Economía	Economie	0.8550178408622742	False
+Economía	Géographie	0.836693286895752	False
+Economía	Démographie	0.8038804531097412	False
+Economía	Activités économiques	0.785933792591095	False
+Economía	Politique	0.7297495603561401	False
+Economía	Éducation	0.7206330299377441	False
+Selección nacional	Équipe nationale	0.979514479637146	False
+Selección nacional	Sélection nationale	0.9788008332252502	False
+Selección nacional	Carrière internationale	0.9751371145248413	False
+Selección nacional	En équipe nationale	0.9643857479095459	False
+Selección nacional	Sélection	0.9531521201133728	False
+Selección nacional	Palmarès	0.9362754821777344	False
+Selección nacional	Statistiques en équipe nationale	0.9320368766784668	True
+Selección nacional	International	0.9161601662635803	False
+Selección nacional	En sélection nationale	0.9148683547973633	False
+Selección nacional	Sélections en équipe nationale	0.9128729701042175	False
+Resultados	Résultats	0.9955475330352783	True
+Resultados	Palmarès	0.9857302904129028	False
+Resultados	Podiums	0.9796756505966187	False
+Resultados	Classement	0.9778406023979187	False
+Resultados	Candidats	0.9777377843856812	False
+Resultados	Compétition	0.9735574126243591	False
+Resultados	Résultats en championnat du monde de Formule 1	0.9684440493583679	False
+Resultados	Statistiques	0.9651504755020142	False
+Resultados	Classements	0.9621269702911377	False
+Resultados	Résultat	0.9612334966659546	False
+Distribución y hábitat	Répartition et habitat	0.9973652958869934	False
+Distribución y hábitat	Distribution et habitat	0.9961589574813843	True
+Distribución y hábitat	Habitat	0.9942622184753418	False
+Distribución y hábitat	Distribution	0.9932413101196289	False
+Distribución y hábitat	Répartition	0.9927156567573547	False
+Distribución y hábitat	Répartition géographique	0.9859977960586548	False
+Distribución y hábitat	Aire de répartition	0.982586145401001	False
+Distribución y hábitat	Habitat et répartition	0.9783959984779358	False
+Distribución y hábitat	Habitats	0.9781050086021423	False
+Distribución y hábitat	Habitats et répartition	0.9695631265640259	False
+Clasificación	Classification	0.9927762746810913	True
+Clasificación	Classement	0.9859749674797058	False
+Clasificación	Compétition	0.9840535521507263	False
+Clasificación	Qualification	0.9687756299972534	False
+Clasificación	Liste des genres	0.965402364730835	False
+Clasificación	Systématique	0.962658166885376	False
+Clasificación	Qualifications	0.9607762694358826	False
+Clasificación	Statistiques	0.9559248685836792	False
+Clasificación	Résultats	0.9457786083221436	False
+Clasificación	Classement final	0.9447059631347656	False
+Antecedentes	Contexte	0.9961313009262085	False
+Antecedentes	Antécédents	0.9889410138130188	True
+Antecedentes	Genèse	0.9850132465362549	False
+Antecedentes	Contexte historique	0.9826819896697998	False
+Antecedentes	Historique	0.9824371933937073	False
+Antecedentes	Origines	0.9630725979804993	False
+Antecedentes	Le contexte	0.9451208114624023	False
+Antecedentes	Prélude	0.9442228674888611	False
+Antecedentes	Histoire	0.9369874596595764	False
+Antecedentes	Les origines	0.8925631046295166	False
+Carrera deportiva	Carrière	0.9902655482292175	False
+Carrera deportiva	Carrière sportive	0.9886507987976074	True
+Carrera deportiva	Biographie	0.9510568976402283	False
+Carrera deportiva	Palmarès	0.9298110008239746	False
+Carrera deportiva	Clubs	0.816223680973053	False
+Carrera deportiva	Résultats en championnat du monde de Formule 1	0.7143415212631226	False
+Carrera deportiva	Carrière en club	0.5279829502105713	False
+Carrera deportiva	Résultats aux 24 Heures du Mans	0.4357225000858307	False
+Carrera deportiva	Jeux olympiques	0.4312100112438202	False
+Carrera deportiva	Statistiques	0.37481939792633057	False
+Fuentes	Sources	0.9985588192939758	True
+Fuentes	Références	0.9967484474182129	False
+Fuentes	Bibliographie	0.9955998659133911	False
+Fuentes	Notes et références	0.9955472946166992	False
+Fuentes	Source	0.991496741771698	False
+Fuentes	Liens externes	0.9864771366119385	False
+Fuentes	Notes	0.9464417695999146	False
+Fuentes	Voir aussi	0.9222619533538818	False
+Fuentes	Référence	0.8995506167411804	False
+Fuentes	Lien externe	0.8500332236289978	False
+Recepción	Réception	0.9948164820671082	True
+Recepción	Réception critique	0.9895271062850952	False
+Recepción	Accueil	0.9893139600753784	False
+Recepción	Accueil critique	0.9866316914558411	False
+Recepción	Critiques	0.9848479628562927	False
+Recepción	Critique	0.9671202898025513	False
+Recepción	Sortie	0.9028763771057129	False
+Recepción	Performance dans les hit-parades	0.8901657462120056	False
+Recepción	Performance commerciale	0.8127319812774658	False
+Recepción	Sortie et accueil	0.7659024596214294	False
+Galería	Galerie	0.9982900023460388	True
+Galería	Galerie d'images	0.9756762981414795	False
+Galería	Galerie de photos	0.9391413927078247	False
+Galería	Photos	0.8705458045005798	False
+Galería	Expositions	0.8681064248085022	False
+Galería	Photographies	0.8618589639663696	False
+Galería	Galerie photos	0.8515660166740417	False
+Galería	Collections	0.833329439163208	False
+Galería	Galerie de photographies	0.8076602220535278	False
+Galería	Œuvres	0.8006005883216858	False
+Distribución	Répartition	0.993723452091217	False
+Distribución	Distribution et habitat	0.993569016456604	False
+Distribución	Distribution	0.9934751391410828	True
+Distribución	Répartition et habitat	0.9931528568267822	False
+Distribución	Aire de répartition	0.9910649657249451	False
+Distribución	Répartition géographique	0.9873073101043701	False
+Distribución	Habitat	0.982231080532074	False
+Distribución	Habitat et répartition	0.9818482398986816	False
+Distribución	Distribution géographique	0.9763597846031189	False
+Distribución	Écologie et distribution	0.9645423889160156	False
+Producción	Production	0.997170627117157	True
+Producción	Développement	0.9852884411811829	False
+Producción	Distribution	0.9848388433456421	False
+Producción	Fabrication	0.9254739880561829	False
+Producción	Tournage	0.9101052284240723	False
+Producción	Fiche technique	0.8546698689460754	False
+Producción	Autour du film	0.8384729027748108	False
+Producción	Réalisation	0.8339597582817078	False
+Producción	Musique	0.8310983180999756	False
+Producción	Analyse	0.830730140209198	False
+Personajes	Personnages	0.9982276558876038	True
+Personajes	Les personnages	0.9926306009292603	False
+Personajes	Personnages principaux	0.9912433624267578	False
+Personajes	Rôles	0.9781495928764343	False
+Personajes	Univers	0.9619405269622803	False
+Personajes	Système de jeu	0.9619388580322266	False
+Personajes	Distribution	0.9506780505180359	False
+Personajes	Scénario	0.9463782906532288	False
+Personajes	Résumé	0.9302851557731628	False
+Personajes	Intrigue	0.9140447378158569	False
+Estadísticas	Statistiques	0.9939188957214355	True
+Estadísticas	Palmarès	0.9693198204040527	False
+Estadísticas	Résultats	0.9598293304443359	False
+Estadísticas	Classements	0.9569041132926941	False
+Estadísticas	Biographie	0.9490367770195007	False
+Estadísticas	Bilan de la saison	0.935488760471344	False
+Estadísticas	Bilan	0.9347500801086426	False
+Estadísticas	Statistiques détaillées	0.9340760111808777	False
+Estadísticas	Statistiques et récompenses	0.9123714566230774	False
+Estadísticas	Classement	0.9031665325164795	False
+Premios y nominaciones	Récompenses et nominations	0.997209370136261	True
+Premios y nominaciones	Récompenses et nominations	0.997209370136261	True
+Premios y nominaciones	Prix et nominations	0.9952520132064819	False
+Premios y nominaciones	Nominations et récompenses	0.9923225045204163	False
+Premios y nominaciones	Distinctions	0.991578221321106	False
+Premios y nominaciones	Récompenses	0.9888234734535217	False
+Premios y nominaciones	Récompenses et distinctions	0.9754697680473328	False
+Premios y nominaciones	Nominations	0.9717022180557251	False
+Premios y nominaciones	Prix	0.9706554412841797	False
+Premios y nominaciones	Prix et distinctions	0.9466356635093689	False
+Vida personal	Vie personnelle	0.9955618381500244	True
+Vida personal	Vie privée	0.9938541650772095	False
+Vida personal	Vie Privée	0.9537501335144043	False
+Vida personal	Biographie	0.8682863116264343	False
+Vida personal	Caractéristiques au catch	0.7662596106529236	False
+Vida personal	Autres activités	0.6927973628044128	False
+Vida personal	Style de jeu	0.6872566938400269	False
+Vida personal	Famille	0.6153573989868164	False
+Vida personal	Anecdotes	0.5914891362190247	False
+Vida personal	Carrière musicale	0.5892331004142761	False
+Toponimia	Toponymie	0.9976075887680054	True
+Toponimia	Étymologie	0.9851652383804321	False
+Toponimia	Toponyme	0.9689081311225891	False
+Toponimia	Toponymes	0.9667472243309021	False
+Toponimia	Origine du nom	0.9247502088546753	False
+Toponimia	Dénomination	0.8777641654014587	False
+Toponimia	Géographie	0.8025573492050171	False
+Toponimia	Nom	0.8009575605392456	False
+Toponimia	Localités	0.7199444770812988	False
+Toponimia	Histoire	0.7019959092140198	False
+Evolución demográfica	Évolution démographique	0.9540219306945801	True
+Evolución demográfica	Démographie	0.9415967464447021	False
+Evolución demográfica	Liens externes	0.8662898540496826	False
+Evolución demográfica	Notes et références	0.8437299728393555	False
+Evolución demográfica	Voir aussi	0.5265478491783142	False
+Evolución demográfica	Bibliographie	0.4299525022506714	False
+Evolución demográfica	Articles connexes	0.32070785760879517	False
+Evolución demográfica	Lien externe	0.29028379917144775	False
+Evolución demográfica	Sources	0.28359487652778625	False
+Evolución demográfica	Population	0.2749873101711273	False
+Personal	Personnel	0.9979448914527893	True
+Personal	Musiciens	0.9927058815956116	False
+Personal	Crédits	0.9889532327651978	False
+Personal	Fiche technique	0.975246012210846	False
+Personal	Membres du groupe	0.9638380408287048	False
+Personal	Formation	0.9598537087440491	False
+Personal	Composition du groupe	0.9552901387214661	False
+Personal	Titres	0.9518820643424988	False
+Personal	Vie privée	0.9417117238044739	False
+Personal	Enregistrement	0.9255014061927795	False
+Composición	Composition	0.9972060322761536	True
+Composición	Histoire	0.977635383605957	False
+Composición	Structure	0.9647811651229858	False
+Composición	Historique	0.9485183358192444	False
+Composición	Représentation	0.9381642937660217	False
+Composición	Géographie	0.886837363243103	False
+Composición	Composition actuelle	0.8557146191596985	False
+Composición	Toponymie	0.8169326782226562	False
+Composición	Urbanisme	0.7293609976768494	False
+Composición	Genèse	0.7280601263046265	False
+Población	Population	0.9969882369041443	True
+Población	Démographie	0.9933910369873047	False
+Población	Villes principales	0.95164954662323	False
+Población	Natalité	0.9177283644676208	False
+Población	Communes	0.8366987109184265	False
+Población	Évolution de la population	0.8161655068397522	False
+Población	Municipalités	0.7892746329307556	False
+Población	Population et société	0.7764172554016113	False
+Población	Peuplement	0.6945042610168457	False
+Población	Administration	0.6680984497070312	False
+Publicaciones	Publications	0.9977781176567078	True
+Publicaciones	Principales publications	0.9922975897789001	False
+Publicaciones	Ouvrages	0.9891208410263062	False
+Publicaciones	Œuvres	0.9856944680213928	False
+Publicaciones	Publication	0.9745433330535889	False
+Publicaciones	Livres	0.9616576433181763	False
+Publicaciones	Bibliographie	0.9601572751998901	False
+Publicaciones	Liste partielle des publications	0.9245811104774475	False
+Publicaciones	Littérature	0.9231352806091309	False
+Publicaciones	Sélection de publications	0.8676713705062866	False
+Honores	Hommages	0.9921149611473083	False
+Honores	Honneurs	0.9916456341743469	True
+Honores	Récompenses	0.971693217754364	False
+Honores	Distinctions	0.9659777879714966	False
+Honores	Décorations	0.9561982750892639	True
+Honores	Distinctions honorifiques	0.9350990653038025	False
+Honores	Distinctions et récompenses	0.9350598454475403	False
+Honores	Prix et distinctions	0.9346317648887634	False
+Honores	Hommage	0.928570032119751	False
+Honores	Récompenses et distinctions	0.9039900302886963	True
+Ubicación	Localisation	0.992590069770813	True
+Ubicación	Géographie	0.9885334372520447	False
+Ubicación	Situation	0.9843264222145081	False
+Ubicación	Emplacement	0.9716238975524902	False
+Ubicación	Situation géographique	0.9397209286689758	False
+Ubicación	Activités	0.6225612163543701	False
+Ubicación	Présentation	0.5466200709342957	False
+Ubicación	Description	0.5191361308097839	False
+Ubicación	Historique	0.5176617503166199	False
+Ubicación	Histoire	0.5049001574516296	False
+Etimología	Étymologie	0.9949464201927185	True
+Etimología	Toponymie	0.9838835597038269	False
+Etimología	Origine du nom	0.9467764496803284	False
+Etimología	Terminologie	0.9461368322372437	False
+Etimología	Etymologie	0.9459773898124695	False
+Etimología	Nom	0.8413941264152527	False
+Etimología	Hydronymie	0.7642298340797424	False
+Etimología	Origine	0.7531217932701111	False
+Etimología	Origine du terme	0.7320168614387512	False
+Etimología	Géographie	0.669580340385437	False
+Características orbitales	Orbite	0.9671078324317932	False
+Características orbitales	Caractéristiques orbitales	0.9377995133399963	True
+Características orbitales	Caractéristiques	0.8669503331184387	False
+Características orbitales	Caractéristiques physiques	0.7983439564704895	False
+Características orbitales	Description	0.7133699059486389	False
+Características orbitales	Compléments	0.2451941817998886	False
+Características orbitales	Satellite	0.15808753669261932	False
+Características orbitales	Observation	0.13585686683654785	False
+Características orbitales	Notes et références	0.09517354518175125	False
+Características orbitales	Galerie	0.09108754992485046	False
+Primeros años	Premières années	0.9939029216766357	False
+Primeros años	Jeunesse	0.988206684589386	True
+Primeros años	Enfance	0.9710940718650818	False
+Primeros años	Débuts	0.9641552567481995	False
+Primeros años	Jeunes années	0.9613176584243774	False
+Primeros años	Jeunesse et formation	0.9579627513885498	False
+Primeros años	Les premières années	0.9517250061035156	False
+Primeros años	Les débuts	0.9446262717247009	False
+Primeros años	Début de carrière	0.936266303062439	False
+Primeros años	Enfance et adolescence	0.9192489385604858	False
+Algunas publicaciones	Publications	0.9900915622711182	False
+Algunas publicaciones	Quelques publications	0.9869193434715271	False
+Algunas publicaciones	Œuvres	0.9854087233543396	False
+Algunas publicaciones	Liste partielle des publications	0.9841012358665466	False
+Algunas publicaciones	Œuvres et publications	0.9535171389579773	False
+Algunas publicaciones	Ouvrages	0.9517534971237183	False
+Algunas publicaciones	Principales publications	0.9241448640823364	True
+Algunas publicaciones	Œuvres principales	0.8896180391311646	False
+Algunas publicaciones	Œuvres (sélection)	0.874488353729248	False
+Algunas publicaciones	Travaux	0.8485286831855774	False
+Trayectoria deportiva	Biographie	0.9885413646697998	False
+Trayectoria deportiva	Carrière	0.9876368045806885	False
+Trayectoria deportiva	Carrière sportive	0.9815451502799988	True
+Trayectoria deportiva	Carrière professionnelle	0.9812069535255432	False
+Trayectoria deportiva	Clubs	0.9799184799194336	False
+Trayectoria deportiva	Club	0.9670382142066956	False
+Trayectoria deportiva	Clubs successifs	0.9585676789283752	False
+Trayectoria deportiva	Carrière de joueur	0.951263964176178	False
+Trayectoria deportiva	Carrière NBA	0.9120529294013977	False
+Trayectoria deportiva	Carrière universitaire	0.8990980386734009	False
+Jugadores	Effectif	0.9859712719917297	False
+Jugadores	Personnalités du club	0.9809118509292603	False
+Jugadores	Joueurs	0.977360188961029	True
+Jugadores	Effectif actuel	0.9731306433677673	False
+Jugadores	Joueurs et personnalités du club	0.9643842577934265	False
+Jugadores	Anciens joueurs	0.9512757062911987	False
+Jugadores	Joueurs célèbres	0.9173511862754822	False
+Jugadores	Principaux joueurs	0.9156579375267029	False
+Jugadores	Joueurs emblématiques	0.8836670517921448	False
+Jugadores	Compétition	0.8147466778755188	False
+Créditos	Crédits	0.9983397722244263	True
+Créditos	Musiciens	0.9869806170463562	False
+Créditos	Personnel	0.9684209823608398	False
+Créditos	Liste des titres	0.9633427858352661	False
+Créditos	Composition du groupe	0.9604706168174744	False
+Créditos	Interprètes	0.9562262892723083	False
+Créditos	Enregistrement	0.9546577334403992	False
+Créditos	Production	0.9501200318336487	False
+Créditos	Crédits et personnels	0.9463609457015991	False
+Créditos	Fiche technique	0.9269003868103027	False
+Curiosidades	Curiosités	0.9888289570808411	True
+Curiosidades	Anecdotes	0.9841877222061157	False
+Curiosidades	Autour du film	0.976148784160614	False
+Curiosidades	Divers	0.9760633707046509	False
+Curiosidades	Curiosité	0.9529898166656494	False
+Curiosidades	Références	0.9251517653465271	False
+Curiosidades	Personnalités	0.8843206167221069	False
+Curiosidades	À noter	0.8692665100097656	False
+Curiosidades	Commentaires	0.8546079993247986	False
+Curiosidades	Lieux et monuments	0.8293709754943848	False
+Desarrollo	Développement	0.995888888835907	True
+Desarrollo	Conception	0.9872626662254333	False
+Desarrollo	Conception et développement	0.9653672575950623	False
+Desarrollo	Production	0.9555030465126038	False
+Desarrollo	Système de jeu	0.9553021788597107	False
+Desarrollo	Déroulement	0.9515231251716614	False
+Desarrollo	Contexte	0.9488920569419861	False
+Desarrollo	Histoire	0.9385750889778137	False
+Desarrollo	Historique	0.9309722185134888	False
+Desarrollo	Distribution	0.8633834719657898	False
+Miembros	Membres	0.9985474944114685	True
+Miembros	Membres du groupe	0.9906300902366638	False
+Miembros	Composition du groupe	0.9889023900032043	False
+Miembros	Anciens membres	0.9774292707443237	False
+Miembros	Formation	0.9513359069824219	False
+Miembros	Membres actuels	0.9506449699401855	False
+Miembros	Liste des titres	0.9357010126113892	False
+Miembros	États membres	0.9265902638435364	False
+Miembros	Organisation	0.9093281626701355	False
+Miembros	Historique	0.900063693523407	False
+Cultura	Culture	0.9861240386962891	True
+Cultura	Culture et patrimoine	0.9453939199447632	False
+Cultura	Tourisme	0.8971003890037537	False
+Cultura	Culture locale et patrimoine	0.8329574465751648	False
+Cultura	Patrimoine	0.8127793669700623	False
+Cultura	Économie	0.7729080319404602	False
+Cultura	Culture et tourisme	0.7017862200737	False
+Cultura	Art et culture	0.642309844493866	False
+Cultura	Éducation	0.6244753003120422	False
+Cultura	Population et société	0.6134376525878906	False
+Equipos participantes	Participants	0.9970224499702454	False
+Equipos participantes	Équipes participantes	0.9954836368560791	True
+Equipos participantes	Clubs participants	0.9944214224815369	False
+Equipos participantes	Les clubs participants	0.9943946599960327	False
+Equipos participantes	Équipes	0.9900667667388916	False
+Equipos participantes	Équipes participantes et groupes	0.9816625714302063	False
+Equipos participantes	Équipes qualifiées	0.9811245203018188	False
+Equipos participantes	Les 20 clubs participants	0.9792652130126953	False
+Equipos participantes	Équipes présentes	0.9781313538551331	False
+Equipos participantes	Nations participantes	0.9732576608657837	False
+Educación	Éducation	0.9975237250328064	True
+Educación	Enseignement	0.9792301058769226	False
+Educación	Enseignement supérieur	0.9244064688682556	False
+Educación	Universités	0.924362301826477	False
+Educación	Santé	0.9070777893066406	False
+Educación	Formation	0.9005402326583862	False
+Educación	Enseignement et recherche	0.8905810117721558	False
+Educación	Études	0.8316167593002319	False
+Educación	Université	0.794248104095459	False
+Educación	Économie	0.7806035280227661	False
+Características físicas	Caractéristiques physiques	0.9754069447517395	True
+Características físicas	Caractéristiques	0.9493768215179443	False
+Características físicas	Environnement stellaire	0.9240874648094177	False
+Características físicas	Caractéristiques orbitales	0.828168511390686	False
+Características físicas	Propriétés physiques	0.6848776340484619	False
+Características físicas	Propriétés	0.6288259625434875	False
+Características físicas	Géographie	0.5981268882751465	False
+Características físicas	Description	0.5398122668266296	False
+Características físicas	Description et caractéristiques	0.4999319911003113	False
+Características físicas	Répartition et habitat	0.443083256483078	False
+Clima	Climat	0.9966315627098083	True
+Clima	Relief	0.9050661325454712	False
+Clima	Géographie	0.7766954302787781	False
+Clima	Paléogéographie	0.49258580803871155	False
+Clima	Géographie physique	0.46450546383857727	False
+Clima	Géographie humaine	0.45477229356765747	False
+Clima	Hydrologie	0.4123278856277466	False
+Clima	Géographie et climat	0.40539807081222534	False
+Clima	Environnement	0.3403509557247162	False
+Clima	Géologie	0.32323503494262695	False
+Vida	Vie	0.9931539297103882	True
+Vida	Biographie	0.9928284287452698	False
+Vida	Sa vie	0.9846407175064087	False
+Vida	Histoire et tradition	0.9432944655418396	False
+Vida	Éléments de biographie	0.9336785674095154	False
+Vida	Carrière	0.8652017116546631	False
+Vida	Histoire	0.8617182374000549	False
+Vida	Règne	0.8505138754844666	False
+Vida	Éléments biographiques	0.8390050530433655	False
+Vida	Jeunesse	0.8170210719108582	False
+Equipos	Les clubs participants	0.9905953407287598	False
+Equipos	Équipes	0.9820665121078491	True
+Equipos	Club	0.9724457859992981	False
+Equipos	Clubs successifs	0.962242066860199	False
+Equipos	Équipes participantes	0.9575265049934387	False
+Equipos	Compétition	0.9564067125320435	False
+Equipos	Bilan de la saison	0.9532215595245361	False
+Equipos	Classement	0.9477294087409973	False
+Equipos	Participants	0.9439570903778076	False
+Equipos	Épreuves	0.9362643361091614	False
+Localización	Géographie	0.9963338375091553	False
+Localización	Localisation	0.996221661567688	True
+Localización	Emplacement	0.9813591837882996	False
+Localización	Répartition	0.9730927348136902	False
+Localización	Situation	0.9629274606704712	False
+Localización	Distribution et habitat	0.9149745106697083	False
+Localización	Description	0.8916590809822083	False
+Localización	Le site	0.8712263107299805	False
+Localización	Système de jeu	0.8673758506774902	False
+Localización	Distribution	0.8056573867797852	False
+Reconocimientos	Récompenses	0.9926654696464539	True
+Reconocimientos	Hommages	0.9924010038375854	False
+Reconocimientos	Distinctions	0.9913831353187561	False
+Reconocimientos	Prix et distinctions	0.980646014213562	False
+Reconocimientos	Reconnaissance	0.9792321920394897	False
+Reconocimientos	Récompenses et distinctions	0.9790047407150269	False
+Reconocimientos	Honneurs	0.9776961803436279	False
+Reconocimientos	Reconnaissances	0.9714915752410889	False
+Reconocimientos	Distinctions et récompenses	0.9694451689720154	False
+Reconocimientos	Distinction	0.9634620547294617	False
+Usos	Usages	0.9924834370613098	False
+Usos	Utilisation	0.988639235496521	False
+Usos	Utilisations	0.9750698804855347	True
+Usos	Usage	0.9632893800735474	False
+Usos	Indications	0.836485743522644	False
+Usos	Applications	0.8052762150764465	False
+Usos	Avantages	0.5881898403167725	False
+Usos	Liste des espèces	0.48537421226501465	False
+Usos	Usages et propriétés	0.45763495564460754	False
+Usos	Propriétés	0.4449199438095093	False
+Transporte	Transport	0.997322142124176	True
+Transporte	Transports	0.9966963529586792	False
+Transporte	Transports en commun	0.9658274054527283	False
+Transporte	Voies de communication et transports	0.9062306880950928	False
+Transporte	Accès	0.8927556276321411	False
+Transporte	Infrastructures	0.875996470451355	False
+Transporte	Économie	0.8238507509231567	False
+Transporte	Les transports	0.7983466386795044	False
+Transporte	Économie et transports	0.7269787192344666	False
+Transporte	Tourisme	0.6895383596420288	False
+Música	Musique	0.9984331727027893	True
+Música	Bande originale	0.9714369773864746	False
+Música	Œuvres	0.9589908123016357	False
+Música	Discographie	0.9296172857284546	False
+Música	Musiques	0.9281540513038635	False
+Música	Chansons du film	0.9214313626289368	False
+Música	Chansons	0.9140896201133728	False
+Música	Chanson	0.9095893502235413	False
+Música	Culture	0.8867009878158569	False
+Música	La musique	0.8190286159515381	False
+Servicios	Services	0.9952207207679749	True
+Servicios	Service	0.9835932850837708	False
+Servicios	Destinations	0.9715492725372314	False
+Servicios	Activités	0.9653655886650085	False
+Servicios	La gare aujourd'hui	0.9071260094642639	False
+Servicios	Produits et services	0.8678146600723267	False
+Servicios	Transports	0.8627331256866455	False
+Servicios	Programmes	0.853873074054718	False
+Servicios	Organisation	0.7968211770057678	False
+Servicios	Stations de radio	0.6963565945625305	False
+Administración	Politique et administration	0.991797685623169	False
+Administración	Administration	0.9723250269889832	True
+Administración	Subdivisions administratives	0.9667463302612305	False
+Administración	Divisions administratives	0.9206736087799072	False
+Administración	Politique	0.9201595783233643	False
+Administración	Economie	0.7500823140144348	False
+Administración	Économie	0.6748049259185791	False
+Administración	Géographie	0.5779913663864136	False
+Administración	Fonctionnement	0.5190274119377136	False
+Administración	Administration et politique	0.5149532556533813	False
+Trama	Trame	0.985593855381012	True
+Trama	Synopsis	0.9851365089416504	False
+Trama	Scénario	0.9779873490333557	False
+Trama	Résumé	0.9748222827911377	False
+Trama	Intrigue	0.971396803855896	False
+Trama	Personnages	0.9705765843391418	False
+Trama	Système de jeu	0.9673125743865967	False
+Trama	Histoire	0.9618138074874878	False
+Trama	Distribution	0.8846303224563599	False
+Trama	Personnages principaux	0.8833009004592896	False
+Consecuencias	Conséquences	0.9981548190116882	True
+Consecuencias	Les conséquences	0.9868877530097961	False
+Consecuencias	Suites	0.9778053760528564	False
+Consecuencias	Conséquence	0.9753744006156921	False
+Consecuencias	Bilan	0.9749372601509094	False
+Consecuencias	Bilan et conséquences	0.9573778510093689	False
+Consecuencias	Suites et conséquences	0.925182580947876	False
+Consecuencias	Réactions	0.9195953607559204	False
+Consecuencias	Répercussions	0.8997828364372253	False
+Consecuencias	Conséquences de la bataille	0.8891257643699646	False
+Origen	Origine	0.9981482028961182	True
+Origen	Origines	0.9946462512016296	False
+Origen	Origine du nom	0.9685145616531372	False
+Origen	Genèse	0.9399287104606628	False
+Origen	Origine du terme	0.9359327554702759	False
+Origen	Historique	0.921944797039032	False
+Origen	Histoire	0.9218408465385437	False
+Origen	Contexte	0.8943192362785339	False
+Origen	Étymologie	0.8033004403114319	False
+Origen	Caractéristiques	0.6544309854507446	False
+Medallero	Tableau des médailles	0.9952091574668884	False
+Medallero	Médailles	0.9862940907478333	False
+Medallero	Médaillés	0.9692259430885315	True
+Medallero	Classement final	0.9496182799339294	False
+Medallero	Tableaux des médailles	0.93389892578125	False
+Medallero	Phase finale	0.912107527256012	False
+Medallero	Nations participantes	0.901259183883667	False
+Medallero	Statistiques et récompenses	0.8974487781524658	False
+Medallero	Bilan général	0.8863418698310852	False
+Medallero	Médailles par pays	0.8817036747932434	False
+Patrimonio	Patrimoine	0.9970152378082275	True
+Patrimonio	Lieux et monuments	0.9597691297531128	False
+Patrimonio	Monuments	0.8982419371604919	False
+Patrimonio	Culture et patrimoine	0.8885282874107361	False
+Patrimonio	Sites et monuments	0.8386419415473938	False
+Patrimonio	Tourisme	0.8336805701255798	False
+Patrimonio	Patrimoine culturel	0.7514042854309082	False
+Patrimonio	Galerie	0.7294191122055054	False
+Patrimonio	Culture	0.6980928778648376	False
+Patrimonio	Sites et patrimoine	0.6944858431816101	False
+Lugares de interés	Lieux et monuments	0.9860107898712158	False
+Lugares de interés	Patrimoine	0.9752388000488281	False
+Lugares de interés	Monuments et patrimoine	0.9738161563873291	False
+Lugares de interés	Tourisme	0.9653334021568298	False
+Lugares de interés	Curiosités	0.9607629776000977	False
+Lugares de interés	Monuments	0.9550797939300537	False
+Lugares de interés	Lieux d'intérêt	0.9338199496269226	True
+Lugares de interés	Monuments et sites	0.9240530133247375	False
+Lugares de interés	Galerie de photos	0.9196810722351074	False
+Lugares de interés	Culture	0.9097883701324463	False
+Turismo	Tourisme	0.9966645836830139	True
+Turismo	Patrimoine	0.9510725140571594	False
+Turismo	Économie	0.9205958247184753	False
+Turismo	Culture et patrimoine	0.9129306077957153	False
+Turismo	Villes principales	0.7952328324317932	False
+Turismo	Curiosités	0.7844496369361877	False
+Turismo	Lieux et monuments	0.7534654140472412	False
+Turismo	Urbanisme	0.725398600101471	False
+Turismo	Transports	0.7164839506149292	False
+Turismo	Culture et tourisme	0.7164039611816406	False
+Reproducción	Reproduction	0.9940460920333862	True
+Reproducción	Nidification	0.9223182201385498	False
+Reproducción	Biologie	0.8764768838882446	False
+Reproducción	Biologie et écologie	0.7991785407066345	False
+Reproducción	Alimentation	0.4472689628601074	False
+Reproducción	Mode de vie	0.3875921964645386	False
+Reproducción	Publication originale	0.36132511496543884	False
+Reproducción	Dimorphisme sexuel	0.3527747392654419	False
+Reproducción	Distribution et lieux de ponte	0.3413461446762085	False
+Reproducción	Répartition et habitat	0.3348934054374695	False
+Televisión	Télévision	0.9978718757629395	True
+Televisión	Cinéma et télévision	0.969714879989624	False
+Televisión	Radio	0.9392313957214355	False
+Televisión	Adaptations	0.9285639524459839	False
+Televisión	Médias	0.9059914946556091	False
+Televisión	Séries télévisées	0.8611668348312378	False
+Televisión	Filmographie	0.8185389041900635	False
+Televisión	Apparitions télévisées	0.5971422791481018	False
+Televisión	Vidéographie	0.5966182947158813	False
+Televisión	Cinéma	0.5721538066864014	False
+Acontecimientos	Événements	0.993370771408081	True
+Acontecimientos	Évènements	0.9835663437843323	False
+Acontecimientos	Histoire	0.8731717467308044	False
+Acontecimientos	Déroulement	0.8340719938278198	False
+Acontecimientos	Contexte	0.7896386981010437	False
+Acontecimientos	Personnages significatifs	0.735827624797821	False
+Acontecimientos	Faits marquants	0.46468278765678406	True
+Acontecimientos	Décès	0.41992199420928955	False
+Acontecimientos	Naissances	0.36574411392211914	False
+Acontecimientos	Personnalités significatives	0.29022088646888733	False
+Galería de imágenes	Galerie	0.996613085269928	False
+Galería de imágenes	Galerie d'images	0.9956632256507874	True
+Galería de imágenes	Galerie de photos	0.9940834641456604	False
+Galería de imágenes	Galerie de photographies	0.9936843514442444	False
+Galería de imágenes	Images	0.9838500022888184	False
+Galería de imágenes	Illustrations	0.9818745851516724	False
+Galería de imágenes	Galerie photographique	0.9524078965187073	False
+Galería de imágenes	Galerie photos	0.9320911765098572	False
+Galería de imágenes	Collections	0.928073525428772	False
+Galería de imágenes	Œuvres	0.886364221572876	False
+Muerte	Mort	0.9957426190376282	False
+Muerte	Décès	0.9878681898117065	True
+Muerte	Assassinat	0.9722718596458435	False
+Muerte	Sa mort	0.9573304653167725	False
+Muerte	Fin de vie	0.954481840133667	False
+Muerte	La mort	0.9373656511306763	False
+Muerte	Vie personnelle	0.9251522421836853	False
+Muerte	Hommages	0.7168458700180054	False
+Muerte	Disparition	0.6289128661155701	False
+Muerte	Après sa mort	0.5521780848503113	False
+Teatro	Théâtre	0.995832622051239	True
+Teatro	Théâtre (à Broadway)	0.9721139073371887	False
+Teatro	Œuvres	0.8745319247245789	False
+Teatro	Musique	0.8277108073234558	False
+Teatro	Télévision	0.8062331080436707	False
+Teatro	Cinéma	0.796906590461731	False
+Teatro	Théâtre à Broadway	0.7719332575798035	False
+Teatro	Carrière au théâtre	0.5970757007598877	False
+Teatro	Spectacles	0.29949408769607544	False
+Teatro	Biographie	0.2597600519657135	False
+Observaciones	Observations	0.9873585104942322	True
+Observaciones	Observation	0.8765504360198975	False
+Observaciones	Annexes	0.6597402691841125	False
+Observaciones	Histoire	0.5894953608512878	False
+Observaciones	Notes et références	0.5006194710731506	False
+Observaciones	Découverte	0.3206872045993805	False
+Observaciones	Description	0.27104297280311584	False
+Observaciones	Articles connexes	0.2333775907754898	False
+Observaciones	Voir aussi	0.21421338617801666	False
+Observaciones	Comestibilité	0.17809303104877472	False
+Política	Politique	0.9943728446960449	True
+Política	Politique et administration	0.9674209952354431	False
+Política	Carrière politique	0.8759567737579346	False
+Política	Organisation politique	0.8327975273132324	False
+Política	Administration et politique	0.7835208773612976	False
+Política	Vie politique	0.7512592673301697	False
+Política	Biographie	0.7316424250602722	False
+Política	Santé	0.5987010598182678	False
+Política	Démographie	0.587148904800415	False
+Política	Économie	0.5265036821365356	False
+Premios y reconocimientos	Prix et récompenses	0.9945642948150635	True
+Premios y reconocimientos	Prix et distinctions	0.9910873770713806	False
+Premios y reconocimientos	Récompenses	0.9893574118614197	False
+Premios y reconocimientos	Récompenses et distinctions	0.985458254814148	False
+Premios y reconocimientos	Distinctions	0.9846770167350769	False
+Premios y reconocimientos	Prix	0.9845751523971558	False
+Premios y reconocimientos	Nominations et récompenses	0.9837957620620728	False
+Premios y reconocimientos	Prix et reconnaissance	0.9778220057487488	False
+Premios y reconocimientos	Honneurs	0.964866578578949	False
+Premios y reconocimientos	Distinctions et récompenses	0.9558750987052917	False
+Deportes	Sports	0.9966533780097961	True
+Deportes	Sport	0.994776725769043	False
+Deportes	Sites	0.7856373190879822	False
+Deportes	Les sports pratiqués	0.6305670738220215	False
+Deportes	Compétition	0.5713630318641663	False
+Deportes	Culture	0.5116149187088013	False
+Deportes	Football	0.4383053183555603	False
+Deportes	Population et société	0.4177868664264679	False
+Deportes	Santé	0.3938228487968445	False
+Deportes	Sports et loisirs	0.3871302604675293	False
+Alimentación	Alimentation	0.9957213401794434	True
+Alimentación	Cycle de vie	0.9268667101860046	False
+Alimentación	Écologie et comportement	0.8773504495620728	False
+Alimentación	Maintenance en captivité	0.8696827292442322	False
+Alimentación	Régime alimentaire	0.8601816296577454	False
+Alimentación	Biologie et écologie	0.8519649505615234	False
+Alimentación	Biologie	0.7792485356330872	False
+Alimentación	Comportement	0.7747549414634705	False
+Alimentación	Mode de vie	0.7400012016296387	False
+Alimentación	Répartition et habitat	0.7050614953041077	False
+Géneros	Liste des genres	0.992215096950531	False
+Géneros	Genres	0.9917810559272766	True
+Géneros	Liste des espèces	0.983482837677002	False
+Géneros	Classification	0.96236252784729	False
+Géneros	Taxinomie	0.9426578879356384	False
+Géneros	Liste de genres	0.927014172077179	False
+Géneros	Principaux genres	0.8944915533065796	False
+Géneros	Liste alphabétique des genres	0.8581445813179016	False
+Géneros	Morphologie	0.7848029732704163	False
+Géneros	Systématique	0.6993502378463745	False
+Personas	Personnalités	0.9937267303466797	False
+Personas	Personnes	0.9921777844429016	True
+Personas	Patronymes	0.9823476076126099	False
+Personas	Patronyme	0.9808918833732605	False
+Personas	Personnalités portant ce prénom	0.9639085531234741	False
+Personas	Nom de personnes	0.9606552720069885	False
+Personas	Patronymie	0.900023877620697	False
+Personas	Personnalités portant ce patronyme	0.8598477244377136	False
+Personas	Pseudonyme	0.7933676838874817	False
+Personas	Désignation de personnes	0.7028451561927795	False
+Familia	Famille	0.9980003237724304	True
+Familia	Sa famille	0.9867493510246277	False
+Familia	Descendance	0.9575542211532593	False
+Familia	Mariage et descendance	0.9529203176498413	False
+Familia	Enfance	0.949749767780304	False
+Familia	Famille et descendance	0.9374940991401672	False
+Familia	Mariage et enfants	0.9218840003013611	False
+Familia	Vie privée	0.9151710867881775	False
+Familia	Mariages et descendance	0.913174569606781	False
+Familia	Union et descendance	0.9095245003700256	False
+Estadio	Stade	0.9971912503242493	True
+Estadio	Stades	0.9915033578872681	False
+Estadio	Infrastructures	0.9437799453735352	False
+Estadio	Supporters	0.8901880383491516	False
+Estadio	Structures du club	0.8626130819320679	False
+Estadio	Les supporters	0.7602402567863464	False
+Estadio	Identité	0.6749503016471863	False
+Estadio	Le stade	0.6638203859329224	False
+Estadio	Infrastructures du club	0.4861779808998108	False
+Estadio	Affluences	0.4704723656177521	False
+Variantes	Variantes	0.9971025586128235	True
+Variantes	Versions	0.9958906173706055	False
+Variantes	Caractéristiques	0.9618728160858154	False
+Variantes	Modèles	0.9464092254638672	False
+Variantes	Les versions	0.840686023235321	False
+Variantes	Variante	0.7941831350326538	False
+Variantes	Caractéristiques techniques	0.769803524017334	False
+Variantes	Applications	0.7078126072883606	False
+Variantes	Autres caractéristiques	0.6994636058807373	False
+Variantes	Construction	0.6268275380134583	False
+Versiones	Versions	0.9978684186935425	True
+Versiones	Autres versions	0.996802806854248	False
+Versiones	Reprises	0.9945717453956604	False
+Versiones	Variantes	0.9860789179801941	False
+Versiones	Différentes versions	0.9716871380805969	False
+Versiones	Les versions	0.9703770875930786	False
+Versiones	Rééditions	0.9612977504730225	False
+Versiones	Historique des versions	0.9602333307266235	False
+Versiones	Modèles	0.9324614405632019	False
+Versiones	Apparitions	0.9079965949058533	False
+Fallecimientos	Décès	0.9977516531944275	True
+Fallecimientos	Notes et références	0.991992712020874	False
+Fallecimientos	Naissances	0.9013482332229614	False
+Fallecimientos	Liens externes	0.8826131820678711	False
+Fallecimientos	Références	0.8505971431732178	False
+Fallecimientos	Événements	0.31844326853752136	False
+Fallecimientos	Articles connexes	0.28281494975090027	False
+Fallecimientos	Bibliographie	0.24963635206222534	False
+Fallecimientos	Évènements	0.19328336417675018	False
+Fallecimientos	Célébrations	0.18872880935668945	False
+Organización	Organisation	0.9981841444969177	True
+Organización	Structure	0.9714186191558838	False
+Organización	Fonctionnement	0.927824079990387	False
+Organización	Aujourd'hui	0.8939897418022156	False
+Organización	Phase de groupes	0.8347043991088867	False
+Organización	Acteurs de la Coupe du monde	0.8302273750305176	False
+Organización	Équipes participantes et groupes	0.8088605403900146	False
+Organización	Groupes	0.7898642420768738	False
+Organización	La compétition	0.7625479102134705	False
+Organización	Calendrier	0.7584524154663086	False
+Comentarios	Commentaires	0.9948506951332092	True
+Comentarios	Citations	0.9796561002731323	False
+Comentarios	Commentaire	0.9775926470756531	False
+Comentarios	Anecdotes	0.9459344148635864	False
+Comentarios	Autour du film	0.8619685173034668	False
+Comentarios	Synopsis	0.809689998626709	False
+Comentarios	Remake	0.7107794284820557	False
+Comentarios	Accueil	0.6937907338142395	False
+Comentarios	Accueil critique	0.6753677725791931	False
+Comentarios	Anecdote	0.6035670638084412	False
+Propiedades	Propriétés	0.9947342872619629	True
+Propiedades	Propriétés médicinales	0.9262658357620239	False
+Propiedades	Exemple	0.876996636390686	False
+Propiedades	Propriétés physico-chimiques	0.8459945917129517	False
+Propiedades	Propriétés physiques	0.8337218165397644	False
+Propiedades	Utilisations	0.8258582949638367	False
+Propiedades	Composition chimique	0.7332944273948669	False
+Propiedades	Propriétés chimiques	0.7309601306915283	False
+Propiedades	Cristallographie	0.6839454174041748	False
+Propiedades	Caractéristiques physico-chimiques	0.6589483618736267	False
+Arquitectura	Architecture	0.997686505317688	True
+Arquitectura	Urbanisme	0.9561086893081665	False
+Arquitectura	Patrimoine	0.8984958529472351	False
+Arquitectura	Bâtiment	0.8252214789390564	False
+Arquitectura	Architecture et urbanisme	0.7517722845077515	False
+Arquitectura	Description	0.7464154362678528	False
+Arquitectura	Histoire	0.7255668640136719	False
+Arquitectura	Décoration	0.6872668266296387	False
+Arquitectura	Historique	0.644171416759491	False
+Arquitectura	Culture	0.6113806366920471	False
+Véase	Voir aussi	0.9621393084526062	True
+Véase	Articles connexes	0.9428878426551819	False
+Véase	Hommage	0.6350392699241638	False
+Véase	Publications	0.6304678320884705	False
+Véase	Source	0.46249812841415405	False
+Véase	Géographie	0.34744158387184143	False
+Véase	Bibliographie	0.287515252828598	False
+Véase	Annexes	0.2589651644229889	False
+Véase	Article connexe	0.2503654658794403	False
+Véase	Liens externes	0.21225044131278992	False
+Libros	Livres	0.9964756369590759	True
+Libros	Ouvrages	0.9919610619544983	False
+Libros	Publications	0.9891284108161926	False
+Libros	Bibliographie	0.9798297882080078	False
+Libros	Œuvres	0.9775174260139465	False
+Libros	Œuvre	0.96531081199646	False
+Libros	Œuvre littéraire	0.9313223958015442	False
+Libros	Écrits	0.8705265522003174	False
+Libros	Œuvres traduites en français	0.6163284778594971	False
+Libros	Synopsis	0.5325198769569397	False
+Localidades	Localités	0.9930972456932068	True
+Localidades	Villes	0.9810561537742615	False
+Localidades	Toponyme	0.9692671895027161	False
+Localidades	Villes du comté	0.9423161745071411	False
+Localidades	Villages	0.9384122490882874	False
+Localidades	Villes et localités	0.9294363260269165	False
+Localidades	Principales villes	0.9137059450149536	False
+Localidades	Communes	0.9116837978363037	False
+Localidades	Toponymes	0.9037371873855591	False
+Localidades	Municipalités	0.8971142768859863	False
+Contenido	Contenu	0.9981566071510315	True
+Contenido	Contexte	0.9516875743865967	False
+Contenido	Résumé	0.905785858631134	False
+Contenido	Description	0.9008466005325317	False
+Contenido	Composition	0.9001278877258301	False
+Contenido	Le contenu	0.8040258288383484	False
+Contenido	Analyse	0.7267487049102783	False
+Contenido	Le récit	0.7130155563354492	False
+Contenido	Liste des pistes	0.7127135992050171	False
+Contenido	Présentation	0.7044556736946106	False
+Lugares	Toponyme	0.9950255751609802	False
+Lugares	Toponymes	0.9917859435081482	False
+Lugares	Lieux	0.9870902895927429	True
+Lugares	Communautés	0.9761053919792175	False
+Lugares	Villes	0.968165397644043	False
+Lugares	Localités	0.9180635213851929	False
+Lugares	Toponymie	0.8968462347984314	False
+Lugares	Municipalités du comté	0.8917871117591858	False
+Lugares	Divisions administratives	0.6866142153739929	False
+Lugares	Hydronyme	0.6633281111717224	False
+Monumentos	Monuments	0.9911677837371826	True
+Monumentos	Patrimoine	0.9870681762695312	False
+Monumentos	Lieux et monuments	0.9587379693984985	False
+Monumentos	Sites et monuments	0.9256445169448853	False
+Monumentos	Monuments et patrimoine	0.9008492231369019	False
+Monumentos	Monuments et musées	0.8108001947402954	False
+Monumentos	Culture locale et patrimoine	0.7998495697975159	False
+Monumentos	Sites et patrimoine	0.7895060777664185	False
+Monumentos	Culture et patrimoine	0.7047098278999329	False
+Monumentos	Curiosités	0.5220652222633362	False
+Episodios	Épisodes	0.9909618496894836	True
+Episodios	Saisons	0.912988543510437	False
+Episodios	Films	0.883025586605072	False
+Episodios	Liste des épisodes	0.8610615730285645	False
+Episodios	Diffusion	0.8285340070724487	False
+Episodios	Personnages	0.7059201598167419	False
+Episodios	Audiences	0.5279924869537354	False
+Episodios	Episodes	0.5225822925567627	False
+Episodios	Manga	0.5033851861953735	False
+Episodios	Synopsis	0.4503708779811859	False
+Video musical	Clip vidéo	0.9962181448936462	True
+Video musical	Clip vidéo	0.9962181448936462	True
+Video musical	Clip	0.9932689070701599	False
+Video musical	Vidéoclip	0.9830871820449829	False
+Video musical	Musique et paroles	0.93874591588974	False
+Video musical	Enregistrement	0.9046453237533569	False
+Video musical	Caractéristiques artistiques	0.7692559957504272	False
+Video musical	Critiques	0.6364426612854004	False
+Video musical	Structure musicale	0.6053207516670227	False
+Video musical	Paroles et musique	0.5425971746444702	False
+Uniforme	Couleurs	0.9065635800361633	False
+Uniforme	Uniforme	0.8825961947441101	True
+Uniforme	Couleurs et logo	0.758449375629425	False
+Uniforme	Tenues, emblèmes et symboles	0.5414974689483643	False
+Uniforme	Maillot	0.45476460456848145	False
+Uniforme	Identité	0.43842315673828125	False
+Uniforme	Couleurs et symboles	0.3561839163303375	False
+Uniforme	Structures du club	0.30493053793907166	False
+Uniforme	Stades	0.2603910267353058	False
+Uniforme	Identité du club	0.21610446274280548	False
+Ancestros	Ascendance	0.9939913153648376	True
+Ancestros	Ancêtres	0.9878461956977844	False
+Ancestros	Généalogie	0.9561590552330017	True
+Ancestros	Famille	0.9434758424758911	False
+Ancestros	Arbre généalogique	0.8035787343978882	False
+Ancestros	Arbres généalogiques	0.7423968315124512	False
+Ancestros	Biographie	0.6838555335998535	False
+Ancestros	Liens internes	0.6133960485458374	False
+Ancestros	Articles connexes	0.5582866668701172	False
+Ancestros	Famille et descendance	0.5542228817939758	False
+Orígenes	Origines	0.9979825019836426	True
+Orígenes	Origine	0.9937942028045654	False
+Orígenes	Les origines	0.9879246950149536	False
+Orígenes	Histoire	0.9826416969299316	False
+Orígenes	Genèse	0.9756869673728943	False
+Orígenes	Historique	0.9687057137489319	False
+Orígenes	Contexte	0.9330102205276489	False
+Orígenes	Biographie	0.7392502427101135	False
+Orígenes	Origine du terme	0.5741230249404907	False
+Orígenes	Mythe	0.5055575966835022	False
+Medallistas	Médailles	0.9952882528305054	False
+Medallistas	Médaillés	0.9897992610931396	True
+Medallistas	Liste des médaillés	0.98464035987854	False
+Medallistas	Podiums	0.9696032404899597	False
+Medallistas	Liste des médaillés américains	0.9545667767524719	False
+Medallistas	Résultats	0.9542754292488098	False
+Medallistas	Épreuves	0.8695423603057861	False
+Medallistas	Résultats détaillés	0.7381873726844788	False
+Medallistas	Récompenses	0.7351126074790955	False
+Medallistas	Délégation	0.7134770154953003	False
+Comportamiento	Comportement	0.995524525642395	True
+Comportamiento	Écologie et comportement	0.9770742058753967	False
+Comportamiento	Mode de vie	0.929589569568634	False
+Comportamiento	Écologie	0.9078658819198608	False
+Comportamiento	Nidification	0.8920648694038391	False
+Comportamiento	Habitats et répartition	0.8267014026641846	False
+Comportamiento	Alimentation	0.8226237893104553	False
+Comportamiento	Éthologie	0.8094247579574585	False
+Comportamiento	Comportement social	0.7777599096298218	False
+Comportamiento	Comportements	0.7519350647926331	False
+Historial	Historique	0.9892663955688477	True
+Historial	Histoire	0.9872480034828186	False
+Historial	Palmarès	0.9832967519760132	False
+Historial	Biographie	0.973535418510437	False
+Historial	Palmarès et parcours	0.9563674926757812	False
+Historial	Palmarès et statistiques	0.8207452297210693	False
+Historial	Bilan par club	0.7829191088676453	False
+Historial	Palmarès détaillé	0.76725172996521	False
+Historial	Parcours en compétitions internationales	0.7426168918609619	False
+Historial	Bilan	0.7320989370346069	False
+Vida privada	Vie privée	0.9965798258781433	True
+Vida privada	Vie personnelle	0.9896661043167114	False
+Vida privada	Vie Privée	0.8280494809150696	False
+Vida privada	Famille	0.7178483605384827	False
+Vida privada	Politique	0.5241379737854004	False
+Vida privada	Biographie	0.46139490604400635	False
+Vida privada	Image publique	0.3580465614795685	False
+Vida privada	Éducation	0.2966083586215973	False
+Vida privada	Œuvre	0.2866848409175873	False
+Vida privada	Autres activités	0.2764149010181427	False
+Campeones	Palmarès	0.9886214137077332	False
+Campeones	Champions	0.9743960499763489	True
+Campeones	Palmarès dames	0.8974289894104004	False
+Campeones	Bilan par club	0.8948615789413452	False
+Campeones	Palmarès messieurs	0.8901501893997192	False
+Campeones	Historique	0.8431529402732849	False
+Campeones	Bilan	0.8196699619293213	False
+Campeones	Épreuves	0.8122701644897461	False
+Campeones	Vainqueurs	0.8004430532455444	False
+Campeones	Meilleurs buteurs	0.7949992418289185	False
+Entrenadores	Entraîneurs	0.9891535639762878	True
+Entrenadores	Entraîneurs successifs	0.978101909160614	False
+Entrenadores	Anciens entraîneurs	0.973042368888855	False
+Entrenadores	Entraineurs	0.9684208631515503	False
+Entrenadores	Sélectionneurs	0.965873122215271	False
+Entrenadores	Personnalités liées au club	0.9506867527961731	False
+Entrenadores	Bilan de la saison	0.947847843170166	False
+Entrenadores	Entraîneurs du club	0.9465681314468384	False
+Entrenadores	Joueurs et personnalités du club	0.8933497667312622	False
+Entrenadores	Joueurs célèbres	0.8933127522468567	False
+Ciudades hermanadas	Jumelages	0.9947212934494019	False
+Ciudades hermanadas	Jumelage	0.9929941296577454	False
+Ciudades hermanadas	Relations internationales	0.9754025340080261	False
+Ciudades hermanadas	Villes jumelles	0.9430473446846008	False
+Ciudades hermanadas	Villes jumelées	0.9408044815063477	True
+Ciudades hermanadas	Jumelages et partenariats	0.9341585040092468	False
+Ciudades hermanadas	Personnalités liées à la ville	0.8289352655410767	False
+Ciudades hermanadas	Personnalités liées à la commune	0.6029714941978455	False
+Ciudades hermanadas	Personnalités	0.5911445021629333	False
+Ciudades hermanadas	Culture et patrimoine	0.47904661297798157	False
+Subespecies	Sous-espèces	0.9828835129737854	True
+Subespecies	Sous espèces	0.9614880084991455	False
+Subespecies	Répartition	0.9612993001937866	False
+Subespecies	Habitat et répartition	0.952150285243988	False
+Subespecies	Répartition et habitat	0.9476698637008667	False
+Subespecies	Biologie	0.9397372603416443	False
+Subespecies	Liste des sous-espèces	0.9328121542930603	False
+Subespecies	Taxinomie	0.9133403301239014	False
+Subespecies	Taxonomie	0.8934729099273682	False
+Subespecies	Distribution et habitat	0.8799691796302795	False
+Carrera profesional	Carrière professionnelle	0.9938551783561707	True
+Carrera profesional	Carrière	0.9917833805084229	False
+Carrera profesional	Biographie	0.9492169618606567	False
+Carrera profesional	Carrière en club	0.8950985074043274	False
+Carrera profesional	Clubs	0.8778643012046814	False
+Carrera profesional	Palmarès	0.8638929724693298	False
+Carrera profesional	Carrière sportive	0.8252246379852295	False
+Carrera profesional	Carrière tennistique	0.8040779232978821	False
+Carrera profesional	Parcours en Grand Chelem	0.7839701771736145	False
+Carrera profesional	Début de carrière	0.7727101445198059	False
+Colecciones	Collections	0.9970697164535522	True
+Colecciones	Collection	0.9917090535163879	False
+Colecciones	Les collections	0.986786425113678	False
+Colecciones	Œuvres	0.9411909580230713	False
+Colecciones	Galerie	0.891599714756012	False
+Colecciones	Expositions	0.8127171397209167	False
+Colecciones	Composition	0.7297741770744324	False
+Colecciones	Expositions (sélection)	0.6571075916290283	False
+Colecciones	Histoire du musée	0.6398691534996033	False
+Colecciones	Description	0.5195426344871521	False
+Fallecimiento	Mort	0.9812242984771729	True
+Fallecimiento	Décès	0.9780281186103821	False
+Fallecimiento	Postérité	0.8076189756393433	False
+Fallecimiento	Mort et hommages	0.6687933802604675	False
+Fallecimiento	Vie privée	0.5518700480461121	False
+Fallecimiento	Biographie	0.4559544622898102	False
+Fallecimiento	Après la présidence	0.257167786359787	False
+Fallecimiento	Discographie	0.2529221177101135	False
+Fallecimiento	Personnalité	0.2511737048625946	False
+Fallecimiento	Hommages	0.17741459608078003	False
+Formación	Formation	0.9980981945991516	True
+Formación	Études	0.965116024017334	False
+Formación	Membres	0.9479379057884216	False
+Formación	Historique	0.8912312388420105	False
+Formación	Biographie	0.8595724701881409	False
+Formación	Carrière	0.7791081666946411	False
+Formación	Description	0.7710802555084229	False
+Formación	Jeunesse et formation	0.7691486477851868	False
+Formación	Éducation	0.7347946763038635	False
+Formación	Composition	0.6988480091094971	False
+Carrera política	Carrière politique	0.9979142546653748	True
+Carrera política	Parcours politique	0.9950422048568726	False
+Carrera política	Biographie	0.9855930209159851	False
+Carrera política	Carrière	0.9808061122894287	False
+Carrera política	Vie politique	0.9764940142631531	False
+Carrera política	Détail des mandats et fonctions	0.9567675590515137	False
+Carrera política	Carrière professionnelle	0.9122248291969299	False
+Carrera política	Politique	0.8784052133560181	False
+Carrera política	Carrière militaire	0.8537237644195557	False
+Carrera política	Débuts en politique	0.8389710187911987	False
+Nacimientos	Naissances	0.9967567324638367	True
+Nacimientos	Décès	0.9505598545074463	False
+Nacimientos	Notes et références	0.31681281328201294	False
+Nacimientos	Événements	0.29625287652015686	False
+Nacimientos	Évènements	0.20436066389083862	False
+Nacimientos	Arts, culture et religion	0.1321491003036499	False
+Nacimientos	Liens externes	0.09535080194473267	False
+Nacimientos	Célébrations	0.09533897787332535	False
+Nacimientos	Autres calendriers	0.05673617124557495	False
+Nacimientos	Sciences et techniques	0.05663205310702324	False
+Listado de canciones	Liste des pistes	0.9978107810020447	False
+Listado de canciones	Liste des chansons	0.9971093535423279	True
+Listado de canciones	Liste des titres	0.9960963129997253	False
+Listado de canciones	Singles	0.9780043959617615	False
+Listado de canciones	Composition du groupe	0.9471328854560852	False
+Listado de canciones	Membres du groupe	0.9466239809989929	False
+Listado de canciones	Album	0.8359801769256592	False
+Listado de canciones	Composition	0.7846047282218933	False
+Listado de canciones	Caractéristiques artistiques	0.7818724513053894	False
+Listado de canciones	Références	0.7375879287719727	False
+Títulos	Titulature	0.9900798797607422	False
+Títulos	Palmarès	0.9884632229804993	False
+Títulos	Titres	0.9732872247695923	True
+Títulos	Palmarès d'entraîneur	0.9679805040359497	False
+Títulos	Palmarès de joueur	0.966945469379425	False
+Títulos	Titres et honneurs	0.8883575797080994	False
+Títulos	Carrière en club	0.859099805355072	False
+Títulos	Histoire	0.8318429589271545	False
+Títulos	Carrière de joueur	0.8271610736846924	False
+Títulos	Jeux développés	0.8027940988540649	False
+Integrantes	Membres	0.9955446124076843	True
+Integrantes	Composition du groupe	0.9905276298522949	False
+Integrantes	Membres du groupe	0.9814046025276184	False
+Integrantes	Liste des titres	0.927129328250885	False
+Integrantes	Composition	0.9199661016464233	False
+Integrantes	Historique	0.7636242508888245	False
+Integrantes	Anciens membres	0.6785858869552612	False
+Integrantes	Histoire	0.6705338954925537	False
+Integrantes	Références	0.5320090055465698	False
+Integrantes	Discographie	0.5023648738861084	False
+Literatura	Littérature	0.9968031644821167	True
+Literatura	Bibliographie	0.9901360869407654	False
+Literatura	Ouvrages	0.9616411328315735	False
+Literatura	Œuvres	0.8827863335609436	False
+Literatura	Dans la culture populaire	0.7671763300895691	False
+Literatura	Peinture	0.54753577709198	False
+Literatura	Notes et références	0.5274637341499329	False
+Literatura	Art	0.5030401945114136	False
+Literatura	Histoire	0.47869089245796204	False
+Literatura	Architecture	0.45752763748168945	False
+Formato	Format	0.9972851276397705	True
+Formato	Format de la compétition	0.9914492964744568	False
+Formato	Calendrier	0.962758481502533	False
+Formato	Histoire	0.9515260457992554	False
+Formato	Synopsis	0.92762690782547	False
+Formato	Clubs qualifiés	0.9173188209533691	False
+Formato	Participants	0.9052994847297668	False
+Formato	Concept	0.8839345574378967	False
+Formato	Qualifications continentales	0.838742733001709	False
+Formato	Organisation	0.768450140953064	False
+Aplicaciones	Applications	0.997943103313446	True
+Aplicaciones	Utilisations	0.9787591695785522	False
+Aplicaciones	Utilisation	0.9748690724372864	False
+Aplicaciones	Versions	0.9690496325492859	False
+Aplicaciones	Application	0.9599075317382812	False
+Aplicaciones	Caractéristiques techniques	0.9130850434303284	False
+Aplicaciones	Variantes	0.90885329246521	False
+Aplicaciones	Implémentation	0.8292985558509827	False
+Aplicaciones	Développement	0.809089720249176	False
+Aplicaciones	Exemple	0.7599178552627563	False
+Cine	Cinéma	0.9971691966056824	True
+Cine	Filmographie	0.9527279734611511	False
+Cine	Cinéma et télévision	0.9480780363082886	False
+Cine	Arts	0.9154958724975586	False
+Cine	Adaptations	0.9138996601104736	False
+Cine	Dans la culture populaire	0.8621333837509155	False
+Cine	Filmographie partielle	0.8533885478973389	False
+Cine	Télévision	0.8287339806556702	False
+Cine	Fiction	0.8236594796180725	False
+Cine	Dans la culture	0.8215063810348511	False
+Símbolos	Symboles	0.9830939769744873	False
+Símbolos	Armoiries	0.8823778033256531	False
+Símbolos	Symbole	0.4138181209564209	True
+Símbolos	Couleurs et symboles	0.40689387917518616	False
+Símbolos	Héraldique	0.4039216935634613	False
+Símbolos	Emblèmes	0.22463703155517578	False
+Símbolos	Géographie	0.21106751263141632	False
+Símbolos	Couleurs et logos	0.20833338797092438	False
+Símbolos	Identité du club	0.20671898126602173	False
+Símbolos	Histoire	0.17480126023292542	False
+Diseño	Conception	0.9924389123916626	True
+Diseño	Design	0.9769443869590759	True
+Diseño	Caractéristiques techniques	0.9602135419845581	False
+Diseño	Modèles	0.9566943645477295	False
+Diseño	Concept	0.9566102623939514	False
+Diseño	Développement	0.9387237429618835	False
+Diseño	Architecture	0.9350006580352783	False
+Diseño	Fonctionnement	0.9302853345870972	False
+Diseño	Technique	0.9132784605026245	False
+Diseño	Présentation	0.9127355217933655	False
+Ejemplos	Exemples	0.9974519610404968	True
+Estilo	Style	0.9945218563079834	True
+Estilo	Style musical	0.9854612946510315	False
+Ejemplos	Exemple	0.9836175441741943	False
+Ejemplos	Quelques exemples	0.9592536687850952	False
+Ejemplos	Variantes	0.878750741481781	False
+Estilo	Son style	0.8298377990722656	False
+Estilo	Description	0.7912462949752808	False
+Estilo	Style de jeu	0.7711452841758728	False
+Estilo	Thèmes	0.7672932744026184	False
+Estilo	Œuvre	0.72275710105896	False
+Ejemplos	Exemples d'utilisation	0.666532039642334	False
+Estilo	Influences	0.6523313522338867	False
+Estilo	Style musical et influences	0.639114499092102	False
+Ejemplos	Cas particuliers	0.6348442435264587	False
+Ejemplos	Autres exemples	0.5883679389953613	False
+Ejemplos	Description	0.5755884647369385	False
+Estilo	Analyse	0.5615058541297913	False
+Ejemplos	Exemples et contre-exemples	0.5566210150718689	False
+Ejemplos	Structure	0.5556021332740784	False
+Críticas	Critiques	0.997465968132019	True
+Críticas	Critique	0.992642343044281	False
+Críticas	Accueil critique	0.9780457019805908	False
+Críticas	Réception critique	0.955672562122345	False
+Críticas	Accueil	0.9524138569831848	False
+Críticas	Controverses	0.9444996118545532	False
+Críticas	Citations	0.923602819442749	False
+Críticas	Commentaires	0.8999870419502258	False
+Críticas	Critiques et controverses	0.7923417687416077	False
+Críticas	Réception et critiques	0.7082912921905518	False
+Goleadores	Meilleurs buteurs	0.9941951632499695	True
+Goleadores	Buteurs	0.993998646736145	False
+Goleadores	Finale	0.9897868633270264	False
+Goleadores	Bilan de la saison	0.9889800548553467	False
+Goleadores	Classement des buteurs	0.9835249185562134	False
+Goleadores	Les clubs participants	0.9829607605934143	False
+Goleadores	Classements annexes	0.9717280864715576	False
+Goleadores	Vainqueur	0.9637631773948669	False
+Goleadores	Demi-finales	0.955636739730835	False
+Goleadores	Quarts de finale	0.9542887806892395	False
+Contexto	Contexte	0.998178243637085	True
+Contexto	Contexte historique	0.9899761080741882	False
+Contexto	Le contexte	0.9884073138237	False
+Contexto	Prélude	0.9801577925682068	False
+Contexto	Historique	0.9607563614845276	False
+Contexto	Genèse	0.9520952105522156	False
+Contexto	Contenu	0.9340600371360779	False
+Contexto	Origines	0.9190708994865417	False
+Contexto	Déroulement	0.8635079860687256	False
+Contexto	Concept	0.7699667811393738	False
+Inicios	Débuts	0.9905787110328674	True
+Inicios	Début de carrière	0.9757832884788513	False
+Inicios	Les débuts	0.9526752829551697	False
+Inicios	Origines	0.9502100348472595	False
+Inicios	Jeunesse	0.9157602787017822	False
+Inicios	Biographie	0.8945573568344116	False
+Inicios	Carrière musicale	0.8698096871376038	False
+Inicios	Débuts de carrière	0.8148704171180725	False
+Inicios	Histoire	0.8001955151557922	False
+Inicios	Carrière	0.746998131275177	False
+Fuente	Source	0.9973205924034119	True
+Fuente	Sources	0.9971712231636047	False
+Fuente	Notes et références	0.9811459183692932	False
+Fuente	Références	0.9743659496307373	False
+Fuente	Voir aussi	0.9432975053787231	False
+Fuente	Bibliographie	0.9308330416679382	False
+Fuente	Liens externes	0.9234423041343689	False
+Fuente	Articles connexes	0.875930905342102	False
+Fuente	Annexes	0.5427868962287903	False
+Fuente	Notes	0.330934077501297	False
+Clasificación final	Classement final	0.99365234375	True
+Clasificación final	Classement	0.9839388728141785	False
+Clasificación final	Compétition	0.9816900491714478	False
+Clasificación final	Classements	0.9808616042137146	False
+Clasificación final	Résultats	0.9792552590370178	False
+Clasificación final	Récit de la course	0.9753608107566833	False
+Clasificación final	Bilan de la saison	0.9316079616546631	False
+Clasificación final	Classement complet	0.9299166798591614	False
+Clasificación final	Les résultats	0.9244928956031799	False
+Clasificación final	Résumé de la course	0.9027168154716492	False
+Final	Finale	0.9977680444717407	True
+Final	Buteurs	0.9869797229766846	False
+Final	Demi-finales	0.9852966666221619	False
+Final	Quarts de finale	0.9701088666915894	False
+Final	Phase finale	0.9544395208358765	False
+Final	Meilleurs buteurs	0.9496537446975708	False
+Final	Classement des buteurs	0.947233259677887	False
+Final	Phase à élimination directe	0.9441397190093994	False
+Final	Compétition	0.94184410572052	False
+Final	Phase finale à élimination directe	0.9138860106468201	False
+Ecología	Écologie	0.9942048192024231	True
+Ecología	Biologie	0.9694253206253052	False
+Ecología	Distribution et habitat	0.961010217666626	False
+Ecología	Écologie et comportement	0.9582138061523438	False
+Ecología	Environnement	0.9421701431274414	False
+Ecología	Habitat et répartition	0.9381643533706665	False
+Ecología	Comportement	0.913189709186554	False
+Ecología	Répartition et habitat	0.9052475094795227	False
+Ecología	Répartition	0.901745080947876	False
+Ecología	Géographie	0.8906320929527283	False
+Gastronomía	Gastronomie	0.9876825213432312	True
+Gastronomía	Culture	0.8329582810401917	False
+Gastronomía	Arts de la table	0.7946950197219849	False
+Gastronomía	Économie	0.6462084650993347	False
+Gastronomía	Géographie	0.6286269426345825	False
+Gastronomía	Cuisine	0.6210345029830933	False
+Gastronomía	Culture et patrimoine	0.4633461534976959	False
+Gastronomía	Artisanat	0.3983846604824066	False
+Gastronomía	Démographie	0.3918456435203552	False
+Gastronomía	Histoire	0.38011878728866577	False
+Geografía física	Géographie	0.9898685216903687	True
+Geografía física	Géographie physique	0.9726212024688721	False
+Geografía física	Topographie	0.9574140310287476	False
+Geografía física	Situation	0.9217528104782104	False
+Geografía física	Hydrographie	0.9209496378898621	False
+Geografía física	Géologie	0.8850842118263245	False
+Geografía física	Hydrologie	0.8825732469558716	False
+Geografía física	Géographie humaine	0.8637763261795044	False
+Geografía física	Histoire	0.7909488081932068	False
+Geografía física	Culture et patrimoine	0.6625460386276245	False
+Banda sonora	Bande originale	0.9914290308952332	True
+Banda sonora	Musique	0.9904544949531555	False
+Banda sonora	Bande sonore	0.988720715045929	False
+Banda sonora	Bande son	0.9845932126045227	False
+Banda sonora	Chansons du film	0.9811792969703674	False
+Banda sonora	Bande Originale	0.9792187809944153	False
+Banda sonora	Bande originale du film	0.9470499753952026	False
+Banda sonora	Bande-originale	0.9264640808105469	False
+Banda sonora	Autour du film	0.9229896664619446	False
+Banda sonora	Bande-son	0.9182358384132385	False
+Situación	Situation	0.9968134760856628	True
+Situación	Contexte	0.9784247875213623	False
+Situación	Situation et accès	0.9748014211654663	False
+Situación	Géographie	0.9666770696640015	False
+Situación	Localisation	0.8170468807220459	False
+Situación	Conséquences	0.8139740228652954	False
+Situación	Société et services publics	0.6383612751960754	False
+Situación	Description	0.5669942498207092	False
+Situación	Histoire	0.5437514185905457	False
+Situación	Galerie	0.4179360568523407	False
+Tratamiento	Traitement	0.969745397567749	True
+Tratamiento	Traitements	0.8842012882232666	False
+Tratamiento	Pronostic	0.8074244260787964	False
+Tratamiento	Clinique	0.7248387336730957	False
+Tratamiento	Prévention et traitement	0.6685929298400879	False
+Tratamiento	Traitement et prise en charge	0.6545496582984924	False
+Tratamiento	Diagnostic	0.6526273488998413	False
+Tratamiento	Correction	0.6428756713867188	False
+Tratamiento	Prévention	0.6120975017547607	False
+Tratamiento	Diagnostic différentiel	0.6061319708824158	False
+Introducción	Introduction	0.9976497292518616	True
+Introducción	Présentation	0.9713928699493408	False
+Introducción	Résumé	0.9254909157752991	False
+Introducción	Histoire	0.9161422252655029	False
+Introducción	Définition	0.8425789475440979	False
+Introducción	Contexte	0.7846033573150635	False
+Introducción	Description	0.7832028865814209	False
+Introducción	Prélude	0.7211731672286987	False
+Introducción	Géographie	0.7158747315406799	False
+Introducción	Biographie	0.7091848850250244	False
+Municipios	Municipalités	0.9937490224838257	True
+Municipios	Communes	0.9862713813781738	False
+Municipios	Liste des communes	0.9743691682815552	False
+Municipios	Subdivisions	0.9678552746772766	False
+Municipios	Villes et municipalités	0.9654878377914429	False
+Municipios	Subdivisions administratives	0.9651362299919128	False
+Municipios	Dèmes (municipalités)	0.9638738036155701	False
+Municipios	Liste des municipalités	0.9502445459365845	False
+Municipios	Districts	0.9423635005950928	False
+Municipios	Villes et localités principales	0.8502084612846375	False
+En la cultura popular	Dans la culture populaire	0.9968259334564209	True
+En la cultura popular	Culture populaire	0.9966021776199341	False
+En la cultura popular	Dans la culture	0.9917929768562317	False
+En la cultura popular	Références dans la culture populaire	0.9862228035926819	False
+En la cultura popular	Dans la fiction	0.9759703874588013	False
+En la cultura popular	Au cinéma	0.9659713506698608	False
+En la cultura popular	Musique	0.9582303166389465	False
+En la cultura popular	Dans les œuvres de fiction	0.9472330808639526	False
+En la cultura popular	Références culturelles	0.9272042512893677	False
+En la cultura popular	Culture	0.9121063351631165	False
+Lanzamiento	Sortie	0.9774536490440369	False
+Lanzamiento	Parution	0.9637131094932556	False
+Lanzamiento	Ventes	0.9476874470710754	False
+Lanzamiento	Commercialisation	0.9443466067314148	False
+Lanzamiento	Clip	0.9420822858810425	False
+Lanzamiento	Lancement	0.9378339648246765	True
+Lanzamiento	Manga	0.9310950040817261	False
+Lanzamiento	Historique de sortie	0.923748254776001	False
+Lanzamiento	Déroulement de la mission	0.9181678295135498	False
+Lanzamiento	Développement	0.9099136590957642	False
+Lista de especies	Liste des espèces	0.9940341114997864	False
+Lista de especies	Liste d'espèces	0.9859441518783569	True
+Lista de especies	Liste des espèces et sous-espèces	0.9776327610015869	False
+Lista de especies	Liste des genres	0.9410783052444458	False
+Lista de especies	Taxinomie	0.9129674434661865	False
+Lista de especies	Liens externes	0.20376679301261902	False
+Lista de especies	Description	0.11872027069330215	False
+Lista de especies	Répartition	0.10755493491888046	False
+Lista de especies	Systématique	0.06670254468917847	False
+Lista de especies	Notes et références	0.019862255081534386	False
+Participantes	Participants	0.9945916533470154	True
+Participantes	Équipes participantes	0.9854987859725952	False
+Participantes	Nations participantes	0.9823378324508667	False
+Participantes	Participation	0.9780080914497375	False
+Participantes	Les clubs participants	0.9702954888343811	False
+Participantes	Récit de la course	0.9625639319419861	False
+Participantes	Tableau des médailles	0.9488927721977234	False
+Participantes	Déroulement de la course	0.9331053495407104	False
+Participantes	Les clubs de l'édition 2017-2018	0.8990699052810669	False
+Participantes	Qualifications	0.8862672448158264	False
+Definición	Définition	0.9983518123626709	True
+Definición	Définitions	0.9908072352409363	False
+Definición	Définition formelle	0.8797005414962769	False
+Definición	Origine du terme	0.815000057220459	False
+Definición	Propriétés élémentaires	0.7855827212333679	False
+Definición	Définition générale	0.7752330303192139	False
+Definición	Classification	0.760993242263794	False
+Definición	Éléments de définition	0.6745409965515137	False
+Definición	Caractéristiques	0.6427476406097412	False
+Definición	Géographie	0.6150122880935669	False
+Fase final	Phase finale	0.9972136616706848	True
+Fase final	Tour final	0.9873884320259094	False
+Fase final	Phase Finale	0.9825655221939087	False
+Fase final	Quarts de finale	0.9801669716835022	False
+Fase final	Finale	0.9698230624198914	False
+Fase final	Huitièmes de finale	0.957216203212738	False
+Fase final	Déroulement de la compétition	0.9500758051872253	False
+Fase final	Matchs de classement	0.9496689438819885	False
+Fase final	Phase de groupes	0.9442905783653259	False
+Fase final	Demi-finales	0.9430421590805054	False
+Personajes ilustres	Personnalités	0.9919335246086121	False
+Personajes ilustres	Personnages célèbres	0.991899847984314	True
+Personajes ilustres	Personnalités liées à la commune	0.9886609315872192	False
+Personajes ilustres	Personnalités liées	0.9805753231048584	False
+Personajes ilustres	Personnalités liées à la ville	0.9793500304222107	False
+Personajes ilustres	Personnalités de la commune	0.9786579608917236	False
+Personajes ilustres	Lieux et monuments	0.9735482931137085	False
+Personajes ilustres	Personnages illustres	0.9735402464866638	False
+Personajes ilustres	Personnalité	0.9457715749740601	False
+Personajes ilustres	Personnalités célèbres	0.9341745376586914	False
+Matrimonio y descendencia	Mariage et descendance	0.9955711960792542	True
+Matrimonio y descendencia	Descendance	0.992457389831543	False
+Matrimonio y descendencia	Famille	0.9884316921234131	False
+Matrimonio y descendencia	Mariages et descendance	0.9862450361251831	False
+Matrimonio y descendencia	Union et postérité	0.9856350421905518	False
+Matrimonio y descendencia	Mariage et enfants	0.9838621020317078	False
+Matrimonio y descendencia	Famille et descendance	0.9830580353736877	False
+Matrimonio y descendencia	Union et descendance	0.9821116924285889	False
+Matrimonio y descendencia	Mariage	0.9786362051963806	False
+Matrimonio y descendencia	Unions et postérité	0.9769049882888794	False
+Flota	Flotte	0.9982179999351501	True
+Fauna	Faune	0.9963592886924744	True
+Fauna	Faune et flore	0.9853844046592712	False
+Fauna	Flore et faune	0.9780404567718506	False
+Flota	La flotte	0.9423070549964905	False
+Fauna	La faune	0.934712290763855	False
+Flota	Flotte aérienne	0.9327971935272217	False
+Flota	Flotte historique	0.9162794351577759	False
+Fauna	Faune et Flore	0.9034801125526428	False
+Fauna	Flore	0.8391082286834717	False
+Flota	Aéronefs	0.8087708950042725	False
+Flota	Galerie	0.7990937232971191	False
+Fauna	Galerie	0.7639291286468506	False
+Flota	Histoire	0.7326089143753052	False
+Fauna	Environnement	0.6565811038017273	False
+Flota	Accidents	0.6302193403244019	False
+Flota	Service	0.5948636531829834	False
+Fauna	Écologie	0.5685611963272095	False
+Fauna	Biologie	0.5596951246261597	False
+Flota	Alliance	0.3031843602657318	False
+Imágenes	Images	0.9965454936027527	True
+Imágenes	Galerie	0.9758152961730957	False
+Imágenes	Notes et références	0.9297564029693604	False
+Imágenes	Galerie de photos	0.8785291910171509	False
+Imágenes	Liens externes	0.6608352661132812	False
+Imágenes	Liste des genres	0.39117008447647095	False
+Imágenes	Voir aussi	0.382872074842453	False
+Imágenes	Références	0.3694708049297333	False
+Imágenes	Galerie d'images	0.34932827949523926	False
+Imágenes	Tourisme	0.2815339267253876	False
+Deporte	Sports	0.9940687417984009	False
+Deporte	Sport	0.992831826210022	True
+Deporte	Enseignement supérieur	0.7556006908416748	False
+Deporte	Culture	0.7400984764099121	False
+Deporte	Économie	0.6267839670181274	False
+Deporte	Éducation	0.5215026140213013	False
+Deporte	Sports et loisirs	0.3864106833934784	False
+Deporte	Culture et patrimoine	0.34799623489379883	False
+Deporte	Média	0.32146692276000977	False
+Deporte	Géographie	0.31981372833251953	False
+Especificaciones	Spécifications	0.9944170713424683	True
+Especificaciones	Spécifications techniques	0.989065408706665	False
+Especificaciones	Caractéristiques techniques	0.9742853045463562	False
+Especificaciones	Caractéristiques	0.9742252230644226	False
+Especificaciones	Versions	0.9525246024131775	False
+Especificaciones	Utilisation	0.9197579026222229	False
+Especificaciones	Présentation	0.8918132185935974	False
+Especificaciones	Variantes	0.8624992966651917	False
+Especificaciones	Conception et développement	0.8578057885169983	False
+Especificaciones	Technique	0.8554911017417908	False
+Nombre	Nom	0.9965292811393738	True
+Nombre	Noms	0.9928237199783325	False
+Nombre	Étymologie	0.9790234565734863	False
+Nombre	Dénomination	0.9737029671669006	False
+Comunicaciones	Communications	0.9734540581703186	True
+Nombre	Origine du nom	0.9686638712882996	False
+Comunicaciones	Transports	0.9657956957817078	False
+Nombre	Toponymie	0.9655831456184387	False
+Nombre	Prénom	0.9601880311965942	False
+Comunicaciones	Transport	0.9568659067153931	False
+Comunicaciones	Communication	0.8556692004203796	False
+Nombre	Nom traditionnel	0.8331308364868164	False
+Comunicaciones	Géographie	0.8027742505073547	False
+Comunicaciones	Économie	0.7750679850578308	False
+Comunicaciones	Politique et administration	0.755276083946228	False
+Nombre	Nom commun	0.7055045962333679	False
+Nombre	Histoire	0.6725702881813049	False
+Comunicaciones	Culture et patrimoine	0.5316908359527588	False
+Comunicaciones	Communes	0.4147743880748749	False
+Comunicaciones	Environnement et accès	0.30625075101852417	False
+Funciones	Fonctions	0.9966141581535339	True
+Funciones	Fonction	0.9891861081123352	False
+Funciones	Fonctionnalités	0.9875572919845581	False
+Funciones	Structure	0.9076558351516724	False
+Funciones	Missions	0.8399609923362732	False
+Funciones	Fonctionnement	0.7202939987182617	False
+Funciones	Histoire	0.6426246762275696	False
+Funciones	Caractéristiques	0.5178828835487366	False
+Funciones	Description	0.32455432415008545	False
+Funciones	Compétences	0.30357494950294495	False
+Transportes	Transports	0.9965746402740479	True
+Transportes	Transport	0.9847553372383118	False
+Transportes	Voies de communication et transports	0.832813560962677	False
+Transportes	Économie	0.801342785358429	False
+Transportes	Transports et communications	0.6008151173591614	False
+Transportes	Administration	0.5940054655075073	False
+Transportes	Situation	0.5562874674797058	False
+Transportes	Tourisme	0.5298300981521606	False
+Transportes	Aéroport	0.5164676904678345	False
+Transportes	Géographie	0.4325016736984253	False
+Estudios	Études	0.9968602657318115	True
+Estudios	Formation	0.9483139514923096	False
+Estudios	Biographie	0.7471625208854675	False
+Estudios	Recherche	0.7292400598526001	False
+Estudios	Travaux	0.26983675360679626	False
+Estudios	Jeunesse et formation	0.2647530734539032	False
+Estudios	Publications	0.22233761847019196	False
+Estudios	Histoire	0.21305160224437714	False
+Estudios	Carrière militaire	0.2053576558828354	False
+Estudios	Jeunesse	0.18764109909534454	False
+Distinciones	Distinctions	0.9961768388748169	True
+Distinciones	Distinction	0.9905521869659424	False
+Distinciones	Récompenses	0.9809540510177612	False
+Distinciones	Décorations	0.9802830219268799	False
+Distinciones	Prix et distinctions	0.9762391448020935	False
+Distinciones	Distinctions et récompenses	0.9576272368431091	False
+Distinciones	Récompenses et nominations	0.9329619407653809	False
+Distinciones	Palmarès	0.7776358723640442	False
+Distinciones	Galerie	0.7164073586463928	False
+Distinciones	Hommages	0.5770045518875122	False
+Objetivos	Objectifs	0.9972636699676514	True
+Objetivos	Objectifs scientifiques	0.9727521538734436	False
+Objetivos	Les objectifs	0.9304552674293518	False
+Objetivos	Caractéristiques techniques	0.9166392087936401	False
+Objetivos	Objectifs de la mission	0.9147509336471558	False
+Objetivos	Déroulement de la mission	0.8120982050895691	False
+Objetivos	Contexte	0.7918869853019714	False
+Objetivos	Idéologie	0.7757225036621094	False
+Objetivos	Système de jeu	0.6198428869247437	False
+Objetivos	Buts	0.585336446762085	False
+Actividades	Activités	0.997035026550293	True
+Actividades	Actions	0.9022657871246338	False
+Actividades	Activité	0.8469164967536926	False
+Actividades	Missions	0.7294796705245972	False
+Actividades	Tourisme	0.6006168127059937	False
+Actividades	Biographie	0.5581267476081848	False
+Actividades	Objectifs	0.49910181760787964	False
+Actividades	Publications	0.3844356834888458	False
+Actividades	Organisation	0.3818311095237732	False
+Actividades	Installations	0.27373021841049194	False
+Ediciones	Éditions	0.9881103038787842	True
+Ediciones	Publications	0.9711325764656067	False
+Ediciones	Œuvres	0.9457612037658691	False
+Ediciones	Palmarès	0.9268150925636292	False
+Ediciones	Historique	0.8578237891197205	False
+Ediciones	Développement	0.8144352436065674	False
+Ediciones	Les traductions	0.7352748513221741	False
+Ediciones	Présentation	0.6880435943603516	False
+Ediciones	Histoire	0.6796249747276306	False
+Ediciones	Toutes les éditions	0.6121171712875366	False
+División administrativa	Divisions administratives	0.9792965054512024	False
+División administrativa	Subdivisions administratives	0.975795328617096	False
+División administrativa	Subdivisions	0.9719241261482239	False
+División administrativa	Démographie	0.9613597393035889	False
+División administrativa	Géographie	0.9451881051063538	False
+División administrativa	Subdivision administrative	0.9394649863243103	False
+División administrativa	Organisation administrative	0.939445972442627	False
+División administrativa	Administration	0.9294903874397278	False
+División administrativa	Politique et administration	0.9124811291694641	False
+División administrativa	Division administrative	0.9015935063362122	True
+Conservación	Conservation	0.9952644109725952	True
+Conservación	Statut de conservation	0.9843686819076538	False
+Conservación	Menaces et conservation	0.9600540995597839	False
+Conservación	Population et conservation	0.9518775939941406	False
+Conservación	Sauvegarde	0.9514578580856323	False
+Conservación	Préservation	0.9371989369392395	False
+Conservación	Protection	0.9109673500061035	False
+Conservación	Écologie et comportement	0.9027683138847351	False
+Conservación	Statut et préservation	0.8693314790725708	False
+Conservación	Distribution et habitat	0.8454607129096985	False
+Religión	Religion	0.995894193649292	True
+Religión	Religions	0.9584617018699646	False
+Religión	Culture	0.7886595726013184	False
+Religión	Vie privée	0.7682559490203857	False
+Religión	Économie	0.7677178978919983	False
+Religión	Démographie	0.7117184996604919	False
+Religión	Traditions	0.6349285244941711	False
+Religión	Historiographie	0.5248196721076965	False
+Religión	Culture et patrimoine	0.4964914917945862	False
+Religión	Enseignement	0.4734715521335602	False
+Aerolíneas y destinos	Compagnies et destinations	0.995732843875885	False
+Aerolíneas y destinos	Compagnies aériennes et destinations	0.9951658248901367	True
+Aerolíneas y destinos	Compagnies aériennes	0.9653705954551697	False
+Aerolíneas y destinos	Destinations	0.9599149823188782	False
+Aerolíneas y destinos	Compagnie et destinations	0.8868008255958557	False
+Aerolíneas y destinos	Destinations desservies	0.8020024299621582	False
+Aerolíneas y destinos	Trafic passager	0.7092798948287964	False
+Aerolíneas y destinos	Trafic aérien	0.689642608165741	False
+Aerolíneas y destinos	Installations	0.5415178537368774	False
+Aerolíneas y destinos	Compagnie aériennes et destinations desservies	0.5202980637550354	False
+Otras versiones	Autres versions	0.9974923133850098	True
+Otras versiones	Versions	0.9932143688201904	False
+Otras versiones	Versions alternatives	0.989719808101654	False
+Otras versiones	Reprises	0.9725960493087769	False
+Otras versiones	Différentes versions	0.9642256498336792	False
+Otras versiones	Historique des versions	0.8990275859832764	False
+Otras versiones	Adaptations	0.8590489029884338	False
+Otras versiones	Rééditions	0.8489537835121155	False
+Otras versiones	Reprises et adaptations	0.8349267840385437	False
+Otras versiones	Pouvoirs, capacités et équipement	0.6214226484298706	False
+Controversias	Controverses	0.9968438148498535	True
+Controversias	Controverse	0.9891151189804077	False
+Controversias	Polémiques	0.9842674136161804	False
+Controversias	Polémique	0.8767832517623901	False
+Controversias	Critiques et controverses	0.8621050715446472	False
+Controversias	Controverses et critiques	0.8450247645378113	False
+Controversias	Vie personnelle	0.7882329225540161	False
+Controversias	Positions politiques	0.76751309633255	False
+Controversias	Conséquences	0.7482924461364746	False
+Controversias	Critiques	0.7144195437431335	False
+Etapas	Étapes	0.9969706535339355	True
+Resumen	Résumé	0.9958059787750244	True
+Etapas	Les étapes	0.9909487366676331	False
+Resumen	Synopsis	0.9888007640838623	False
+Etapas	Récit de la course	0.9872879981994629	False
+Etapas	Classement général	0.9574287533760071	False
+Etapas	Déroulement de la course	0.9369876980781555	False
+Etapas	Classements finals<!--LE PLURIEL DE FINAL EST FINALS : http://www.larousse.fr/dictionnaires/francais/finals ; http://fr.wiktionary.org/wiki/finals-->	0.9320361018180847	False
+Etapas	Évolution des classements	0.9288426041603088	False
+Etapas	Classement final	0.902399480342865	False
+Etapas	Classement général final	0.8847150206565857	False
+Etapas	Résultats des étapes	0.8768954277038574	False
+Resumen	Description	0.8726933002471924	False
+Resumen	Distribution	0.8432966470718384	False
+Resumen	Histoire	0.7816534042358398	False
+Resumen	Présentation	0.7226719856262207	False
+Resumen	Contexte historique	0.6880517601966858	False
+Resumen	Principes	0.683661699295044	False
+Resumen	Contexte	0.6721647381782532	False
+Resumen	Commentaire	0.6652806997299194	False
+Temporadas	Saisons	0.9849035739898682	True
+Temporadas	Épisodes	0.9136506915092468	False
+Temporadas	Bilan par saison	0.8535079956054688	False
+Temporadas	Palmarès	0.8391612768173218	False
+Temporadas	Histoire	0.827222466468811	False
+Temporadas	Audiences	0.5974589586257935	False
+Temporadas	Distribution	0.5766652226448059	False
+Temporadas	Historique	0.5220082402229309	False
+Temporadas	Audience	0.371092289686203	False
+Temporadas	Univers de la série	0.22845792770385742	False
+Resultados electorales	Résultats électoraux	0.9960368275642395	True
+Resultados electorales	Résultats	0.9813129901885986	False
+Resultados electorales	Candidats	0.9736002683639526	False
+Resultados electorales	Campagne	0.9504894018173218	False
+Resultados electorales	Sondages	0.8712854385375977	False
+Resultados electorales	Dirigeants	0.7860803604125977	False
+Resultados electorales	Mode de scrutin	0.6979575157165527	False
+Resultados electorales	Contexte	0.693339467048645	False
+Resultados electorales	Histoire	0.6189102530479431	False
+Resultados electorales	Historique	0.6034842729568481	False
+Gobierno	Gouvernement	0.981278121471405	False
+Gobierno	Politique et administration	0.9675897359848022	True
+Gobierno	Politique	0.9593012928962708	False
+Gobierno	Administration et politique	0.9114891886711121	False
+Gobierno	Administration	0.9032794237136841	True
+Gobierno	Économie	0.7156062126159668	False
+Gobierno	Organisation administrative	0.635400116443634	False
+Gobierno	Subdivisions	0.5691203474998474	False
+Gobierno	Règne	0.5369492769241333	False
+Gobierno	Politique et société	0.39265525341033936	False
+Tipos	Types	0.9959703683853149	True
+Tipos	Typologie	0.9575835466384888	False
+Tipos	Caractéristiques techniques	0.829171359539032	False
+Tipos	Applications	0.7800395488739014	False
+Tipos	Fonctionnement	0.7355830669403076	False
+Tipos	Typologies	0.7063527703285217	False
+Tipos	Utilisations	0.6471472978591919	False
+Tipos	Caractéristiques	0.6271617412567139	False
+Tipos	Principes	0.5373108983039856	False
+Tipos	Principe	0.518898606300354	False
+Premios y distinciones	Prix et distinctions	0.995973527431488	True
+Premios y distinciones	Distinctions	0.990429162979126	False
+Premios y distinciones	Récompenses et distinctions	0.9902803301811218	False
+Premios y distinciones	Récompenses	0.9783087372779846	False
+Premios y distinciones	Prix	0.9680708646774292	False
+Premios y distinciones	Honneurs	0.9629199504852295	False
+Premios y distinciones	Récompenses et honneurs	0.9600012302398682	False
+Premios y distinciones	Prix et récompenses	0.9371968507766724	False
+Premios y distinciones	Distinctions et récompenses	0.9147982001304626	False
+Premios y distinciones	Prix littéraires	0.9095688462257385	False
+Infraestructura	Infrastructures	0.9926857948303223	False
+Infraestructura	Infrastructure	0.9799782633781433	True
+Infraestructura	Structures du club	0.9138693809509277	False
+Infraestructura	Économie	0.9049059152603149	False
+Infraestructura	Transports	0.9005882143974304	False
+Infraestructura	Population et société	0.8907116055488586	False
+Infraestructura	Géographie	0.6489381194114685	False
+Infraestructura	Environnement	0.6178179979324341	False
+Infraestructura	Voies de communication et transports	0.5751175880432129	False
+Infraestructura	Éducation	0.5278372168540955	False
+Cronología	Chronologie	0.9916588664054871	True
+Cronología	Histoire	0.9491785168647766	False
+Cronología	Historique	0.9305636882781982	False
+Cronología	Discographie	0.8989266157150269	False
+Cronología	Repères chronologiques	0.8913118243217468	False
+Cronología	Membres	0.885595440864563	False
+Cronología	Biographie	0.8768280744552612	False
+Cronología	Déroulement	0.8446000814437866	False
+Cronología	Distribution	0.7220702171325684	False
+Cronología	Jeux	0.6707344055175781	False
+Diagnóstico	Diagnostic	0.9960514903068542	True
+Diagnóstico	Diagnostic différentiel	0.9612851738929749	False
+Diagnóstico	Prévention et traitement	0.9353002905845642	False
+Diagnóstico	Signes cliniques	0.9291412830352783	False
+Diagnóstico	Pronostic	0.9019715785980225	False
+Diagnóstico	Formes cliniques	0.8721296787261963	False
+Diagnóstico	Pathogénie	0.8678380250930786	False
+Diagnóstico	Traitement	0.8646411299705505	False
+Diagnóstico	Dépistage	0.861734926700592	False
+Diagnóstico	Epidémiologie	0.8454669117927551	False
+Funcionamiento	Fonctionnement	0.9963852167129517	True
+Accesos	Accès	0.9933664202690125	True
+Funcionamiento	Principe	0.9731037616729736	False
+Funcionamiento	Principe de fonctionnement	0.9594199657440186	False
+Accesos	Services aux voyageurs	0.9282581806182861	False
+Accesos	À proximité	0.9220635890960693	False
+Funcionamiento	Description	0.8536393642425537	False
+Accesos	Annexes	0.8317572474479675	False
+Funcionamiento	Caractéristiques	0.8266422152519226	False
+Funcionamiento	Caractéristiques techniques	0.7005823850631714	False
+Funcionamiento	Structure	0.6334102749824524	False
+Funcionamiento	Mode de fonctionnement	0.5559375882148743	False
+Funcionamiento	Présentation générale	0.5413177013397217	False
+Funcionamiento	Organisation	0.5359274744987488	False
+Accesos	Description	0.457161545753479	False
+Accesos	Situation	0.30401328206062317	False
+Accesos	Trafic	0.25308704376220703	False
+Accesos	Situation sur le réseau	0.2063269019126892	False
+Accesos	Fréquentation	0.18157021701335907	False
+Accesos	Géographie	0.12661923468112946	False
+Operadores	Opérateurs	0.9953725934028625	True
+Últimos años	Dernières années	0.9896202683448792	True
+Operadores	Utilisateurs	0.989617109298706	False
+Últimos años	Les dernières années	0.9851653575897217	False
+Últimos años	Fin de vie	0.9810391664505005	False
+Operadores	Opérateur	0.9720251560211182	False
+Operadores	Pays utilisateurs	0.9612602591514587	False
+Operadores	Commandes	0.927005410194397	False
+Últimos años	Fin de carrière	0.9227414131164551	False
+Operadores	Utilisateurs militaires	0.9203174710273743	False
+Últimos años	Vieillesse	0.9071489572525024	False
+Operadores	Utilisateurs civils	0.8374118208885193	False
+Operadores	En service	0.8201116323471069	False
+Operadores	Les versions	0.6889628171920776	False
+Operadores	Pays opérateurs	0.6569996476173401	False
+Últimos años	Début de la vie	0.5488156080245972	False
+Últimos años	Seconde Guerre mondiale	0.543578565120697	False
+Últimos años	Biographie	0.442892462015152	False
+Últimos años	Carrière politique	0.4210551679134369	False
+Últimos años	Débuts	0.36782562732696533	False
+Instalaciones	Installations	0.9930441975593567	False
+Instalaciones	Infrastructures	0.9894275069236755	False
+Instalaciones	Services	0.9648189544677734	False
+Instalaciones	Implantation	0.9419931173324585	False
+Instalaciones	Campus	0.9197564125061035	False
+Instalaciones	Sites de production	0.9185395836830139	False
+Instalaciones	Organisation	0.7342676520347595	False
+Instalaciones	Équipements	0.6969674229621887	True
+Instalaciones	Structure	0.6048633456230164	False
+Instalaciones	La salle	0.4881703555583954	False
+Promoción	Promotion	0.9967116117477417	True
+Promoción	Singles	0.9628512859344482	False
+Promoción	Performance commerciale	0.9274399280548096	False
+Promoción	Sortie et promotion	0.9173716902732849	False
+Promoción	Clip	0.9009761810302734	False
+Promoción	Développement	0.7499163746833801	False
+Promoción	Caractéristiques artistiques	0.7312708497047424	False
+Promoción	Performance dans les hit-parades	0.7134344577789307	False
+Promoción	Ventes	0.6828681826591492	False
+Promoción	Accueil critique	0.6521465182304382	False
+Condecoraciones	Décorations	0.9962049126625061	True
+Condecoraciones	Distinctions	0.9803928732872009	False
+Condecoraciones	Distinction	0.9796310663223267	False
+Condecoraciones	Honneurs	0.9746019840240479	False
+Condecoraciones	Distinctions honorifiques	0.9744157791137695	False
+Condecoraciones	Décoration	0.9687250852584839	False
+Condecoraciones	Récompenses	0.9676546454429626	False
+Condecoraciones	Distinctions et décorations	0.9346872568130493	False
+Condecoraciones	Prix et récompenses	0.8561291694641113	False
+Condecoraciones	Reconnaissance	0.7979996800422668	False
+Certificaciones	Certifications	0.9941768646240234	True
+Certificaciones	Classements et certifications	0.9797245264053345	False
+Certificaciones	Performance dans les hit-parades	0.9331912994384766	False
+Certificaciones	Classements	0.917481005191803	False
+Certificaciones	Classement et certifications	0.8802658915519714	False
+Certificaciones	Album	0.8768514394760132	False
+Certificaciones	Performance dans les hits-parades	0.8658174276351929	False
+Certificaciones	Classements, certifications et successions	0.8367831707000732	False
+Certificaciones	Classements, volumes et certifications	0.8293322920799255	False
+Certificaciones	Ventes	0.8165023326873779	False
+Controversia	Controverse	0.9964889287948608	True
+Controversia	Controverses	0.993984043598175	False
+Controversia	Polémiques	0.9502134919166565	False
+Controversia	Polémique	0.8756726980209351	False
+Controversia	Critiques	0.8732674717903137	False
+Controversia	Critiques et controverses	0.8685057759284973	False
+Controversia	Réception	0.7293819189071655	False
+Controversia	Réactions	0.6472458839416504	False
+Controversia	Conséquences	0.6326074004173279	False
+Controversia	Synopsis	0.409731388092041	False
+Sistemática	Systématique	0.9947346448898315	True
+Sistemática	Liste des genres	0.9773598313331604	False
+Sistemática	Classification	0.9682120680809021	False
+Sistemática	Paléobiologie	0.9518792033195496	False
+Sistemática	Phylogénie	0.948117733001709	False
+Sistemática	Liste des espèces	0.9440925717353821	False
+Sistemática	Taxinomie	0.9417427182197571	False
+Sistemática	Sous-espèces	0.9379696846008301	False
+Sistemática	Liste alphabétique des genres	0.9321963787078857	False
+Sistemática	Liste des familles	0.9288235902786255	False
+Cráteres satélite	Cratères satellites	0.9896770715713501	True
+Cráteres satélite	Localisation	0.09870874881744385	False
+Cráteres satélite	Caractéristiques	0.08077952265739441	False
+Cráteres satélite	Notes et références	0.04661470279097557	False
+Cráteres satélite	Voir aussi	0.04122798144817352	False
+Carrera musical	Carrière musicale	0.9940857887268066	True
+Carrera musical	Carrière	0.9779916405677795	False
+Carrera musical	Biographie	0.9668049812316895	False
+Carrera musical	Biographie et carrière	0.9658239483833313	False
+Carrera musical	Discographie	0.9018539190292358	False
+Carrera musical	Style musical	0.8966928124427795	False
+Carrera musical	Vie et carrière	0.8428009152412415	False
+Carrera musical	Carrière sportive	0.841755747795105	False
+Carrera musical	Singles	0.8313159346580505	False
+Carrera musical	Histoire	0.7837547063827515	False
+Ver también	Articles connexes	0.9877507090568542	False
+Ver también	Voir aussi	0.9759572148323059	True
+Ver también	Annexes	0.6243762373924255	False
+Ver también	Liens externes	0.5760582685470581	False
+Ver también	Lien externe	0.527788519859314	False
+Ver también	Dans la culture	0.4433700442314148	False
+Ver también	Synopsis	0.34080931544303894	False
+Ver también	Caractéristiques	0.3096144199371338	False
+Ver también	Histoire	0.3009972870349884	False
+Ver también	Analyse	0.29153168201446533	False
+Referencias culturales	Références culturelles	0.9916898012161255	True
+Referencias culturales	Dans la culture	0.9659532904624939	False
+Referencias culturales	Dans la culture populaire	0.9542074799537659	False
+Referencias culturales	Contenu	0.9368149042129517	False
+Referencias culturales	Culture populaire	0.9277217984199524	False
+Referencias culturales	Parodies	0.9148048758506775	False
+Referencias culturales	Référence culturelle	0.905815601348877	False
+Referencias culturales	Culture	0.9056271910667419	False
+Referencias culturales	Références	0.8923784494400024	False
+Referencias culturales	Cinéma	0.7690590620040894	False
+Exposiciones	Expositions	0.9971721768379211	True
+Exposiciones	Publications	0.9127531051635742	False
+Exposiciones	Expositions personnelles	0.906132161617279	False
+Exposiciones	Œuvres	0.8292821049690247	False
+Exposiciones	Principales œuvres	0.8254691958427429	False
+Exposiciones	Galerie	0.5271390080451965	False
+Exposiciones	Quelques œuvres	0.5043290853500366	False
+Exposiciones	Réalisations	0.4340549111366272	False
+Exposiciones	Biographie	0.28134748339653015	False
+Exposiciones	Histoire	0.16384626924991608	False
+Análisis	Analyse	0.996410071849823	True
+Cultivo	Culture	0.9824037551879883	True
+Análisis	Structure	0.917540431022644	False
+Análisis	Description et analyse	0.9131056070327759	False
+Análisis	Analyse de l'œuvre	0.8977206349372864	False
+Cultivo	Variétés cultivées	0.8911248445510864	False
+Análisis	Description	0.8714580535888672	False
+Cultivo	Taxonomie	0.8502684235572815	False
+Análisis	Musique	0.8303545117378235	False
+Cultivo	Écologie	0.7828378677368164	False
+Análisis	Technique	0.7098320722579956	False
+Cultivo	Culture et utilisation	0.6404537558555603	False
+Cultivo	Cultivars	0.633773684501648	False
+Análisis	Composition	0.6294994950294495	False
+Cultivo	Répartition et habitat	0.5402258038520813	False
+Cultivo	Variétés	0.5342633724212646	False
+Cultivo	Production	0.5312418937683105	False
+Análisis	Histoire de l'œuvre	0.4992891550064087	False
+Cultivo	Pollinisation	0.4617772102355957	False
+Análisis	Applications	0.39150533080101013	False
+Calendario	Calendrier	0.9974506497383118	True
+Calendario	Calendrier et règlement	0.9239946007728577	False
+Calendario	Déroulement	0.9093566536903381	False
+Calendario	Épreuves	0.8505499362945557	False
+Calendario	Classements	0.8133876323699951	False
+Calendario	Calendrier / Résultats	0.7434072494506836	False
+Calendario	Repères de début de saison	0.6838985085487366	False
+Calendario	Présentation	0.6505972146987915	False
+Calendario	Compétition	0.6200751066207886	False
+Calendario	Classement	0.5735993385314941	False
+La batalla	La bataille	0.998034656047821	True
+La batalla	Bataille	0.9958068132400513	False
+La batalla	Déroulement de la bataille	0.990257978439331	False
+La batalla	Déroulement	0.9829674959182739	False
+La batalla	Le déroulement de la bataille	0.9765839576721191	False
+La batalla	Combats	0.9740788340568542	False
+La batalla	Le siège	0.9708831310272217	False
+La batalla	Le combat	0.9547917246818542	False
+La batalla	Campagne précédant la bataille	0.9063743352890015	False
+La batalla	Forces en présence	0.8690316677093506	False
+Adaptaciones	Adaptations	0.9986366629600525	True
+Descendencia	Descendance	0.9984980821609497	True
+Adaptaciones	Adaptation	0.9950240254402161	False
+Descendencia	Mariage et descendance	0.9911940693855286	False
+Descendencia	Union et postérité	0.9865937232971191	False
+Descendencia	Postérité	0.9860407114028931	False
+Adaptaciones	Adaptation cinématographique	0.9859679937362671	False
+Descendencia	Famille	0.9842802286148071	False
+Adaptaciones	Adaptations cinématographiques	0.9819968342781067	False
+Descendencia	Famille et descendance	0.9806982278823853	False
+Adaptaciones	Adaptation au cinéma	0.9798688292503357	False
+Descendencia	Union et descendance	0.9794147610664368	False
+Descendencia	Mariages et descendance	0.9764386415481567	False
+Descendencia	Enfants	0.9721090793609619	False
+Descendencia	Mariage et enfants	0.9689843654632568	False
+Adaptaciones	Adaptations au cinéma	0.9613245129585266	False
+Adaptaciones	Adaptations à l'écran	0.9593402147293091	False
+Adaptaciones	Adaptation télévisée	0.942651093006134	False
+Adaptaciones	Différentes versions	0.9126393795013428	False
+Adaptaciones	Autres apparitions	0.8983595371246338	False
+Destinos	Destinations	0.9969221949577332	True
+Destinos	Compagnies aériennes et destinations	0.9410021901130676	False
+Destinos	Compagnies et destinations	0.9118899703025818	False
+Destinos	Réseau	0.8431161046028137	False
+Destinos	Partage de codes	0.7517172694206238	False
+Destinos	Partenariats	0.5482129454612732	False
+Destinos	Services	0.5286006927490234	False
+Destinos	Histoire	0.48952436447143555	False
+Destinos	Historique	0.45918649435043335	False
+Destinos	Flotte	0.2528265714645386	False
+Flora	Flore	0.9924391508102417	True
+Flora	Faune et flore	0.93306565284729	False
+Flora	Flore et faune	0.9158622026443481	False
+Flora	Faune	0.8002033233642578	False
+Flora	Paléogéographie	0.6962972283363342	False
+Flora	Géographie	0.6186403632164001	False
+Flora	Climat	0.28617003560066223	False
+Flora	Hydrographie	0.2698240578174591	False
+Flora	Géologie	0.2530026435852051	False
+Flora	Hydrologie	0.21747568249702454	False
+Programación	Programmation	0.9955287575721741	True
+Programación	Programmes	0.9954385161399841	False
+Programación	Présentation	0.9145570397377014	False
+Programación	Informatique	0.663982629776001	False
+Programación	Séries	0.6268535256385803	False
+Programación	Histoire	0.3736628293991089	False
+Programación	Identité visuelle	0.33594536781311035	False
+Programación	Particularités	0.3186422884464264	False
+Programación	Séries originales	0.31402888894081116	False
+Programación	Identité visuelle (logo)	0.2507897913455963	False
+Homenajes	Hommages	0.9952385425567627	True
+Homenajes	Hommage	0.9908468127250671	False
+Homenajes	Commémorations	0.9423141479492188	False
+Homenajes	Distinctions et hommages	0.8016921281814575	False
+Homenajes	Récompenses	0.6438132524490356	False
+Homenajes	Dans la culture populaire	0.4141310155391693	False
+Homenajes	Postérité	0.3855879306793213	False
+Homenajes	Prix et distinctions	0.2865535318851471	False
+Homenajes	Culture populaire	0.2545712888240814	False
+Homenajes	Œuvres et publications	0.21672365069389343	False
+Personalidades	Personnalités	0.9970905780792236	True
+Personalidades	Personnalités liées à la ville	0.9893556237220764	False
+Personalidades	Personnalité	0.9828264117240906	False
+Personalidades	Personnalités liées à la commune	0.9742403626441956	False
+Personalidades	Personnalités nées dans la ville	0.9352051615715027	False
+Personalidades	Culture locale et patrimoine	0.921704113483429	False
+Personalidades	Personnages célèbres	0.9169142246246338	False
+Personalidades	Personnalités de la commune	0.9107092022895813	False
+Personalidades	Personnalités liées	0.9009271860122681	False
+Personalidades	Patronyme	0.7661586403846741	False
+Uso	Usage	0.9905744194984436	False
+Uso	Utilisation	0.9905513525009155	True
+Uso	Utilisations	0.957387387752533	False
+Uso	Usages	0.9472556710243225	False
+Uso	Exemple	0.8996462821960449	False
+Uso	Propriétés	0.7618256211280823	False
+Uso	Principe	0.7051858901977539	False
+Uso	Caractéristiques techniques	0.7011048793792725	False
+Uso	Exemples	0.6247895359992981	False
+Uso	Histoire	0.6129851937294006	False
+Flora y fauna	Flore et faune	0.9926879405975342	True
+Flora y fauna	Faune et flore	0.9878860712051392	False
+Flora y fauna	Faune	0.9820519089698792	False
+Flora y fauna	Nature	0.9578437805175781	False
+Flora y fauna	Flore	0.9111042618751526	False
+Flora y fauna	Mammifères	0.8658235669136047	False
+Flora y fauna	Faune et Flore	0.8083992004394531	False
+Flora y fauna	Géographie	0.6902989745140076	False
+Flora y fauna	Biodiversité	0.5476503372192383	False
+Flora y fauna	Géographie et climat	0.3962500989437103	False
+Geología	Géologie	0.9981133937835693	True
+Geología	Géographie	0.9488896727561951	False
+Geología	Géographie et géologie	0.9204062223434448	False
+Geología	Topographie	0.9175232648849487	False
+Geología	Situation géographique	0.9114077687263489	False
+Geología	Hydrographie	0.8690587878227234	False
+Geología	Géographie physique	0.8114438056945801	False
+Geología	Hydrologie	0.7921013832092285	False
+Geología	Géographie humaine	0.7865526676177979	False
+Geología	Étymologie	0.7709094285964966	False
+Vida y carrera	Vie et carrière	0.9937418103218079	True
+Vida y carrera	Biographie	0.9903468489646912	False
+Vida y carrera	Carrière	0.9848974347114563	False
+Vida y carrera	Biographie et carrière	0.9807867407798767	False
+Vida y carrera	Filmographie	0.8536508083343506	False
+Vida y carrera	Jeunesse	0.8219647407531738	False
+Vida y carrera	Vie privée	0.7926933765411377	False
+Vida y carrera	Voix françaises	0.6307138800621033	False
+Vida y carrera	Récompenses et nominations	0.5632632970809937	False
+Vida y carrera	Vie personnelle	0.5536316633224487	False
+Grabación	Enregistrement	0.9951169490814209	True
+Grabación	Genèse et enregistrement	0.9821963310241699	False
+Grabación	Production	0.9670156240463257	False
+Grabación	Pochette	0.9560380578041077	False
+Grabación	Historique	0.9335196018218994	False
+Grabación	Pistes	0.9206274151802063	False
+Grabación	Composition du groupe	0.9024178981781006	False
+Grabación	Caractéristiques artistiques	0.8768346905708313	False
+Grabación	Histoire	0.8602880835533142	False
+Grabación	Interprètes	0.843113362789154	False
+Vida y obra	Biographie	0.992124617099762	False
+Vida y obra	Vie et œuvre	0.987368643283844	True
+Vida y obra	Vie	0.9186319708824158	False
+Vida y obra	Œuvres	0.9006134271621704	False
+Vida y obra	Carrière	0.8948148488998413	False
+Vida y obra	Éléments biographiques	0.8563475608825684	False
+Vida y obra	Œuvre	0.8527317643165588	False
+Vida y obra	Filmographie	0.5205919742584229	False
+Vida y obra	Expositions	0.4459145963191986	False
+Vida y obra	Ouvrages	0.4330432116985321	False
+Influencia	Influence	0.9940844178199768	False
+Influencia	Influences	0.9718379974365234	True
+Influencia	Style musical et influences	0.8359230160713196	False
+Influencia	Postérité	0.8142846822738647	False
+Influencia	Influence et héritage	0.6782127618789673	False
+Influencia	Récompenses	0.5915243029594421	False
+Influencia	Son œuvre	0.4781762659549713	False
+Influencia	Œuvre	0.4345463514328003	False
+Influencia	Historique	0.4192518889904022	False
+Influencia	Dans la culture populaire	0.4129604697227478	False
+Usuarios	Utilisateurs	0.996573805809021	True
+Usuarios	Pays utilisateurs	0.9860986471176147	False
+Usuarios	Opérateurs	0.9844545125961304	False
+Usuarios	Utilisateurs militaires	0.9623345732688904	False
+Usuarios	Versions	0.8290494680404663	False
+Usuarios	Utilisateurs civils	0.7133322954177856	False
+Usuarios	Versions militaires	0.6273550391197205	False
+Usuarios	Engagement	0.6062541007995605	False
+Usuarios	Utilisateurs militaires et gouvernementaux	0.5004783272743225	False
+Usuarios	Les versions	0.4307112395763397	False
+Distinciones honoríficas	Distinctions	0.9861474633216858	False
+Distinciones honoríficas	Distinctions honorifiques	0.9854538440704346	False
+Distinciones honoríficas	Décorations	0.985317051410675	True
+Distinciones honoríficas	Distinctions et décorations	0.9684950113296509	False
+Distinciones honoríficas	Titres et honneurs	0.9657555818557739	False
+Distinciones honoríficas	Honneurs	0.9565359354019165	False
+Distinciones honoríficas	Distinctions et récompenses	0.9557945132255554	False
+Distinciones honoríficas	Prix et distinctions	0.9236528873443604	False
+Distinciones honoríficas	Titulature et décorations	0.8634326457977295	False
+Distinciones honoríficas	Titres	0.768889307975769	False
+Temas	Thèmes	0.9949236512184143	True
+Temas	Sujets	0.9351682662963867	False
+Temas	Analyse	0.9229252338409424	False
+Temas	Historique	0.8184420466423035	False
+Temas	Notes et références	0.5139560103416443	False
+Temas	Filmographie	0.5082443952560425	False
+Temas	Œuvres	0.4753131568431854	False
+Temas	Présentation	0.4652996361255646	False
+Temas	Résumé	0.4591536223888397	False
+Temas	Fiche technique	0.416898250579834	False
+Generalidades	Généralités	0.993477463722229	True
+Generalidades	Géographie	0.9126125574111938	False
+Generalidades	Présentation	0.8350203633308411	False
+Generalidades	Histoire	0.8349587917327881	False
+Generalidades	Synopsis	0.7481420040130615	False
+Generalidades	Causes	0.5866373777389526	False
+Generalidades	Liste des espèces	0.5597401261329651	False
+Generalidades	Historique	0.5586293339729309	False
+Generalidades	Distribution	0.5432403087615967	False
+Generalidades	Politique	0.5140483379364014	False
+Grabaciones	Enregistrements	0.996231734752655	True
+Grabaciones	Discographie	0.9939164519309998	False
+Grabaciones	Discographie sélective	0.9870256781578064	False
+Grabaciones	Albums	0.7923254370689392	False
+Grabaciones	Tournées	0.720772385597229	False
+Grabaciones	Annexes	0.6947733759880066	False
+Grabaciones	Œuvres	0.5698659420013428	False
+Grabaciones	Représentations	0.49788036942481995	False
+Grabaciones	Orchestration	0.49010616540908813	False
+Grabaciones	Quelques œuvres	0.4253840744495392	False
+Hermanamientos	Jumelages	0.9932606816291809	True
+Hermanamientos	Jumelage	0.9915491342544556	False
+Hermanamientos	Relations internationales	0.9743034839630127	False
+Hermanamientos	Villes jumelées	0.8866652846336365	False
+Hermanamientos	Jumelage et partenariats	0.843401312828064	False
+Hermanamientos	Personnalités liées à la commune	0.8102639317512512	False
+Hermanamientos	Personnalités liées à la ville	0.7426139116287231	False
+Hermanamientos	Culture et patrimoine	0.5040906071662903	False
+Hermanamientos	Personnalités	0.45208466053009033	False
+Hermanamientos	Lieux et monuments	0.44988906383514404	False
+Causas	Causes	0.9962233304977417	False
+Causas	Étiologie	0.9809963703155518	False
+Causas	Les causes	0.9702473282814026	True
+Causas	Contexte	0.961004912853241	False
+Causas	Déroulement	0.8625792264938354	False
+Causas	Conséquences	0.7840848565101624	False
+Causas	Contexte historique	0.7573748826980591	False
+Causas	Cause	0.7250309586524963	False
+Causas	Diagnostic	0.622833788394928	False
+Causas	Déroulement des faits	0.6035962700843811	False
+Ganadores	Lauréats	0.9944500923156738	False
+Ganadores	Palmarès	0.9900208711624146	False
+Ganadores	Vainqueurs	0.9853803515434265	True
+Ganadores	Gagnants	0.9842615127563477	False
+Ganadores	Liste des lauréats	0.9745466113090515	False
+Ganadores	Les lauréats	0.9600948691368103	False
+Ganadores	Compétition	0.9587514996528625	False
+Ganadores	Récipiendaires	0.9539954662322998	False
+Ganadores	Participants	0.8883246779441833	False
+Ganadores	Les vainqueurs	0.824982762336731	False
+Hábitat y distribución	Habitat et répartition	0.9931702613830566	True
+Hábitat y distribución	Distribution	0.9891993999481201	False
+Hábitat y distribución	Habitat	0.9887469410896301	False
+Hábitat y distribución	Répartition	0.9830231070518494	False
+Hábitat y distribución	Répartition et habitat	0.9802823066711426	False
+Hábitat y distribución	Aire de répartition	0.9770634770393372	False
+Hábitat y distribución	Écologie et comportement	0.8237687945365906	False
+Hábitat y distribución	Comportement	0.7426450848579407	False
+Hábitat y distribución	Chorologie	0.7069612741470337	False
+Hábitat y distribución	Alimentation	0.682978093624115	False
+Hidrografía	Hydrographie	0.9899075031280518	True
+Hidrografía	Hydrologie	0.9836441874504089	False
+Hidrografía	Géographie	0.9704203009605408	False
+Hidrografía	Géographie humaine	0.9366167783737183	False
+Hidrografía	Climat	0.8597461581230164	False
+Hidrografía	Géographie physique	0.8152987360954285	False
+Hidrografía	Relief	0.7833404541015625	False
+Hidrografía	Démographie	0.7635028958320618	False
+Hidrografía	Topographie	0.7285667061805725	False
+Hidrografía	Géologie	0.7137482166290283	False
+Etiología	Étiologie	0.9921682476997375	True
+Etiología	Symptomatologie	0.9821611642837524	False
+Etiología	Causes	0.9818559288978577	False
+Etiología	Physiopathologie	0.9750314354896545	False
+Etiología	Typologie	0.9676536917686462	False
+Etiología	Agent causal	0.9199190139770508	False
+Etiología	Physiologie	0.8878604173660278	False
+Etiología	Prévalence	0.8795766830444336	False
+Etiología	Symptômes	0.8706849217414856	False
+Etiología	Histologie	0.8649438619613647	False
+Otros usos	Autres usages	0.9951493144035339	True
+Otros usos	Autres	0.9905346035957336	False
+Otros usos	Divers	0.9826452732086182	False
+Otros usos	Autres utilisations	0.9497493505477905	False
+Otros usos	Utilisations	0.9051371812820435	False
+Otros usos	Entreprise	0.8574286699295044	False
+Otros usos	Références	0.8276681900024414	False
+Otros usos	Voir aussi	0.8173242807388306	False
+Otros usos	Autres significations	0.7986651062965393	False
+Otros usos	Notes et références	0.7819152474403381	False
+Publicación	Publications	0.9874459505081177	False
+Publicación	Publication	0.9868952035903931	True
+Publicación	Éditions	0.9428759813308716	False
+Publicación	Historique	0.8848685622215271	False
+Publicación	Histoire	0.8107204437255859	False
+Publicación	Description	0.7428637742996216	False
+Publicación	Genèse de l'œuvre	0.6970987915992737	False
+Publicación	Parution et accueil	0.6512718200683594	False
+Publicación	Adaptation	0.6262166500091553	False
+Publicación	Titres	0.4521806836128235	False
+Productos	Produits	0.9970691800117493	True
+Productos	Production	0.9869051575660706	False
+Productos	Les produits	0.9432319402694702	False
+Productos	Principaux produits	0.9429036378860474	False
+Productos	Produits dérivés	0.8857078552246094	False
+Productos	Modèles	0.873190701007843	False
+Productos	Sites de production	0.7813062071800232	False
+Productos	Avions	0.7801871299743652	False
+Productos	Fabrication	0.7759208083152771	False
+Productos	Historique	0.7173036932945251	False
+Descubrimiento	Découverte	0.9952137470245361	True
+Descubrimiento	Découvertes	0.9563021659851074	False
+Descubrimiento	Description	0.9550666213035583	False
+Descubrimiento	Historique de la découverte	0.9507566690444946	False
+Descubrimiento	Histoire	0.9424046874046326	False
+Descubrimiento	Historique	0.9203782677650452	False
+Descubrimiento	Datation	0.8344601988792419	False
+Descubrimiento	Découverte par les Européens	0.8286236524581909	False
+Descubrimiento	Observations	0.7705746293067932	False
+Descubrimiento	Répartition	0.7533903121948242	False
+Origen del nombre	Origine du nom	0.9963217973709106	True
+Créditos y personal	Crédits et personnel	0.9918752312660217	True
+Créditos y personal	Crédits	0.991448700428009	False
+Créditos y personal	Crédits et personnels	0.9872857928276062	False
+Origen del nombre	Nom	0.9869908690452576	False
+Origen del nombre	Dénomination	0.9836208820343018	False
+Origen del nombre	Étymologie	0.9790951013565063	False
+Origen del nombre	Toponymie	0.977390706539154	False
+Créditos y personal	Personnel	0.9731355905532837	False
+Origen del nombre	Origine	0.9385444521903992	False
+Créditos y personal	Liste des titres	0.9051936864852905	False
+Créditos y personal	Liste des chansons	0.8994174003601074	False
+Créditos y personal	Liste des pistes	0.8982452154159546	False
+Origen del nombre	Historique	0.8909032940864563	False
+Origen del nombre	Origines	0.8028836846351624	False
+Créditos y personal	Pistes	0.7841610312461853	False
+Créditos y personal	Genèse et écriture	0.7731931805610657	False
+Origen del nombre	Histoire	0.7532238364219666	False
+Créditos y personal	Développement et sortie	0.7087082266807556	False
+Origen del nombre	Contexte historique	0.6601976156234741	False
+Contexto histórico	Contexte historique	0.9977335929870605	True
+Contexto histórico	Contexte	0.9886738657951355	False
+Contexto histórico	Le contexte historique	0.9867052435874939	False
+Contexto histórico	Historique	0.9817950129508972	False
+Contexto histórico	Le contexte	0.9766555428504944	False
+Contexto histórico	Histoire	0.9698061347007751	False
+Contexto histórico	Genèse	0.8373794555664062	False
+Contexto histórico	Déroulement	0.8353529572486877	False
+Contexto histórico	Synopsis	0.8038660883903503	False
+Contexto histórico	Origine	0.7959399819374084	False
+Miscelánea	Références	0.9598153829574585	False
+Miscelánea	Littérature	0.9437501430511475	False
+Miscelánea	Divers	0.9160912036895752	True
+Miscelánea	Notes et références	0.8664533495903015	False
+Miscelánea	Sport	0.8245433568954468	False
+Miscelánea	Bibliographie	0.8036782741546631	False
+Miscelánea	Autres	0.7894177436828613	False
+Miscelánea	Culture	0.7846646308898926	False
+Miscelánea	Autre	0.6858910322189331	False
+Miscelánea	Anecdotes	0.6778173446655273	False
+Presidentes	Présidents	0.9961050748825073	True
+Presidentes	Liste des présidents	0.951755702495575	False
+Presidentes	Politique	0.916101336479187	False
+Presidentes	Entraîneurs	0.7801299095153809	False
+Presidentes	Organisation	0.5473155975341797	False
+Presidentes	Articles connexes	0.5279940366744995	False
+Presidentes	Membres	0.4265730381011963	False
+Presidentes	Histoire	0.3543468117713928	False
+Presidentes	Anciens entraîneurs	0.3535830080509186	False
+Presidentes	Anciens joueurs	0.3349453806877136	False
+Conexiones	Connexions	0.9518726468086243	True
+Conexiones	Desserte	0.7387887239456177	False
+Conexiones	Histoire	0.5516795516014099	False
+Conexiones	Services aux voyageurs	0.3631652593612671	False
+Conexiones	Liens externes	0.3463735580444336	False
+Conexiones	À proximité	0.24419669806957245	False
+Conexiones	Architecture	0.21671152114868164	False
+Conexiones	Notes et références	0.07268441468477249	False
+Conexiones	Traduction	0.07201828807592392	False
+Conexiones	Bibliographie	0.0700148195028305	False
+Barrios	Quartiers	0.9975652694702148	True
+Barrios	Arrondissements	0.8933313488960266	False
+Barrios	Géographie	0.35370197892189026	False
+Barrios	Infrastructures	0.3110181391239166	False
+Barrios	Histoire	0.1958499401807785	False
+Barrios	Toponymie	0.13545900583267212	False
+Barrios	Démographie	0.10433090478181839	False
+Barrios	Économie	0.10020813345909119	False
+Barrios	Population	0.08901075273752213	False
+Barrios	Culture	0.08501764386892319	False
+Divisiones administrativas	Divisions administratives	0.9853176474571228	True
+Divisiones administrativas	Division administrative	0.977458655834198	False
+Divisiones administrativas	Toponymes	0.9742764830589294	False
+Divisiones administrativas	Subdivisions administratives	0.9719734191894531	False
+Divisiones administrativas	Subdivisions	0.9684721827507019	False
+Divisiones administrativas	Toponyme	0.9630385637283325	False
+Divisiones administrativas	Villes et municipalités	0.9424523115158081	False
+Divisiones administrativas	Localités	0.918120801448822	False
+Divisiones administrativas	Administration	0.912681519985199	False
+Divisiones administrativas	Géographie	0.8486246466636658	False
+Función	Fonction	0.9976693987846375	True
+Función	Fonctions	0.992308497428894	False
+Función	Structure	0.9687089920043945	False
+Función	Rôle	0.9682163596153259	False
+Función	Fonctionnement	0.7837395071983337	False
+Función	Description	0.6667184233665466	False
+Función	Histoire	0.5820727348327637	False
+Función	Mécanismes d'action	0.49569612741470337	False
+Función	Localisation	0.43648454546928406	False
+Función	Histologie	0.3768206238746643	False
+Personajes célebres	Personnalités	0.9942130446434021	False
+Personajes célebres	Personnages célèbres	0.9933035969734192	True
+Personajes célebres	Personnalités liées à la ville	0.9884032607078552	False
+Personajes célebres	Personnalités liées à la commune	0.9856289029121399	False
+Personajes célebres	Personnes célèbres	0.8898546099662781	False
+Personajes célebres	Personnalités de la commune	0.8262699246406555	False
+Personajes célebres	Culture locale et patrimoine	0.7949548959732056	False
+Personajes célebres	Lieux et monuments	0.6547685265541077	False
+Personajes célebres	Culture et patrimoine	0.6169539093971252	False
+Personajes célebres	Histoire	0.28590506315231323	False
+Reacciones	Réactions	0.9979210495948792	True
+Reacciones	Réactions internationales	0.9750315546989441	False
+Reacciones	Réaction	0.9720104932785034	False
+Reacciones	Propriétés chimiques	0.84404057264328	False
+Reacciones	Conséquences	0.8371045589447021	False
+Reacciones	Réactivité	0.8105102777481079	False
+Reacciones	Analyse	0.7541196942329407	False
+Reacciones	Bilan	0.7478852868080139	False
+Reacciones	Enquête	0.5338517427444458	False
+Reacciones	Controverses	0.4976353347301483	False
+Monumentos y lugares de interés	Patrimoine	0.986333429813385	False
+Monumentos y lugares de interés	Monuments et lieux d'intérêt	0.9854028224945068	True
+Monumentos y lugares de interés	Monuments et lieux remarquables	0.9819170832633972	False
+Monumentos y lugares de interés	Monuments et patrimoine	0.9772120118141174	False
+Monumentos y lugares de interés	Monuments	0.9765966534614563	False
+Monumentos y lugares de interés	Lieux et monuments	0.9610460996627808	False
+Monumentos y lugares de interés	Patrimoine civil	0.8834709525108337	False
+Monumentos y lugares de interés	Culture locale et patrimoine	0.812580943107605	False
+Monumentos y lugares de interés	Culture et patrimoine	0.7326413989067078	False
+Monumentos y lugares de interés	Tourisme	0.7104654908180237	False
+Apariciones	Apparitions	0.9975046515464783	True
+Apariciones	Autres apparitions	0.9813620448112488	False
+Apariciones	Apparition	0.9745875000953674	False
+Apariciones	Œuvres où le personnage apparaît	0.9410811066627502	False
+Apariciones	Autres médias	0.8977367877960205	False
+Apariciones	Doublages	0.8316094875335693	False
+Apariciones	Caractéristiques	0.8310874700546265	False
+Apariciones	Discographie	0.8272970914840698	False
+Apariciones	Histoire	0.7747753262519836	False
+Apariciones	Caractéristiques du personnage	0.6774104237556458	False
+Preparación	Préparation	0.9965595602989197	True
+Preparación	Synthèse	0.9901386499404907	False
+Preparación	Recette	0.9592586755752563	False
+Preparación	Préparatifs	0.9504279494285583	False
+Preparación	Variantes	0.5986799597740173	False
+Preparación	Déroulement	0.4950645864009857	False
+Preparación	Organisation	0.3263550102710724	False
+Preparación	Fabrication	0.2682376503944397	False
+Preparación	Contexte	0.2621511220932007	False
+Preparación	Étymologie	0.24290794134140015	False
+Ejemplo	Exemple	0.9979636669158936	True
+Ejemplo	Principe	0.9826268553733826	False
+Ejemplo	Un exemple	0.9773942232131958	False
+Ejemplo	Fonctionnement	0.9587973356246948	False
+Ejemplo	Exemples	0.8819452524185181	False
+Ejemplo	Définition	0.8569451570510864	False
+Ejemplo	Voir aussi	0.7172169089317322	False
+Ejemplo	Utilisation	0.6495949029922485	False
+Ejemplo	Utilisations	0.4191417098045349	False
+Ejemplo	Caractéristiques	0.3503648340702057	False
+Sistema de juego	Système de jeu	0.9961701035499573	True
+Sistema de juego	Jouabilité	0.976407527923584	False
+Sistema de juego	Univers	0.9745078086853027	False
+Sistema de juego	Scénario	0.9668387174606323	False
+Sistema de juego	Système du jeu	0.9476389288902283	False
+Sistema de juego	Trame	0.9322521686553955	False
+Sistema de juego	Modes de jeu	0.9319323301315308	False
+Sistema de juego	Développement	0.9212175607681274	False
+Sistema de juego	Le jeu	0.9037619233131409	False
+Sistema de juego	Personnages jouables	0.8320360779762268	False
+Cultura popular	Dans la culture populaire	0.9967478513717651	False
+Cultura popular	Culture populaire	0.9965382814407349	True
+Cultura popular	Dans la culture	0.977800726890564	False
+Cultura popular	Dans la fiction	0.9698699712753296	False
+Cultura popular	Au cinéma	0.9452365636825562	False
+Cultura popular	Littérature	0.9242088794708252	False
+Cultura popular	Culture	0.8923910856246948	False
+Cultura popular	Postérité	0.870861291885376	False
+Cultura popular	Références culturelles	0.7955467104911804	False
+Cultura popular	Médias	0.6946170926094055	False
+Topónimo	Toponymie	0.9965395927429199	False
+Topónimo	Toponyme	0.9814117550849915	True
+Topónimo	Étymologie	0.9557390809059143	False
+Topónimo	Localités limitrophes	0.5116493105888367	False
+Topónimo	Histoire	0.4528290927410126	False
+Topónimo	Géographie	0.2327241450548172	False
+Topónimo	Présentation	0.21039815247058868	False
+Topónimo	Culture	0.13358181715011597	False
+Topónimo	Hameaux	0.12985102832317352	False
+Topónimo	Démographie	0.10653404146432877	False
+Salud	Santé	0.996572732925415	True
+Concepto	Concept	0.9951672554016113	False
+Concepto	Concepts	0.9357913732528687	True
+Concepto	Origine du concept	0.9215128421783447	False
+Salud	Effets sur la santé	0.8605967164039612	False
+Salud	Soins	0.8451229333877563	False
+Concepto	Historique	0.7884333729743958	False
+Salud	Impact sur la santé	0.7828709483146667	False
+Concepto	Définition	0.7700477838516235	False
+Concepto	Description	0.6780762076377869	False
+Concepto	Définitions	0.636414647102356	False
+Concepto	Histoire	0.5752227902412415	False
+Salud	Éducation	0.5705006718635559	False
+Salud	Économie	0.5467184782028198	False
+Concepto	Origine	0.45544859766960144	False
+Concepto	Liste des chansons	0.4402252435684204	False
+Salud	Environnement	0.4309956431388855	False
+Salud	Politique et administration	0.3587435781955719	False
+Salud	Enseignement	0.32512927055358887	False
+Salud	Urbanisme	0.3161724805831909	False
+Trasfondo	Contexte	0.9966403245925903	True
+Trasfondo	Contexte historique	0.9768376350402832	False
+Trasfondo	Historique	0.9749167561531067	False
+Trasfondo	Prélude	0.9602477550506592	False
+Trasfondo	Histoire	0.9215589165687561	False
+Trasfondo	Contexte politique	0.9081323146820068	False
+Trasfondo	Déroulement	0.8596316576004028	False
+Trasfondo	Personnages	0.8356736898422241	False
+Trasfondo	Analyse	0.7388958930969238	False
+Trasfondo	Conséquences	0.722831666469574	False
+Personalidad	Personnalité	0.9859652519226074	True
+Personalidad	Vie privée	0.9682238101959229	False
+Personalidad	Profil	0.9439361691474915	False
+Personalidad	Caractère	0.8940737843513489	False
+Personalidad	Personnage	0.8594658970832825	False
+Personalidad	Histoire du personnage	0.8570458292961121	False
+Personalidad	Histoire	0.8374196290969849	False
+Personalidad	Caractéristiques	0.8275182843208313	False
+Personalidad	Analyse du personnage	0.7773712277412415	False
+Personalidad	Description	0.7692938446998596	False
+Fase de grupos	Phase de groupes	0.9968904852867126	True
+Fase de grupos	Phase de groupe	0.9827107787132263	False
+Fase de grupos	Phase finale	0.9703474640846252	False
+Fase de grupos	Participants	0.9690476059913635	False
+Fase de grupos	Phase de poules	0.9684658646583557	False
+Fase de grupos	Premier tour	0.9570416808128357	False
+Fase de grupos	Compétition	0.9528221487998962	False
+Fase de grupos	Déroulement de la compétition	0.948566198348999	False
+Fase de grupos	Déroulement	0.9449057579040527	False
+Fase de grupos	Huitièmes de finale	0.9442112445831299	False
+Ficha técnica	Fiche technique	0.9831079840660095	True
+Ficha técnica	Technique	0.8085042834281921	False
+Ficha técnica	Histoire	0.7044512033462524	False
+Ficha técnica	Analyse	0.5248783826828003	False
+Ficha técnica	Production	0.40510207414627075	False
+Ficha técnica	Distribution	0.372836709022522	False
+Ficha técnica	Produits dérivés	0.2936890125274658	False
+Ficha técnica	Autour du film	0.2924710810184479	False
+Ficha técnica	Accueil	0.274526983499527	False
+Ficha técnica	Distinctions	0.2214762568473816	False
+Influencias	Influences	0.9980656504631042	True
+Influencias	Influence	0.989866316318512	False
+Influencias	Style musical et influences	0.9706863164901733	False
+Influencias	Style musical	0.9623836874961853	False
+Influencias	Inspirations	0.8988144397735596	False
+Influencias	Les personnages	0.8530449867248535	False
+Influencias	Adaptations	0.6243410706520081	False
+Influencias	Caractéristiques	0.5847670435905457	False
+Influencias	Autour du film	0.4743860960006714	False
+Influencias	Historique	0.38117170333862305	False
+Detalles	Détails	0.9932329654693604	True
+Detalles	Présentation	0.9843631386756897	False
+Detalles	Déroulement	0.9239929914474487	False
+Detalles	Description	0.908270537853241	False
+Detalles	Historique	0.8756278157234192	False
+Detalles	Histoire	0.8642022609710693	False
+Detalles	Détails du match	0.8093019127845764	False
+Detalles	Caractéristiques	0.7001320719718933	False
+Detalles	Liste des titres	0.6703795194625854	False
+Detalles	Feuille de match	0.6592440605163574	False
+Territorio	Territoire	0.9980114698410034	True
+Territorio	Géographie	0.9712886214256287	False
+Territorio	Histoire	0.6911622881889343	False
+Territorio	Subdivisions	0.6868396997451782	False
+Territorio	Administration	0.4475347697734833	False
+Territorio	Population	0.28533801436424255	False
+Territorio	Présentation	0.11368568241596222	False
+Territorio	Archéologie	0.09332682192325592	False
+Territorio	Origine	0.06535966694355011	False
+Territorio	Langue	0.05364431068301201	False
+Formatos	Formats	0.9952825903892517	True
+Formatos	Versions	0.9821628928184509	False
+Formatos	Formats et liste des pistes	0.9763259291648865	False
+Formatos	Liste des pistes	0.8400894999504089	False
+Formatos	Liste des titres	0.8181629180908203	False
+Formatos	Crédits et personnels	0.7738409638404846	False
+Formatos	Clip vidéo	0.5600658655166626	False
+Formatos	Généralités	0.4481932818889618	False
+Formatos	Utilisation	0.3786413371562958	False
+Formatos	Remix	0.3654688000679016	False
+Componentes	Composants	0.9950490593910217	True
+Componentes	Composition	0.9814454913139343	False
+Componentes	Membres	0.9724420309066772	False
+Componentes	Membres du groupe	0.9365230202674866	False
+Componentes	Historique	0.7294308543205261	False
+Componentes	Principes	0.7120903134346008	False
+Componentes	Caractéristiques	0.6566869616508484	False
+Componentes	Utilisateurs	0.6122474670410156	False
+Componentes	Fonctionnement	0.560465931892395	False
+Componentes	Fonctionnalités	0.5194720029830933	False
+Características generales	Caractéristiques générales	0.9927582740783691	True
+Características generales	Description	0.9770686030387878	False
+Características generales	Caractéristiques	0.9748873114585876	False
+Características generales	Présentation générale	0.9647769331932068	False
+Características generales	Géographie	0.8352423906326294	False
+Características generales	Structure	0.8255571722984314	False
+Características generales	Histoire	0.7965842485427856	False
+Características generales	Toponymie	0.754126250743866	False
+Características generales	Répartition et habitat	0.6886518001556396	False
+Características generales	Historique	0.5316836833953857	False
+Carrera militar	Carrière militaire	0.9970059990882874	True
+Carrera militar	Biographie	0.9757227897644043	False
+Carrera militar	Carrière	0.9685206413269043	False
+Carrera militar	Guerre de Sécession	0.882948100566864	False
+Carrera militar	Carrière politique	0.8786810636520386	False
+Carrera militar	Début de carrière	0.6556971073150635	False
+Carrera militar	Militaire	0.565502941608429	False
+Carrera militar	Distinctions	0.22733844816684723	False
+Carrera militar	Jeunesse et formation	0.2013777196407318	False
+Carrera militar	Seconde Guerre mondiale	0.1808338761329651	False
+Infancia y juventud	Enfance et jeunesse	0.9966081380844116	True
+Infancia y juventud	Jeunesse	0.994027853012085	False
+Infancia y juventud	Les débuts	0.9818981289863586	False
+Infancia y juventud	Jeunesse et début de carrière	0.9668759703636169	False
+Infancia y juventud	Enfance	0.9194554686546326	False
+Infancia y juventud	Origines	0.8898403644561768	False
+Infancia y juventud	Biographie	0.8729852437973022	False
+Infancia y juventud	Vie	0.7998883724212646	False
+Infancia y juventud	Carrière professionnelle	0.4000687599182129	False
+Infancia y juventud	Guerre de Sécession	0.35958126187324524	False
+Juventud	Jeunesse	0.996975302696228	True
+Juventud	Début de sa vie	0.9601516723632812	False
+Juventud	Enfance	0.9598361253738403	False
+Juventud	Enfance et éducation	0.9591027498245239	False
+Juventud	Biographie	0.9021636247634888	False
+Juventud	Carrière universitaire	0.5268757343292236	False
+Juventud	Famille	0.3616768419742584	False
+Juventud	Carrière	0.3224256634712219	False
+Juventud	Origines	0.20230068266391754	False
+Juventud	Mythe	0.17553119361400604	False
+Historia operacional	Histoire opérationnelle	0.9934037327766418	True
+Costumbres	Coutumes	0.9894356727600098	True
+Historia operacional	Carrière opérationnelle	0.981751024723053	False
+Historia operacional	Service opérationnel	0.9817193150520325	False
+Historia operacional	Histoire	0.9693571925163269	False
+Historia operacional	Historique	0.9645945429801941	False
+Costumbres	Langue	0.9584054946899414	False
+Historia operacional	Opérations	0.9576927423477173	False
+Historia operacional	Engagement	0.953935444355011	False
+Historia operacional	Utilisation opérationnelle	0.8959198594093323	False
+Historia operacional	Engagements	0.8730389475822449	False
+Historia operacional	Historique des opérations	0.8727020025253296	False
+Costumbres	Religion	0.8613242506980896	False
+Costumbres	Taxinomie	0.6975072622299194	False
+Costumbres	Traditions	0.6896252036094666	False
+Costumbres	Culture	0.5750184059143066	False
+Costumbres	Mode de vie	0.5117975473403931	False
+Costumbres	Répartition	0.39988017082214355	False
+Costumbres	Étymologie	0.351606547832489	False
+Costumbres	Histoire	0.3425331711769104	False
+Programas	Programmes	0.9970508813858032	True
+Programas	Télévision	0.978943943977356	False
+Programas	Programmation	0.8227826952934265	False
+Programas	Histoire	0.43537089228630066	False
+Programas	Filmographie	0.39459970593452454	False
+Programas	Historique	0.256870299577713	False
+Programas	Voir aussi	0.12007811665534973	False
+Programas	Canada	0.06283833086490631	False
+Programas	Vie étudiante	0.05264616385102272	False
+Programas	Liens externes	0.04887382686138153	False
+Fundación	Fondation	0.9978514909744263	True
+Fundación	Histoire	0.8992133140563965	False
+Fundación	Historique	0.7333931922912598	False
+Fundación	Organisation	0.4526005983352661	False
+Fundación	Membres	0.1596919447183609	False
+Fundación	Chronologie	0.12719902396202087	False
+Fundación	Contexte historique	0.08817083388566971	False
+Fundación	Origine	0.08681850135326385	False
+Fundación	Composition	0.08279435336589813	False
+Fundación	Structure	0.06327465176582336	False
+Arte	Art	0.9919173121452332	True
+Arte	Littérature	0.9228113293647766	False
+Arte	Musique	0.8432366847991943	False
+Arte	Arts	0.81171715259552	False
+Arte	Style musical et influences	0.7939821481704712	False
+Arte	Art et culture	0.793550968170166	False
+Arte	Œuvres	0.6891177296638489	False
+Arte	Histoire	0.6255316138267517	False
+Arte	Culture	0.577048659324646	False
+Arte	Architecture	0.5576644539833069	False
+Radio	Radio	0.9979085922241211	True
+Radio	Télévision	0.9479262828826904	False
+Radio	Récompenses et nominations	0.6937822103500366	False
+Radio	Activités	0.2168826460838318	False
+Radio	Culture	0.21177710592746735	False
+Radio	Notes et références	0.11196237057447433	False
+Radio	Discographie	0.11183610558509827	False
+Radio	Cinéma	0.11131171882152557	False
+Radio	Théâtre	0.094721220433712	False
+Radio	Liens externes	0.07881394028663635	False
+Doblaje	Distribution	0.9641935229301453	False
+Doblaje	Doublage	0.9638059139251709	True
+Doblaje	Production	0.854893147945404	False
+Doblaje	Personnages	0.7468562722206116	False
+Doblaje	Autour du film	0.670908510684967	False
+Doblaje	Synopsis	0.5626809597015381	False
+Doblaje	Interprètes	0.43281930685043335	False
+Doblaje	Épisodes	0.43164482712745667	False
+Doblaje	Chansons du film	0.3741690516471863	False
+Doblaje	Bande originale	0.29049888253211975	False
+Vida política	Vie politique	0.9958657026290894	True
+Vida política	Carrière politique	0.9898019433021545	False
+Vida política	Biographie	0.9663999676704407	False
+Vida política	Vie privée	0.6500265002250671	False
+Vida política	Détail des mandats et fonctions	0.6310080885887146	False
+Vida política	Controverses	0.37477532029151917	False
+Vida política	Éléments personnels	0.36689114570617676	False
+Vida política	Jeunesse	0.18163713812828064	False
+Vida política	Généalogie	0.15773358941078186	False
+Vida política	Notes	0.06328914314508438	False
+Comienzos	Débuts	0.9910578727722168	True
+Comienzos	Biographie	0.8753775954246521	False
+Comienzos	Jeunesse et formation	0.8483749032020569	False
+Comienzos	Historique	0.8145098686218262	False
+Comienzos	Enfance	0.7660491466522217	False
+Comienzos	Histoire	0.6777662038803101	False
+Comienzos	Carrière	0.6777375340461731	False
+Comienzos	Origines	0.27807363867759705	False
+Comienzos	Biographie et carrière	0.256923645734787	False
+Comienzos	Famille	0.11741188913583755	False
+Acceso	Accès	0.9950137734413147	True
+Acceso	Services aux voyageurs	0.9526954293251038	False
+Acceso	À proximité	0.843316376209259	False
+Acceso	Description	0.8162472248077393	False
+Acceso	Situation	0.5665062665939331	False
+Acceso	Géographie	0.5031313300132751	False
+Acceso	Ascension	0.39658215641975403	False
+Acceso	Tourisme	0.27787888050079346	False
+Acceso	Histoire	0.25637033581733704	False
+Acceso	Démographie	0.21689502894878387	False
+Misión	Mission	0.9980265498161316	True
+Misión	Déroulement de la mission	0.9447752833366394	False
+Misión	Objectifs	0.7852535843849182	False
+Misión	Mission de l'orbiteur	0.708724856376648	False
+Misión	Mission de l'atterrisseur	0.6980792880058289	False
+Misión	Conception de la mission	0.6426743268966675	False
+Misión	Organisation	0.5819312334060669	False
+Misión	Équipage	0.4956245422363281	False
+Misión	Histoire	0.2089669108390808	False
+Misión	Actions	0.15392161905765533	False
+Secciones	Sections	0.9693796038627625	True
+Secciones	Démographie	0.09582880884408951	False
+Secciones	Liens externes	0.09447658061981201	False
+Secciones	Histoire	0.07410933077335358	False
+Secciones	Administration	0.06881032139062881	False
+Secciones	Historique	0.05759226903319359	False
+Secciones	Économie	0.0483662486076355	False
+Secciones	Voir aussi	0.046424202620983124	False
+Secciones	Galerie	0.042601317167282104	False
+Secciones	Éducation	0.041983090341091156	False
+Síntesis	Synthèse	0.9929113984107971	True
+Síntesis	Production et synthèse	0.9802595973014832	False
+Síntesis	Préparation	0.9267996549606323	False
+Síntesis	Histoire	0.9087367653846741	False
+Síntesis	Synthèse chimique	0.8722255229949951	False
+Síntesis	Synthèse et propriétés chimiques	0.6922615170478821	False
+Síntesis	Structure chimique	0.6592574119567871	False
+Síntesis	Biochimie	0.5641121864318848	False
+Síntesis	Préparation et réactions	0.4687771201133728	False
+Síntesis	Utilisation	0.3835049569606781	False
+Urbanismo	Urbanisme	0.9851558804512024	True
+Urbanismo	Géographie	0.90279620885849	False
+Urbanismo	Éducation	0.8662135004997253	False
+Urbanismo	Économie	0.8051978945732117	False
+Urbanismo	Transport	0.7730063796043396	False
+Urbanismo	Culture et patrimoine	0.7582561373710632	False
+Urbanismo	Infrastructures	0.6747180819511414	False
+Urbanismo	Architecture	0.6674611568450928	False
+Urbanismo	Politique et administration	0.6084708571434021	False
+Urbanismo	Municipalités	0.5287991762161255	False
+Creación	Création	0.9952713847160339	True
+Creación	Histoire	0.9637346863746643	False
+Creación	Historique	0.9298645257949829	False
+Creación	Création du personnage	0.8539357781410217	False
+Creación	Description	0.673582136631012	False
+Creación	Création et conception	0.5467072129249573	False
+Creación	Autour de la série	0.5377103090286255	False
+Creación	Œuvres	0.45228150486946106	False
+Creación	Origines	0.44829943776130676	False
+Creación	Présentation	0.37599197030067444	False
+Fechas	Dates	0.9864740371704102	True
+Fechas	Dates et lieux des concerts	0.980778694152832	False
+Fechas	Faits divers	0.4118361473083496	False
+Fechas	Contexte	0.22434452176094055	False
+Fechas	Setlist	0.15208923816680908	False
+Fechas	Notes	0.11862144619226456	False
+Fechas	Références	0.08526162803173065	False
+Fechas	Histoire	0.07002124190330505	False
+Fechas	Ordre des chansons	0.052404072135686874	False
+Fechas	Articles connexes	0.029435496777296066	False
+Ambiente	Environnement	0.8944442272186279	True
+Ambiente	Habitat	0.6222302913665771	False
+Ambiente	Ressources naturelles	0.23164626955986023	False
+Ambiente	Économie	0.2275618314743042	False
+Ambiente	Taxinomie	0.08841993659734726	False
+Ambiente	Bibliographie	0.08463740348815918	False
+Ambiente	Voir aussi	0.07583952695131302	False
+Ambiente	Galerie	0.0746648982167244	False
+Ambiente	Étymologie	0.06794659793376923	False
+Ambiente	Références	0.06551609188318253	False
+Descripción lingüística	Phonologie	0.9797603487968445	False
+Descripción lingüística	Phonétique	0.9475687146186829	False
+Descripción lingüística	Description	0.9015873074531555	False
+Descripción lingüística	Écriture et prononciation	0.8120156526565552	False
+Descripción lingüística	Description linguistique	0.8005989193916321	True
+Descripción lingüística	Vocabulaire	0.765973687171936	False
+Descripción lingüística	Histoire de la langue	0.70981365442276	False
+Descripción lingüística	Écriture	0.6949118971824646	False
+Descripción lingüística	Dialectologie	0.6586777567863464	False
+Descripción lingüística	Syntaxe	0.5833698511123657	False
+Rivalidades	Rivalités	0.9801090359687805	True
+Rivalidades	Rivalité	0.8660573363304138	False
+Rivalidades	Structures du club	0.8614985942840576	False
+Rivalidades	Culture populaire	0.7602827548980713	False
+Rivalidades	Identité du club	0.7476794719696045	False
+Rivalidades	Supporters	0.6857386231422424	False
+Rivalidades	Stade	0.6344242095947266	False
+Rivalidades	Identité visuelle	0.5313743352890015	False
+Rivalidades	Personnalités historiques du club	0.45538800954818726	False
+Rivalidades	Résultats sportifs	0.35343116521835327	False
+Traducciones	Traductions	0.9974628686904907	True
+Traducciones	Œuvres	0.9736289381980896	False
+Traducciones	Traductions en français	0.9242567420005798	False
+Traducciones	Traductions françaises	0.9070746302604675	False
+Traducciones	Œuvre	0.8708328008651733	False
+Traducciones	Bibliographie	0.8641048669815063	False
+Traducciones	Illustrations	0.8198607563972473	False
+Traducciones	Notes et références	0.8028175830841064	False
+Traducciones	Adaptations	0.7738213539123535	False
+Traducciones	Commentaires	0.6761307716369629	False
+Ideología	Idéologie	0.9973587393760681	True
+Ideología	Programme politique	0.9242370128631592	False
+Ideología	Origines	0.8974341750144958	False
+Ideología	Histoire	0.8578632473945618	False
+Ideología	Fondements idéologiques	0.8081732392311096	False
+Ideología	Ligne politique	0.6007418036460876	False
+Ideología	Biographie	0.5826572775840759	False
+Ideología	Dirigeants	0.48765233159065247	False
+Ideología	Carrière politique	0.46360909938812256	False
+Ideología	Contexte	0.44897934794425964	False
+Anatomía	Anatomie	0.9881404638290405	True
+Anatomía	Anatomie humaine	0.9638527631759644	False
+Anatomía	Physiologie	0.8302072286605835	False
+Anatomía	Description de l'espèce	0.7758821845054626	False
+Anatomía	Classification	0.7001256942749023	False
+Anatomía	Histologie	0.6464330554008484	False
+Anatomía	Biologie	0.625788152217865	False
+Anatomía	Morphologie et anatomie	0.6226710081100464	False
+Anatomía	Description	0.5383543372154236	False
+Anatomía	Description et caractéristiques	0.5251021981239319	False
+Apariencia	Apparence	0.9939749836921692	True
+Apariencia	Description	0.9814682602882385	False
+Apariencia	Création et conception	0.9605682492256165	False
+Apariencia	Description physique	0.8003480434417725	False
+Apariencia	Profil	0.5510020852088928	False
+Apariencia	Répartition	0.5343171954154968	False
+Apariencia	Structure	0.5262311697006226	False
+Apariencia	Historique	0.5086999535560608	False
+Apariencia	Apparitions	0.49298378825187683	False
+Apariencia	Représentation	0.4758915603160858	False
+DVD	DVD	0.9964481592178345	True
+DVD	Autres versions	0.9883571267127991	False
+DVD	Vidéographie	0.9834372997283936	False
+DVD	Sorties vidéo	0.9276807308197021	False
+DVD	Liste des titres	0.9050355553627014	False
+DVD	Commentaires	0.878664493560791	False
+DVD	Vidéos	0.874151885509491	False
+DVD	Récompenses	0.7476861476898193	False
+DVD	Autour du film	0.7263424396514893	False
+DVD	Épisodes	0.6063840389251709	False
+Filmografía parcial	Filmographie	0.9938010573387146	False
+Filmografía parcial	Filmographie sélective	0.9878459572792053	False
+Filmografía parcial	Filmographie partielle	0.9805075526237488	True
+Filmografía parcial	Biographie	0.9577959775924683	False
+Filmografía parcial	Discographie	0.908284604549408	False
+Filmografía parcial	Voix françaises	0.8171040415763855	False
+Filmografía parcial	Carrière	0.8083153963088989	False
+Filmografía parcial	Distinctions	0.6376999020576477	False
+Filmografía parcial	Voix francophones	0.20738452672958374	False
+Filmografía parcial	Doublage	0.19190239906311035	False
+Resultados en Grandes Vueltas y Campeonatos del Mundo	Palmarès et classements mondiaux	0.97953861951828	False
+Resultados en Grandes Vueltas y Campeonatos del Mundo	Palmarès et résultats	0.9786890149116516	False
+Resultados en Grandes Vueltas y Campeonatos del Mundo	Résultats sur les grands tours	0.9772928953170776	True
+Resultados en Grandes Vueltas y Campeonatos del Mundo	Palmarès	0.9764086604118347	False
+Resultados en Grandes Vueltas y Campeonatos del Mundo	Palmarès sur route	0.9610540270805359	False
+Resultados en Grandes Vueltas y Campeonatos del Mundo	Palmarès sur route et classements mondiaux	0.9297667741775513	False
+Resultados en Grandes Vueltas y Campeonatos del Mundo	Palmarès, résultats et distinctions	0.9261394143104553	False
+Resultados en Grandes Vueltas y Campeonatos del Mundo	Carrière professionnelle	0.9112394452095032	False
+Resultados en Grandes Vueltas y Campeonatos del Mundo	Palmarès, résultats et classements mondiaux	0.9103735685348511	False
+Resultados en Grandes Vueltas y Campeonatos del Mundo	Carrière	0.9095346331596375	False
+Importancia	Importance	0.9931340217590332	True
+Importancia	Législation	0.7959062457084656	False
+Importancia	Caractéristiques	0.44103994965553284	False
+Importancia	Contenu	0.29726165533065796	False
+Importancia	Histoire	0.26066237688064575	False
+Importancia	Historique	0.2422083467245102	False
+Importancia	Analyse	0.1811331808567047	False
+Importancia	Démographie	0.158676415681839	False
+Importancia	Biographie	0.15135280787944794	False
+Importancia	Synopsis	0.14870420098304749	False
+Mitología	Mythologie	0.9971730709075928	True
+Mitología	Étymologie	0.9782845377922058	False
+Mitología	Histoire et mythologie	0.9646969437599182	False
+Mitología	Mythes	0.9502407908439636	False
+Mitología	Histoire	0.9401822686195374	False
+Mitología	Mythe	0.9086350798606873	False
+Mitología	Légende	0.7895956635475159	False
+Mitología	Représentation et hypostase	0.7194008827209473	False
+Mitología	Culte	0.6813533306121826	False
+Mitología	Dans la culture	0.6544188857078552	False
+Premios y honores	Prix et distinctions	0.9885157346725464	False
+Premios y honores	Récompenses	0.983803391456604	False
+Premios y honores	Distinctions	0.9833579659461975	False
+Premios y honores	Récompenses et honneurs	0.9813174605369568	False
+Premios y honores	Honneurs	0.9780784249305725	False
+Premios y honores	Distinctions et récompenses	0.9765927195549011	False
+Premios y honores	Distinctions honorifiques	0.9473620653152466	False
+Premios y honores	Prix et récompenses	0.9388195276260376	True
+Premios y honores	Prix	0.9264028072357178	False
+Premios y honores	Distinctions et hommages	0.8198315501213074	False
+Participación	Pays participants	0.9371260404586792	False
+Participación	Participation	0.9312834143638611	True
+Participación	Statistiques	0.9158188104629517	False
+Participación	Biographie	0.6230901479721069	False
+Participación	Histoire	0.2271888107061386	False
+Participación	Règles	0.12023146450519562	False
+Participación	Notes et références	0.03338415548205376	False
+Participación	Liens externes	0.03299182653427124	False
+Participación	Voir aussi	0.02382831834256649	False
+Personajes principales	Personnages	0.9963701963424683	False
+Personajes principales	Personnages principaux	0.9941972494125366	True
+Ventajas	Avantages	0.9927252531051636	True
+Personajes principales	Principaux personnages	0.9599558711051941	False
+Personajes principales	Les personnages	0.9481395483016968	False
+Personajes principales	Les personnages principaux	0.9279959201812744	False
+Ventajas	Avantages et inconvénients	0.9278069734573364	False
+Personajes principales	Trame	0.9137774705886841	False
+Ventajas	Fonctionnalités	0.9046120643615723	False
+Personajes principales	Distribution	0.8457222580909729	False
+Personajes principales	Résumé	0.8271071314811707	False
+Personajes principales	Intrigue	0.8244323134422302	False
+Personajes principales	Histoire	0.8141145706176758	False
+Ventajas	Inconvénients	0.8058945536613464	False
+Ventajas	Description	0.7981750965118408	False
+Ventajas	Compatibilité	0.7799606919288635	False
+Ventajas	Désavantages	0.7749124765396118	False
+Ventajas	Utilisation	0.737621009349823	False
+Ventajas	Technologie	0.7344748973846436	False
+Ventajas	Utilisations	0.7129315137863159	False
+Pensamiento	Pensée	0.995187520980835	True
+Pensamiento	Philosophie	0.9800683856010437	False
+Pensamiento	Sa pensée	0.968193531036377	False
+Pensamiento	Doctrine	0.9675427079200745	False
+Pensamiento	Idées	0.9356511235237122	False
+Pensamiento	Philosophie politique	0.8947380781173706	False
+Pensamiento	Sa philosophie	0.8280787467956543	False
+Pensamiento	Pensée politique	0.8033074736595154	False
+Pensamiento	Opinions	0.7152020335197449	False
+Pensamiento	Vocabulaire	0.6770943999290466	False
+Récords	Records	0.9895277619361877	True
+Récords	Performances	0.9182554483413696	False
+Récords	Palmarès et records	0.7804204821586609	False
+Récords	Palmarès	0.7760679125785828	False
+Récords	Palmarès olympique et mondial	0.6898618340492249	False
+Récords	Organisation	0.4955245852470398	False
+Récords	Biographie	0.4725761115550995	False
+Récords	Palmarès en MMA	0.3721381723880768	False
+Récords	Meilleures performances mondiales de l'année	0.2566528618335724	False
+Récords	Historique	0.24357499182224274	False
+Cine y televisión	Cinéma et télévision	0.9960403442382812	True
+Audiencias	Audiences	0.995451033115387	True
+Cine y televisión	Cinéma	0.9943234920501709	False
+Cine y televisión	Télévision	0.9890130758285522	False
+Cine y televisión	Série télévisée	0.9728758335113525	False
+Cine y televisión	Filmographie	0.967599630355835	False
+Cine y televisión	Fiction	0.9090187549591064	False
+Cine y televisión	Titres	0.8090803623199463	False
+Cine y televisión	Arts et culture	0.7790365815162659	False
+Audiencias	Historique	0.6343441605567932	False
+Cine y televisión	Musique	0.5573278069496155	False
+Audiencias	Controverses	0.5130771398544312	False
+Cine y televisión	Adaptations	0.49049103260040283	False
+Audiencias	Programmes	0.4145861268043518	False
+Audiencias	Commentaires	0.30323272943496704	False
+Audiencias	Diffusion	0.22801139950752258	False
+Audiencias	Accueil	0.14041486382484436	False
+Audiencias	Organisation	0.13250115513801575	False
+Audiencias	Présentateurs	0.1286173164844513	False
+Audiencias	Identité visuelle	0.12444023787975311	False
+Política y gobierno	Administration	0.971137523651123	False
+Política y gobierno	Politique	0.9685865044593811	False
+Política y gobierno	Administration et politique	0.949601948261261	False
+Política y gobierno	Politique et administration	0.8558700084686279	True
+Política y gobierno	Démographie	0.7358534932136536	False
+Política y gobierno	Économie	0.7209705710411072	False
+Política y gobierno	Éducation	0.458076536655426	False
+Política y gobierno	Culture et tourisme	0.42191147804260254	False
+Política y gobierno	Personnalités liées à la ville	0.371878981590271	False
+Política y gobierno	Tourisme	0.34290727972984314	False
+Primera ronda	Premier tour	0.9967009425163269	True
+Otras actividades	Autres activités	0.9947569370269775	True
+Primera ronda	Tour préliminaire	0.9878752827644348	False
+Primera ronda	Deuxième tour	0.9838078618049622	False
+Primera ronda	Déroulement de la compétition	0.9618969559669495	False
+Primera ronda	Compétition	0.9235042929649353	False
+Primera ronda	Participants	0.9219698309898376	False
+Otras actividades	Activités	0.9049373269081116	False
+Primera ronda	Tour de qualification	0.8505656719207764	False
+Primera ronda	Phase de groupes	0.8350625038146973	False
+Otras actividades	Activités annexes	0.8207293152809143	False
+Primera ronda	Troisième tour	0.8191051483154297	False
+Primera ronda	Quarts de finale	0.7893604040145874	False
+Otras actividades	Autres	0.7171513438224792	False
+Otras actividades	Divers	0.5229668021202087	False
+Otras actividades	Vie privée	0.2198847383260727	False
+Otras actividades	Bibliographie	0.21944178640842438	False
+Otras actividades	Biographie	0.21386298537254333	False
+Otras actividades	Tournées	0.19691362977027893	False
+Otras actividades	Récompenses	0.1930999457836151	False
+Seguridad	Sécurité	0.9980838298797607	True
+Seguridad	Mesures de sécurité	0.8111509084701538	False
+Seguridad	Toxicité	0.6192253232002258	False
+Seguridad	Économie	0.5471072196960449	False
+Seguridad	Notes et références	0.482578843832016	False
+Seguridad	Sécurité et accidentologie	0.441323846578598	False
+Seguridad	Aspects techniques	0.4014529287815094	False
+Seguridad	Infrastructures	0.39479926228523254	False
+Seguridad	Éducation	0.38489872217178345	False
+Seguridad	Toxicologie	0.3738820552825928	False
+Mecanismo de acción	Mécanisme d'action	0.9855735898017883	True
+Mecanismo de acción	Mode d'action	0.9844846725463867	False
+Mecanismo de acción	Interactions médicamenteuses	0.8430467844009399	False
+Mecanismo de acción	Structure chimique	0.6089159846305847	False
+Mecanismo de acción	Pharmacocinétique	0.5321035385131836	False
+Mecanismo de acción	Efficacité	0.3166416585445404	False
+Mecanismo de acción	Métabolisme	0.3083401620388031	False
+Mecanismo de acción	Utilisation	0.2894893288612366	False
+Mecanismo de acción	Usage	0.27049776911735535	False
+Mecanismo de acción	Structure	0.25441765785217285	False
+Proyectos	Projets	0.9963536262512207	True
+Proyectos	Travaux	0.9841922521591187	False
+Proyectos	Principales réalisations	0.9678168892860413	False
+Proyectos	Carrière	0.7144680619239807	False
+Proyectos	Biographie	0.6803500056266785	False
+Proyectos	Production	0.5355076193809509	False
+Proyectos	Objectifs	0.5334756970405579	False
+Proyectos	Filmographie	0.504050612449646	False
+Proyectos	Collaborations	0.49041181802749634	False
+Proyectos	Histoire	0.4602734446525574	False
+Álbumes	Albums	0.994879961013794	True
+Álbumes	Discographie	0.9830268025398254	False
+Álbumes	Singles	0.9463691115379333	False
+Álbumes	Style musical	0.5391631126403809	False
+Álbumes	Membres	0.5350040197372437	False
+Álbumes	Histoire	0.23855341970920563	False
+Álbumes	Vie privée	0.23477891087532043	False
+Álbumes	Biographie	0.1983562856912613	False
+Álbumes	Liens externes	0.17992693185806274	False
+Álbumes	Artistes	0.11497022211551666	False
+Tecnología	Technologie	0.9971984624862671	True
+Tecnología	Technique	0.9843288660049438	False
+Tecnología	Caractéristiques techniques	0.9814307689666748	False
+Tecnología	Sciences et techniques	0.9554017782211304	False
+Tecnología	Technologies	0.9392474889755249	False
+Tecnología	Informatique	0.8665373921394348	False
+Tecnología	Organisation	0.75443434715271	False
+Tecnología	Économie	0.6893798112869263	False
+Tecnología	Utilisation	0.5321457386016846	False
+Tecnología	Système de jeu	0.5225465893745422	False
+Terminología	Terminologie	0.9952688813209534	True
+Terminología	Synopsis	0.8368021249771118	False
+Terminología	Origine du terme	0.70551997423172	False
+Terminología	Histoire	0.509780764579773	False
+Terminología	Principes généraux	0.46437492966651917	False
+Terminología	Extensions	0.4367004930973053	False
+Terminología	Définition	0.3853418529033661	False
+Terminología	Démographie	0.27761784195899963	False
+Terminología	Déclinaisons	0.23545590043067932	False
+Terminología	Utilisation	0.21046529710292816	False
+Comandantes	Commandants	0.9962974190711975	True
+Comandantes	Commandement	0.986402690410614	False
+Comandantes	Commandement suprême	0.9835267663002014	False
+Comandantes	Ordres de batailles	0.6739388704299927	False
+Comandantes	Organisation	0.6057670712471008	False
+Comandantes	Histoire	0.5789967775344849	False
+Comandantes	Seconde Guerre mondiale	0.3517332971096039	False
+Comandantes	Historique	0.21411758661270142	False
+Comandantes	Formation	0.18422700464725494	False
+Comandantes	Contexte	0.16551856696605682	False
+Fiestas locales	Fêtes locales	0.982461154460907	True
+Fiestas locales	Culture et patrimoine	0.8443247079849243	False
+Fiestas locales	Patrimoine	0.7800073027610779	False
+Fiestas locales	Lieux et monuments	0.4766773581504822	False
+Fiestas locales	Culture locale et patrimoine	0.3259294033050537	False
+Fiestas locales	Jumelages	0.31514009833335876	False
+Fiestas locales	Personnalités liées à la commune	0.2906798720359802	False
+Fiestas locales	Monuments et sites	0.24531470239162445	False
+Fiestas locales	Jumelage	0.1973746120929718	False
+Fiestas locales	Population et société	0.17521926760673523	False
+Continuidad	Continuité	0.984836995601654	True
+Continuidad	Distribution	0.6451716423034668	False
+Continuidad	Synopsis	0.08759104460477829	False
+Continuidad	Références	0.07555420696735382	False
+Continuidad	Référence	0.06213494390249252	False
+Continuidad	Bande originale	0.054780762642621994	False
+Continuidad	Liens externes	0.04518069326877594	False
+Continuidad	Histoire	0.0356588289141655	False
+Continuidad	Fiche technique	0.02348892018198967	False
+Continuidad	Adaptation	0.018809236586093903	False
+Iconografía	Iconographie	0.9899523854255676	True
+Iconografía	Représentations	0.9574640989303589	False
+Iconografía	Représentation	0.914277970790863	False
+Iconografía	Représentations artistiques	0.8542256951332092	False
+Iconografía	Mythes	0.7276299595832825	False
+Iconografía	Mythologie	0.6473914384841919	False
+Iconografía	Spiritualité	0.6240063905715942	False
+Iconografía	Histoire	0.5515213012695312	False
+Iconografía	Culte	0.5035686492919922	False
+Iconografía	Célébration	0.44614821672439575	False
+Artistas	Artistes	0.9973440766334534	True
+Artistas	Anciens artistes	0.9820451140403748	False
+Artistas	Artistes actuels	0.9793401956558228	False
+Artistas	Discographie	0.9731475710868835	False
+Artistas	Histoire	0.8883769512176514	False
+Artistas	Distribution	0.8431057333946228	False
+Artistas	Historique	0.5917733311653137	False
+Artistas	Caractéristiques	0.5565235018730164	False
+Artistas	Labels rattachés	0.12237244844436646	False
+Artistas	Galerie	0.07272278517484665	False
+Carrera internacional	Carrière internationale	0.9804988503456116	True
+Carrera internacional	International	0.9570674300193787	False
+Carrera internacional	Équipe nationale	0.9106638431549072	False
+Carrera internacional	Carrière	0.9005089998245239	False
+Carrera internacional	Carrière en club	0.7958236336708069	False
+Carrera internacional	Palmarès	0.7342897057533264	False
+Carrera internacional	Biographie	0.7302088141441345	False
+Carrera internacional	Palmarès et statistiques	0.2628940939903259	False
+Carrera internacional	Buts en sélection	0.23473331332206726	False
+Carrera internacional	Style de jeu	0.20169438421726227	False
+Modelos	Modèles	0.996859073638916	True
+Características técnicas	Caractéristiques techniques	0.9961942434310913	True
+Características técnicas	Caractéristiques	0.9837137460708618	False
+Modelos	Les versions	0.9548973441123962	False
+Características técnicas	Description	0.9445897936820984	False
+Modelos	Les modèles	0.928912878036499	False
+Modelos	Modèles actuels	0.9207627177238464	False
+Características técnicas	Spécifications techniques	0.9015606641769409	False
+Modelos	Produits	0.8836796283721924	False
+Características técnicas	Histoire	0.8204489946365356	False
+Modelos	Historique	0.80207359790802	False
+Modelos	Production	0.7765766978263855	False
+Modelos	Motorisations	0.7381743788719177	False
+Modelos	Histoire	0.7376999855041504	False
+Características técnicas	Motorisations	0.6885148286819458	False
+Características técnicas	Technique	0.6140159964561462	False
+Modelos	Variantes	0.5391512513160706	False
+Características técnicas	Historique	0.5035157799720764	False
+Características técnicas	Performances	0.35579755902290344	False
+Características técnicas	Variantes	0.35211288928985596	False
+Estilo musical	Style musical	0.9972866773605347	True
+Elaboración	Préparation	0.9889673590660095	False
+Estilo musical	Style de musique	0.9822017550468445	False
+Estilo musical	Style musical et influences	0.9669114947319031	False
+Elaboración	Élaboration	0.9566888213157654	True
+Estilo musical	Caractéristiques artistiques	0.9365768432617188	False
+Estilo musical	Influences	0.9348490238189697	False
+Elaboración	Fabrication	0.9207531213760376	False
+Elaboración	Description	0.6768401861190796	False
+Estilo musical	Discographie	0.6604941487312317	False
+Estilo musical	Œuvre	0.41744282841682434	False
+Elaboración	Utilisation	0.4088824689388275	False
+Elaboración	Production	0.40487363934516907	False
+Elaboración	Technique	0.3616771101951599	False
+Elaboración	Histoire	0.3448505997657776	False
+Estilo musical	Biographie	0.26865339279174805	False
+Elaboración	Consommation	0.24035947024822235	False
+Estilo musical	Postérité	0.226811945438385	False
+Estilo musical	Historique du groupe	0.2101914882659912	False
+Elaboración	Caractéristiques	0.1626657098531723	False
+Amenazas	Menaces	0.9940502047538757	True
+Amenazas	Éthologie	0.4893719255924225	False
+Amenazas	Distribution	0.4733527600765228	False
+Amenazas	Histoire	0.1826964169740677	False
+Amenazas	Comportement	0.17698821425437927	False
+Amenazas	Écologie et comportement	0.16662946343421936	False
+Amenazas	Répartition géographique et habitat	0.1381191611289978	False
+Amenazas	Répartition et habitat	0.13583333790302277	False
+Amenazas	Écologie	0.12283706665039062	False
+Amenazas	Alimentation	0.1106487363576889	False
+Denominación	Dénomination	0.9975013136863708	True
+Denominación	Désignation	0.9848520159721375	False
+Denominación	Toponymie	0.953190803527832	False
+Denominación	Description	0.6869203448295593	False
+Denominación	Systématique	0.5054618120193481	False
+Denominación	Les origines	0.5020531415939331	False
+Denominación	Origine	0.3505428731441498	False
+Denominación	Caractéristiques	0.2468883991241455	False
+Denominación	Étymologie	0.22490853071212769	False
+Denominación	Historique	0.20723947882652283	False

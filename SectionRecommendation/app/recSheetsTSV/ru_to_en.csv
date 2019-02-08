@@ -1,0 +1,2949 @@
+secFrom	langTo	prob	isTranslation
+Примечания	References	0.9946438074111938	True
+Примечания	Notes	0.9824609160423279	True
+Примечания	Footnotes	0.9801848530769348	False
+Примечания	Sources	0.9584944248199463	False
+Примечания	References and notes	0.9524641633033752	True
+Примечания	Citations	0.9496550559997559	False
+Примечания	Notes and references	0.9438883066177368	True
+Примечания	Further reading	0.922937273979187	False
+Примечания	Bibliography	0.9128163456916809	False
+Примечания	External links	0.8982529044151306	False
+Ссылки	References	0.9972718358039856	True
+Ссылки	Sources	0.9908633828163147	False
+Ссылки	External links	0.9901559352874756	False
+Ссылки	Footnotes	0.9888006448745728	False
+Ссылки	Notes and references	0.9811460971832275	False
+Ссылки	Notes	0.9790819883346558	False
+Ссылки	References and notes	0.9655305743217468	False
+Ссылки	Citations	0.9621372222900391	True
+Ссылки	Further reading	0.941044807434082	False
+Ссылки	Other sources	0.9174893498420715	False
+Литература	References	0.9869115352630615	False
+Литература	Bibliography	0.9823911786079407	False
+Литература	Literature	0.9797983169555664	True
+Литература	Notes	0.950920820236206	False
+Литература	References and sources	0.9447345733642578	False
+Литература	Notes and references	0.9435245394706726	False
+Литература	Further reading	0.9128673076629639	False
+Литература	Citations	0.859921395778656	False
+Литература	Sources	0.841305136680603	False
+Литература	References and notes	0.8171342611312866	False
+Биография	Biography	0.9947763681411743	True
+Биография	Life	0.9874764084815979	False
+Биография	Career	0.9836296439170837	False
+Биография	Life and career	0.9785875678062439	False
+Биография	Early life	0.9765385985374451	False
+Биография	Early life and education	0.975484311580658	False
+Биография	Early life and career	0.9680758714675903	False
+Биография	Club career	0.9151606559753418	False
+Биография	Background	0.8879605531692505	False
+Биография	Football career	0.8633379936218262	False
+См. также	See also	0.9961041212081909	True
+См. также	References	0.8342840075492859	False
+См. также	Further reading	0.8204308748245239	False
+См. также	Notes	0.7825133204460144	False
+См. также	Other	0.6457012891769409	False
+См. также	References and notes	0.44501957297325134	False
+См. также	Footnotes	0.42873427271842957	False
+См. также	Bibliography	0.39288657903671265	False
+См. также	Additional images	0.38416850566864014	False
+См. также	Other uses	0.38114458322525024	False
+История	History	0.9968147873878479	True
+История	Geography	0.8778729438781738	False
+История	Early history	0.8584592342376709	False
+История	Overview	0.7775735855102539	False
+История	Background	0.773465096950531	False
+История	Service history	0.6525238752365112	False
+История	History and profile	0.6366585493087769	False
+История	Operational history	0.6282528042793274	False
+История	Critical reception	0.6264323592185974	False
+История	Origin	0.6031852960586548	False
+Население	Population	0.9888299107551575	True
+Население	Demography	0.9714046716690063	False
+Население	Administrative and municipal status	0.9578790068626404	False
+Население	Demographics	0.9541141390800476	False
+Население	Districts	0.8029918074607849	False
+Население	Municipalities	0.7726252675056458	False
+Население	Administrative divisions	0.6656115651130676	False
+Население	Administrative division	0.6298799514770508	False
+Население	Cities	0.6039850115776062	False
+Население	Administrative and municipal divisions	0.5970333218574524	False
+География	Geography	0.9940937161445618	True
+География	Location	0.9649702310562134	False
+География	Geography and climate	0.9554618000984192	False
+География	History	0.9196486473083496	False
+География	Demographics	0.8851279616355896	False
+География	Boundaries	0.8404407501220703	False
+География	Overview	0.8302749991416931	False
+География	Location and geography	0.7813606262207031	False
+География	Geography and geology	0.7718692421913147	False
+География	Economy	0.7180312275886536	False
+Награды	Awards	0.9972736239433289	True
+Награды	Honours and awards	0.9943689703941345	False
+Награды	Awards and honors	0.9932262301445007	False
+Награды	Awards and nominations	0.9923734068870544	False
+Награды	Awards and honours	0.9919528365135193	False
+Награды	Honors	0.9900559186935425	False
+Награды	Accolades	0.9867591261863708	False
+Награды	Honours	0.9798671007156372	False
+Награды	Awards and recognition	0.9782387018203735	False
+Награды	Honors and awards	0.9754330515861511	False
+Источники	References	0.9968817234039307	False
+Источники	Sources	0.9965734481811523	True
+Источники	Footnotes	0.9911525845527649	False
+Источники	Notes and references	0.9826216697692871	False
+Источники	External links	0.9813292026519775	False
+Источники	Notes	0.976324200630188	False
+Источники	Further reading	0.9760160446166992	False
+Источники	Other sources	0.9505918622016907	False
+Источники	References and notes	0.9096701741218567	False
+Источники	See also	0.8969713449478149	False
+Сюжет	Plot	0.9964864253997803	True
+Сюжет	Synopsis	0.9919032454490662	False
+Сюжет	Story	0.9877386093139648	False
+Сюжет	Plot summary	0.9859344363212585	True
+Сюжет	Premise	0.9764046669006348	False
+Сюжет	Gameplay	0.962328314781189	False
+Сюжет	Summary	0.938731849193573	False
+Сюжет	Characters	0.933833658695221	False
+Сюжет	Plot synopsis	0.9002453088760376	True
+Сюжет	Overview	0.8826325535774231	False
+Описание	Description	0.9946542978286743	True
+Описание	Overview	0.9572208523750305	False
+Описание	Synopsis	0.8708469867706299	False
+Описание	Design	0.8494916558265686	False
+Описание	Appearance	0.831710934638977	False
+Описание	Location	0.8070387840270996	False
+Описание	Characteristics	0.8026341199874878	False
+Описание	Plot	0.7913704514503479	False
+Описание	Gameplay	0.781660258769989	False
+Описание	Details	0.7660515904426575	False
+Экономика	Economy	0.995030403137207	True
+Экономика	Industry	0.9273558855056763	False
+Экономика	Economics	0.9267519116401672	False
+Экономика	Commerce	0.8714497685432434	False
+Экономика	Demography	0.8162642121315002	False
+Экономика	Transport	0.8080407381057739	False
+Экономика	Business	0.7883177995681763	False
+Экономика	Politics	0.7611109018325806	False
+Экономика	Transportation	0.7610133290290833	False
+Экономика	Economy and infrastructure	0.7521306872367859	False
+Достижения	Honours	0.987363874912262	False
+Достижения	Achievements	0.9804437160491943	True
+Достижения	Awards and honours	0.9792698621749878	False
+Достижения	Honors	0.9664386510848999	False
+Достижения	Awards and honors	0.9621631503105164	False
+Достижения	Awards and achievements	0.9589188694953918	False
+Достижения	Awards	0.9572832584381104	False
+Достижения	International career	0.9432701468467712	False
+Достижения	Titles	0.9385181069374084	False
+Достижения	Career achievements	0.9017547965049744	True
+Достопримечательности	Attractions	0.9898507595062256	False
+Достопримечательности	Landmarks	0.9893163442611694	False
+Достопримечательности	Places of interest	0.9867765307426453	False
+Достопримечательности	Culture and recreation	0.9861690998077393	False
+Достопримечательности	Sights	0.9774681329727173	False
+Достопримечательности	Tourism	0.9724912047386169	False
+Достопримечательности	Sites of interest	0.9618846774101257	False
+Достопримечательности	Points of interest	0.9571107625961304	True
+Достопримечательности	Main sights	0.9521670341491699	False
+Достопримечательности	Tourist attractions	0.9439069628715515	False
+Карьера	Career	0.9935910701751709	True
+Карьера	Club career	0.9860974550247192	False
+Карьера	Playing career	0.9853282570838928	False
+Карьера	International career	0.9686610698699951	False
+Карьера	Football career	0.9667074680328369	False
+Карьера	Coaching career	0.9615377187728882	False
+Карьера	Professional career	0.9532866477966309	False
+Карьера	Biography	0.9519342184066772	False
+Карьера	Life and career	0.9459115862846375	False
+Карьера	Managerial career	0.9263646602630615	False
+В ролях	Cast	0.9901956915855408	True
+В ролях	Production	0.9700536727905273	False
+В ролях	Plot	0.9675755500793457	False
+В ролях	Characters	0.9571710824966431	False
+В ролях	Cast and characters	0.9565156698226929	False
+В ролях	Main cast	0.9461909532546997	False
+В ролях	Premise	0.9044145941734314	False
+В ролях	Synopsis	0.891348659992218	False
+В ролях	Plot summary	0.8583583831787109	False
+В ролях	Episodes	0.7433174252510071	False
+Семья	Family	0.9953828454017639	True
+Семья	Personal life	0.9802790880203247	False
+Семья	Children	0.9683132171630859	False
+Семья	Marriage and children	0.9677110314369202	False
+Семья	Marriage and family	0.9662327766418457	False
+Семья	Marriage	0.9638693332672119	False
+Семья	Family and children	0.9471485018730164	False
+Семья	Family life	0.9467665553092957	False
+Семья	Marriage and issue	0.9271121621131897	False
+Семья	Personal	0.9191880822181702	False
+Географическое положение	Geography	0.987603485584259	False
+Географическое положение	Location	0.9371751546859741	True
+Географическое положение	Surrounding municipalities	0.8440489768981934	False
+Географическое положение	Geography and climate	0.7978351712226868	False
+Географическое положение	Demographics	0.7846450209617615	False
+Географическое положение	Neighboring municipalities	0.7451666593551636	False
+Географическое положение	Topography	0.5623414516448975	False
+Географическое положение	History	0.4837542474269867	False
+Географическое положение	Climate	0.328584223985672	False
+Географическое положение	Transportation	0.30445966124534607	False
+Демография	Demographics	0.9807913303375244	True
+Демография	Demography	0.9662876725196838	True
+Демография	Population	0.6953032612800598	False
+Демография	Economy	0.5264554023742676	False
+Демография	Politics	0.5048678517341614	False
+Демография	Historical population	0.45224013924598694	False
+Демография	Climate	0.44969412684440613	False
+Демография	Geography	0.4283781945705414	False
+Демография	Education	0.3392173647880554	False
+Демография	History	0.31301212310791016	False
+Память	Legacy	0.9816738367080688	True
+Память	Memory	0.9768822193145752	False
+Память	Commemoration	0.9750687479972839	True
+Память	Memorials	0.9660340547561646	True
+Память	Death and legacy	0.9405187368392944	False
+Память	Honors	0.8569300174713135	False
+Память	Remembrance	0.8510793447494507	False
+Память	Legacy and honors	0.8467784523963928	False
+Память	Memorial	0.8053171634674072	False
+Память	Commemorations	0.7273539304733276	False
+Фильмография	Filmography	0.9955963492393494	True
+Фильмография	Selected filmography	0.9884981513023376	False
+Фильмография	Partial filmography	0.9790248274803162	False
+Фильмография	Films	0.9636985063552856	False
+Фильмография	Film career	0.9616028666496277	False
+Фильмография	Film	0.9477740526199341	False
+Фильмография	Career	0.9458602070808411	False
+Фильмография	Acting career	0.9442402720451355	False
+Фильмография	Television	0.9059436917304993	False
+Фильмография	Awards and nominations	0.8665500283241272	False
+Библиография	Bibliography	0.9961050748825073	True
+Библиография	Books	0.9787543416023254	False
+Библиография	Literature	0.9785194993019104	False
+Библиография	Publications	0.9737348556518555	False
+Библиография	Selected bibliography	0.9720184803009033	False
+Библиография	Notes and references	0.9600721001625061	False
+Библиография	References	0.9497148394584656	False
+Библиография	Works	0.9387635588645935	False
+Библиография	Selected works	0.8748401999473572	False
+Библиография	Literary works	0.8571224808692932	False
+Интересные факты	Cultural references	0.974694550037384	False
+Интересные факты	Trivia	0.9472744464874268	True
+Интересные факты	Interesting facts	0.9472437500953674	False
+Интересные факты	Quotes	0.8979507088661194	False
+Интересные факты	In popular culture	0.8816961646080017	False
+Интересные факты	Notes	0.8019434213638306	False
+Интересные факты	References	0.7286143898963928	False
+Интересные факты	References in popular culture	0.6368200778961182	False
+Интересные факты	Facts	0.6276080012321472	True
+Интересные факты	Popular culture	0.5755739212036133	False
+Галерея	Gallery	0.997134804725647	True
+Галерея	Image gallery	0.9771105051040649	False
+Галерея	Photo gallery	0.9542932510375977	False
+Галерея	Picture gallery	0.9409533739089966	False
+Галерея	Photogallery	0.8954967856407166	False
+Галерея	Images	0.8222769498825073	False
+Галерея	Selected paintings	0.7946956753730774	False
+Галерея	Pictures	0.793925404548645	False
+Галерея	Works	0.7815290093421936	False
+Галерея	References	0.72470623254776	False
+Транспорт	Transport	0.9963501691818237	True
+Транспорт	Transportation	0.995468020439148	True
+Транспорт	Infrastructure	0.9793186187744141	False
+Транспорт	Economy	0.9723166227340698	False
+Транспорт	Ground transportation	0.9414856433868408	False
+Транспорт	Ground transport	0.9371321201324463	False
+Транспорт	Economy and transportation	0.8720263838768005	False
+Транспорт	Public transport	0.8057746291160583	False
+Транспорт	Economy and infrastructure	0.763196587562561	False
+Транспорт	Connectivity	0.7557066082954407	False
+Личная жизнь	Personal life	0.9976644515991211	True
+Личная жизнь	Personal	0.9853265285491943	False
+Личная жизнь	Private life	0.9708108901977539	False
+Личная жизнь	Family	0.9604467153549194	False
+Личная жизнь	Personal life and death	0.9192001819610596	False
+Личная жизнь	Personal Life	0.8980148434638977	False
+Личная жизнь	Marriage	0.8399065732955933	False
+Личная жизнь	Marriages	0.7484560012817383	False
+Личная жизнь	Early and personal life	0.745912492275238	False
+Личная жизнь	Marriage and family	0.6909054517745972	False
+Творчество	Works	0.96170574426651	True
+Творчество	Work	0.9577979445457458	False
+Творчество	Literary career	0.9527025818824768	False
+Творчество	Writing career	0.9169852137565613	False
+Творчество	Selected works	0.8975046277046204	False
+Творчество	Art	0.8876485228538513	False
+Творчество	Poetry	0.8716820478439331	False
+Творчество	Writings	0.8605596423149109	False
+Творчество	Writing	0.837416410446167	False
+Творчество	Filmography	0.8292120695114136	False
+Дискография	Discography	0.9977960586547852	True
+Дискография	Selected discography	0.9842034578323364	False
+Дискография	Recordings	0.97788006067276	False
+Дискография	Singles	0.9595373868942261	False
+Дискография	Albums	0.9070176482200623	False
+Дискография	Works	0.749431312084198	False
+Дискография	Biography	0.713866114616394	False
+Дискография	Musical career	0.6901121139526367	False
+Дискография	Awards and nominations	0.6852743625640869	False
+Дискография	Solo discography	0.6818074584007263	False
+Статистика	Career statistics	0.9793278574943542	False
+Статистика	Statistics	0.9722670316696167	True
+Статистика	Club statistics	0.9560670852661133	False
+Статистика	Professional career	0.9145227670669556	False
+Статистика	Career	0.9030103087425232	False
+Статистика	Playing career	0.8967495560646057	False
+Статистика	International play	0.8796314597129822	False
+Статистика	Championship standings after the race	0.8793764114379883	False
+Статистика	Final standings	0.8744291663169861	False
+Статистика	Club career	0.8723351955413818	False
+Распространение	Distribution and habitat	0.9841575026512146	False
+Распространение	Distribution	0.9840229749679565	True
+Распространение	Geographic range	0.9569339156150818	False
+Распространение	Habitat and distribution	0.948284924030304	False
+Распространение	Range and habitat	0.9480504989624023	False
+Распространение	Range	0.9435390830039978	False
+Распространение	Habitat	0.9421776533126831	False
+Распространение	Habitat and range	0.8666502833366394	False
+Распространение	Geographic distribution	0.734677791595459	False
+Распространение	Geographical distribution	0.6293269991874695	False
+Состав	Members	0.9687023758888245	True
+Состав	Band members	0.9671834111213684	True
+Состав	Composition	0.9161635637283325	True
+Состав	Personnel	0.8828612565994263	False
+Состав	Players	0.8702674508094788	False
+Состав	Current squad	0.8695732355117798	False
+Состав	Former members	0.8163868188858032	False
+Состав	Organization	0.7829487919807434	False
+Состав	Current roster	0.7802945375442505	False
+Состав	Membership	0.7461419105529785	False
+Клубная карьера	Club career	0.9917160868644714	True
+Клубная карьера	Career	0.9825663566589355	False
+Клубная карьера	Playing career	0.97278892993927	False
+Клубная карьера	Football career	0.9589969515800476	False
+Клубная карьера	Club statistics	0.9410538077354431	False
+Клубная карьера	Biography	0.90461266040802	False
+Клубная карьера	Professional career	0.9037529826164246	False
+Клубная карьера	Career statistics	0.870794415473938	False
+Клубная карьера	Early career	0.86817866563797	False
+Клубная карьера	Club Career	0.6828379034996033	False
+Россия	Russia	0.9898848533630371	True
+Россия	Finland	0.4229164123535156	False
+Россия	Belarus	0.3910425007343292	False
+Россия	References	0.2965846657752991	False
+Россия	Sweden	0.29425519704818726	False
+Россия	Ukraine	0.26114410161972046	False
+Россия	Further reading	0.20067115128040314	False
+Россия	Slovakia	0.16817139089107513	False
+Россия	Latvia	0.15919890999794006	False
+Россия	Serbia	0.1564250886440277	False
+Инфраструктура	Infrastructure	0.9934436082839966	True
+Инфраструктура	Facilities	0.9835680723190308	False
+Инфраструктура	Economy	0.9535217881202698	False
+Инфраструктура	Transport	0.8656224608421326	False
+Инфраструктура	Other facilities	0.8610744476318359	False
+Инфраструктура	Transportation	0.844706654548645	False
+Инфраструктура	Administrative and municipal status	0.7016283273696899	False
+Инфраструктура	Future plans	0.584881067276001	False
+Инфраструктура	Education	0.5742254853248596	False
+Инфраструктура	Culture and recreation	0.5576769709587097	False
+Административное деление	Administrative divisions	0.9867434501647949	False
+Административное деление	Administrative division	0.9742665886878967	True
+Административное деление	Subdivisions	0.9740704298019409	False
+Административное деление	Districts	0.9677706360816956	False
+Административное деление	Administration	0.9627676606178284	False
+Административное деление	Administrative subdivisions	0.9507742524147034	False
+Административное деление	Administrative and municipal status	0.94480299949646	False
+Административное деление	Departments	0.9282575845718384	False
+Административное деление	Municipalities	0.8847420811653137	False
+Административное деление	Administrative districts	0.823072612285614	False
+Сочинения	Writings	0.9921991229057312	False
+Сочинения	Works	0.9789255857467651	True
+Сочинения	Compositions	0.9762356281280518	False
+Сочинения	Selected bibliography	0.9666607975959778	False
+Сочинения	Books	0.9579418897628784	False
+Сочинения	Publications	0.9513746500015259	False
+Сочинения	Translations	0.9378092288970947	False
+Сочинения	Published works	0.9300769567489624	False
+Сочинения	Selected works	0.9174325466156006	False
+Сочинения	Bibliography	0.855833888053894	False
+Критика	Criticism	0.9928939938545227	True
+Критика	Reception	0.9920929074287415	False
+Критика	Criticisms	0.9854736328125	False
+Критика	Critical reception	0.9783079028129578	True
+Критика	Critical reception	0.9783079028129578	True
+Критика	Controversies	0.9736270308494568	False
+Критика	Critical response	0.9727663993835449	False
+Критика	Critics	0.9247316718101501	False
+Критика	Critical reaction	0.9102749824523926	False
+Критика	Controversy	0.8359397053718567	False
+Результаты	Results	0.9955614805221558	True
+Результаты	Opinion polls	0.957379162311554	False
+Результаты	Standings	0.9500934481620789	False
+Результаты	Medal table	0.9392772316932678	False
+Результаты	Final standings	0.9334403276443481	False
+Результаты	Candidates	0.9162032008171082	False
+Результаты	Campaign	0.8970914483070374	False
+Результаты	Medal summary	0.8885417580604553	False
+Результаты	Final	0.8785791397094727	False
+Результаты	Medalists	0.8531296253204346	False
+Применение	Applications	0.9539687633514404	False
+Применение	Usage	0.9416086673736572	True
+Применение	Application	0.9185287356376648	False
+Применение	Uses	0.8344331383705139	True
+Применение	Use	0.8330118060112	True
+Применение	Disadvantages	0.748530924320221	False
+Применение	Operational history	0.6215976476669312	False
+Применение	Implementations	0.5625507831573486	False
+Применение	Users	0.47726520895957947	False
+Применение	Design and development	0.381201833486557	False
+Награды и звания	Honours and awards	0.995020866394043	False
+Награды и звания	Awards	0.9935414791107178	False
+Награды и звания	Awards and honors	0.9848476052284241	True
+Награды и звания	Awards and honors	0.9848476052284241	True
+Награды и звания	Awards and honours	0.9824239015579224	False
+Награды и звания	Awards and recognition	0.9812395572662354	False
+Награды и звания	Honors and awards	0.9801590442657471	False
+Награды и звания	Honors	0.9775978922843933	False
+Награды и звания	Honours	0.9762568473815918	False
+Награды и звания	Recognition	0.9609942436218262	False
+Образование	Education	0.9962260723114014	True
+Образование	Early life and education	0.9390734434127808	False
+Образование	Formation	0.8848716616630554	False
+Образование	Higher education	0.8614193201065063	False
+Образование	Colleges and universities	0.7871413826942444	False
+Образование	Main sights	0.6803522109985352	False
+Образование	Culture and education	0.6168345808982849	False
+Образование	Background	0.43073615431785583	False
+Образование	Early life	0.42301809787750244	False
+Образование	Life and education	0.38161802291870117	False
+Научная деятельность	Scientific activity	0.9693584442138672	False
+Научная деятельность	Scientific work	0.9682406187057495	False
+Научная деятельность	Research	0.9598501920700073	False
+Научная деятельность	Scientific activities	0.9583026766777039	False
+Научная деятельность	Work	0.9398931264877319	False
+Научная деятельность	Scientific career	0.9321122765541077	True
+Научная деятельность	Scholarship	0.9199277758598328	False
+Научная деятельность	Academic career	0.8942674398422241	False
+Научная деятельность	Scientific research	0.8931945562362671	False
+Научная деятельность	Scientific achievements	0.8647734522819519	False
+История создания	History	0.9902591705322266	False
+История создания	Publication history	0.966598629951477	False
+История создания	Development history	0.9589172601699829	False
+История создания	Development	0.9523629546165466	False
+История создания	Composition history	0.9404149651527405	False
+История создания	Background	0.9297084808349609	False
+История создания	Origins	0.9128255844116211	False
+История создания	Production	0.8995377421379089	False
+История создания	Design and development	0.8644229769706726	False
+История создания	Creation	0.8324710726737976	True
+Политическая ситуация	Politics	0.9673384428024292	False
+Политическая ситуация	Government	0.5270736217498779	False
+Политическая ситуация	Economy	0.24847471714019775	False
+Политическая ситуация	Population	0.2322828471660614	False
+Политическая ситуация	References	0.23221924901008606	False
+Политическая ситуация	Political situation	0.17920003831386566	True
+Политическая ситуация	International relations	0.10379377752542496	False
+Политическая ситуация	Economy and infrastructure	0.10230278223752975	False
+Политическая ситуация	Geography	0.09132290631532669	False
+Политическая ситуация	Notes	0.08203866332769394	False
+Классификация	Classification	0.9862446188926697	True
+Классификация	Taxonomy	0.9466493129730225	False
+Классификация	Taxonomy and systematics	0.8836410045623779	False
+Классификация	Systematics	0.8672661781311035	False
+Классификация	Championship standings after the race	0.8511742949485779	False
+Классификация	Genera	0.8218845129013062	False
+Классификация	Species	0.8035331964492798	False
+Классификация	Phylogeny	0.787605345249176	False
+Классификация	Race report	0.787414014339447	False
+Классификация	Taxonomy and naming	0.7472255825996399	False
+Награды и премии	Awards	0.9973399043083191	False
+Награды и премии	Awards and honors	0.9921334981918335	True
+Награды и премии	Honours and awards	0.991303563117981	False
+Награды и премии	Awards and nominations	0.9907757639884949	False
+Награды и премии	Honors and awards	0.9901347756385803	False
+Награды и премии	Awards and honours	0.9889748096466064	False
+Награды и премии	Awards and prizes	0.9848005771636963	False
+Награды и премии	Awards and recognition	0.9794543385505676	False
+Награды и премии	Honors	0.9767280220985413	False
+Награды и премии	Accolades	0.975165069103241	False
+Происхождение названия	Etymology	0.9939318895339966	False
+Происхождение названия	Name	0.9859565496444702	False
+Происхождение названия	Origin of the name	0.9810501933097839	False
+Происхождение названия	Names	0.9807410836219788	False
+Происхождение названия	Origins	0.9271864295005798	False
+Происхождение названия	Origin of name	0.8546581268310547	False
+Происхождение названия	Nomenclature	0.7947239875793457	False
+Происхождение названия	Toponymy	0.7690014243125916	False
+Происхождение названия	Discovery	0.7574700117111206	False
+Происхождение названия	Naming	0.7081624865531921	False
+Фотогалерея	Gallery	0.9858318567276001	False
+Фотогалерея	Photo gallery	0.985470175743103	True
+Фотогалерея	Personalities	0.8941126465797424	False
+Фотогалерея	Results	0.45284581184387207	False
+Фотогалерея	Heraldry	0.4409576952457428	False
+Фотогалерея	See also	0.4298531711101532	False
+Фотогалерея	Picture gallery	0.42276373505592346	False
+Фотогалерея	External links	0.37537625432014465	False
+Фотогалерея	Monuments	0.3657406270503998	False
+Фотогалерея	Sights	0.33090531826019287	False
+Награды и номинации	Awards and nominations	0.9953216910362244	True
+Награды и номинации	Awards	0.9927478432655334	False
+Награды и номинации	Accolades	0.9897240400314331	False
+Награды и номинации	Awards and honors	0.984173059463501	False
+Награды и номинации	Awards and recognition	0.9333509206771851	False
+Награды и номинации	Awards and honours	0.926975667476654	False
+Награды и номинации	Reception	0.8671417832374573	False
+Награды и номинации	Honors and awards	0.8668274879455566	False
+Награды и номинации	Awards and accolades	0.8612065315246582	False
+Награды и номинации	Award nominations	0.8142150044441223	False
+Название	Name	0.9927230477333069	True
+Название	Etymology	0.9849923849105835	False
+Название	Names	0.9648391604423523	False
+Название	Nomenclature	0.9254628419876099	False
+Название	Naming	0.9231474995613098	False
+Название	Origin of the name	0.9147033095359802	False
+Название	Toponymy	0.9058297872543335	False
+Название	The name	0.8990119695663452	False
+Название	Title	0.8581454157829285	False
+Название	Name origin	0.7341299057006836	False
+Климат	Climate	0.9878183603286743	True
+Климат	Geography and climate	0.789099395275116	False
+Климат	Geography	0.7775386571884155	False
+Климат	Economy	0.4880063235759735	False
+Климат	Topography	0.4836061894893646	False
+Климат	Population	0.4080839455127716	False
+Климат	Demographics	0.28202638030052185	False
+Климат	Demography	0.27216067910194397	False
+Климат	Weather	0.20212173461914062	False
+Климат	Flora and fauna	0.15913866460323334	False
+Публикации	Publications	0.9967368245124817	True
+Публикации	Writings	0.9829531908035278	False
+Публикации	Selected publications	0.9757915735244751	False
+Публикации	Published works	0.975517988204956	False
+Публикации	Works	0.9644266366958618	False
+Публикации	Books	0.9642176628112793	False
+Публикации	Publication history	0.912299633026123	False
+Публикации	References	0.8071531057357788	False
+Публикации	Mathematics	0.6773601770401001	False
+Публикации	His books	0.5300713181495667	False
+Физические свойства	Physical properties	0.9791474938392639	False
+Физические свойства	Crystal structure	0.9163277745246887	False
+Физические свойства	Properties	0.8981236815452576	False
+Физические свойства	Description	0.825322687625885	False
+Физические свойства	Chemical properties	0.7270975708961487	False
+Физические свойства	Characteristics	0.6668139100074768	False
+Физические свойства	Structure	0.6378207802772522	False
+Физические свойства	Structure and bonding	0.6336898803710938	False
+Физические свойства	Reactivity	0.5844399333000183	False
+Физические свойства	Related compounds	0.5671066045761108	False
+События	Events	0.9824452996253967	True
+События	Notes	0.6526188254356384	False
+События	Notable events	0.6326432824134827	False
+События	Classification	0.47294881939888	False
+События	Championship standings after the race	0.4532663822174072	False
+События	Significant persons	0.393971711397171	False
+События	Race report	0.3869953155517578	False
+События	Astronomy	0.3457036316394806	False
+События	History	0.3272368907928467	False
+События	Significant people	0.23908717930316925	False
+Ботаническое описание	Description	0.9695160984992981	False
+Ботаническое описание	Taxonomy	0.4387389123439789	False
+Ботаническое описание	Characteristics	0.30555886030197144	False
+Ботаническое описание	Cultivation	0.29647648334503174	False
+Ботаническое описание	Features	0.2714911103248596	False
+Ботаническое описание	Description and ecology	0.25308287143707275	False
+Ботаническое описание	Botanical description	0.22282356023788452	True
+Ботаническое описание	Appearance	0.17250552773475647	False
+Ботаническое описание	Morphology	0.16001147031784058	False
+Ботаническое описание	Species	0.1404057741165161	False
+Предыстория	Prelude	0.9865899085998535	False
+Предыстория	Background	0.9620434641838074	False
+Предыстория	Context	0.9313088655471802	False
+Предыстория	History	0.9234458804130554	False
+Предыстория	Origins	0.9181346297264099	False
+Предыстория	Historical background	0.8686754703521729	False
+Предыстория	Introduction	0.7840884327888489	False
+Предыстория	Overview	0.7727363109588623	False
+Предыстория	Prehistory	0.6624865531921387	True
+Предыстория	Historical context	0.6172754168510437	False
+Общие сведения	Overview	0.9634513258934021	False
+Общие сведения	Geography	0.9320670366287231	False
+Общие сведения	General information	0.922892153263092	True
+Общие сведения	Background	0.8654180765151978	False
+Общие сведения	Description	0.6830265522003174	False
+Общие сведения	History	0.6653475761413574	False
+Общие сведения	Fleet	0.5256591439247131	False
+Общие сведения	Characteristics	0.4121069312095642	False
+Общие сведения	Location	0.3144133388996124	False
+Общие сведения	Origin	0.30176761746406555	False
+Известные люди	Notable people	0.9832310676574707	True
+Известные люди	Notable residents	0.9661046266555786	False
+Известные люди	Famous people	0.9389362931251526	True
+Известные люди	People	0.9234377145767212	False
+Известные люди	Notable natives and residents	0.8252787590026855	False
+Известные люди	Sights	0.688399076461792	False
+Известные люди	Culture and recreation	0.6479282975196838	False
+Известные люди	References	0.325822114944458	False
+Известные люди	Further reading	0.28018975257873535	False
+Известные люди	See also	0.2694343626499176	False
+Экология	Ecology	0.9905292391777039	True
+Экология	Environmental issues	0.9716089963912964	False
+Экология	Environment	0.9550654292106628	False
+Экология	Habitat and distribution	0.9422529935836792	False
+Экология	Biology	0.8122273087501526	False
+Экология	Behaviour and ecology	0.7332324981689453	False
+Экология	Geography	0.5503917336463928	False
+Экология	Administrative divisions	0.5422043800354004	False
+Экология	Habitat and ecology	0.5354499220848083	False
+Экология	Geography and climate	0.5323536992073059	False
+Расположение	Location	0.9869770407676697	True
+Расположение	Locations	0.9622176885604858	True
+Расположение	Geography	0.9551291465759277	False
+Расположение	Administration	0.9129094481468201	False
+Расположение	Geography and climate	0.8348165154457092	False
+Расположение	Overview	0.7484709620475769	False
+Расположение	General information	0.6116595268249512	False
+Расположение	History	0.5050700306892395	False
+Расположение	Transportation	0.36104923486709595	False
+Расположение	Geography and ecology	0.2836102545261383	False
+Украина	Ukraine	0.9918813109397888	True
+Украина	Slovakia	0.43834781646728516	False
+Украина	References	0.405073881149292	False
+Украина	Turkey	0.3909038007259369	False
+Украина	Russia	0.3099365532398224	False
+Украина	Slovenia	0.29033663868904114	False
+Украина	Latvia	0.2896888256072998	False
+Украина	Poland	0.27115440368652344	False
+Украина	Bulgaria	0.23221199214458466	False
+Украина	See also	0.2187824696302414	False
+Города-побратимы	Sister cities	0.9841508865356445	True
+Города-побратимы	Twin towns	0.983328104019165	False
+Города-побратимы	International relations	0.9818743467330933	False
+Города-побратимы	Twin towns – sister cities	0.966219425201416	False
+Города-побратимы	Twin towns — sister cities	0.9590874910354614	False
+Города-побратимы	Twin cities	0.9528610110282898	False
+Города-побратимы	Sister city relations	0.9527552723884583	False
+Города-побратимы	Sister city	0.9466743469238281	False
+Города-побратимы	Twin towns and sister cities	0.9423961043357849	False
+Города-побратимы	Twinnings	0.9137173891067505	False
+Администрация	Administration	0.990121603012085	True
+Администрация	Government	0.9772350192070007	False
+Администрация	Population	0.2992800176143646	False
+Администрация	Municipal government	0.2777269780635834	False
+Администрация	Politics	0.2765294015407562	False
+Администрация	Economy	0.2369820773601532	False
+Администрация	Government and politics	0.22925913333892822	False
+Администрация	Sights	0.2258068472146988	False
+Администрация	Education	0.21257247030735016	False
+Администрация	Places of interest	0.21134889125823975	False
+Медалисты	Medalists	0.9748128652572632	True
+Медалисты	Medal summary	0.9700782299041748	False
+Медалисты	List of medalists	0.9607897400856018	False
+Медалисты	Results	0.9574751257896423	False
+Медалисты	Medal table	0.9482482671737671	False
+Медалисты	Medal winners	0.9470390677452087	False
+Медалисты	Competitors	0.9081185460090637	False
+Медалисты	Cross-country skiing	0.8739622831344604	False
+Медалисты	Records	0.8142666220664978	False
+Медалисты	Goalscorers	0.6371764540672302	False
+Участники	Participants	0.981842041015625	True
+Участники	Teams	0.9681591391563416	False
+Участники	Participating teams	0.9548342227935791	False
+Участники	Members	0.946169376373291	False
+Участники	Band members	0.9284510612487793	False
+Участники	Qualified teams	0.9197130799293518	False
+Участники	Qualification	0.9035481810569763	False
+Участники	Overview	0.8944478631019592	False
+Участники	Quarter-finals	0.8925668001174927	False
+Участники	League table	0.8658956289291382	False
+Религия	Religion	0.989378035068512	True
+Религия	Religions	0.968834400177002	False
+Религия	Culture	0.48639750480651855	False
+Религия	Politics	0.4435417652130127	False
+Религия	See also	0.4181397557258606	False
+Религия	Religious sites	0.3755296468734741	False
+Религия	Economy	0.3153846561908722	False
+Религия	Education and culture	0.30766749382019043	False
+Религия	References	0.2800276577472687	False
+Религия	Religion and culture	0.27874520421028137	False
+Систематика	Systematics	0.9878067374229431	True
+Систематика	Species	0.9704108834266663	False
+Систематика	Taxonomy and systematics	0.9664223790168762	False
+Систематика	Phylogeny	0.9611786603927612	False
+Систематика	Taxonomy and naming	0.9578293561935425	False
+Систематика	Taxonomy	0.946615993976593	False
+Систематика	Classification	0.9466131329536438	False
+Систематика	Genera	0.9389035105705261	False
+Систематика	Phylogenetics	0.9359001517295837	False
+Систематика	Taxonomic history	0.9214065670967102	False
+Избранная фильмография	Filmography	0.9930070638656616	False
+Избранная фильмография	Selected filmography	0.9853777885437012	True
+Избранная фильмография	Partial filmography	0.9770163893699646	False
+Избранная фильмография	Career	0.9715774059295654	False
+Избранная фильмография	Film	0.9142995476722717	False
+Избранная фильмография	Biography	0.8864011764526367	False
+Избранная фильмография	Select filmography	0.881363034248352	False
+Избранная фильмография	Films	0.8774294257164001	False
+Избранная фильмография	Film career	0.8678519129753113	False
+Избранная фильмография	Awards and nominations	0.828636109828949	False
+Международная карьера	International career	0.9946191310882568	True
+Международная карьера	International	0.9856502413749695	False
+Международная карьера	International play	0.9367625117301941	False
+Международная карьера	International goals	0.9325165152549744	False
+Международная карьера	National team career	0.8887069225311279	False
+Международная карьера	Career	0.8606042861938477	False
+Международная карьера	National team	0.8241211175918579	False
+Международная карьера	International Career	0.7934007048606873	False
+Международная карьера	National team statistics	0.7643089294433594	False
+Международная карьера	Career statistics	0.7099387645721436	False
+Химические свойства	Chemical properties	0.9714514017105103	True
+Химические свойства	Reactivity	0.9425499439239502	False
+Химические свойства	Related compounds	0.8601263761520386	False
+Химические свойства	Reactions	0.8104676604270935	False
+Химические свойства	Physical properties	0.7690384984016418	False
+Химические свойства	Chemical reactions	0.7600063681602478	False
+Химические свойства	Chemistry	0.7595379948616028	False
+Химические свойства	Applications	0.7032870650291443	False
+Химические свойства	Properties	0.6420694589614868	False
+Химические свойства	Compounds	0.641120433807373	False
+Этимология	Etymology	0.9973618388175964	True
+Этимология	Name	0.9794377088546753	False
+Этимология	Toponymy	0.7739253640174866	False
+Этимология	Nomenclature and etymology	0.6697251796722412	False
+Этимология	Etymology and names	0.6409633755683899	False
+Этимология	History	0.6107317209243774	False
+Этимология	Discovery and naming	0.5998178720474243	False
+Этимология	Etymology and nomenclature	0.5030043125152588	False
+Этимология	Names	0.4854620695114136	False
+Этимология	Varieties	0.3845965564250946	False
+Конструкция	Design	0.9647681713104248	False
+Конструкция	Structure	0.9106591939926147	False
+Конструкция	Characteristics	0.903347909450531	False
+Конструкция	Armament	0.8878353834152222	False
+Конструкция	General characteristics	0.873347818851471	False
+Конструкция	Specifications	0.8622519969940186	False
+Конструкция	Design details	0.7870756387710571	False
+Конструкция	Vehicle description	0.7266873717308044	False
+Конструкция	Construction	0.7199016809463501	True
+Конструкция	Design and description	0.6101182699203491	False
+Ранние годы	Early life	0.9909346699714661	False
+Ранние годы	Early years	0.990519106388092	True
+Ранние годы	Early life and education	0.9734249114990234	False
+Ранние годы	Early life and career	0.9414799213409424	False
+Ранние годы	Early career	0.8785216808319092	False
+Ранние годы	Background	0.8663498163223267	False
+Ранние годы	Early life and family	0.8445894122123718	False
+Ранние годы	Early and personal life	0.8049532771110535	False
+Ранние годы	Family and early life	0.7647926211357117	False
+Ранние годы	Childhood	0.6275007128715515	False
+Книги	Books	0.9967368245124817	True
+Книги	Writings	0.9761595726013184	False
+Книги	Published works	0.9514347314834595	False
+Книги	Bibliography	0.9512722492218018	False
+Книги	Publications	0.948329746723175	False
+Книги	Selected works	0.8892895579338074	False
+Книги	DVD releases	0.8603499531745911	False
+Книги	Sources	0.8370811939239502	False
+Книги	Works	0.7942365407943726	False
+Книги	References	0.6933107972145081	False
+Чарты	Charts	0.9972931742668152	True
+Чарты	Chart performance	0.993141233921051	False
+Чарты	Charts and certifications	0.9903329014778137	False
+Чарты	Chart positions	0.9870861172676086	False
+Чарты	Commercial performance	0.9220070242881775	False
+Чарты	Chart performances	0.8374158143997192	False
+Чарты	Reception	0.7463109493255615	False
+Чарты	Certifications and sales	0.7154595851898193	False
+Чарты	Certifications	0.6890439987182617	False
+Чарты	Singles	0.6750217080116272	False
+Происхождение	Origins	0.991710364818573	False
+Происхождение	Origin	0.991710364818573	False
+Происхождение	Early life	0.9558427929878235	False
+Происхождение	Family background	0.9184810519218445	False
+Происхождение	Background	0.8654801845550537	False
+Происхождение	Family	0.838990330696106	False
+Происхождение	Ancestry	0.8034913539886475	True
+Происхождение	History	0.763594925403595	False
+Происхождение	Etymology	0.750491738319397	False
+Происхождение	Origin of the term	0.6789032220840454	False
+Культура	Culture	0.9848302602767944	True
+Культура	Culture and recreation	0.9809060096740723	False
+Культура	Popular culture	0.7972253561019897	False
+Культура	In popular culture	0.6772563457489014	False
+Культура	Education and culture	0.5708524584770203	False
+Культура	Economy	0.5661068558692932	False
+Культура	Arts and culture	0.5544690489768982	False
+Культура	Archaeology	0.4340979754924774	False
+Культура	Language	0.4180549085140228	False
+Культура	Culture and education	0.41110309958457947	False
+Производство	Production	0.9943767786026001	True
+Производство	Development and production	0.9673678874969482	False
+Производство	Development	0.9666457772254944	False
+Производство	Production details	0.9121164083480835	False
+Производство	Manufacturing	0.8696020245552063	False
+Производство	Production history	0.8040974140167236	False
+Производство	Cast and characters	0.7720992565155029	False
+Производство	Production and development	0.7550752758979797	False
+Производство	Manufacture	0.7003078460693359	False
+Производство	Marketing	0.652160108089447	False
+Структура	Structure	0.9953723549842834	True
+Структура	Organization	0.9794484972953796	False
+Структура	Organisation	0.9535106420516968	False
+Структура	Composition	0.839036762714386	False
+Структура	Formation	0.7942062616348267	False
+Структура	Description	0.779808521270752	False
+Структура	Units	0.7589904069900513	False
+Структура	Structures	0.7471676468849182	False
+Структура	Hierarchy	0.7246200442314148	False
+Структура	Overview	0.5473648905754089	False
+Признание	Recognition	0.9878695607185364	True
+Признание	Awards and recognition	0.9767770171165466	False
+Признание	Awards	0.9717628955841064	False
+Признание	Awards and honors	0.9709285497665405	False
+Признание	Honours and awards	0.9646936058998108	False
+Признание	Awards and honours	0.9635229110717773	False
+Признание	Honors and awards	0.9473183155059814	False
+Признание	Accolades	0.9359418153762817	False
+Признание	Honors	0.9108797907829285	False
+Признание	Awards and distinctions	0.903107225894928	False
+Персонажи	Characters	0.9924853444099426	True
+Персонажи	Main characters	0.9760124087333679	False
+Персонажи	Major characters	0.936866819858551	False
+Персонажи	Cast and characters	0.933072566986084	False
+Персонажи	Plot	0.9067637324333191	False
+Персонажи	Plot summary	0.9022893309593201	False
+Персонажи	Cast	0.9012113809585571	False
+Персонажи	Gameplay	0.9000258445739746	False
+Персонажи	Plot and characters	0.866075873374939	False
+Персонажи	Plot introduction	0.8440518975257874	False
+Виды	Species	0.9864290952682495	False
+Виды	Species list	0.9126684665679932	False
+Виды	Types	0.8948964476585388	True
+Виды	Species and subspecies	0.7807574272155762	False
+Виды	Systematics	0.703125536441803	False
+Виды	List of species	0.6955593228340149	False
+Виды	Gallery	0.563746452331543	False
+Виды	Taxonomy and systematics	0.5451570749282837	False
+Виды	Taxonomy	0.5364065170288086	False
+Виды	Geographic range	0.5346369743347168	False
+Ареал	Distribution and habitat	0.9913827776908875	False
+Ареал	Geographic range	0.9800594449043274	False
+Ареал	Range and habitat	0.9701665639877319	False
+Ареал	Range	0.9691535234451294	True
+Ареал	Distribution	0.9684123992919922	False
+Ареал	Habitat and range	0.964941143989563	False
+Ареал	Habitat	0.955345630645752	False
+Ареал	Habitat and distribution	0.9417339563369751	False
+Ареал	Natural habitat	0.8711206912994385	False
+Ареал	Subspecies	0.7952383160591125	False
+Общая информация	General information	0.9199695587158203	True
+Общая информация	Overview	0.9049525856971741	False
+Общая информация	Personal life	0.8110214471817017	False
+Общая информация	History	0.750891923904419	False
+Общая информация	Introduction	0.7198448777198792	False
+Общая информация	Early and personal life	0.7163353562355042	False
+Общая информация	Biography	0.683523952960968	False
+Общая информация	Champions	0.6411437392234802	False
+Общая информация	Personal	0.6259705424308777	False
+Общая информация	Organization	0.6042712926864624	False
+Таксономия	Taxonomy	0.9939071536064148	True
+Таксономия	Taxonomy and systematics	0.923539400100708	False
+Таксономия	Taxonomy and phylogeny	0.9019426703453064	False
+Таксономия	Systematics	0.8897989392280579	False
+Таксономия	Taxonomy and naming	0.877871572971344	False
+Таксономия	Habitat and range	0.8389710187911987	False
+Таксономия	Classification	0.8299975991249084	False
+Таксономия	Taxonomy and etymology	0.7764350771903992	False
+Таксономия	Distribution and habitat	0.7718278765678406	False
+Таксономия	Genera	0.738598108291626	False
+Архитектура	Architecture	0.9964984655380249	True
+Архитектура	Architectures	0.9629055857658386	False
+Архитектура	Design	0.9425281286239624	False
+Архитектура	Buildings	0.9335285425186157	False
+Архитектура	Layout	0.8694915175437927	False
+Архитектура	Exterior	0.7885297536849976	False
+Архитектура	Interior	0.7085375189781189	False
+Архитектура	Design and construction	0.6309596300125122	False
+Архитектура	Structure	0.5912513732910156	False
+Архитектура	Culture	0.5403634905815125	False
+Произведения	Works	0.9945712685585022	True
+Произведения	Selected works	0.9827154874801636	False
+Произведения	Literary works	0.9813960194587708	False
+Произведения	Writings	0.9785106182098389	False
+Произведения	Compositions	0.9720983505249023	False
+Произведения	Books	0.9387945532798767	False
+Произведения	Novels	0.9070495367050171	False
+Произведения	Major works	0.8939962983131409	False
+Произведения	List of works	0.8583048582077026	False
+Произведения	Poems	0.8580012917518616	False
+Факты	Trivia	0.8749016523361206	False
+Факты	Cultural references	0.8403358459472656	False
+Факты	Facts	0.7378579378128052	True
+Факты	Influence	0.7160528898239136	False
+Факты	Remake	0.6852943897247314	False
+Факты	Popular culture	0.6825605630874634	False
+Факты	References	0.6714510917663574	False
+Факты	Notes	0.5476743578910828	False
+Факты	Filming	0.4878740608692169	False
+Факты	Sources	0.4320290684700012	False
+Современное состояние	Structure	0.9482457041740417	False
+Современное состояние	Current status	0.9370147585868835	True
+Современное состояние	Current situation	0.8878805041313171	False
+Современное состояние	Present day	0.8343307375907898	False
+Современное состояние	Organization	0.7643614411354065	False
+Современное состояние	Economy	0.5873629450798035	False
+Современное состояние	Present situation	0.5737252831459045	False
+Современное состояние	Current state	0.5262555480003357	False
+Современное состояние	Today	0.3922157883644104	False
+Современное состояние	Equipment	0.35601717233657837	False
+В культуре	In culture	0.9911161661148071	False
+В культуре	In popular culture	0.9897727370262146	True
+В культуре	Popular culture	0.9807246923446655	False
+В культуре	In fiction	0.9744497537612915	False
+В культуре	In media	0.9514591097831726	False
+В культуре	Cultural references	0.9345515966415405	False
+В культуре	In literature	0.8666689395904541	False
+В культуре	Fiction	0.8586428165435791	False
+В культуре	Society and culture	0.8585826754570007	False
+В культуре	In film	0.8063933849334717	False
+Фотографии	Gallery	0.9804758429527283	False
+Фотографии	Photo gallery	0.9603197574615479	True
+Фотографии	Sights	0.8747305870056152	False
+Фотографии	Personalities	0.8262384533882141	False
+Фотографии	Images	0.6206203699111938	False
+Фотографии	Main sights	0.6131721138954163	False
+Фотографии	Heritage sites of national significance	0.6120436787605286	False
+Фотографии	References	0.4961518347263336	False
+Фотографии	Image gallery	0.47534945607185364	False
+Фотографии	Places of interest	0.4351126551628113	False
+Карьера в сборной	International career	0.9960060715675354	True
+Карьера в сборной	National team career	0.9630626440048218	False
+Карьера в сборной	International	0.9499052166938782	False
+Карьера в сборной	National team	0.9484214782714844	False
+Карьера в сборной	National team statistics	0.9450698494911194	False
+Карьера в сборной	Career	0.8961781859397888	False
+Карьера в сборной	Football career	0.8851579427719116	False
+Карьера в сборной	Playing career	0.8587354421615601	False
+Карьера в сборной	Career statistics	0.816022515296936	False
+Карьера в сборной	International goals	0.7905088663101196	False
+Последствия	Aftermath	0.9960247278213501	False
+Последствия	Consequences	0.9923559427261353	False
+Последствия	Impact	0.9513389468193054	False
+Последствия	Implications	0.9385433197021484	False
+Последствия	Effects	0.9313650727272034	True
+Последствия	Aftermath and legacy	0.8105781674385071	False
+Последствия	Outcome	0.8042309880256653	False
+Последствия	Significance	0.7530319094657898	False
+Последствия	Damage	0.5928013920783997	False
+Последствия	Reaction	0.5439833998680115	False
+Отзывы	Reception	0.9946584105491638	False
+Отзывы	Critical reception	0.990576982498169	False
+Отзывы	Reviews	0.9791796803474426	True
+Отзывы	Critical response	0.9425716996192932	False
+Отзывы	Release	0.9090045690536499	False
+Отзывы	Reception and legacy	0.8905855417251587	False
+Отзывы	Accolades	0.8567968010902405	False
+Отзывы	Controversy	0.7674451470375061	False
+Отзывы	Box office	0.7253620624542236	False
+Отзывы	Gameplay	0.7084354758262634	False
+Внешние ссылки	References	0.9954246878623962	False
+Внешние ссылки	External links	0.9929168224334717	True
+Внешние ссылки	Sources	0.9697475433349609	False
+Внешние ссылки	Notes	0.9098034501075745	False
+Внешние ссылки	Footnotes	0.7796973586082458	False
+Внешние ссылки	Literature	0.7442554831504822	False
+Внешние ссылки	See also	0.7229935526847839	False
+Внешние ссылки	Further reading	0.499099463224411	False
+Внешние ссылки	Bibliography	0.2414596527814865	False
+Внешние ссылки	Gallery	0.11317449063062668	False
+Другое	Other	0.9789488911628723	True
+Другое	Other uses	0.975389838218689	False
+Другое	See also	0.7494362592697144	False
+Другое	References	0.6676430702209473	False
+Другое	Other media	0.6103999018669128	False
+Другое	Filmography	0.5582612752914429	False
+Другое	Organizations	0.5260291695594788	False
+Другое	Astronomy	0.37787336111068726	False
+Другое	Further reading	0.35569649934768677	False
+Другое	Art, entertainment, and media	0.3295999765396118	False
+Содержание	Contents	0.9767518639564514	True
+Содержание	Synopsis	0.9606879353523254	False
+Содержание	Content	0.9567995667457581	False
+Содержание	Plot summary	0.914345920085907	False
+Содержание	Summary	0.888774573802948	False
+Содержание	Plot	0.8686724901199341	False
+Содержание	Track listing	0.8082918524742126	False
+Содержание	Composition	0.752863883972168	False
+Содержание	Features	0.722704291343689	False
+Содержание	Taxonomy	0.5125313997268677	False
+Работы	Works	0.9917271137237549	True
+Работы	Selected works	0.9697320461273193	False
+Работы	Work	0.9686930775642395	False
+Работы	Published works	0.9460632801055908	False
+Работы	List of works	0.9112955927848816	False
+Работы	Notable works	0.905413806438446	False
+Работы	Credits	0.8252397179603577	False
+Работы	Major works	0.8076328635215759	False
+Работы	Filmography	0.7366192936897278	False
+Работы	Writings	0.6884741187095642	False
+Образ жизни	Ecology	0.8525906801223755	False
+Образ жизни	Lifestyle	0.8306096792221069	True
+Образ жизни	In captivity	0.7759809494018555	False
+Образ жизни	Behavior	0.748183012008667	False
+Образ жизни	Behaviour	0.7344267964363098	False
+Образ жизни	Feeding	0.6898223161697388	False
+Образ жизни	Parasites	0.6540172696113586	False
+Образ жизни	Life cycle	0.6264479756355286	False
+Образ жизни	Footnotes	0.46864715218544006	False
+Образ жизни	Ecology and behavior	0.4047597348690033	False
+Размножение	Reproduction	0.9843972325325012	True
+Размножение	Habitat and distribution	0.8690096735954285	False
+Размножение	Life cycle	0.8478024005889893	False
+Размножение	Feeding	0.6941758394241333	False
+Размножение	Behaviour	0.6651315093040466	False
+Размножение	Distribution and habitat	0.6622582674026489	False
+Размножение	Breeding	0.6596819758415222	False
+Размножение	Habitat	0.5547122955322266	False
+Размножение	Biology	0.5319070219993591	False
+Размножение	Nesting	0.5144962668418884	False
+Известные игроки	Notable players	0.9871795773506165	True
+Известные игроки	Famous players	0.9811158180236816	False
+Известные игроки	Notable former players	0.9801161289215088	False
+Известные игроки	Former players	0.9756189584732056	False
+Известные игроки	Players	0.8359009623527527	False
+Известные игроки	Managers	0.7703923583030701	False
+Известные игроки	Player records	0.6457578539848328	False
+Известные игроки	Selected former players	0.5917603969573975	False
+Известные игроки	Former managers	0.5394454002380371	False
+Известные игроки	Players and staff	0.4334214925765991	False
+Свойства	Properties	0.9922001957893372	True
+Свойства	Characteristics	0.8996685147285461	False
+Свойства	Characterizations	0.898971438407898	False
+Свойства	Features	0.838748574256897	False
+Свойства	Description	0.6660947203636169	False
+Свойства	Physical properties	0.6326358914375305	False
+Свойства	Algebraic properties	0.5192447900772095	False
+Свойства	Definition	0.5050846934318542	False
+Свойства	Structure and bonding	0.4689106047153473	False
+Свойства	Synthesis	0.4386948049068451	False
+Финал	Final	0.9952104687690735	True
+Финал	Semifinals	0.9918274879455566	False
+Финал	Semi finals	0.9890196919441223	False
+Финал	Semi-finals	0.9866011738777161	False
+Финал	Champion	0.9834623336791992	False
+Финал	Finals	0.9702620506286621	False
+Финал	Final ranking	0.966451108455658	False
+Финал	Quarter-finals	0.9637781977653503	False
+Финал	Top goalscorers	0.9614599347114563	False
+Финал	Top scorers	0.9584310054779053	False
+Спорт	Sports	0.9903646111488342	False
+Спорт	Sport	0.9901589751243591	True
+Спорт	Sport and leisure	0.9538458585739136	False
+Спорт	Sports and recreation	0.8893289566040039	False
+Спорт	Sports teams	0.8808280229568481	False
+Спорт	Culture	0.5091602802276611	False
+Спорт	Society and culture	0.4752487540245056	False
+Спорт	Culture and sports	0.34181079268455505	False
+Спорт	Economy	0.3187265992164612	False
+Спорт	Sports and leisure	0.20379067957401276	False
+Использование	Usage	0.9902963042259216	True
+Использование	Use	0.9779305458068848	False
+Использование	Uses	0.9745713472366333	False
+Использование	Example	0.9527496099472046	False
+Использование	Adoption	0.9504154324531555	False
+Использование	Applications	0.945550799369812	False
+Использование	Cultivation and uses	0.8886306285858154	False
+Использование	Implementations	0.8322922587394714	False
+Использование	Reactions	0.613300085067749	False
+Использование	Operational history	0.5355603694915771	False
+Биология	Biology and ecology	0.9927761554718018	False
+Биология	Biology	0.9914494156837463	True
+Биология	Lifecycle	0.8810864090919495	False
+Биология	Ecology	0.8781736493110657	False
+Биология	Life cycle	0.7997170686721802	False
+Биология	Feeding	0.7142157554626465	False
+Биология	Physiology	0.6824313998222351	False
+Биология	Behavior	0.597618043422699	False
+Биология	Systematics	0.5406187176704407	False
+Биология	Distribution and habitat	0.5292734503746033	False
+Характеристики	Characteristics	0.9926722049713135	True
+Характеристики	Specifications	0.9870523810386658	False
+Характеристики	Physical characteristics	0.9539016485214233	False
+Характеристики	Features	0.9508993625640869	False
+Характеристики	Stellar characteristics	0.9366863369941711	False
+Характеристики	Technical specifications	0.9332572221755981	False
+Характеристики	Description	0.922305166721344	False
+Характеристики	Structure	0.8788226246833801	False
+Характеристики	Properties	0.8625672459602356	False
+Характеристики	Characterization	0.8546271920204163	False
+Игровой процесс	Gameplay	0.9952281713485718	True
+Игровой процесс	Development	0.8849056959152222	False
+Игровой процесс	Plot	0.7674502730369568	False
+Игровой процесс	Story	0.7533439993858337	False
+Игровой процесс	Characters	0.7160782814025879	False
+Игровой процесс	Overview	0.6662130355834961	False
+Игровой процесс	Summary	0.5329538583755493	False
+Игровой процесс	Release	0.5051924586296082	False
+Игровой процесс	Setting	0.41549772024154663	False
+Игровой процесс	Development and release	0.32852163910865784	False
+Музыка	Music	0.9939203262329102	True
+Музыка	Theme songs	0.9602677226066589	False
+Музыка	Soundtrack	0.953772246837616	False
+Музыка	Audio	0.9325729012489319	False
+Музыка	Musical numbers	0.920215368270874	False
+Музыка	Songs	0.8119935393333435	False
+Музыка	Musical style	0.7850476503372192	False
+Музыка	Discography	0.7321069240570068	False
+Музыка	Arts and entertainment	0.6751036643981934	False
+Музыка	Composition	0.6667570471763611	False
+См.также	See also	0.9916915893554688	True
+См.также	Discography	0.8820388317108154	False
+См.также	References	0.850665807723999	False
+См.также	Aftermath	0.8256301879882812	False
+См.также	Hello! Project groups and units	0.7086060047149658	False
+См.также	Notes	0.6430203318595886	False
+См.также	Further reading	0.6408990621566772	False
+См.также	External links	0.33091655373573303	False
+См.также	Bibliography	0.30577221512794495	False
+См.также	Sources	0.28215882182121277	False
+Примеры	Examples	0.9951004385948181	True
+Примеры	Example	0.9801484942436218	False
+Примеры	Occurrence	0.848547637462616	False
+Примеры	Use	0.6484469175338745	False
+Примеры	Implementations	0.5011159181594849	False
+Примеры	Generalizations	0.44591185450553894	False
+Примеры	Notable examples	0.4124813377857208	False
+Примеры	Properties	0.34802788496017456	False
+Примеры	References	0.30477485060691833	False
+Примеры	Historical examples	0.2684692144393921	False
+Смерть	Death	0.9968268275260925	True
+Смерть	Later life and death	0.9749709367752075	False
+Смерть	Illness and death	0.9667524695396423	False
+Смерть	Death and burial	0.9518239498138428	False
+Смерть	Personal life and death	0.9426884055137634	False
+Смерть	Death and aftermath	0.9304288625717163	False
+Смерть	Death and legacy	0.9280405044555664	False
+Смерть	Personal life	0.7607834339141846	False
+Смерть	Assassination	0.6921337842941284	False
+Смерть	Murder	0.6883364915847778	False
+Притоки	Tributaries	0.992731511592865	True
+Притоки	Main tributaries	0.932887852191925	False
+Притоки	Course of the river	0.7111388444900513	False
+Притоки	Basin	0.44451016187667847	False
+Притоки	Geography	0.42189300060272217	False
+Притоки	Course	0.3435133099555969	False
+Притоки	Dams	0.32156258821487427	False
+Притоки	Cities and towns	0.31702497601509094	False
+Притоки	References	0.17431055009365082	False
+Притоки	Hydrography	0.17228175699710846	False
+Саундтрек	Soundtrack	0.9928212761878967	True
+Саундтрек	Music	0.9802582263946533	False
+Саундтрек	Soundtracks	0.9756770730018616	False
+Саундтрек	Songs	0.9123601913452148	False
+Саундтрек	Audio	0.8940293192863464	False
+Саундтрек	Track listing	0.7268352508544922	False
+Саундтрек	Sequel	0.5620660185813904	False
+Саундтрек	Music and soundtrack	0.5144022107124329	False
+Саундтрек	Soundtrack listing	0.5092130303382874	False
+Саундтрек	Release	0.47632482647895813	False
+Основные работы	Works	0.9801586866378784	False
+Основные работы	Major works	0.9527576565742493	True
+Основные работы	Publications	0.9442152976989746	False
+Основные работы	Main works	0.9410249590873718	False
+Основные работы	Writings	0.9124076962471008	False
+Основные работы	Published works	0.8688340187072754	False
+Основные работы	Work	0.7976215481758118	False
+Основные работы	Select publications	0.7482585906982422	False
+Основные работы	Bibliography	0.66355299949646	False
+Основные работы	Selected works	0.6474602818489075	False
+Позиции в чартах	Charts	0.9966561794281006	False
+Позиции в чартах	Chart positions	0.9956691265106201	False
+Позиции в чартах	Chart performance	0.9938499331474304	True
+Позиции в чартах	Charts and certifications	0.9918105602264404	False
+Позиции в чартах	Commercial performance	0.8951302170753479	False
+Позиции в чартах	Sales and certifications	0.8606546521186829	False
+Позиции в чартах	Reception	0.7215093374252319	False
+Позиции в чартах	Release and reception	0.7059208750724792	False
+Позиции в чартах	Release	0.6624626517295837	False
+Позиции в чартах	Discography	0.625313401222229	False
+Издания	Editions	0.9926092028617859	False
+Издания	Publications	0.973870038986206	True
+Издания	Publication	0.9297640323638916	False
+Издания	Publication history	0.9210205078125	False
+Издания	Release	0.9154309034347534	False
+Издания	Media	0.8355077505111694	False
+Издания	Home media	0.8140668272972107	False
+Издания	Release details	0.7733495831489563	False
+Издания	Themes	0.696010172367096	False
+Издания	Translations	0.6588037014007568	False
+Внешний вид	Characteristics	0.9542869329452515	False
+Внешний вид	Appearance	0.9537336230278015	True
+Внешний вид	Design	0.7802255749702454	False
+Внешний вид	Description	0.7562243342399597	False
+Внешний вид	Physical appearance	0.7448631525039673	False
+Внешний вид	Form	0.19923759996891022	False
+Внешний вид	Distribution and habitat	0.189805805683136	False
+Внешний вид	Taxonomy	0.13704609870910645	False
+Внешний вид	Subspecies	0.12960554659366608	False
+Внешний вид	Physical description	0.12394978106021881	False
+Бомбардиры	Top scorers	0.99024897813797	True
+Бомбардиры	Top goalscorers	0.99024897813797	False
+Бомбардиры	Goalscorers	0.9793784022331238	False
+Бомбардиры	Goal scorers	0.9701099991798401	False
+Бомбардиры	Relegation	0.9597508311271667	False
+Бомбардиры	Attendances	0.957036554813385	False
+Бомбардиры	Final standings	0.9563241004943848	False
+Бомбардиры	Standings	0.9558327198028564	False
+Бомбардиры	Awards	0.9555299282073975	False
+Бомбардиры	Season statistics	0.9479029178619385	False
+Местное самоуправление	Local government	0.9820459485054016	True
+Местное самоуправление	Administrative and municipal status	0.9346819519996643	False
+Местное самоуправление	Administrative and municipal divisions	0.5887739062309265	False
+Местное самоуправление	Government	0.5456141829490662	False
+Местное самоуправление	Education	0.46443015336990356	False
+Местное самоуправление	Culture and recreation	0.37581899762153625	False
+Местное самоуправление	Tourism	0.3223220109939575	False
+Местное самоуправление	Economy	0.2811811864376068	False
+Местное самоуправление	Governance	0.24363240599632263	False
+Местное самоуправление	Political parties and elections	0.23399336636066437	False
+Прочее	Other uses	0.9050208926200867	False
+Прочее	Other	0.8927029371261597	True
+Прочее	Trivia	0.8111462593078613	False
+Прочее	References	0.7412108182907104	False
+Прочее	Ships	0.6642001867294312	False
+Прочее	Awards	0.5256141424179077	False
+Прочее	Acronyms	0.4822557866573334	False
+Прочее	See also	0.3700767755508423	False
+Прочее	Soundtrack	0.3526671826839447	False
+Прочее	Further reading	0.28704410791397095	False
+Модификации	Variants	0.9955149292945862	False
+Модификации	Modifications	0.9825069308280945	True
+Модификации	Versions	0.947729229927063	False
+Модификации	Variations	0.9462451338768005	False
+Модификации	Applications	0.931486189365387	False
+Модификации	Variants and upgrades	0.8207719922065735	False
+Модификации	Specifications	0.7996490597724915	False
+Модификации	Production	0.761552095413208	False
+Модификации	Models	0.7443617582321167	False
+Модификации	Development	0.6658146381378174	False
+Распространение и экология	Distribution	0.9654799103736877	False
+Распространение и экология	Distribution and habitat	0.9633685946464539	True
+Распространение и экология	Conservation	0.8715838193893433	False
+Распространение и экология	Distribution and ecology	0.843276858329773	False
+Распространение и экология	Habitat	0.8226760625839233	False
+Распространение и экология	Range	0.8042541742324829	False
+Распространение и экология	Description	0.4052411913871765	False
+Распространение и экология	Ecology	0.3953580856323242	False
+Распространение и экология	Taxonomy	0.3184289038181305	False
+Распространение и экология	Varieties	0.31322556734085083	False
+Административное устройство	Administration	0.9511252641677856	False
+Административное устройство	Administrative divisions	0.9259320497512817	True
+Административное устройство	Administrative division	0.8424100279808044	False
+Административное устройство	Municipalities	0.7317020893096924	False
+Административное устройство	Towns and municipalities	0.7119064927101135	False
+Административное устройство	Government	0.5635249018669128	False
+Административное устройство	Geography	0.5499330163002014	False
+Административное устройство	Media	0.5229979753494263	False
+Административное устройство	Administrative structure	0.4072493314743042	False
+Административное устройство	History	0.35250553488731384	False
+Азия	Asia	0.9829816222190857	True
+Азия	Europe	0.5521963238716125	False
+Азия	Middle East	0.12705932557582855	False
+Азия	Oceania	0.10082660615444183	False
+Азия	Africa	0.05710376426577568	False
+Азия	References	0.04263252392411232	False
+Азия	External links	0.03832530975341797	False
+Азия	Americas	0.03803690895438194	False
+Азия	Sources	0.016893303021788597	False
+Азия	See also	0.01567930169403553	False
+Характеристика	Characteristics	0.9893730282783508	True
+Характеристика	Characterization	0.941118597984314	False
+Характеристика	Description	0.8395656943321228	False
+Характеристика	Geography	0.745658278465271	False
+Характеристика	Geology	0.7188976407051086	False
+Характеристика	Population	0.6797522306442261	False
+Характеристика	Features	0.6717844605445862	False
+Характеристика	Overview	0.5632497668266296	False
+Характеристика	History	0.45227405428886414	False
+Характеристика	Style of play	0.4371459484100342	False
+Плей-офф	Playoffs	0.9872433543205261	True
+Плей-офф	Play-offs	0.9780177474021912	False
+Плей-офф	Statistics	0.9739917516708374	False
+Плей-офф	Knockout stage	0.9730572700500488	False
+Плей-офф	Goalscorers	0.9513691663742065	False
+Плей-офф	Final	0.9449071884155273	False
+Плей-офф	Final standings	0.940727174282074	False
+Плей-офф	Top scorers	0.9402225017547607	False
+Плей-офф	Semi-finals	0.9268335103988647	False
+Плей-офф	Quarter-finals	0.9250766634941101	False
+Руководство	Leadership	0.9763660430908203	True
+Руководство	Management	0.9678462743759155	False
+Руководство	Administration	0.9270638823509216	False
+Руководство	Commanders	0.856299102306366	False
+Руководство	Leaders	0.844070553779602	False
+Руководство	Presidents	0.799755334854126	False
+Руководство	Ideology	0.6048036217689514	False
+Руководство	History and profile	0.5430030226707458	False
+Руководство	Electoral results	0.49793267250061035	False
+Руководство	Organization	0.42524972558021545	False
+Создание	Production	0.980958878993988	False
+Создание	Creation	0.9714303612709045	True
+Создание	Development	0.9599539041519165	False
+Создание	Formation	0.8550883531570435	False
+Создание	Background	0.8419973254203796	False
+Создание	Origin	0.7266595363616943	False
+Создание	Overview	0.7053869366645813	False
+Создание	Cast	0.6523221731185913	False
+Создание	Recording	0.6098860502243042	False
+Создание	Origins	0.608912467956543	False
+Служба	Service history	0.9822553396224976	False
+Служба	Service	0.9585459232330322	True
+Служба	Service record	0.9501417875289917	False
+Служба	Operational history	0.9145201444625854	False
+Служба	History	0.6990089416503906	False
+Служба	Ships in class	0.5084878206253052	False
+Служба	Construction and career	0.42776060104370117	False
+Служба	Military career	0.08685976266860962	False
+Служба	Operators	0.05917002260684967	False
+Служба	Design	0.058073338121175766	False
+Африка	Africa	0.9823160767555237	True
+Африка	Asia	0.3328614830970764	False
+Африка	Europe	0.15387730300426483	False
+Африка	North America	0.13756857812404633	False
+Африка	Oceania	0.11814770102500916	False
+Африка	Americas	0.10313616693019867	False
+Африка	Deaths	0.06872875988483429	False
+Африка	References	0.043493252247571945	False
+Африка	External links	0.03327380493283272	False
+Африка	Middle East	0.02374688722193241	False
+Рекорды	Records	0.9885444045066833	True
+Рекорды	World records	0.9283063411712646	False
+Рекорды	Statistics and records	0.7725496292114258	False
+Рекорды	Statistics	0.7364211082458496	False
+Рекорды	All-time top 25	0.6456365585327148	False
+Рекорды	Achievements	0.6435287594795227	False
+Рекорды	Records and statistics	0.4823581576347351	False
+Рекорды	Club records	0.466573566198349	False
+Рекорды	Winners by team	0.3222256004810333	False
+Рекорды	Player records	0.3182814121246338	False
+Жизнь и творчество	Biography	0.9885755181312561	False
+Жизнь и творчество	Life	0.9854529500007629	False
+Жизнь и творчество	Life and work	0.9834502339363098	False
+Жизнь и творчество	Life and career	0.9513811469078064	True
+Жизнь и творчество	Career	0.9503970146179199	False
+Жизнь и творчество	Early life	0.9116898775100708	False
+Жизнь и творчество	Work	0.9102145433425903	False
+Жизнь и творчество	Early life and education	0.9058455228805542	False
+Жизнь и творчество	Education	0.7740326523780823	False
+Жизнь и творчество	Early years	0.7012673616409302	False
+Команды	Teams	0.9867672324180603	True
+Команды	Standings	0.978758692741394	False
+Команды	Playoffs	0.9650095701217651	False
+Команды	League table	0.961635172367096	False
+Команды	Regular season	0.9420483708381653	False
+Команды	League championships	0.8903087973594666	False
+Команды	Clubs	0.8886265754699707	False
+Команды	Career	0.8771746754646301	False
+Команды	Results	0.8712650537490845	False
+Команды	Competing nations	0.8057307004928589	False
+Разработка	Development	0.9946109056472778	True
+Разработка	Design and development	0.9535484313964844	False
+Разработка	Production	0.9440769553184509	False
+Разработка	Development and release	0.9293685555458069	False
+Разработка	Setting	0.7769689559936523	False
+Разработка	Design	0.7667669653892517	False
+Разработка	Gameplay	0.7582693696022034	False
+Разработка	Release	0.7453036308288574	False
+Разработка	Applications	0.6795002818107605	False
+Разработка	Development and marketing	0.6087197661399841	False
+Тренерская карьера	Coaching career	0.9942498207092285	True
+Тренерская карьера	Managerial career	0.9881587624549866	False
+Тренерская карьера	Coaching	0.9753281474113464	False
+Тренерская карьера	Management career	0.9624195694923401	False
+Тренерская карьера	Managerial statistics	0.943378746509552	False
+Тренерская карьера	Manager career	0.9420011639595032	False
+Тренерская карьера	Post-playing career	0.9419775009155273	False
+Тренерская карьера	Career	0.9121795892715454	False
+Тренерская карьера	Coach career	0.9085861444473267	False
+Тренерская карьера	Coaching and managerial career	0.8899062871932983	False
+Геймплей	Gameplay	0.9967169165611267	True
+Геймплей	Plot	0.896217942237854	False
+Геймплей	Characters	0.8054612278938293	False
+Геймплей	Story	0.7499560117721558	False
+Геймплей	Development	0.6932055354118347	False
+Геймплей	Setting	0.6697832942008972	False
+Геймплей	Playable characters	0.6691039204597473	False
+Геймплей	Synopsis	0.6456494331359863	False
+Геймплей	Plot and setting	0.60383540391922	False
+Геймплей	Sequel	0.5671645402908325	False
+Синглы	Singles	0.9954162836074829	True
+Синглы	Discography	0.9509013295173645	False
+Синглы	Track listing	0.9375166296958923	False
+Синглы	Albums	0.9207268357276917	False
+Синглы	Other charted songs	0.9202888607978821	False
+Синглы	Songs	0.8267794847488403	False
+Синглы	Charts and certifications	0.7024536728858948	False
+Синглы	Other appearances	0.677653431892395	False
+Синглы	Release and promotion	0.6257836818695068	False
+Синглы	Charts	0.6208797097206116	False
+Питание	Diet	0.9137511253356934	False
+Питание	Feeding	0.8988860845565796	False
+Питание	Distribution and habitat	0.6342952251434326	False
+Питание	Ecology	0.5742368698120117	False
+Питание	Behavior and ecology	0.41356468200683594	False
+Питание	Food	0.3959594964981079	True
+Питание	Behaviour	0.34615448117256165	False
+Питание	Ecology and behaviour	0.295590877532959	False
+Питание	Habitat	0.2800312340259552	False
+Питание	Range and habitat	0.2748972475528717	False
+Профессиональная карьера	Professional career	0.9922270774841309	True
+Профессиональная карьера	Career	0.9574444890022278	False
+Профессиональная карьера	Professional boxing career	0.9343368411064148	False
+Профессиональная карьера	Playing career	0.9275843501091003	False
+Профессиональная карьера	Pro career	0.9142961502075195	False
+Профессиональная карьера	Professional boxing record	0.9093388319015503	False
+Профессиональная карьера	Boxing career	0.9064316749572754	False
+Профессиональная карьера	Professional wrestling career	0.8659197688102722	False
+Профессиональная карьера	Club career	0.8384802937507629	False
+Профессиональная карьера	WNBA career	0.8366516828536987	False
+Определение	Definition	0.9925857186317444	True
+Определение	Definitions	0.9774485230445862	True
+Определение	Formal definition	0.9623785018920898	False
+Определение	Alternative definitions	0.7824867963790894	False
+Определение	Construction	0.7448094487190247	False
+Определение	Mathematical definition	0.5324086546897888	False
+Определение	Formulation	0.42985787987709045	False
+Определение	Example	0.3560332655906677	False
+Определение	Motivation	0.33733564615249634	False
+Определение	Terminology	0.3289143145084381	False
+Титулы	Honours	0.9890182018280029	False
+Титулы	Titles	0.9883846044540405	True
+Титулы	Honors	0.9439674019813538	False
+Титулы	Titles, styles, honours and arms	0.9292092323303223	False
+Титулы	Titles and styles	0.9270263910293579	False
+Титулы	Championships and accomplishments	0.9033135771751404	False
+Титулы	Achievements	0.8640599846839905	False
+Титулы	Accomplishments	0.8534671068191528	False
+Титулы	Trophies	0.8291752338409424	False
+Титулы	Individual awards	0.8241850137710571	False
+Политика	Politics	0.9847819209098816	True
+Политика	International relations	0.8801457285881042	False
+Политика	Political career	0.8761351704597473	False
+Политика	Government and politics	0.8531784415245056	False
+Политика	Politics and government	0.7114798426628113	False
+Политика	Twin towns	0.48630738258361816	False
+Политика	Governance	0.4562879800796509	False
+Политика	Government	0.4042068123817444	False
+Политика	Economy	0.40298014879226685	False
+Политика	Administration	0.24562285840511322	False
+Экранизации	Adaptations	0.9957864880561829	False
+Экранизации	Film adaptations	0.9845778346061707	False
+Экранизации	Film, TV or theatrical adaptations	0.9776024222373962	False
+Экранизации	Film adaptation	0.9745689630508423	False
+Экранизации	Film and television adaptations	0.9557564854621887	False
+Экранизации	Screen adaptations	0.9442757964134216	True
+Экранизации	Films	0.93504399061203	False
+Экранизации	Film	0.9328428506851196	False
+Экранизации	Film versions	0.905035674571991	False
+Экранизации	Dramatic adaptations	0.8253443837165833	False
+Соревнования	Champions	0.9908182621002197	False
+Соревнования	Finals	0.9722667932510376	False
+Соревнования	Competitions	0.9711179137229919	True
+Соревнования	Medal table	0.9581470489501953	False
+Соревнования	International competitions	0.95363450050354	False
+Соревнования	Results	0.9483054876327515	False
+Соревнования	Events	0.9452912211418152	False
+Соревнования	Participating nations	0.9280052781105042	False
+Соревнования	Medalists	0.922956109046936	False
+Соревнования	Games	0.8849348425865173	False
+Список	List	0.992402195930481	True
+Список	The list	0.9731411337852478	False
+Список	World Heritage Sites	0.9700279831886292	False
+Список	Properties on the World Heritage List	0.9117718935012817	False
+Список	Table	0.838678777217865	False
+Список	Location of sites	0.7075904011726379	False
+Список	Tentative list	0.639310896396637	False
+Список	Tentative List	0.6335036158561707	False
+Список	Overview	0.6192347407341003	False
+Список	History	0.5984202027320862	False
+Сателлитные кратеры	Satellite craters	0.9804328680038452	True
+Сателлитные кратеры	Description	0.2646809220314026	False
+Сателлитные кратеры	Names	0.05079949274659157	False
+Сателлитные кратеры	References	0.046574149280786514	False
+Сателлитные кратеры	Gallery	0.044406142085790634	False
+Сателлитные кратеры	External links	0.0395253524184227	False
+Сателлитные кратеры	Transient lunar phenomena	0.035624418407678604	False
+Сателлитные кратеры	See also	0.02301216498017311	False
+Туризм	Tourism	0.9955106973648071	True
+Туризм	Places of interest	0.9536267518997192	False
+Туризм	Tourist attractions	0.8897890448570251	False
+Туризм	Economy	0.8624703288078308	False
+Туризм	Recreation	0.8214789032936096	False
+Туризм	Facilities	0.7631102204322815	False
+Туризм	Access	0.7186833024024963	False
+Туризм	Geography	0.6586390137672424	False
+Туризм	Transport	0.5360703468322754	False
+Туризм	Economics	0.44705572724342346	False
+Выставки	Exhibitions	0.9957185387611389	True
+Выставки	2012	0.8993275165557861	False
+Выставки	2016	0.8984091281890869	False
+Выставки	2014	0.88918137550354	False
+Выставки	2015	0.865790069103241	False
+Выставки	2013	0.8411089777946472	False
+Выставки	Art	0.8405425548553467	False
+Выставки	2017	0.6979814767837524	False
+Выставки	Posthumous exhibitions	0.6108002662658691	False
+Выставки	Gallery	0.44457390904426575	False
+Известные жители	Notable residents	0.9918180704116821	True
+Известные жители	Notable people	0.9739580154418945	False
+Известные жители	Notable natives	0.9669784903526306	False
+Известные жители	Famous people	0.9609408378601074	False
+Известные жители	People	0.9265778064727783	False
+Известные жители	Personalities	0.882301926612854	False
+Известные жители	Residents	0.7822014093399048	False
+Известные жители	Famous residents	0.5770627856254578	False
+Известные жители	Culture	0.23191623389720917	False
+Известные жители	Gallery	0.2281564176082611	False
+Победители	Winners	0.995527446269989	True
+Победители	Past winners	0.9707139134407043	False
+Победители	Champions	0.9686230421066284	False
+Победители	Previous winners	0.9293217062950134	False
+Победители	Awards	0.9209224581718445	False
+Победители	Winners and nominees	0.9100013375282288	False
+Победители	List of winners	0.8957623839378357	False
+Победители	Breakdown of winners	0.8937358260154724	False
+Победители	Finals	0.8914881944656372	False
+Победители	Overall winners	0.876250147819519	False
+Текущий состав	Current squad	0.9389970302581787	False
+Текущий состав	Players	0.9090202450752258	False
+Текущий состав	Current roster	0.7793328762054443	True
+Текущий состав	Team	0.723726749420166	False
+Текущий состав	Squad	0.6852179765701294	False
+Текущий состав	Transfers	0.46208226680755615	False
+Текущий состав	Player history	0.3934824466705322	False
+Текущий состав	Band members	0.2891986668109894	False
+Текущий состав	Notable players	0.24037332832813263	False
+Текущий состав	Results and fixtures	0.22494836151599884	False
+Брак и дети	Marriage	0.9926362037658691	False
+Брак и дети	Marriage and children	0.9922395944595337	True
+Брак и дети	Marriage and issue	0.9893895983695984	False
+Брак и дети	Family	0.9879564642906189	False
+Брак и дети	Children	0.9783947467803955	False
+Брак и дети	Marriage and family	0.9738752841949463	False
+Брак и дети	Family and children	0.9708803296089172	False
+Брак и дети	Marriages	0.9670777320861816	False
+Брак и дети	Marriages and children	0.9412986636161804	False
+Брак и дети	Marriages and issue	0.9339916706085205	False
+Избранная библиография	Selected bibliography	0.9917741417884827	True
+Избранная библиография	Works	0.9758063554763794	False
+Избранная библиография	Selected works	0.9672849178314209	False
+Избранная библиография	Bibliography	0.9348747730255127	False
+Избранная библиография	Published works	0.933788537979126	False
+Избранная библиография	Selected publications	0.9204570055007935	False
+Избранная библиография	Select bibliography	0.8735998272895813	False
+Избранная библиография	List of works	0.7073142528533936	False
+Избранная библиография	Literary career	0.5998470187187195	False
+Избранная библиография	Writings	0.5141274333000183	False
+Медальный зачёт	Medal table	0.9755390882492065	True
+Медальный зачёт	Participation	0.969494104385376	False
+Медальный зачёт	Medal count	0.9281813502311707	False
+Медальный зачёт	Participating nations	0.9122849702835083	False
+Медальный зачёт	Medal summary	0.8727373480796814	True
+Медальный зачёт	Medalists	0.5997110605239868	False
+Медальный зачёт	Medal tables	0.525299072265625	False
+Медальный зачёт	Medal winners	0.4603114426136017	False
+Медальный зачёт	Medal Tables	0.34485873579978943	False
+Медальный зачёт	Results	0.27189069986343384	False
+Наследие	Legacy	0.9948002099990845	True
+Наследие	Death and legacy	0.968008279800415	False
+Наследие	In popular culture	0.7716051340103149	False
+Наследие	Aftermath	0.7626438736915588	False
+Наследие	Influence and legacy	0.6486613154411316	False
+Наследие	Legacies	0.5821999907493591	False
+Наследие	Works	0.5002309083938599	False
+Наследие	Influence	0.4492741525173187	False
+Наследие	Personal life and death	0.33069515228271484	False
+Наследие	Legacy and influence	0.26708298921585083	False
+Продукция	Products	0.9957267045974731	False
+Продукция	Production	0.9680407047271729	True
+Продукция	Merchandise	0.9391891956329346	False
+Продукция	Manufacturing	0.9198814630508423	False
+Продукция	Products and services	0.891176164150238	False
+Продукция	Games developed	0.7312605381011963	False
+Продукция	Aircraft	0.7221407890319824	False
+Продукция	Media	0.6846727728843689	False
+Продукция	Product line	0.5705627202987671	False
+Продукция	Productions	0.5393202304840088	False
+История службы	Service history	0.9916262626647949	True
+История службы	Operational history	0.9670771360397339	False
+История службы	History	0.9307398200035095	False
+История службы	Design	0.06949475407600403	False
+История службы	Construction	0.03206699714064598	False
+История службы	Development	0.03199039772152901	False
+История службы	External links	0.031282685697078705	False
+История службы	Operators	0.02844521589577198	False
+История службы	Units	0.021259676665067673	False
+История службы	References	0.019099200144410133	False
+В искусстве	In popular culture	0.9876235723495483	False
+В искусстве	In fiction	0.983371376991272	False
+В искусстве	Popular culture	0.9694464802742004	False
+В искусстве	In art	0.967085063457489	True
+В искусстве	In film	0.9620822668075562	False
+В искусстве	In literature	0.9502391815185547	False
+В искусстве	Cultural references	0.8858721852302551	False
+В искусстве	Arts and entertainment	0.8437473773956299	False
+В искусстве	Fictional portrayals	0.7664309144020081	False
+В искусстве	Adaptations	0.6891345381736755	False
+Квалификация	Qualification	0.990760862827301	True
+Квалификация	Qualified teams	0.9476131200790405	False
+Квалификация	Qualifications	0.9402072429656982	False
+Квалификация	Teams	0.9345763921737671	False
+Квалификация	Qualifying	0.9199471473693848	False
+Квалификация	Classification	0.9052445292472839	False
+Квалификация	Championship standings after the race	0.867073118686676	False
+Квалификация	Report	0.8583738803863525	False
+Квалификация	Final	0.8417292237281799	False
+Квалификация	Qualifying round	0.7790631651878357	False
+Лечение	Treatment	0.9914243221282959	True
+Лечение	Treatments	0.7800931334495544	False
+Лечение	Prognosis	0.7781354784965515	False
+Лечение	Diagnosis	0.7121000289916992	False
+Лечение	Management	0.602829098701477	False
+Лечение	Epidemiology	0.4569595754146576	False
+Лечение	Treatment and Prognosis	0.448617547750473	False
+Лечение	Complications	0.4132586419582367	False
+Лечение	Prevention	0.40342360734939575	False
+Лечение	Treatment and prognosis	0.3761681318283081	False
+Технические данные	Specifications	0.9473811388015747	False
+Технические данные	Technical specifications	0.5306622982025146	False
+Технические данные	Technology	0.32229429483413696	False
+Технические данные	References	0.30123764276504517	False
+Технические данные	External links	0.20707596838474274	False
+Технические данные	See also	0.20547546446323395	False
+Технические данные	Further reading	0.20193621516227722	False
+Технические данные	Notes	0.1755058467388153	False
+Технические данные	Instruments	0.1339769959449768	False
+Технические данные	Gallery	0.10908154398202896	False
+Награды и признание	Awards and recognition	0.9957711100578308	True
+Награды и признание	Awards	0.9896321296691895	False
+Награды и признание	Awards and honors	0.9881404638290405	False
+Награды и признание	Awards and honours	0.9846732020378113	False
+Награды и признание	Recognition	0.9821596741676331	False
+Награды и признание	Honours and awards	0.9798683524131775	False
+Награды и признание	Honors and awards	0.9780990481376648	False
+Награды и признание	Honours	0.9649927020072937	False
+Награды и признание	Honors	0.9575585126876831	False
+Награды и признание	Awards and nominations	0.8273549675941467	False
+Строительство	Construction	0.9939768314361572	True
+Строительство	Construction and design	0.9562311172485352	False
+Строительство	Design and construction	0.82005774974823	False
+Строительство	Design	0.7385738492012024	False
+Строительство	History	0.6747074723243713	False
+Строительство	Construction and career	0.3735502064228058	False
+Строительство	Project	0.3726547956466675	False
+Строительство	Infrastructure	0.3606266975402832	False
+Строительство	Operational history	0.2755817174911499	False
+Строительство	Planning and construction	0.27504414319992065	False
+Памятники	Memorials	0.980122983455658	False
+Памятники	Monuments	0.9742874503135681	True
+Памятники	Culture and recreation	0.7407641410827637	False
+Памятники	Famous people	0.6709900498390198	False
+Памятники	Landmarks	0.5751622915267944	False
+Памятники	Memorials and legacy	0.5479921102523804	False
+Памятники	Gallery	0.2959299385547638	False
+Памятники	Death	0.1736813187599182	False
+Памятники	Commemoration	0.17275820672512054	False
+Памятники	History	0.16362504661083221	False
+Промышленность	Industry	0.9911535382270813	True
+Промышленность	Economy	0.9883362650871277	False
+Промышленность	Economy and infrastructure	0.9573142528533936	False
+Промышленность	Agriculture	0.6962934732437134	False
+Промышленность	Economic sectors	0.5815119743347168	False
+Промышленность	Education and culture	0.5202561616897583	False
+Промышленность	Tourism	0.49067044258117676	False
+Промышленность	Transportation	0.410122811794281	False
+Промышленность	Economics	0.2957814931869507	False
+Промышленность	Investment	0.2456062287092209	False
+Реакция	Reactions	0.993235170841217	False
+Реакция	Reaction	0.9907168745994568	True
+Реакция	Reception	0.979678750038147	False
+Реакция	Response	0.9624021649360657	False
+Реакция	Critical reception	0.9292259812355042	False
+Реакция	Responses	0.9027533531188965	False
+Реакция	Controversy	0.8574312329292297	False
+Реакция	Release	0.5195355415344238	False
+Реакция	Aftermath	0.5055744051933289	False
+Реакция	International reactions	0.4073619842529297	False
+Эпизоды	Episodes	0.9932782053947449	True
+Эпизоды	DVD release	0.7878713607788086	False
+Эпизоды	Production	0.5986989736557007	False
+Эпизоды	Cast and characters	0.5063686966896057	False
+Эпизоды	Reception	0.4899083077907562	False
+Эпизоды	Cast	0.3112124502658844	False
+Эпизоды	Plot	0.2393757700920105	False
+Эпизоды	Home video releases	0.23412832617759705	False
+Эпизоды	Awards and nominations	0.18885861337184906	False
+Эпизоды	Synopsis	0.18042504787445068	False
+В литературе	In literature	0.9889487028121948	True
+В литературе	In fiction	0.9749932885169983	False
+В литературе	Literature	0.9705144762992859	False
+В литературе	Fiction	0.9704340100288391	False
+В литературе	In culture	0.9218069314956665	False
+В литературе	Books	0.9119483828544617	False
+В литературе	Representation in other media	0.8964868187904358	False
+В литературе	In popular culture	0.8459696769714355	False
+В литературе	See also	0.5543419718742371	False
+В литературе	Further reading	0.41682446002960205	False
+Ранняя жизнь	Early life	0.9947492480278015	True
+Ранняя жизнь	Early life and education	0.9707098007202148	False
+Ранняя жизнь	Early life and family	0.9679673314094543	False
+Ранняя жизнь	Early life and career	0.9339460134506226	False
+Ранняя жизнь	Early life and background	0.9261230826377869	False
+Ранняя жизнь	Life	0.9213186502456665	False
+Ранняя жизнь	Early years	0.9112417101860046	False
+Ранняя жизнь	Life and career	0.7984301447868347	False
+Ранняя жизнь	Biography	0.6601772308349609	False
+Ранняя жизнь	Personal life	0.6347091197967529	False
+Цитаты	Quotes	0.9922717809677124	False
+Цитаты	Quotations	0.9729165434837341	False
+Цитаты	Quote	0.8916578888893127	False
+Цитаты	Sources	0.7406717538833618	False
+Цитаты	References	0.7401173114776611	True
+Цитаты	Analysis	0.5465397238731384	False
+Цитаты	Synopsis	0.49885308742523193	False
+Цитаты	Writings	0.4147036373615265	False
+Цитаты	Cultural references	0.387781023979187	False
+Цитаты	See also	0.3655981123447418	False
+Семья и дети	Family	0.9899187088012695	False
+Семья и дети	Marriage and children	0.9892247319221497	False
+Семья и дети	Family and children	0.9843409657478333	True
+Семья и дети	Marriage and issue	0.978365421295166	False
+Семья и дети	Children	0.9723970890045166	False
+Семья и дети	Marriages and children	0.9468516707420349	False
+Семья и дети	Marriage and Issue	0.9282929301261902	False
+Семья и дети	Descendants	0.9232367873191833	False
+Семья и дети	Issue	0.9202359914779663	False
+Семья и дети	Marriage	0.9118769764900208	False
+Съёмки	Production	0.9829773902893066	False
+Съёмки	Filming	0.9740471243858337	True
+Съёмки	Production notes	0.8624742031097412	False
+Съёмки	Premise	0.5699727535247803	False
+Съёмки	Casting	0.455070436000824	False
+Съёмки	Soundtrack	0.2560444474220276	False
+Съёмки	Reception	0.24280071258544922	False
+Съёмки	Release	0.2361408770084381	False
+Съёмки	Plot	0.21435943245887756	False
+Съёмки	Cast	0.20756570994853973	False
+Фильмы	Films	0.9935581088066101	True
+Фильмы	Film	0.9876788258552551	False
+Фильмы	Film and television	0.9525500535964966	False
+Фильмы	Filmography	0.9128899574279785	False
+Фильмы	Feature films	0.9127885699272156	False
+Фильмы	Adaptations	0.8426682949066162	False
+Фильмы	Entertainment	0.8217715620994568	False
+Фильмы	Arts, entertainment, and media	0.8201552033424377	False
+Фильмы	Selected filmography	0.7925716638565063	False
+Фильмы	Highest-grossing films	0.7430779933929443	False
+Известные уроженцы и жители	Notable residents	0.9734718203544617	True
+Известные уроженцы и жители	Notable natives and residents	0.9710965752601624	False
+Известные уроженцы и жители	Famous residents	0.9703773260116577	False
+Известные уроженцы и жители	Notable natives	0.9670540690422058	False
+Известные уроженцы и жители	Notable people	0.9638946056365967	False
+Известные уроженцы и жители	Famous people	0.9620280861854553	False
+Известные уроженцы и жители	Personalities	0.9252485036849976	False
+Известные уроженцы и жители	People	0.8840717077255249	False
+Известные уроженцы и жители	Notable inhabitants	0.8175380825996399	False
+Известные уроженцы и жители	Notable persons	0.7902626395225525	False
+Избранные труды	Selected publications	0.9816309809684753	False
+Избранные труды	Selected works	0.9612863063812256	True
+Избранные труды	Publications	0.9026521444320679	False
+Избранные труды	Works	0.7792213559150696	False
+Избранные труды	Bibliography	0.49214571714401245	False
+Избранные труды	Work	0.4205951988697052	False
+Избранные труды	References	0.26370519399642944	False
+Избранные труды	Further reading	0.2149752527475357	False
+Избранные труды	Life	0.152051642537117	False
+Избранные труды	Biography	0.1252867579460144	False
+Военная служба	Military service	0.9694418907165527	True
+Военная служба	Military career	0.9415534138679504	False
+Военная служба	Biography	0.7698907256126404	False
+Военная служба	Career	0.12288255244493484	False
+Военная служба	Early life	0.10495442152023315	False
+Военная служба	Life	0.06545403599739075	False
+Военная служба	History	0.06278519332408905	False
+Военная служба	Early years	0.04574078321456909	False
+Военная служба	Education	0.044767383486032486	False
+Военная служба	Air Force	0.04231387376785278	False
+Видео	Video	0.9911812543869019	True
+Видео	Videography	0.982673168182373	False
+Видео	Music video	0.9707169532775879	False
+Видео	References	0.7233530282974243	False
+Видео	Media	0.4825819432735443	False
+Видео	Release history	0.4150558412075043	False
+Видео	Chart performance	0.30672240257263184	False
+Видео	External links	0.27586978673934937	False
+Видео	Notes	0.23051677644252777	False
+Видео	See also	0.2164240926504135	False
+Природа	Nature	0.9798222184181213	True
+Природа	Tourism	0.9252609014511108	False
+Природа	Ecology	0.879938006401062	False
+Природа	Environment	0.8399204611778259	False
+Природа	Natural history	0.7010621428489685	False
+Природа	Geography	0.6765403747558594	False
+Природа	Flora and fauna	0.5659705400466919	False
+Природа	Wildlife	0.4665506184101105	False
+Природа	Location and geography	0.40780746936798096	False
+Природа	Economy	0.3228527009487152	False
+Премии	Awards	0.9974763989448547	True
+Премии	Awards and recognition	0.9886873960494995	False
+Премии	Awards and nominations	0.965247631072998	False
+Премии	Honours and awards	0.9056682586669922	False
+Премии	Honors	0.7260413765907288	False
+Премии	Accolades	0.6930975317955017	False
+Премии	Discography	0.6743298172950745	False
+Премии	Recognition	0.5030237436294556	False
+Премии	Academy Awards	0.3975704610347748	False
+Премии	Honors and awards	0.38152143359184265	False
+Функции	Functions	0.9926910996437073	True
+Функции	Function	0.9833804368972778	False
+Функции	Features	0.8885691165924072	False
+Функции	Responsibilities	0.8046587705612183	False
+Функции	Organisation	0.6804187893867493	False
+Функции	Gallery	0.5166507363319397	False
+Функции	Structure	0.29738128185272217	False
+Функции	Powers and functions	0.2211754024028778	False
+Функции	Components	0.19025316834449768	False
+Функции	Activities	0.1629115641117096	False
+Подвиды	Subspecies	0.986549973487854	True
+Подвиды	Distribution and habitat	0.9678665995597839	False
+Подвиды	Taxonomy	0.9195289611816406	False
+Подвиды	Distribution and subspecies	0.9034136533737183	False
+Подвиды	Distribution	0.8906229138374329	False
+Подвиды	Habitat and distribution	0.8874127268791199	False
+Подвиды	Range and habitat	0.7567407488822937	False
+Подвиды	Taxonomy and systematics	0.67185378074646	False
+Подвиды	Taxonomy and evolution	0.45860403776168823	False
+Подвиды	Conservation status	0.35523104667663574	False
+Расписание	Schedule	0.9555574655532837	True
+Расписание	Round and draw dates	0.7888243198394775	False
+Расписание	Venues	0.666197657585144	False
+Расписание	Knockout phase	0.38982605934143066	False
+Расписание	Calendar	0.16237512230873108	False
+Расписание	Results	0.13764826953411102	False
+Расписание	Preliminary round	0.059778276830911636	False
+Расписание	Matches	0.056510113179683685	False
+Расписание	Medal summary	0.05324556678533554	False
+Расписание	Teams	0.04145520552992821	False
+Реки	Rivers	0.9834288954734802	True
+Реки	Places	0.5790819525718689	False
+Реки	Geography	0.31094861030578613	False
+Реки	Other uses	0.2512015104293823	False
+Реки	References	0.18256989121437073	False
+Реки	Other	0.17168715596199036	False
+Реки	See also	0.16245855391025543	False
+Реки	Further reading	0.14790405333042145	False
+Реки	Overview	0.04475966468453407	False
+Реки	Antipodes	0.03662366047501564	False
+Причины	Cause	0.9752840399742126	False
+Причины	Causes	0.9450944066047668	True
+Причины	Prelude	0.5070937871932983	False
+Причины	Aftermath	0.4613243341445923	False
+Причины	Consequences	0.4238806366920471	False
+Причины	War	0.4060019254684448	False
+Причины	Epidemiology	0.3952687978744507	False
+Причины	Prevalence	0.27549755573272705	False
+Причины	Diagnosis	0.24320341646671295	False
+Причины	Risk factors	0.22547198832035065	False
+Флора и фауна	Flora and fauna	0.9894208908081055	True
+Флора и фауна	Fauna	0.9204205274581909	False
+Флора и фауна	Fauna and flora	0.8757879734039307	False
+Флора и фауна	Ecology	0.8684523701667786	False
+Флора и фауна	Natural history	0.7406176924705505	False
+Флора и фауна	Wildlife	0.6091812252998352	False
+Флора и фауна	Topography	0.570249617099762	False
+Флора и фауна	Environment	0.5544077157974243	False
+Флора и фауна	Flora	0.5525683760643005	False
+Флора и фауна	Geography and climate	0.4306850731372833	False
+Дети	Children	0.9933699369430542	True
+Дети	Marriage and children	0.9844337701797485	False
+Дети	Family	0.9735886454582214	False
+Дети	Issue	0.9697319269180298	False
+Дети	Family and children	0.9682784676551819	False
+Дети	Marriage and issue	0.9644365310668945	False
+Дети	Descendants	0.9343298673629761	False
+Дети	Marriage and family	0.9216625094413757	False
+Дети	Marriage	0.8774948716163635	False
+Дети	Second marriage	0.8675593137741089	False
+Флот	Fleet	0.9979751706123352	True
+Флот	Ships	0.7211240530014038	False
+Флот	Accidents and incidents	0.7055978178977966	False
+Флот	Overview	0.6527532935142517	False
+Флот	In-flight services	0.6314665675163269	False
+Флот	Gallery	0.6281930208206177	False
+Флот	Incidents and accidents	0.5986555218696594	False
+Флот	Accidents and Incidents	0.5688662528991699	False
+Флот	Incidents and Accidents	0.5461713671684265	False
+Флот	History	0.36542946100234985	False
+Синонимы	Synonyms	0.9797821640968323	True
+Синонимы	Taxonomy	0.42740771174430847	False
+Синонимы	Description	0.3547159731388092	False
+Синонимы	References	0.21502146124839783	False
+Синонимы	Etymology	0.14326295256614685	False
+Синонимы	Uses	0.08001851290464401	False
+Синонимы	Cultivation	0.07836785167455673	False
+Синонимы	Toxicity	0.07783671468496323	False
+Синонимы	External links	0.0738765299320221	False
+Синонимы	Gallery	0.06887216120958328	False
+Здравоохранение	Healthcare	0.988775372505188	True
+Здравоохранение	Education and culture	0.9155817031860352	False
+Здравоохранение	Health	0.9093559980392456	False
+Здравоохранение	Economy and infrastructure	0.8471157550811768	False
+Здравоохранение	Health care	0.8168534636497498	False
+Здравоохранение	Education	0.7868514657020569	False
+Здравоохранение	Culture and recreation	0.6886075139045715	False
+Здравоохранение	Economy	0.617559552192688	False
+Здравоохранение	Tourism	0.49381667375564575	False
+Здравоохранение	Culture and education	0.4743960201740265	False
+Избранные произведения	Works	0.9914504885673523	False
+Избранные произведения	Selected works	0.9891625642776489	True
+Избранные произведения	Compositions	0.8539267182350159	False
+Избранные произведения	Literary works	0.7276993989944458	False
+Избранные произведения	Bibliography	0.6098722219467163	False
+Избранные произведения	Biography	0.5357186198234558	False
+Избранные произведения	List of works	0.383112370967865	False
+Избранные произведения	Notable works	0.37293389439582825	False
+Избранные произведения	See also	0.210163876414299	False
+Избранные произведения	References	0.20194841921329498	False
+Изображения	Images	0.9877491593360901	False
+Изображения	Image gallery	0.93744295835495	False
+Изображения	Depictions	0.9348918795585632	True
+Изображения	Gallery	0.9157400131225586	False
+Изображения	Family	0.5671936869621277	False
+Изображения	Additional images	0.5154048204421997	False
+Изображения	See also	0.5091888904571533	False
+Изображения	References	0.24181804060935974	False
+Изображения	External links	0.21391625702381134	False
+Изображения	Notes	0.19519014656543732	False
+Список серий	Episodes	0.9878845810890198	False
+Список серий	Episode list	0.9797334671020508	True
+Список серий	List of episodes	0.9549746513366699	False
+Список серий	DVD releases	0.8370065689086914	False
+Список серий	Crew	0.641549825668335	False
+Список серий	Series overview	0.5249931216239929	False
+Список серий	Reception	0.3440461754798889	False
+Список серий	Ratings	0.32895907759666443	False
+Список серий	Home video releases	0.3073606789112091	False
+Список серий	Plot summary	0.28471723198890686	False
+Полуфиналы	Final	0.9900960922241211	False
+Полуфиналы	Semi-finals	0.9881757497787476	False
+Полуфиналы	Semifinals	0.9871318340301514	True
+Полуфиналы	Semi finals	0.984782874584198	False
+Полуфиналы	Quarter-finals	0.9772320985794067	False
+Полуфиналы	Top scorers	0.9728982448577881	False
+Полуфиналы	Finals	0.9704457521438599	False
+Полуфиналы	Champion	0.9663763046264648	False
+Полуфиналы	Top goalscorers	0.9569119811058044	False
+Полуфиналы	Second round	0.9464365839958191	False
+Групповой этап	Group stage	0.9891001582145691	True
+Групповой этап	Knockout stage	0.9623240828514099	False
+Групповой этап	Teams	0.9425936937332153	False
+Групповой этап	First round	0.9352542757987976	False
+Групповой этап	Second round	0.9190844893455505	False
+Групповой этап	Preliminary round	0.8902579545974731	False
+Групповой этап	Second stage	0.8896068930625916	False
+Групповой этап	Group stages	0.8857724666595459	False
+Групповой этап	Semifinals	0.881514847278595	False
+Групповой этап	Venues	0.8790703415870667	False
+Жизнь и карьера	Career	0.9901573657989502	False
+Жизнь и карьера	Life and career	0.9893776774406433	True
+Жизнь и карьера	Early life	0.9587295055389404	False
+Жизнь и карьера	Early life and education	0.9459502100944519	False
+Жизнь и карьера	Biography	0.9459447860717773	False
+Жизнь и карьера	Early life and career	0.9353395700454712	False
+Жизнь и карьера	Acting career	0.8843058347702026	False
+Жизнь и карьера	Film career	0.8532428741455078	False
+Жизнь и карьера	Filmography	0.7951276898384094	False
+Жизнь и карьера	Personal life	0.6389884352684021	False
+Политическая деятельность	Political career	0.9829309582710266	True
+Политическая деятельность	Political activity	0.9759196639060974	False
+Политическая деятельность	Political life	0.9568336009979248	False
+Политическая деятельность	Political activities	0.9567098617553711	False
+Политическая деятельность	Politics	0.9490703344345093	False
+Политическая деятельность	Political views	0.735670268535614	False
+Политическая деятельность	Political activism	0.6879866719245911	False
+Политическая деятельность	Policies	0.6475253105163574	False
+Политическая деятельность	Ideology	0.5829311013221741	False
+Политическая деятельность	Later career	0.48627176880836487	False
+Роли озвучивали	Cast	0.9852031469345093	False
+Роли озвучивали	Voice cast	0.9673902988433838	True
+Роли озвучивали	Characters	0.9493902325630188	False
+Роли озвучивали	Production	0.894858717918396	False
+Роли озвучивали	Cast and characters	0.8807121515274048	False
+Роли озвучивали	Episodes	0.8301767110824585	False
+Роли озвучивали	Creators	0.8287628293037415	False
+Роли озвучивали	Plot	0.7225538492202759	False
+Роли озвучивали	Soundtrack	0.4074794054031372	False
+Роли озвучивали	Synopsis	0.39838358759880066	False
+Воинские звания	Awards and honors	0.5313648581504822	False
+Воинские звания	Honours and awards	0.5173279643058777	False
+Воинские звания	Awards and decorations	0.42338883876800537	False
+Воинские звания	Military ranks	0.295678973197937	True
+Воинские звания	Awards	0.271536260843277	False
+Воинские звания	Dates of rank	0.22866329550743103	False
+Воинские звания	Titles, styles, honours and arms	0.22096648812294006	False
+Воинские звания	Decorations and awards	0.21082909405231476	False
+Воинские звания	Military career	0.13442888855934143	False
+Воинские звания	Post-war	0.11844009906053543	False
+В массовой культуре	In popular culture	0.9961897730827332	True
+Влияние	Influence	0.9941256046295166	True
+Влияние	Influences	0.9864729642868042	False
+В массовой культуре	Popular culture	0.9814040660858154	False
+Влияние	Legacy	0.9666538834571838	False
+В массовой культуре	In fiction	0.9659323692321777	False
+В массовой культуре	Culture	0.9613441228866577	False
+В массовой культуре	In media	0.9608110785484314	False
+В массовой культуре	Other media	0.9364696741104126	False
+Влияние	Cultural influence	0.9361991286277771	False
+В массовой культуре	Media	0.9345414042472839	False
+Влияние	Impact	0.9200169444084167	False
+В массовой культуре	Cultural depictions	0.9151987433433533	False
+Влияние	Influence and legacy	0.9121647477149963	False
+В массовой культуре	Cultural impact	0.8346402645111084	False
+Влияние	In other media	0.7905312180519104	False
+Влияние	Artistry	0.7574195861816406	False
+Влияние	Appearances in other media	0.7327165007591248	False
+Влияние	Accolades	0.703655481338501	False
+В массовой культуре	Cultural significance	0.6943976283073425	False
+Жизнеописание	Biography	0.9835069179534912	True
+Жизнеописание	Life	0.9792262315750122	False
+Жизнеописание	Early life	0.9160314202308655	False
+Жизнеописание	Legendary narrative	0.8999263048171997	False
+Жизнеописание	Legend	0.8630430698394775	False
+Жизнеописание	History	0.7834787964820862	False
+Жизнеописание	Legends	0.7269558906555176	False
+Жизнеописание	Biblical narrative	0.6878644824028015	False
+Жизнеописание	Early life and career	0.6553066968917847	False
+Жизнеописание	Genealogy	0.5794750452041626	False
+Литературная деятельность	Literary career	0.9714358448982239	True
+Литературная деятельность	Writing	0.9697821736335754	False
+Литературная деятельность	Literary activities	0.9026312232017517	False
+Литературная деятельность	Works	0.8186191320419312	False
+Литературная деятельность	Writings	0.783552348613739	False
+Литературная деятельность	Literary works	0.690234899520874	False
+Литературная деятельность	Work	0.5528542995452881	False
+Литературная деятельность	Biography	0.46980443596839905	False
+Литературная деятельность	Career	0.3618304133415222	False
+Литературная деятельность	Writing career	0.3434024751186371	False
+Разное	Other	0.9480667114257812	True
+Разное	Miscellaneous	0.7962912917137146	False
+Разное	Reception	0.7061617374420166	False
+Разное	See also	0.5094156265258789	False
+Разное	Other uses	0.44270631670951843	False
+Разное	Other media	0.39281681180000305	False
+Разное	Personal life	0.38372713327407837	False
+Разное	International relations	0.24181176722049713	False
+Разное	Notes	0.2346504181623459	False
+Разное	Further reading	0.12249258905649185	False
+Релиз	Release	0.9960792660713196	True
+Релиз	Release history	0.9640598893165588	False
+Релиз	Home release	0.9616652727127075	False
+Релиз	Release and reception	0.9412201642990112	False
+Звания	Honours	0.9358420968055725	False
+Релиз	Reception	0.905168354511261	False
+Релиз	Charts	0.866764485836029	False
+Релиз	Broadcast	0.8467550277709961	False
+Релиз	DVD releases	0.8206968307495117	False
+Релиз	Track listing	0.7705765962600708	False
+Релиз	Chart positions	0.7543819546699524	False
+Звания	Ranks	0.6915552616119385	True
+Звания	Awards	0.5491806864738464	False
+Звания	Honours and awards	0.5268483757972717	False
+Звания	Honors	0.3473384380340576	False
+Звания	Achievements	0.14191590249538422	False
+Звания	Personal life	0.1300291270017624	False
+Звания	References	0.09506841748952866	False
+Звания	Notes	0.07405917346477509	False
+Звания	Early life and education	0.05629747360944748	False
+Подвижной состав	Rolling stock	0.9631835222244263	True
+Подвижной состав	Gallery	0.8392853140830994	False
+Подвижной состав	Fleet	0.8299417495727539	False
+Подвижной состав	Incidents	0.7810326814651489	False
+Подвижной состав	Trains	0.33891063928604126	False
+Подвижной состав	Vehicles	0.2658632695674896	False
+Подвижной состав	Infrastructure	0.25246956944465637	False
+Подвижной состав	Tourism	0.19213445484638214	False
+Подвижной состав	Accidents and incidents	0.18658970296382904	False
+Подвижной состав	Lines	0.1716497540473938	False
+Отзывы критиков	Reception	0.9955421090126038	False
+Отзывы критиков	Critical reception	0.9943326711654663	True
+Отзывы критиков	Critical response	0.977493166923523	False
+Отзывы критиков	Accolades	0.8609611392021179	False
+Отзывы критиков	Release	0.7960327863693237	False
+Отзывы критиков	Music and lyrics	0.4431841969490051	False
+Отзывы критиков	Music video	0.41968992352485657	False
+Отзывы критиков	Legacy	0.34932762384414673	False
+Отзывы критиков	Commercial performance	0.3253558278083801	False
+Отзывы критиков	Chart performance	0.3011886179447174	False
+Потомки	Descendants	0.989639401435852	True
+Потомки	Family	0.9834137558937073	False
+Потомки	Issue	0.9658136367797852	False
+Потомки	Children	0.9514182209968567	False
+Потомки	Marriage and family	0.9460626840591431	False
+Потомки	Marriage and issue	0.9458406567573547	False
+Потомки	Family and children	0.9077126383781433	False
+Потомки	Marriage	0.8982694745063782	False
+Потомки	Ancestors	0.5875499844551086	False
+Потомки	Ancestry	0.5211610198020935	False
+Известные выпускники	Notable alumni	0.9905261993408203	True
+Известные выпускники	Alumni	0.9676606059074402	False
+Известные выпускники	Famous alumni	0.915713906288147	False
+Известные выпускники	Notable alumni and faculty	0.7575896978378296	False
+Известные выпускники	Notable people	0.733279824256897	False
+Известные выпускники	Faculty and alumni	0.6748555302619934	False
+Известные выпускники	Students	0.5523983240127563	False
+Известные выпускники	People	0.46757134795188904	False
+Известные выпускники	Notable faculty	0.20621617138385773	False
+Известные выпускники	Faculty	0.1952945590019226	False
+Имя	Name	0.9817410111427307	True
+Имя	Names	0.9392565488815308	False
+Имя	Nomenclature	0.8178797364234924	False
+Имя	Genealogy	0.6841045618057251	False
+Имя	Names and titles	0.6824454069137573	False
+Имя	People	0.36041998863220215	False
+Имя	Characters	0.2000216841697693	False
+Имя	Significance	0.1561570167541504	False
+Имя	Character	0.1398928463459015	False
+Имя	Etymology	0.12370222061872482	False
+Возможности	Capabilities	0.971871554851532	True
+Возможности	Features	0.9700120687484741	False
+Возможности	Functionality	0.9630090594291687	False
+Возможности	Limitations	0.8878960013389587	False
+Возможности	Overview	0.8195164203643799	False
+Возможности	History	0.5636473894119263	False
+Возможности	Main features	0.5534173846244812	False
+Возможности	Technical specifications	0.4869851768016815	False
+Возможности	Platforms	0.3543199598789215	False
+Возможности	Software	0.3235818147659302	False
+Состав группы	Band members	0.9941674470901489	True
+Состав группы	Members	0.9892581105232239	False
+Состав группы	Lineup	0.9609906077384949	False
+Состав группы	Discography	0.24194791913032532	False
+Состав группы	History	0.232976034283638	False
+Состав группы	Musical style	0.17547769844532013	False
+Состав группы	Classification	0.10697489976882935	False
+Состав группы	Influences	0.07403354346752167	False
+Состав группы	Awards and recognition	0.07067635655403137	False
+Состав группы	References	0.0667482540011406	False
+Итоговое положение	Final standing	0.9776830077171326	False
+Итоговое положение	Final ranking	0.9775394201278687	False
+Итоговое положение	Final standings	0.9400864839553833	True
+Итоговое положение	Results	0.7883241772651672	False
+Итоговое положение	Classification leadership table	0.7352573871612549	False
+Итоговое положение	Standings	0.6935483813285828	False
+Итоговое положение	Quarterfinals	0.6419461369514465	False
+Итоговое положение	Format	0.5401236414909363	False
+Итоговое положение	Matches	0.5061458945274353	False
+Итоговое положение	Stages	0.4557427167892456	False
+Политическая карьера	Political career	0.9943599104881287	True
+Политическая карьера	Political life	0.968097984790802	False
+Политическая карьера	Career	0.9483771920204163	False
+Политическая карьера	Politics	0.9312896132469177	False
+Политическая карьера	Early political career	0.7796438932418823	False
+Политическая карьера	Life	0.7660884261131287	False
+Политическая карьера	Political views	0.5970360040664673	False
+Политическая карьера	Life after politics	0.5245180130004883	False
+Политическая карьера	Early life and education	0.3985358774662018	False
+Политическая карьера	Early career	0.3839614987373352	False
+Действующие лица	Characters	0.9590882658958435	False
+Действующие лица	Roles	0.9434882998466492	False
+Действующие лица	Plot	0.9004900455474854	False
+Действующие лица	Synopsis	0.8083273768424988	False
+Действующие лица	Story	0.754630982875824	False
+Действующие лица	Cast	0.6757066249847412	False
+Действующие лица	Cast and characters	0.4837069809436798	True
+Действующие лица	Background	0.3983336091041565	False
+Действующие лица	Summary	0.30152949690818787	False
+Действующие лица	Main characters	0.2413567304611206	False
+Матчи	Matches	0.9770299196243286	True
+Матчи	Goal scorers	0.9432944655418396	False
+Матчи	Results	0.939889132976532	False
+Матчи	Final round	0.9194557666778564	False
+Матчи	Final standings	0.9193928837776184	False
+Матчи	Goalscorers	0.9119023680686951	False
+Матчи	Tournament round-up	0.8946532607078552	False
+Матчи	Event	0.8783502578735352	False
+Матчи	Qualified teams	0.8735289573669434	False
+Матчи	Teams	0.8603760600090027	False
+Переводы	Translations	0.9910796284675598	True
+Переводы	Writings	0.7236649394035339	False
+Переводы	Works	0.7009429931640625	False
+Переводы	English translations	0.6595972180366516	False
+Переводы	Editions and translations	0.6392138004302979	False
+Переводы	Literature	0.613861620426178	False
+Переводы	Poetry	0.4808531403541565	False
+Переводы	Modern editions	0.428300678730011	False
+Переводы	Work	0.34413251280784607	False
+Переводы	Texts	0.30127739906311035	False
+Экипаж	Crew	0.9820801019668579	True
+Экипаж	Passengers and crew	0.9406634569168091	False
+Экипаж	Flight crew	0.8976089358329773	False
+Экипаж	Aircraft and crew	0.8701509237289429	False
+Экипаж	Spacewalks	0.8011268377304077	False
+Экипаж	Aircraft	0.7154533267021179	False
+Экипаж	Flight	0.5036176443099976	False
+Экипаж	Extra-vehicular activity	0.41371679306030273	False
+Экипаж	The aircraft	0.33591926097869873	False
+Экипаж	Mission	0.32017916440963745	False
+Самолёт	Aircraft	0.9855599403381348	True
+Самолёт	Aircraft and crew	0.9835882186889648	False
+Самолёт	The aircraft	0.9716924428939819	False
+Самолёт	Aircraft and flight information	0.8285640478134155	False
+Самолёт	Aircraft history	0.8035941123962402	False
+Самолёт	Aircraft and flight crew	0.7449551820755005	False
+Самолёт	Flight	0.6798591613769531	False
+Самолёт	Flight crew	0.6536096334457397	False
+Самолёт	Flight history	0.5823785662651062	False
+Самолёт	Flight and crash	0.5585492849349976	False
+Разновидности	Types	0.9874464273452759	False
+Разновидности	Varieties	0.9857067465782166	True
+Разновидности	Variations	0.8766693472862244	False
+Разновидности	Variants	0.8186975121498108	False
+Разновидности	Taxonomy	0.6241951584815979	False
+Разновидности	Distribution	0.5964027047157288	False
+Разновидности	Forms	0.31032827496528625	False
+Разновидности	Models	0.2942507266998291	False
+Разновидности	Definitions	0.29134464263916016	False
+Разновидности	Structure	0.2885124981403351	False
+Поведение	Behavior	0.9843182563781738	True
+Поведение	Behavior and ecology	0.9606132507324219	False
+Поведение	Behaviour	0.9580051302909851	True
+Поведение	Behaviour and ecology	0.9311485290527344	False
+Поведение	Ecology	0.711434543132782	False
+Поведение	Ecology and behaviour	0.664571225643158	False
+Поведение	Habitat and diet	0.6147831678390503	False
+Поведение	Ecology and behavior	0.6068962812423706	False
+Поведение	Habits	0.4480297565460205	False
+Поведение	Human interaction	0.41286957263946533	False
+Музыкальное видео	Music video	0.9974019527435303	True
+Музыкальное видео	Live performances	0.7865637540817261	False
+Музыкальное видео	Critical reception	0.5881256461143494	False
+Музыкальное видео	Chart performance	0.5561342835426331	False
+Музыкальное видео	Commercial performance	0.49059945344924927	False
+Музыкальное видео	Music and lyrics	0.4256518483161926	False
+Музыкальное видео	Track listing	0.3610508441925049	False
+Музыкальное видео	Recording and composition	0.23824413120746613	False
+Музыкальное видео	Composition	0.23504814505577087	False
+Музыкальное видео	Writing and recording	0.23125289380550385	False
+В математике	In mathematics	0.9310913681983948	True
+В математике	Mathematics	0.8283314108848572	False
+В математике	Special use in computers	0.5392968654632568	False
+В математике	In science	0.3830467164516449	False
+В математике	In chemistry	0.3712165951728821	False
+В математике	In computing	0.3253481090068817	False
+В математике	Computing	0.29805344343185425	False
+В математике	In geography	0.25604838132858276	False
+В математике	In religion	0.23427949845790863	False
+В математике	Astronomy	0.2216508835554123	False
+Противопоказания	Contraindications	0.9313754439353943	True
+Противопоказания	Risks	0.6241779923439026	False
+Противопоказания	Pharmacokinetics	0.6064441800117493	False
+Противопоказания	Efficacy	0.385899156332016	False
+Противопоказания	Drug interactions	0.3644055426120758	False
+Противопоказания	Adverse effects	0.31386369466781616	False
+Противопоказания	Toxicity	0.27989643812179565	False
+Противопоказания	Formulations	0.27256444096565247	False
+Противопоказания	Side effects	0.2717979848384857	False
+Противопоказания	Complications	0.23695580661296844	False
+Сертификации	Certifications	0.9973534345626831	True
+Сертификации	Certifications and sales	0.9888629913330078	False
+Сертификации	Charts and certifications	0.9568758606910706	False
+Сертификации	Charts	0.9441499710083008	False
+Сертификации	Chart performance	0.6395717859268188	False
+Сертификации	Chart positions	0.48420390486717224	False
+Сертификации	Release history	0.29620668292045593	False
+Сертификации	Reception	0.29357635974884033	False
+Сертификации	See also	0.28447064757347107	False
+Сертификации	Credits and personnel	0.24211059510707855	False
+Первый раунд	First round	0.9886386394500732	True
+Первый раунд	Second round	0.9723697900772095	False
+Первый раунд	Third round	0.941276490688324	False
+Первый раунд	Qualified teams	0.9135085940361023	False
+Первый раунд	Teams	0.8847028017044067	False
+Первый раунд	Fourth round	0.8805446624755859	False
+Первый раунд	Preliminary round	0.8767155408859253	False
+Первый раунд	Round of 16	0.8566423058509827	False
+Первый раунд	Quarter-finals	0.8446460962295532	False
+Первый раунд	Round 1	0.8233608603477478	False
+Избранные публикации	Selected publications	0.994337260723114	False
+Избранные публикации	Bibliography	0.8534702658653259	False
+Избранные публикации	Works	0.6818088889122009	False
+Избранные публикации	Books	0.5735230445861816	False
+Избранные публикации	Selected works	0.558650016784668	True
+Избранные публикации	References	0.5540785193443298	False
+Избранные публикации	Honors	0.4778227210044861	False
+Избранные публикации	Further reading	0.26351287961006165	False
+Избранные публикации	Work	0.25676605105400085	False
+Избранные публикации	Biography	0.22941437363624573	False
+Язык	Language	0.9974563717842102	True
+Язык	Languages	0.984892725944519	False
+Язык	Culture	0.7248474359512329	False
+Язык	Archaeology	0.6400241255760193	False
+Язык	Identity	0.6153624057769775	False
+Язык	Etymology	0.5291917324066162	False
+Язык	History	0.14563947916030884	False
+Язык	Demographics	0.11207270622253418	False
+Язык	See also	0.11183776706457138	False
+Язык	Literature	0.10215534269809723	False
+Пример	Example	0.9957161545753479	True
+Недостатки	Disadvantages	0.9924710988998413	True
+Недостатки	Drawbacks	0.9862247705459595	False
+Пример	Examples	0.9589024186134338	False
+Недостатки	Further reading	0.8919915556907654	False
+Пример	The algorithm	0.8859903216362	False
+Недостатки	Advantages	0.8396629095077515	False
+Недостатки	Limitations	0.7750071287155151	False
+Пример	Statement of the theorem	0.542819619178772	False
+Недостатки	See also	0.5169630646705627	False
+Пример	References	0.4801427125930786	False
+Недостатки	Advantages and disadvantages	0.42478102445602417	False
+Недостатки	Examples	0.42072591185569763	False
+Пример	See also	0.4078325927257538	False
+Пример	Definitions	0.40223315358161926	False
+Недостатки	Terminology	0.3755835294723511	False
+Пример	Features	0.3464530408382416	False
+Пример	Generalizations	0.2845107913017273	False
+Пример	Proof	0.23684349656105042	False
+Недостатки	Benefits	0.20029626786708832	False
+Названия	Names	0.9920430779457092	True
+Названия	Etymology	0.9838116765022278	False
+Названия	Name	0.9382280707359314	False
+Названия	Naming	0.9310101270675659	False
+Названия	Nomenclature	0.8990926146507263	False
+Названия	Taxonomy	0.3034333288669586	False
+Названия	Taxonomy and naming	0.25564661622047424	False
+Названия	History	0.24572749435901642	False
+Названия	Other names	0.19025537371635437	False
+Названия	Terminology	0.14161105453968048	False
+Видеография	Videography	0.9968186616897583	True
+Видеография	Discography	0.8515867590904236	False
+Видеография	Filmography	0.5809376239776611	False
+Видеография	Singles	0.5583165884017944	False
+Видеография	Albums	0.3188036382198334	False
+Видеография	History	0.30839332938194275	False
+Видеография	Awards and nominations	0.2589941918849945	False
+Видеография	Awards	0.22619904577732086	False
+Видеография	Biography	0.12422463297843933	False
+Видеография	References	0.11150804907083511	False
+Формат	Format	0.9963610768318176	True
+Формат	Competition format	0.9846752285957336	False
+Формат	Group stage	0.6135395169258118	False
+Формат	Seeding	0.5742197632789612	False
+Формат	Draw	0.4465841054916382	False
+Формат	Qualification	0.42384421825408936	False
+Формат	Series overview	0.41841134428977966	False
+Формат	Adoption	0.3912152051925659	False
+Формат	Teams	0.3743330240249634	False
+Формат	Trophy	0.3208122253417969	False
+Альбомы	Discography	0.9847370982170105	False
+Альбомы	Albums	0.9840027689933777	True
+Альбомы	Singles	0.9769949913024902	False
+Альбомы	EPs	0.9397699236869812	False
+Альбомы	Extended plays	0.8842111825942993	False
+Альбомы	Videography	0.663422703742981	False
+Альбомы	Other charted songs	0.5827643871307373	False
+Альбомы	Music career	0.1820010244846344	False
+Альбомы	Musical career	0.13332252204418182	False
+Альбомы	History	0.11442896723747253	False
+Варианты	Variants	0.9936516284942627	True
+Варианты	Variations	0.9816588759422302	False
+Варианты	Applications	0.8107331395149231	False
+Варианты	Editions	0.5592849254608154	False
+Варианты	Background	0.29765692353248596	False
+Варианты	Design and development	0.26322105526924133	False
+Варианты	Overview	0.2623559534549713	False
+Варианты	Models	0.2551907002925873	False
+Варианты	Specifications	0.22980935871601105	False
+Варианты	Development	0.22434432804584503	False
+Расследование	Investigation	0.996551513671875	True
+Карьера тренера	Coaching career	0.9955040812492371	True
+Карьера тренера	Managerial career	0.9910016655921936	False
+Карьера тренера	Managing career	0.9757658243179321	False
+Карьера тренера	Coaching	0.9607121348381042	False
+Расследование	Aftermath	0.9596173167228699	False
+Карьера тренера	Management career	0.9583480358123779	False
+Расследование	Assassination	0.9545767903327942	False
+Карьера тренера	Managerial statistics	0.9438718557357788	False
+Карьера тренера	Coaching record	0.920782744884491	False
+Карьера тренера	Career	0.9128580093383789	False
+Карьера тренера	Professional career	0.906593382358551	False
+Расследование	Investigations	0.8988127708435059	False
+Карьера тренера	Football career	0.887098491191864	False
+Расследование	Investigation and aftermath	0.852939784526825	False
+Расследование	Cause	0.7232310771942139	False
+Расследование	Probable cause	0.646054744720459	False
+Расследование	Suspects	0.6029747724533081	False
+Расследование	Trial	0.5001592636108398	False
+Расследование	Similar incidents	0.41878020763397217	False
+Хронология	Timeline	0.9810768365859985	False
+Хронология	Chronology	0.9800195693969727	True
+Хронология	History	0.8944263458251953	False
+Хронология	Overview	0.8463832139968872	False
+Хронология	Reception	0.5881743431091309	False
+Хронология	Periodization	0.5822142958641052	False
+Хронология	Games	0.331855833530426	False
+Хронология	Operational history	0.2211456447839737	False
+Хронология	Structure	0.21005462110042572	False
+Хронология	Characters	0.16143953800201416	False
+СМИ	Media	0.9689869284629822	True
+СМИ	Media coverage	0.43364161252975464	False
+СМИ	Notes	0.3265383541584015	False
+СМИ	Sources	0.25672683119773865	False
+СМИ	International relations	0.1471293717622757	False
+СМИ	Sports	0.14685404300689697	False
+СМИ	Economy	0.1333041936159134	False
+СМИ	Language	0.12648388743400574	False
+СМИ	Politics	0.11961230635643005	False
+СМИ	References	0.1161399707198143	False
+Родословная	Ancestry	0.988370418548584	True
+Родословная	Ancestors	0.9710375666618347	False
+Родословная	Family	0.9625377655029297	False
+Родословная	Family tree	0.9289559721946716	False
+Родословная	Genealogy	0.7077914476394653	False
+Родословная	Early life and family	0.6500082612037659	False
+Родословная	Notes	0.6331993341445923	False
+Родословная	Early life	0.4758279621601105	False
+Родословная	Birth and family	0.41043293476104736	False
+Родословная	Biography	0.3908552825450897	False
+Этимология названия	Etymology	0.9953522682189941	True
+Этимология названия	Name	0.9047636985778809	False
+Этимология названия	Taxonomy	0.8319480419158936	False
+Этимология названия	Names	0.610089123249054	False
+Этимология названия	History	0.44543007016181946	False
+Этимология названия	Discovery and naming	0.4181344211101532	False
+Этимология названия	Toponymy	0.357496052980423	False
+Этимология названия	Geography	0.27600720524787903	False
+Этимология названия	Description	0.263317346572876	False
+Этимология названия	Common names	0.16061881184577942	False
+Экранизация	Film adaptation	0.9940536618232727	True
+Экранизация	Adaptations	0.9884538054466248	False
+Экранизация	Adaptation	0.9790168404579163	False
+Экранизация	Film	0.9764201641082764	False
+Экранизация	Film, TV or theatrical adaptations	0.9756450653076172	False
+Экранизация	Legacy	0.8316798806190491	False
+Экранизация	Other media	0.8162084221839905	False
+Экранизация	Sequel	0.7490407824516296	False
+Экранизация	Sequels	0.7419983148574829	False
+Экранизация	In other media	0.7222301363945007	False
+Дополнительная информация	Additional information	0.9879708886146545	True
+Дополнительная информация	See also	0.8945374488830566	False
+Дополнительная информация	References	0.8909143209457397	False
+Дополнительная информация	Notes	0.8898112773895264	False
+Дополнительная информация	In popular culture	0.7474103569984436	False
+Дополнительная информация	Production	0.3999147117137909	False
+Дополнительная информация	Further reading	0.32306134700775146	False
+Дополнительная информация	External links	0.30483299493789673	False
+Дополнительная информация	Video games	0.2684822678565979	False
+Дополнительная информация	Sources	0.16202594339847565	False
+Проекты	Projects	0.9939597845077515	True
+Проекты	Works	0.8030907511711121	False
+Проекты	Filmography	0.6464866399765015	False
+Проекты	Discography	0.6205521821975708	False
+Проекты	Design and development	0.48433664441108704	False
+Проекты	Budget	0.26436862349510193	False
+Проекты	Career	0.2418844848871231	False
+Проекты	History	0.20559518039226532	False
+Проекты	Biography	0.16194458305835724	False
+Проекты	Activities	0.14789921045303345	False
+Организация	Organization	0.9963812828063965	True
+Организация	Organisation	0.994884192943573	True
+Организация	Ideology	0.7369770407676697	False
+Организация	Order of battle	0.5514538884162903	False
+Организация	Activities	0.458918035030365	False
+Организация	History	0.44230663776397705	False
+Организация	Charism	0.42046499252319336	False
+Организация	Structure and organisation	0.40154677629470825	False
+Организация	Aircraft	0.3899688720703125	False
+Организация	Location	0.388132780790329	False
+Лучшие бомбардиры	Top goalscorers	0.9902528524398804	True
+Лучшие бомбардиры	Top scorers	0.9845346212387085	True
+Лучшие бомбардиры	Goal scorers	0.9764545559883118	False
+Лучшие бомбардиры	Topscorers	0.9693032503128052	False
+Лучшие бомбардиры	Awards	0.9682353138923645	False
+Лучшие бомбардиры	Scorers	0.9567115902900696	False
+Лучшие бомбардиры	Goalscorers	0.9559481143951416	False
+Лучшие бомбардиры	Final	0.9465761780738831	False
+Лучшие бомбардиры	Top goal scorers	0.9376258850097656	False
+Лучшие бомбардиры	Semi-finals	0.9276043176651001	False
+Гонка	Championship standings after the race	0.9886668920516968	False
+Гонка	Race	0.9550275802612305	True
+Гонка	Classification	0.9475661516189575	False
+Гонка	Qualifying	0.9407963752746582	False
+Гонка	Race report	0.9070963859558105	False
+Гонка	Report	0.8947415351867676	False
+Гонка	Race summary	0.8847755193710327	False
+Гонка	Lap leaders	0.8077799081802368	False
+Гонка	Notes	0.7565836310386658	False
+Гонка	Entries	0.7455374598503113	False
+Исследования	Research	0.9952364563941956	True
+Исследования	Exploration	0.9604732394218445	False
+Исследования	Uses	0.7030410170555115	False
+Исследования	Bibliography	0.6725875735282898	False
+Исследования	Observations	0.6561304330825806	False
+Исследования	Society and culture	0.59444260597229	False
+Исследования	Discovery and exploration	0.5599115490913391	False
+Исследования	Publications	0.549646258354187	False
+Исследования	Clinical significance	0.4962468147277832	False
+Исследования	Early life and education	0.47197335958480835	False
+Основные произведения	Works	0.9851294755935669	False
+Основные произведения	Writings	0.9696660041809082	False
+Основные произведения	Notable works	0.9415379762649536	False
+Основные произведения	Published works	0.9220734238624573	False
+Основные произведения	Major works	0.9164958596229553	True
+Основные произведения	Selected works	0.9137898087501526	False
+Основные произведения	Bibliography	0.8622116446495056	False
+Основные произведения	Selected bibliography	0.8435947299003601	False
+Основные произведения	Publications	0.7485516667366028	False
+Основные произведения	Themes	0.5711872577667236	False
+Премии и награды	Awards	0.9952585101127625	False
+Премии и награды	Awards and honors	0.9921316504478455	True
+Премии и награды	Honors and awards	0.9881263971328735	False
+Премии и награды	Prizes and awards	0.9869155883789062	False
+Премии и награды	Honours and awards	0.986829936504364	False
+Премии и награды	Awards and honours	0.9843623638153076	False
+Премии и награды	Awards and nominations	0.9834485650062561	False
+Премии и награды	Honours	0.970093846321106	False
+Премии и награды	Recognition	0.9298996329307556	False
+Премии и награды	Accolades	0.9043557047843933	False
+Вторая мировая война	Second World War	0.9736025333404541	False
+Вторая мировая война	World War II	0.9620260000228882	True
+Вторая мировая война	Career	0.7014738917350769	False
+Вторая мировая война	Life	0.4600203037261963	False
+Вторая мировая война	First World War	0.3978497087955475	False
+Вторая мировая война	World War I	0.29147812724113464	False
+Вторая мировая война	After the war	0.22056598961353302	False
+Вторая мировая война	Post-World War II	0.22034618258476257	False
+Вторая мировая война	Between the wars	0.19574987888336182	False
+Вторая мировая война	Awards	0.1807294487953186	False
+Телевидение	Television	0.9912746548652649	True
+Телевидение	Television credits	0.9416886568069458	False
+Телевидение	Radio	0.8145226836204529	False
+Телевидение	Filmography	0.7655532360076904	False
+Телевидение	Television career	0.6805870532989502	False
+Телевидение	Career	0.5528246760368347	False
+Телевидение	Life and career	0.5467634797096252	False
+Телевидение	In other media	0.5188483595848083	False
+Телевидение	Acting career	0.46160027384757996	False
+Телевидение	Awards and nominations	0.45284849405288696	False
+Генеалогия	Ancestry	0.9803205728530884	False
+Генеалогия	Ancestors	0.9775480628013611	False
+Генеалогия	Genealogy	0.9703288078308105	True
+Генеалогия	Family	0.9154765009880066	False
+Генеалогия	Family tree	0.8640033602714539	False
+Генеалогия	List of rulers	0.7401592135429382	False
+Генеалогия	History	0.3295338451862335	False
+Генеалогия	Timeline	0.2941868007183075	False
+Генеалогия	Early life	0.2915348410606384	False
+Генеалогия	Biography	0.16190621256828308	False
+Награды и достижения	Awards and achievements	0.9948524832725525	True
+Награды и достижения	Awards and honours	0.9917535781860352	False
+Награды и достижения	Awards	0.9915728569030762	False
+Награды и достижения	Awards and honors	0.9857062101364136	False
+Награды и достижения	Honours	0.985009491443634	False
+Награды и достижения	Awards and accomplishments	0.9827526807785034	False
+Награды и достижения	Awards and recognition	0.9801383018493652	False
+Награды и достижения	Honours and achievements	0.9540597796440125	False
+Награды и достижения	Honors	0.9517730474472046	False
+Награды и достижения	Championships and accomplishments	0.9498236775398254	False
+Избранные работы	Selected works	0.9922149777412415	True
+Диагностика	Diagnosis	0.9910751581192017	True
+Избранные работы	Works	0.982200026512146	False
+Избранные работы	Work	0.9399312138557434	False
+Диагностика	Treatment and prognosis	0.9295373558998108	False
+Избранные работы	Filmography	0.9132346510887146	False
+Избранные работы	Selected filmography	0.86564040184021	False
+Диагностика	Treatment	0.861280620098114	False
+Диагностика	Epidemiology	0.7754408717155457	False
+Диагностика	Prognosis	0.7734495997428894	False
+Избранные работы	Selected bibliography	0.7729719281196594	False
+Избранные работы	Career	0.7687848806381226	False
+Диагностика	Symptoms	0.6696807742118835	False
+Диагностика	Genetics	0.6132714748382568	False
+Диагностика	Prevention	0.6061417460441589	False
+Диагностика	Treatments	0.5624978542327881	False
+Избранные работы	Partial list of works	0.5336207747459412	False
+Диагностика	Pathogenesis	0.5274770259857178	False
+Избранные работы	Acting career	0.42457643151283264	False
+Избранные работы	Gallery	0.40378862619400024	False
+Безопасность	Safety	0.99625164270401	True
+Безопасность	Security	0.9934343099594116	False
+Безопасность	Health and safety	0.7656959891319275	False
+Перспективы	Future expansion	0.7501784563064575	False
+Перспективы	Development	0.6388309001922607	False
+Перспективы	Developments	0.6331953406333923	False
+Перспективы	Applications	0.6081227660179138	False
+Перспективы	Future	0.5484179258346558	False
+Перспективы	Plans	0.5104020237922668	False
+Безопасность	See also	0.37143227458000183	False
+Перспективы	Lines	0.346865177154541	False
+Перспективы	See also	0.3432655930519104	False
+Безопасность	Standards	0.3382914960384369	False
+Безопасность	Applications	0.32879313826560974	False
+Безопасность	Alternatives	0.29539400339126587	False
+Перспективы	Perspectives	0.2799943685531616	True
+Безопасность	Security and privacy	0.26736369729042053	False
+Перспективы	History	0.23135897517204285	False
+Безопасность	Hazards	0.22671326994895935	False
+Безопасность	Environmental impact	0.22481192648410797	False
+Фауна	Fauna	0.9925169348716736	True
+Фауна	Biology	0.92677241563797	False
+Фауна	Wildlife	0.8457940220832825	False
+Фауна	Ecology	0.8312849402427673	False
+Фауна	Biodiversity	0.7943007946014404	False
+Фауна	Flora and fauna	0.7553906440734863	False
+Фауна	Flora	0.6470617651939392	False
+Фауна	Natural resources	0.4367009997367859	False
+Фауна	Animals	0.42222315073013306	False
+Фауна	Vegetation	0.3392027020454407	False
+Маршрут	Route	0.9903826117515564	True
+Маршрут	Route and stages	0.9106162786483765	False
+Маршрут	Itinerary	0.9036843180656433	False
+Маршрут	Schedule	0.7842888832092285	False
+Маршрут	Course	0.696172833442688	False
+Маршрут	Stages	0.6832616925239563	False
+Маршрут	History	0.6742545962333679	False
+Маршрут	Classification leadership	0.3139854073524475	False
+Маршрут	Race overview	0.2088867574930191	False
+Маршрут	Operation	0.11877724528312683	False
+Второй раунд	Second round	0.99167799949646	True
+Второй раунд	First round	0.9790792465209961	False
+Второй раунд	Third round	0.9779465198516846	False
+Второй раунд	Fourth round	0.9666131138801575	False
+Второй раунд	Quarter-finals	0.9531301259994507	False
+Второй раунд	Fifth round	0.9134484529495239	False
+Второй раунд	Round 2	0.8936065435409546	False
+Второй раунд	Semi-finals	0.8577333092689514	False
+Второй раунд	Final	0.8155857920646667	False
+Второй раунд	Top scorers	0.8147880434989929	False
+Кавер-версии	Cover versions	0.9919386506080627	True
+Кавер-версии	Other versions	0.9606643915176392	False
+Кавер-версии	Other cover versions	0.9228680729866028	False
+Кавер-версии	Notable cover versions	0.8873274326324463	False
+Кавер-версии	Versions	0.8501102924346924	False
+Кавер-версии	Live cover performances	0.6119934916496277	False
+Кавер-версии	Personnel	0.42556828260421753	False
+Кавер-версии	Legacy	0.31636348366737366	False
+Кавер-версии	References	0.27617356181144714	False
+Кавер-версии	Charts	0.26709482073783875	False
+Премии и номинации	Awards and nominations	0.9945821166038513	True
+Премии и номинации	Awards	0.992755115032196	False
+Гидрология	Hydrology	0.9848282933235168	True
+Премии и номинации	Awards and honors	0.9658344388008118	False
+Гидрология	Course	0.9168992638587952	False
+Гидрология	Geography	0.7800019979476929	False
+Гидрология	Physical geography	0.7569429874420166	False
+Гидрология	Tributaries	0.7335518002510071	False
+Гидрология	Geology	0.5419954061508179	False
+Гидрология	Navigation	0.5372679233551025	False
+Премии и номинации	Filmography	0.4534989595413208	False
+Гидрология	Climate	0.441649854183197	False
+Премии и номинации	Music	0.41231557726860046	False
+Премии и номинации	Reception	0.29570886492729187	False
+Гидрология	Course of the river	0.24353612959384918	False
+Премии и номинации	Discography	0.21868331730365753	False
+Премии и номинации	Career	0.20726753771305084	False
+Гидрология	Dams and reservoirs	0.17349694669246674	False
+Премии и номинации	Television	0.15302875638008118	False
+Премии и номинации	Members	0.09407638013362885	False
+Номинации	Awards and nominations	0.9858118295669556	True
+Номинации	Awards	0.9847191572189331	False
+Номинации	Awards and honors	0.9764896035194397	False
+Номинации	Award	0.9761073589324951	False
+Номинации	Award categories	0.9756220579147339	False
+Номинации	Award nominations	0.9671829342842102	False
+Номинации	Accolades	0.9623950719833374	False
+Номинации	Winners and nominees	0.9365533590316772	False
+Номинации	Categories	0.886900007724762	False
+Номинации	Winners	0.6399360299110413	False
+Наука	Science	0.9352250695228577	True
+Наука	Science and technology	0.46100330352783203	False
+Наука	In science	0.32926398515701294	False
+Наука	Research	0.2621508240699768	False
+Наука	In mathematics	0.24454523622989655	False
+Наука	Geography	0.2004944384098053	False
+Наука	History	0.19124048948287964	False
+Наука	Mathematics	0.18774080276489258	False
+Наука	Education	0.17869581282138824	False
+Наука	Politics	0.16536296904087067	False
+Лауреаты	Laureates	0.9877245426177979	True
+Лауреаты	Winners	0.9874590635299683	False
+Лауреаты	Recipients	0.9863276481628418	False
+Лауреаты	Award winners	0.944915235042572	False
+Лауреаты	List of winners	0.9371139407157898	False
+Лауреаты	Prize winners	0.93275386095047	False
+Лауреаты	List of recipients	0.920380175113678	False
+Лауреаты	Past winners	0.9173742532730103	False
+Лауреаты	Award	0.7047803401947021	False
+Лауреаты	Multiple award winners	0.38012054562568665	False
+Химический состав	Chemical composition	0.9334933161735535	False
+Химический состав	Chemical constituents	0.7399348020553589	False
+Химический состав	Medicinal uses	0.5270299911499023	False
+Химический состав	Physical characteristics	0.45113644003868103	False
+Химический состав	Chemistry	0.29426226019859314	False
+Химический состав	Phytochemistry	0.08747271448373795	False
+Химический состав	Toxicity	0.08635610342025757	False
+Химический состав	Biology	0.07553941011428833	False
+Химический состав	Ecology	0.05772925168275833	False
+Химический состав	Pharmacology	0.05553295463323593	False
+Мужчины	Men	0.987024188041687	True
+Мужчины	Women	0.8831406831741333	False
+Мужчины	Men's results	0.8572459816932678	False
+Мужчины	Medal summary	0.8418894410133362	False
+Мужчины	Calendar	0.8151846528053284	False
+Мужчины	Medalists	0.7424236536026001	False
+Мужчины	Men's tournament	0.651638925075531	False
+Мужчины	Women's tournament	0.3747950792312622	False
+Мужчины	Final standings	0.2553498148918152	False
+Мужчины	Venues	0.21871796250343323	False
+География и климат	Geography and climate	0.9941204190254211	True
+География и климат	Geography	0.9906850457191467	False
+География и климат	Location	0.9421963691711426	False
+География и климат	Climate	0.8303492069244385	False
+География и климат	History	0.6875249147415161	False
+География и климат	Demography	0.6266167759895325	False
+География и климат	Demographics	0.5761178731918335	False
+География и климат	Economy	0.4090591073036194	False
+География и климат	Overview	0.40502098202705383	False
+География и климат	Administrative and municipal status	0.3841371536254883	False
+Назначение	Appointment	0.9304623007774353	False
+Назначение	Purpose	0.8397558927536011	True
+Назначение	Uses	0.4064342677593231	False
+Назначение	Functions	0.3604593873023987	False
+Назначение	Construction	0.25298571586608887	False
+Назначение	Use	0.2209571897983551	False
+Назначение	History	0.2028075009584427	False
+Назначение	Description	0.19487275183200836	False
+Назначение	Applications	0.18304437398910522	False
+Назначение	Structure	0.16311398148536682	False
+Интересный факт	Trivia	0.9463644027709961	True
+Интересный факт	See also	0.2534201741218567	False
+Интересный факт	References	0.22323670983314514	False
+Интересный факт	Further reading	0.2110127955675125	False
+Интересный факт	Death	0.12309238314628601	False
+Интересный факт	Gallery	0.12028300762176514	False
+Интересный факт	In popular culture	0.11667145043611526	False
+Интересный факт	Notable people	0.11099009215831757	False
+Интересный факт	Bibliography	0.08853024989366531	False
+Интересный факт	Description	0.08523883670568466	False
+В кино	In film	0.983146607875824	True
+В кино	In fiction	0.9788023233413696	False
+В кино	In popular culture	0.9750705361366272	False
+В кино	Popular culture	0.9441319108009338	False
+В кино	In media	0.9414553046226501	False
+В кино	Portrayals	0.9228044152259827	False
+В кино	Cultural references	0.6243177652359009	False
+В кино	Fictional Depictions	0.6232401728630066	False
+В кино	Literature	0.38139501214027405	False
+В кино	See also	0.3454010784626007	False
+Ход событий	Events	0.9212715029716492	False
+Ход событий	Course of events	0.8975827097892761	False
+Ход событий	Battle	0.69215327501297	False
+Ход событий	Details	0.5434280037879944	False
+Ход событий	Background	0.5014212131500244	False
+Ход событий	Aftermath	0.4542420506477356	False
+Ход событий	Campaign	0.4041301906108856	False
+Ход событий	Conflict	0.2686580419540405	False
+Ход событий	Timeline	0.24725556373596191	True
+Ход событий	The attack	0.18042869865894318	False
+Программы	Programs	0.9941198825836182	True
+Программы	Programmes	0.9619688391685486	False
+Программы	Software	0.9435853958129883	False
+Программы	Programming	0.9370229244232178	False
+Программы	Missions	0.9003965258598328	False
+Программы	TV shows	0.49297404289245605	False
+Программы	Broadcasting	0.3752378821372986	False
+Программы	Logos	0.3674749433994293	False
+Программы	Competitive highlights	0.2167399525642395	False
+Программы	International	0.12287520617246628	False
+1/4 финала	Final	0.9901291728019714	False
+1/4 финала	Semi-finals	0.990113377571106	False
+1/4 финала	Quarter-finals	0.9885622262954712	True
+1/4 финала	Round of 16	0.955424964427948	False
+1/4 финала	Bracket	0.9246899485588074	False
+1/4 финала	Qualified teams	0.918452799320221	False
+1/4 финала	Top goalscorers	0.904937744140625	False
+1/4 финала	Round of 32	0.8782775402069092	False
+1/4 финала	First round	0.867855966091156	False
+1/4 финала	Knockout stage	0.8660054206848145	False
+Планетная система	Planetary system	0.9697255492210388	True
+Планетная система	Stellar system	0.8562853336334229	False
+Планетная система	Planets	0.5649814009666443	False
+Планетная система	Observational history	0.3736654818058014	False
+Планетная система	Stellar characteristics	0.27709680795669556	False
+Планетная система	Nomenclature	0.2165064513683319	False
+Планетная система	History of observations	0.10847704857587814	False
+Планетная система	Characteristics	0.10264097899198532	False
+Планетная система	Observation	0.05348282307386398	False
+Планетная система	Properties	0.04325379431247711	False
+Жизнь	Life	0.9940319657325745	True
+Жизнь	Early life	0.9748809933662415	False
+Жизнь	Early life and family	0.9506322145462036	False
+Жизнь	Biography	0.9359502792358398	False
+Жизнь	Life and career	0.9112414121627808	False
+Жизнь	Marriage	0.9074352383613586	False
+Жизнь	Personal life	0.8898943066596985	False
+Жизнь	Family and early life	0.7246202230453491	False
+Жизнь	Later life	0.713478684425354	False
+Жизнь	Early years	0.660155713558197	False
+Историческая справка	History	0.9801520705223083	False
+Историческая справка	Historical background	0.9601309299468994	True
+Постановки	Productions	0.9129768013954163	True
+Постановки	Performance history	0.8626214265823364	False
+Постановки	Choreography	0.8201247453689575	False
+Постановки	Work	0.6680027842521667	False
+Постановки	Roles and original cast	0.607349693775177	False
+Постановки	Adaptations	0.5849591493606567	False
+Постановки	Roles	0.4398750960826874	False
+Постановки	Works	0.370172917842865	False
+Историческая справка	Overview	0.3089613616466522	False
+Постановки	Production history	0.28373780846595764	False
+Постановки	Recordings	0.2778880000114441	False
+Историческая справка	Etymology	0.2724924683570862	False
+Историческая справка	Characteristics	0.1451578438282013	False
+Историческая справка	Geography	0.14480069279670715	False
+Историческая справка	Early history	0.10268593579530716	False
+Историческая справка	Population	0.09126181900501251	False
+Историческая справка	Economic history	0.07252687215805054	False
+Историческая справка	Research	0.0668555349111557	False
+Предки	Ancestry	0.9928062558174133	False
+Предки	Ancestors	0.9819263815879822	True
+Предки	Family	0.9406893849372864	False
+Предки	Genealogy	0.7713333368301392	False
+Предки	Descendants	0.5415384769439697	False
+Предки	Family tree	0.4986293911933899	False
+Предки	Early life	0.25846394896507263	False
+Предки	Sources	0.2091013640165329	False
+Предки	References	0.20510569214820862	False
+Предки	Death and legacy	0.18034948408603668	False
+Стадион	Stadium	0.9965428709983826	True
+Игры	Games	0.9951135516166687	True
+Предварительный этап	Preliminary round	0.9895546436309814	True
+Игры	Games developed	0.9830939769744873	False
+Стадион	Ground	0.9676917195320129	False
+Стадион	Stadiums	0.9651167988777161	False
+Игры	Video games	0.9566593170166016	False
+Стадион	Venue	0.937770426273346	False
+Игры	List of games	0.9355196356773376	False
+Предварительный этап	Teams	0.9306646585464478	False
+Предварительный этап	Qualification	0.9304958581924438	False
+Стадион	Facilities	0.9288350939750671	False
+Игры	Titles	0.8885310292243958	False
+Предварительный этап	Venues	0.8878143429756165	False
+Предварительный этап	Final round	0.8533172607421875	False
+Стадион	Grounds	0.8453057408332825	False
+Предварительный этап	First round	0.8323749303817749	False
+Предварительный этап	Second round	0.7913553714752197	False
+Предварительный этап	Classification Round	0.7799941897392273	False
+Предварительный этап	Main Round	0.7767416834831238	False
+Игры	Works	0.7624760866165161	False
+Игры	History	0.7422361373901367	False
+Предварительный этап	Finals	0.7305925488471985	False
+Игры	In other media	0.6571388840675354	False
+Игры	Reception and legacy	0.6537527441978455	False
+Игры	Games published	0.6398521065711975	False
+Стадион	Home ground	0.5436224937438965	False
+Стадион	Rivalries	0.3739835023880005	False
+Стадион	Stadium information	0.31046387553215027	False
+Стадион	Overview	0.18896548449993134	False
+Театр	Theatre	0.9933947920799255	True
+Театр	Theater	0.9912781119346619	True
+Театр	Stage	0.9372000694274902	False
+Театр	Career	0.29065820574760437	False
+Театр	Personal life	0.0851641297340393	False
+Театр	Charity work	0.08281458169221878	False
+Театр	Media	0.07948772609233856	False
+Театр	Filmography	0.07751335948705673	False
+Театр	Awards and nominations	0.07543104141950607	False
+Театр	Education	0.066462442278862	False
+Иллюстрации	Illustrations	0.9817403554916382	False
+Иллюстрации	Gallery	0.9522008895874023	False
+Иллюстрации	Additional images	0.7411623001098633	False
+Иллюстрации	Image gallery	0.5883271098136902	True
+Иллюстрации	References	0.49195799231529236	False
+Иллюстрации	Species	0.34947478771209717	False
+Иллюстрации	See also	0.34411266446113586	False
+Иллюстрации	Notes	0.26687461137771606	False
+Иллюстрации	Distribution	0.2239270955324173	False
+Иллюстрации	Classification	0.20766739547252655	False
+Организации	Organizations	0.9946675300598145	True
+Организации	Businesses and organizations	0.9692181348800659	False
+Организации	Industry	0.5284565091133118	False
+Организации	Other uses	0.17796960473060608	False
+Организации	Reception	0.1452806442975998	False
+Организации	See also	0.13918671011924744	False
+Организации	Education	0.13679738342761993	False
+Организации	Schools	0.13245898485183716	False
+Организации	Further reading	0.10199745744466782	False
+Организации	Science and technology	0.09262943267822266	False
+Гибель	Death	0.9871553182601929	True
+Гибель	Assassination	0.8222202658653259	False
+Гибель	Death and aftermath	0.7116386294364929	False
+Гибель	Death and legacy	0.6607579588890076	False
+Гибель	World War II	0.6041831970214844	False
+Гибель	Personal life and death	0.4822385907173157	False
+Гибель	Aftermath	0.37334108352661133	False
+Гибель	Family	0.2639074921607971	False
+Гибель	International career	0.20300383865833282	False
+Гибель	Notes	0.16138730943202972	False
+Средства массовой информации	Media	0.9674120545387268	True
+Средства массовой информации	Economy	0.2951306104660034	False
+Средства массовой информации	Culture and recreation	0.18509426712989807	False
+Средства массовой информации	Mass media	0.18018877506256104	False
+Средства массовой информации	Culture	0.17901611328125	False
+Средства массовой информации	References	0.16103675961494446	False
+Средства массовой информации	Infrastructure	0.13743674755096436	False
+Средства массовой информации	Sources	0.10207746177911758	False
+Средства массовой информации	Economy and infrastructure	0.10078952461481094	False
+Средства массовой информации	See also	0.08615665882825851	False
+Вклад в науку	Contributions	0.969157338142395	True
+Вклад в науку	Research	0.9546463489532471	False
+Вклад в науку	Work	0.9074918627738953	False
+Вклад в науку	Honors and awards	0.8194222450256348	False
+Вклад в науку	Academic career	0.6081818342208862	False
+Вклад в науку	Life and work	0.5943337082862854	False
+Вклад в науку	Works	0.5554129481315613	False
+Вклад в науку	Selected publications	0.28878289461135864	False
+Вклад в науку	Philosophy	0.2790842652320862	False
+Вклад в науку	Criticism	0.21069929003715515	False
+Актёры	Cast	0.9866968989372253	True
+Актёры	Characters	0.9424266815185547	False
+Актёры	Episodes	0.879198431968689	False
+Актёры	Plot	0.8645932674407959	False
+Актёры	Cast and characters	0.8571696281433105	False
+Актёры	Production	0.8324106931686401	False
+Актёры	Synopsis	0.7009285092353821	False
+Актёры	Awards and nominations	0.3038976192474365	False
+Актёры	Accolades	0.26771363615989685	False
+Актёры	Reception	0.1704370677471161	False
+1/2 финала	Final	0.9955646991729736	False
+1/2 финала	Semi-finals	0.9906820058822632	True
+1/2 финала	Quarter-finals	0.9803531169891357	False
+1/2 финала	Top goalscorers	0.9585300087928772	False
+1/2 финала	Scorers	0.8929675817489624	False
+1/2 финала	Round of 16	0.8901322484016418	False
+1/2 финала	Knockout stage	0.8828362226486206	False
+1/2 финала	Bracket	0.8558225035667419	False
+1/2 финала	Matches	0.7030566930770874	False
+1/2 финала	Qualified teams	0.6850018501281738	False
+Карты	Maps	0.9862712621688843	True
+Карты	References	0.9750849604606628	False
+Карты	External links	0.48787713050842285	False
+Карты	Further reading	0.3439570665359497	False
+Карты	Sources	0.2922309935092926	False
+Карты	See also	0.2821406126022339	False
+Карты	Geography	0.09992210566997528	False
+Карты	Development	0.04697372391819954	False
+Карты	Reception	0.041382599622011185	False
+Карты	Etymology	0.01877666264772415	False

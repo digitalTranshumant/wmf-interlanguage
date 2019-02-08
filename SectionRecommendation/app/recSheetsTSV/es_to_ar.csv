@@ -1,0 +1,21 @@
+secFrom	langTo	prob	isTranslation
+Demografía	السكان	0.9919066429138184	False
+Demografía	الديموغرافيا	0.9892292618751526	True
+Demografía	التركيبة السكانية	0.9585669040679932	False
+Demografía	الجغرافيا	0.8609910011291504	False
+Demografía	التقسيمات الإدارية	0.7185035347938538	False
+Demografía	تاريخ	0.5942108035087585	False
+Demografía	جغرافيا	0.577918291091919	False
+Demografía	الاقتصاد	0.4821385443210602	False
+Demografía	المصادر	0.4808630049228668	False
+Demografía	السياسة	0.4593464136123657	False
+Geografía	الجغرافيا	0.9920377731323242	False
+Geografía	جغرافيا	0.9894391894340515	True
+Geografía	الجغرافية	0.974432647228241	False
+Geografía	جغرافية الاقليم	0.9439123868942261	False
+Geografía	جغرافيتها	0.9318032264709473	False
+Geografía	الموقع	0.9243183732032776	False
+Geografía	معلومات جغرافية	0.9092658758163452	False
+Geografía	التركيبة السكانية	0.878020703792572	False
+Geografía	جغرافية	0.8222823739051819	False
+Geografía	جغرافية المقاطعة	0.8177062273025513	False

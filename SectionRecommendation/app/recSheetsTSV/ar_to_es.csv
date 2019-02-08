@@ -1,0 +1,591 @@
+secFrom	langTo	prob	isTranslation
+مراجع	Referencias	0.9942541718482971	True
+مراجع	Enlaces externos	0.9867693185806274	False
+مراجع	Bibliografía	0.9637017250061035	False
+مراجع	Notas	0.9601197838783264	False
+مراجع	Notas y referencias	0.9558608531951904	False
+مراجع	Fuentes	0.914115846157074	False
+مراجع	Fallecimientos	0.8947954773902893	False
+مراجع	Bibliografía adicional	0.8711405396461487	False
+مراجع	Evolución demográfica	0.8189525008201599	False
+مراجع	Referencias y notas	0.7544772028923035	False
+وصلات خارجية	Enlaces externos	0.9965658783912659	True
+وصلات خارجية	Referencias	0.995905876159668	False
+وصلات خارجية	Notas	0.9841430187225342	False
+وصلات خارجية	Notas y referencias	0.978517472743988	False
+وصلات خارجية	Bibliografía	0.9522997140884399	False
+وصلات خارجية	Fuentes	0.9359081983566284	False
+وصلات خارجية	Enlaces	0.9168589115142822	False
+وصلات خارجية	Referencia	0.7207039594650269	False
+وصلات خارجية	Referencias externas	0.6661373972892761	False
+وصلات خارجية	Véase también	0.6177495718002319	False
+المراجع	Referencias	0.9966532588005066	True
+المراجع	Enlaces externos	0.9922479391098022	False
+المراجع	Notas y referencias	0.9910297393798828	False
+المراجع	Bibliografía	0.9901739358901978	False
+المراجع	Fuentes	0.9789454340934753	False
+المراجع	Notas	0.9565498232841492	False
+المراجع	Bibliografía adicional	0.8424670696258545	False
+المراجع	Véase también	0.7720701694488525	False
+المراجع	Clasificación general	0.7414243817329407	False
+المراجع	Referencia	0.6631317734718323	False
+انظر أيضاً	Véase también	0.9608131647109985	False
+انظر أيضاً	Véase	0.5715622305870056	False
+انظر أيضاً	Nombres	0.4241664707660675	False
+انظر أيضاً	Descripción	0.3969234228134155	False
+انظر أيضاً	Morfología	0.38599565625190735	False
+انظر أيضاً	Ejemplo	0.3658095896244049	False
+انظر أيضاً	Referencias	0.2953968346118927	False
+انظر أيضاً	Historia	0.2740538418292999	False
+انظر أيضاً	Enlaces externos	0.2567674517631531	False
+انظر أيضاً	Ver también	0.23532681167125702	True
+روابط خارجية	Referencias	0.9940915703773499	False
+روابط خارجية	Enlaces externos	0.9902198910713196	True
+روابط خارجية	Fuentes	0.9727142453193665	False
+روابط خارجية	Notas y referencias	0.9637199640274048	False
+روابط خارجية	Enlaces	0.960303783416748	False
+روابط خارجية	Notas	0.9225682616233826	False
+روابط خارجية	Bibliografía	0.8944041132926941	False
+روابط خارجية	Referencia	0.4908658564090729	False
+روابط خارجية	Lista de referencias	0.22217504680156708	False
+روابط خارجية	Curiosidades	0.1784520447254181	False
+مصادر	Referencias	0.9947545528411865	False
+مصادر	Enlaces externos	0.994118332862854	False
+مصادر	Notas y referencias	0.9918197393417358	False
+مصادر	Notas	0.9838683605194092	False
+مصادر	Fuentes	0.9802268743515015	True
+مصادر	Bibliografía	0.9794339537620544	False
+مصادر	Véase también	0.5962989330291748	False
+مصادر	Bibliografía adicional	0.5738683342933655	False
+مصادر	Otras lecturas	0.48751306533813477	False
+مصادر	Bibliografía complementaria	0.28841671347618103	False
+وفيات	Fallecimientos	0.997186005115509	True
+وفيات	Referencias	0.9566896557807922	False
+وفيات	Notas	0.9172821044921875	False
+وفيات	Enlaces externos	0.8697021007537842	False
+وفيات	Nacimientos	0.737633466720581	False
+وفيات	Acontecimientos	0.13585162162780762	False
+وفيات	Véase también	0.1165531650185585	False
+وفيات	Celebraciones	0.10110240429639816	False
+وفيات	Arte y literatura	0.09177058935165405	False
+وفيات	Videojuegos	0.07224667817354202	False
+مواليد	Nacimientos	0.9833125472068787	True
+مواليد	Fallecimientos	0.5367357134819031	False
+مواليد	Acontecimientos	0.155677929520607	False
+مواليد	Enlaces externos	0.12908315658569336	False
+مواليد	Notas	0.08802762627601624	False
+مواليد	Referencias	0.060993608087301254	False
+مواليد	Música	0.05575766786932945	False
+مواليد	Televisión	0.041686318814754486	False
+مواليد	Véase también	0.040965061634778976	False
+مواليد	Cine	0.037378840148448944	False
+وفاته	Muerte	0.9910058975219727	False
+وفاته	Fallecimiento	0.9837010502815247	True
+وفاته	Exilio y muerte	0.8742659687995911	False
+وفاته	Títulos	0.7276372909545898	False
+وفاته	Enfermedad y muerte	0.5209325551986694	False
+وفاته	Muerte y funeral	0.5084677338600159	False
+وفاته	Muerte y sepultura	0.49080583453178406	False
+وفاته	Vida personal	0.4829449951648712	False
+وفاته	Descendencia	0.43960335850715637	False
+وفاته	Referencias	0.28492939472198486	False
+المسيرة الاحترافية	Trayectoria deportiva	0.9918505549430847	False
+المسيرة الاحترافية	Clubes	0.9913662075996399	False
+المسيرة الاحترافية	Equipos	0.991223931312561	False
+المسيرة الاحترافية	Estadísticas en la NBA	0.9727497696876526	False
+المسيرة الاحترافية	Carrera deportiva	0.9722319841384888	False
+المسيرة الاحترافية	Trayectoria	0.9696562886238098	False
+المسيرة الاحترافية	Carrera	0.969112753868103	False
+المسيرة الاحترافية	Estadísticas de su carrera en la NBA	0.9685795903205872	False
+المسيرة الاحترافية	Estadísticas NBA	0.9631359577178955	False
+المسيرة الاحترافية	Palmarés	0.9371311068534851	False
+حياته	Biografía	0.9842148423194885	False
+حياته	Vida	0.9822758436203003	True
+حياته	Vida temprana	0.9617531299591064	False
+حياته	Primeros años	0.9509043097496033	False
+حياته	Primeros años de vida	0.9167841672897339	False
+حياته	Semblanza	0.8768529295921326	False
+حياته	Infancia y juventud	0.8674781918525696	False
+حياته	Carrera	0.8347089290618896	False
+حياته	Trayectoria	0.8274607062339783	False
+حياته	Vida y obra	0.7987930774688721	False
+الميداليات	Medallero	0.9906547665596008	True
+الميداليات	Medallero internacional	0.9884079098701477	False
+الميداليات	Juegos Olímpicos	0.9691462516784668	False
+الميداليات	Selección nacional	0.9642541408538818	False
+الميداليات	Palmarés en pista	0.9371325373649597	False
+الميداليات	Medallistas	0.9355987310409546	False
+الميداليات	Carrera deportiva	0.9239944219589233	False
+الميداليات	Resultados en Grandes Vueltas y Campeonatos del Mundo	0.9161405563354492	False
+الميداليات	Palmarés	0.8777539730072021	False
+الميداليات	Resultados	0.864810049533844	False
+أعماله	Obra	0.989371657371521	False
+أعماله	Obras	0.9803965091705322	False
+أعماله	Filmografía	0.9778165221214294	False
+أعماله	Trabajos	0.9448865056037903	True
+أعماله	Cine	0.824516773223877	False
+أعماله	Publicaciones	0.797256350517273	False
+أعماله	Obra literaria	0.7467700242996216	False
+أعماله	Carrera	0.7429417967796326	False
+أعماله	Su obra	0.7021960616111755	False
+أعماله	Obras publicadas	0.6115185022354126	False
+مؤلفاته	Libros	0.9167073369026184	False
+مؤلفاته	Obra literaria	0.898629367351532	False
+مؤلفاته	Obra	0.8900139927864075	False
+مؤلفاته	Bibliografía	0.7476681470870972	False
+مؤلفاته	Obras	0.733336865901947	True
+مؤلفاته	Publicaciones	0.6691166758537292	False
+مؤلفاته	Escritos	0.3406369090080261	False
+مؤلفاته	Premios y distinciones	0.3353317677974701	False
+مؤلفاته	Obras principales	0.31290289759635925	False
+مؤلفاته	Importancia	0.29537373781204224	False
+جوائز	Premios	0.9948614239692688	True
+جوائز	Premios y nominaciones	0.9859592318534851	False
+جوائز	Honores y premios	0.9796975255012512	False
+جوائز	Galardones	0.9741153717041016	False
+جوائز	Premios y reconocimientos	0.9731118083000183	False
+جوائز	Premios y honores	0.9696148037910461	False
+جوائز	Premios y distinciones	0.9647189974784851	False
+جوائز	Distinciones honoríficas	0.9612960815429688	False
+جوائز	Reconocimientos y honores	0.9289487600326538	False
+جوائز	Honores	0.8885742425918579	False
+ملاحظات	Referencias	0.992060661315918	False
+ملاحظات	Notas	0.9609301686286926	True
+ملاحظات	Enlaces externos	0.9420629739761353	False
+ملاحظات	Bibliografía	0.8562467098236084	False
+ملاحظات	Características	0.6648333668708801	False
+ملاحظات	Bibliografía adicional	0.5217517018318176	False
+ملاحظات	Argumento	0.40554338693618774	False
+ملاحظات	Fuentes	0.39126700162887573	False
+ملاحظات	Curiosidades	0.38181644678115845	False
+ملاحظات	Lectura complementaria	0.3469277024269104	False
+الأعمال	Filmografía	0.9701710343360901	False
+الأعمال	Obras	0.9680579304695129	True
+الأعمال	Carrera	0.957369327545166	False
+الأعمال	Trabajos	0.947536289691925	False
+الأعمال	Filmografía seleccionada	0.9459376335144043	False
+الأعمال	Selección de su filmografía	0.9437516331672668	False
+الأعمال	Obra	0.9279913306236267	False
+الأعمال	Filmografía selecta	0.9186463356018066	False
+الأعمال	Filmografía parcial	0.9116194248199463	False
+الأعمال	Créditos	0.8430597186088562	False
+إحصائيات	Palmarés	0.9730021953582764	False
+إحصائيات	Estadísticas	0.9696128964424133	True
+إحصائيات	Clubes	0.9557810425758362	False
+إحصائيات	Resultados	0.9528293609619141	False
+إحصائيات	Tabla de posiciones	0.9409340620040894	False
+إحصائيات	Trayectoria	0.8511211276054382	False
+إحصائيات	Goleadores	0.8169130682945251	False
+إحصائيات	Jugadores	0.702333390712738	False
+إحصائيات	Historial	0.5633941888809204	False
+إحصائيات	Premios y reconocimientos	0.5005097985267639	False
+الديموغرافيا	Demografía	0.9951145648956299	True
+الديموغرافيا	Población	0.9761896133422852	False
+الديموغرافيا	Evolución demográfica	0.9217376708984375	False
+الديموغرافيا	Política local	0.8588364720344543	False
+الديموغرافيا	Geografía	0.7321036458015442	False
+الديموغرافيا	Población y ordenación urbana	0.7213840484619141	False
+الديموغرافيا	Historia	0.6618455648422241	False
+الديموغرافيا	Economía	0.6246596574783325	False
+الديموغرافيا	Organización territorial	0.6091057658195496	False
+الديموغرافيا	Demografía y población	0.486750990152359	False
+الموئل والانتشار	Distribución	0.99092698097229	False
+الموئل والانتشار	Hábitat	0.9878727197647095	False
+الموئل والانتشار	Distribución y hábitat	0.9860283732414246	False
+الموئل والانتشار	Hábitat y distribución	0.7407400012016296	True
+الموئل والانتشار	Localización	0.6696034669876099	False
+الموئل والانتشار	Especies	0.48528560996055603	False
+الموئل والانتشار	Descripción	0.2777537703514099	False
+الموئل والانتشار	Subespecies	0.23251502215862274	False
+الموئل والانتشار	Morfología	0.22687238454818726	False
+الموئل والانتشار	Variedades	0.22210060060024261	False
+الجوائز	Premios	0.9957589507102966	True
+الجوائز	Premios y reconocimientos	0.9946905970573425	False
+الجوائز	Premios y nominaciones	0.9940284490585327	False
+الجوائز	Reconocimientos	0.9888572096824646	False
+الجوائز	Galardones	0.9874480366706848	False
+الجوائز	Nominaciones	0.9872401356697083	False
+الجوائز	Premios y Nominaciones	0.9632784128189087	False
+الجوائز	Reconocimientos y premios	0.9626123309135437	False
+الجوائز	Goleadores	0.8893230557441711	False
+الجوائز	Estadísticas	0.8505949378013611	False
+كتب	Libros	0.9845219254493713	True
+كتب	Enlaces externos	0.6658545732498169	False
+كتب	Bibliografía	0.6204955577850342	False
+كتب	Referencias	0.5783741474151611	False
+كتب	Véase también	0.5210486650466919	False
+كتب	Testimonios de su época	0.213722363114357	False
+كتب	Obras	0.1657976508140564	False
+كتب	Biografía	0.15417955815792084	False
+كتب	Discografía	0.1415969580411911	False
+كتب	Premios y nominaciones	0.10568732023239136	False
+السيرة الذاتية	Biografía	0.9899707436561584	False
+السيرة الذاتية	Trayectoria	0.8895174860954285	False
+السيرة الذاتية	Vida personal	0.8778107762336731	True
+السيرة الذاتية	Semblanza	0.8660411834716797	False
+السيرة الذاتية	Primeros años	0.8459234833717346	False
+السيرة الذاتية	Datos biográficos	0.7760739326477051	False
+السيرة الذاتية	Vida	0.6340211033821106	False
+السيرة الذاتية	Historia	0.610267162322998	False
+السيرة الذاتية	Carrera	0.5727748870849609	False
+السيرة الذاتية	Palmarés	0.4690115451812744	False
+معرض الصور	Galería	0.9924952983856201	False
+معرض الصور	Galería de imágenes	0.9819275736808777	True
+معرض الصور	Galería de fotos	0.9746295213699341	False
+معرض الصور	Imágenes	0.9508062601089478	False
+معرض الصور	Ejemplos	0.47740915417671204	False
+معرض الصور	Colecciones	0.4333161413669586	False
+معرض الصور	Turismo	0.4302079677581787	False
+معرض الصور	Comportamiento	0.28261426091194153	False
+معرض الصور	Fuentes	0.23643521964550018	False
+معرض الصور	Hábitat	0.2326582819223404	False
+الوصف	Descripción	0.9925857186317444	True
+الوصف	Morfología	0.8057559132575989	False
+الوصف	Características	0.7303445339202881	False
+الوصف	Taxonomía y sistemática	0.5592489838600159	False
+الوصف	Ecología y comportamiento	0.5063536167144775	False
+الوصف	Anatomía	0.47637102007865906	False
+الوصف	Sistemática	0.33195042610168457	False
+الوصف	Anatomía y morfología	0.3243106007575989	False
+الوصف	Taxonomía	0.3142692744731903	False
+الوصف	Etimología	0.31070733070373535	False
+سيرته	Biografía	0.9792791604995728	True
+سيرته	Vida	0.9669530987739563	False
+سيرته	Carrera	0.8268377780914307	False
+سيرته	Trayectoria	0.8004245162010193	False
+سيرته	Primeros años	0.7345784306526184	False
+سيرته	Clubes	0.659146785736084	False
+سيرته	Vida personal	0.5210781693458557	False
+سيرته	Vida y obra	0.4905353784561157	False
+سيرته	Infancia y juventud	0.34061023592948914	False
+سيرته	Semblanza	0.32825592160224915	False
+المدن التوأمة	Ciudades hermanadas	0.983151912689209	False
+المدن التوأمة	Hermanamientos	0.9801950454711914	False
+المدن التوأمة	Ciudades hermanas	0.9695969820022583	True
+المدن التوأمة	Ciudades Hermanas	0.9536405801773071	False
+المدن التوأمة	Ciudades Hermanadas	0.9451626539230347	False
+المدن التوأمة	Relaciones internacionales	0.4211575388908386	False
+المدن التوأمة	Localización	0.17250628769397736	False
+المدن التوأمة	Personalidades	0.13406750559806824	False
+المدن التوأمة	Geografía	0.13115611672401428	False
+المدن التوأمة	Política	0.1252812147140503	False
+الجغرافيا	Geografía	0.9939140677452087	True
+الجغرافيا	Geografía física	0.9611901044845581	False
+الجغرافيا	Geografía humana	0.9155093431472778	False
+الجغرافيا	Geografía y clima	0.9074950218200684	False
+الجغرافيا	Medio físico	0.792188823223114	False
+الجغرافيا	Demografía	0.7873910665512085	False
+الجغرافيا	Fronteras	0.7003414034843445	False
+الجغرافيا	Economía	0.6979883313179016	False
+الجغرافيا	Historia	0.6335522532463074	False
+الجغرافيا	Geografía política	0.5853978991508484	False
+التصنيف	Clasificación	0.9940144419670105	True
+التصنيف	Taxonomía	0.9782238602638245	False
+التصنيف	Filogenia	0.9775002598762512	False
+التصنيف	Sistemática	0.9270549416542053	False
+التصنيف	Subespecies	0.9219970107078552	False
+التصنيف	Especies	0.9145788550376892	False
+التصنيف	Géneros	0.908204972743988	False
+التصنيف	Familias	0.8696125745773315	False
+التصنيف	Ecología	0.8615942001342773	False
+التصنيف	Taxonomía y filogenia	0.8510968685150146	False
+النتائج	Resultados	0.9897050261497498	True
+النتائج	Clasificación final	0.9840549826622009	False
+النتائج	Consecuencias	0.9700500965118408	False
+النتائج	Historial	0.940971851348877	False
+النتائج	Clasificación	0.9370684027671814	False
+النتائج	Estadísticas	0.9313254952430725	False
+النتائج	Calendario	0.9283581376075745	False
+النتائج	Tabla de posiciones	0.9171496033668518	False
+النتائج	Antecedentes	0.9123152494430542	False
+النتائج	Equipos	0.8517554402351379	False
+النهائيات	Finales de Grand Slam	0.9907129406929016	False
+النهائيات	Torneos de Grand Slam	0.9899694323539734	False
+النهائيات	Títulos WTA	0.9866141676902771	False
+النهائيات	Títulos WTA (0; 0+0)	0.9830423593521118	False
+النهائيات	Torneos del Grand Slam	0.9692972898483276	False
+النهائيات	Finales de WTA	0.9663378596305847	False
+النهائيات	Títulos (1)	0.9622876644134521	False
+النهائيات	Campeonas	0.959040105342865	False
+النهائيات	Títulos WTA (1; 0+1)	0.9554190635681152	False
+النهائيات	Títulos de Grand Slam	0.9541633129119873	False
+قصة الفيلم	Argumento	0.9954196214675903	True
+قصة الفيلم	Sinopsis	0.990478515625	False
+قصة الفيلم	Filmación	0.9460598826408386	False
+قصة الفيلم	Trama	0.9416003227233887	False
+قصة الفيلم	Reparto	0.9101750254631042	False
+قصة الفيلم	Producción	0.8499229550361633	False
+قصة الفيلم	Estreno	0.8174973130226135	False
+قصة الفيلم	Personajes	0.7918975353240967	False
+قصة الفيلم	Elenco	0.6620711088180542	False
+قصة الفيلم	Rodaje	0.5545541048049927	False
+الاستخدامات	Aplicaciones	0.994675874710083	False
+الاستخدامات	Usos terapéuticos	0.9165748953819275	False
+الاستخدامات	Usos	0.9076241254806519	True
+الاستخدامات	Aplicaciones y usos	0.8601165413856506	False
+الاستخدامات	Otros usos	0.8423504829406738	False
+الاستخدامات	Usos y aplicaciones	0.8412332534790039	False
+الاستخدامات	Uso	0.8142838478088379	False
+الاستخدامات	Diseño y desarrollo	0.7346247434616089	False
+الاستخدامات	Utilización	0.6728935241699219	False
+الاستخدامات	Véase también	0.6546942591667175	False
+الأسباب	Causas	0.9923721551895142	True
+الأسباب	Etiología	0.9756660461425781	False
+الأسباب	Antecedentes	0.9642114639282227	False
+الأسباب	Causa	0.7739499807357788	False
+الأسباب	Razones	0.7534109354019165	False
+الأسباب	Características clínicas	0.5532078146934509	False
+الأسباب	Factores de riesgo	0.517253041267395	False
+الأسباب	Factores desencadenantes	0.27685418725013733	False
+الأسباب	Consecuencias	0.2746239900588989	False
+الأسباب	Contexto	0.27433574199676514	False
+الحياة الشخصية	Vida personal	0.9947358965873718	False
+الحياة الشخصية	Vida privada	0.9896363615989685	True
+الحياة الشخصية	Vida Personal	0.9787076711654663	False
+الحياة الشخصية	Biografía	0.6837285161018372	False
+الحياة الشخصية	Obra	0.35740986466407776	False
+الحياة الشخصية	Primeros años	0.29492518305778503	False
+الحياة الشخصية	Vida profesional	0.28724852204322815	False
+الحياة الشخصية	Fallecimiento	0.2860719561576843	False
+الحياة الشخصية	En la cultura popular	0.25688618421554565	False
+الحياة الشخصية	Vida temprana	0.22406116127967834	False
+الاقتصاد	Economía	0.9945932030677795	True
+الاقتصاد	Demografía	0.5557509064674377	False
+الاقتصاد	Gobierno y política	0.5544683337211609	False
+الاقتصاد	Política y gobierno	0.4787371754646301	False
+الاقتصاد	Turismo	0.4291781485080719	False
+الاقتصاد	Infraestructura	0.4179050326347351	False
+الاقتصاد	Negocios	0.4076668322086334	False
+الاقتصاد	Geografía humana	0.40598264336586	False
+الاقتصاد	Cultura	0.3412362337112427	False
+الاقتصاد	Geografía	0.3174283802509308	False
+المناخ	Clima	0.978339433670044	True
+المناخ	Vegetación	0.8324140310287476	False
+المناخ	Hidrografía	0.8071934580802917	False
+المناخ	Ecología	0.7252324223518372	False
+المناخ	Relieve	0.7128925323486328	False
+المناخ	Características físicas	0.6992433071136475	False
+المناخ	Economía	0.5963605642318726	False
+المناخ	Geografía	0.5472724437713623	False
+المناخ	Flora y fauna	0.43913179636001587	False
+المناخ	Topografía	0.4322022497653961	False
+صور	Imágenes adicionales	0.9851037859916687	False
+صور	Imágenes	0.9771287441253662	True
+صور	Galería de imágenes	0.9717320203781128	False
+صور	Galería de fotos	0.9534305334091187	False
+صور	Referencias	0.9448309540748596	False
+صور	Galería	0.8839609026908875	False
+صور	Especies	0.7421159148216248	False
+صور	Geografía humana	0.43325263261795044	False
+صور	Turismo	0.2241547852754593	False
+صور	Referencias y notas de pie	0.22236213088035583	False
+الإنتاج	Producción	0.9975511431694031	True
+الإنتاج	Comercialización	0.8786372542381287	False
+الإنتاج	Banda sonora	0.7651579976081848	False
+الإنتاج	Desarrollo	0.6732590198516846	False
+الإنتاج	Elenco	0.6693896055221558	False
+الإنتاج	Reparto	0.6614802479743958	False
+الإنتاج	Productos	0.5928656458854675	False
+الإنتاج	Abundancia y obtención	0.5453633069992065	False
+الإنتاج	Sinopsis	0.4845025837421417	False
+الإنتاج	Variantes	0.42035573720932007	False
+معرض صور	Galería	0.8273844718933105	False
+معرض صور	Imágenes	0.7437421679496765	False
+معرض صور	Galería de imágenes	0.7106004357337952	True
+معرض صور	Transportes	0.33022767305374146	False
+معرض صور	Obras representativas	0.2727093994617462	False
+معرض صور	Testimonios de su época	0.27188023924827576	False
+معرض صور	Patrimonio	0.1816902458667755	False
+معرض صور	Curiosidades	0.16621103882789612	False
+معرض صور	Reinado	0.1540985107421875	False
+معرض صور	Descripción	0.14527790248394012	False
+الثقافة	Cultura	0.9776667952537537	True
+الثقافة	Arte y cultura	0.8995100855827332	False
+الثقافة	Cultura y arte	0.8024616241455078	False
+الثقافة	Educación	0.5615249276161194	False
+الثقافة	Arte	0.4322640597820282	False
+الثقافة	Lugares de interés	0.4321950674057007	False
+الثقافة	Economía	0.4116775095462799	False
+الثقافة	Deporte	0.37110215425491333	False
+الثقافة	Relaciones exteriores	0.3511419892311096	False
+الثقافة	Gobierno y política	0.3112531304359436	False
+مقدمة	Introducción	0.8966098427772522	True
+مقدمة	Preludio	0.7017390727996826	False
+مقدمة	Sinopsis	0.544677734375	False
+مقدمة	Argumento	0.49147117137908936	False
+مقدمة	Contenido	0.4750736951828003	False
+مقدمة	Personajes	0.4561266005039215	False
+مقدمة	Definición	0.4269369840621948	False
+مقدمة	Antecedentes	0.4155949056148529	False
+مقدمة	Perspectiva histórica	0.3955599069595337	False
+مقدمة	Concepto	0.35611361265182495	False
+جغرافيا	Geografía	0.9872100353240967	True
+جغرافيا	Geografía física	0.9486262202262878	False
+جغرافيا	Lugares de interés	0.8886943459510803	False
+جغرافيا	Ciudades y pueblos	0.8293690085411072	False
+جغرافيا	Distritos	0.7783928513526917	False
+جغرافيا	Lugares	0.6748434901237488	False
+جغرافيا	Historia	0.5751583576202393	False
+جغرافيا	Ecología	0.5182057023048401	False
+جغرافيا	Divisiones administrativas	0.4981401264667511	False
+جغرافيا	Organización territorial	0.4967859387397766	False
+الوفاة	Fallecimiento	0.9793883562088013	True
+الوفاة	Muerte	0.7758690714836121	False
+الوفاة	Matrimonio e hijos	0.35368698835372925	False
+الوفاة	Homenajes	0.2767540514469147	False
+الوفاة	Familia	0.21326039731502533	False
+الوفاة	En el cine	0.18784448504447937	False
+الوفاة	Asesinato	0.16486400365829468	False
+الوفاة	Vida privada	0.15377067029476166	False
+الوفاة	Clubes	0.13306063413619995	False
+الوفاة	Infancia y juventud	0.12926550209522247	False
+التقسيم الإداري	Subdivisiones	0.9768902063369751	False
+التقسيم الإداري	Distritos	0.9397172927856445	False
+التقسيم الإداري	División administrativa	0.932100772857666	True
+التقسيم الإداري	Organización territorial	0.898894727230072	False
+التقسيم الإداري	Administración	0.8453077673912048	False
+التقسيم الإداري	Gobierno	0.8207377791404724	False
+التقسيم الإداري	Organización político-administrativa	0.5946378707885742	False
+التقسيم الإداري	Geografía	0.5575302839279175	False
+التقسيم الإداري	Población	0.4989773631095886	False
+التقسيم الإداري	Principales ciudades	0.45332926511764526	False
+الرياضة	Deporte	0.9870880842208862	True
+الرياضة	Deportes	0.9823579788208008	False
+الرياضة	En las artes y la cultura popular	0.5133393406867981	False
+الرياضة	Cultura	0.45552095770835876	False
+الرياضة	Personas famosas	0.2925145924091339	False
+الرياضة	Sitios de interés	0.26007503271102905	False
+الرياضة	Arte y cultura	0.2223455309867859	False
+الرياضة	Atracciones	0.21293002367019653	False
+الرياضة	Ciudades hermanadas y acuerdos de amistad	0.187563955783844	False
+الرياضة	Curiosidades	0.16405819356441498	False
+السيرة	Biografía	0.9774641394615173	True
+السيرة	Carrera	0.43753722310066223	False
+السيرة	Vida temprana	0.26534566283226013	False
+السيرة	Vida personal	0.22729244828224182	False
+السيرة	Palmarés internacional	0.21701925992965698	False
+السيرة	Muerte	0.20548878610134125	False
+السيرة	Filmografía	0.204871267080307	False
+السيرة	Carrera política	0.20398648083209991	False
+السيرة	Trayectoria	0.18292178213596344	False
+السيرة	Primeros años	0.16986504197120667	False
+صور إضافية	Imágenes adicionales	0.9934826493263245	True
+صور إضافية	Referencias	0.6233823895454407	False
+صور إضافية	Enlaces externos	0.14217987656593323	False
+صور إضافية	Características	0.12403301894664764	False
+صور إضافية	Articulaciones	0.11776575446128845	False
+صور إضافية	Galería	0.09556189179420471	False
+صور إضافية	Funciones	0.09057407081127167	False
+صور إضافية	Estructura	0.09045646339654922	False
+صور إضافية	Diagnóstico	0.088910311460495	False
+صور إضافية	Irrigación	0.0842856913805008	False
+الحلقات	Episodios	0.9917352199554443	True
+السياحة	Turismo	0.9878227114677429	True
+السياحة	Economía	0.9333752393722534	False
+الحلقات	Lista de episodios	0.9135445356369019	False
+السياحة	Monumentos	0.6759165525436401	False
+السياحة	Lugares de interés	0.669776439666748	False
+السياحة	Geografía	0.6426196098327637	False
+السياحة	Arte y cultura	0.6405060291290283	False
+الحلقات	Estreno	0.4642937183380127	False
+السياحة	Monumentos y lugares de interés	0.45022252202033997	False
+الحلقات	Emisión	0.407587468624115	False
+السياحة	Infraestructura	0.363937109708786	False
+الحلقات	Temporadas	0.34464380145072937	False
+السياحة	Industria	0.341510534286499	False
+السياحة	Atractivos	0.33832845091819763	False
+الحلقات	Guía de episodios	0.24555377662181854	False
+الحلقات	Creación	0.20242811739444733	False
+الحلقات	Premios	0.16595859825611115	False
+الحلقات	Elenco y personajes	0.14461857080459595	False
+الحلقات	Lanzamiento	0.14438529312610626	False
+أماكن	Lugares	0.9884184002876282	True
+أماكن	Geografía	0.8255996704101562	False
+أماكن	Localidades y divisiones administrativas	0.7996993660926819	False
+أماكن	Divisiones administrativas	0.7905673384666443	False
+أماكن	Topónimos	0.5853887796401978	False
+أماكن	Ficción	0.20517006516456604	False
+أماكن	Personas	0.06505905091762543	False
+أماكن	Apellido	0.04955318942666054	False
+أماكن	Personajes	0.03887646645307541	False
+أماكن	Literatura	0.03290276601910591	False
+التطبيقات	Aplicaciones	0.9947994947433472	True
+التطبيقات	Implementaciones	0.9510418176651001	False
+التطبيقات	Software	0.9431918859481812	False
+التطبيقات	Diseño y desarrollo	0.9389368295669556	False
+التطبيقات	Química	0.7795428037643433	False
+التطبيقات	Desarrollo	0.6984536647796631	False
+التطبيقات	Historial de versiones	0.5962420701980591	False
+التطبيقات	Especificaciones	0.48072823882102966	False
+التطبيقات	Generalidades	0.43025994300842285	False
+التطبيقات	Variantes	0.40078482031822205	False
+المستخدمون	Usuarios	0.983908474445343	True
+المستخدمون	Operadores	0.976457417011261	False
+المستخدمون	Historial operacional	0.5080757737159729	False
+المستخدمون	Diseño y desarrollo	0.4495237171649933	False
+المستخدمون	Historial operativo	0.4476046860218048	False
+المستخدمون	Historial de combate	0.4303538203239441	False
+المستخدمون	Variantes	0.3166833221912384	False
+المستخدمون	Historia operativa	0.1993975192308426	False
+المستخدمون	Servicio operacional	0.1982211470603943	False
+المستخدمون	Enlaces externos	0.18312974274158478	False
+الخدمة العسكرية	Servicio militar	0.9678614139556885	True
+الخدمة العسكرية	Carrera militar	0.9011764526367188	False
+الخدمة العسكرية	Honores	0.2965456545352936	False
+الخدمة العسكرية	Experiencia en la NASA	0.16914872825145721	False
+الخدمة العسكرية	Carrera política	0.16612350940704346	False
+الخدمة العسكرية	Carrera	0.13052737712860107	False
+الخدمة العسكرية	Vida personal	0.12320525199174881	False
+الخدمة العسكرية	Eponimia	0.12299718707799911	False
+الخدمة العسكرية	Trayectoria	0.1012183427810669	False
+الخدمة العسكرية	Muerte	0.09875034540891647	False
+فيلموغرافيا	Filmografía	0.968251645565033	True
+فيلموغرافيا	Premios y nominaciones	0.8700850009918213	False
+فيلموغرافيا	Carrera	0.8479912877082825	False
+فيلموغرافيا	Filmografía completa	0.7853856086730957	False
+فيلموغرافيا	Televisión	0.567681074142456	False
+فيلموغرافيا	Trayectoria profesional	0.5581471920013428	False
+فيلموغرافيا	Videos musicales	0.526902437210083	False
+فيلموغرافيا	Vida y carrera	0.46800437569618225	False
+فيلموغرافيا	Carrera cinematográfica	0.4602276384830475	False
+فيلموغرافيا	Carrera como actriz	0.4579208493232727	False
+الأعضاء	Integrantes	0.9868572354316711	False
+الأعضاء	Miembros	0.9864507913589478	True
+الأعضاء	Organización	0.5085815191268921	False
+الأعضاء	Historia	0.30440497398376465	False
+الأعضاء	Tours	0.17249244451522827	False
+الأعضاء	Elecciones	0.14822393655776978	False
+الأعضاء	Carrera	0.14031819999217987	False
+الأعضاء	Funcionamiento	0.13187088072299957	False
+الأعضاء	Estructura	0.12394759804010391	False
+الأعضاء	Composición	0.07226825505495071	False
+التطوير	Desarrollo	0.9918068647384644	True
+السياسة	Política	0.9779075980186462	True
+التفاصيل	Detalles	0.9664514064788818	True
+التطوير	Diseño y desarrollo	0.9465929269790649	False
+السياسة	Gobierno y política	0.8965126872062683	False
+التطوير	Desarrollo y diseño	0.8877958655357361	False
+التفاصيل	Partido	0.843529224395752	False
+السياسة	Organización territorial	0.8336635828018188	False
+السياسة	Política y gobierno	0.8097542524337769	False
+السياسة	Administración y política	0.7899539470672607	False
+التطوير	Diseño	0.7382408380508423	False
+السياسة	Carrera política	0.7234480381011963	False
+التطوير	Aplicaciones	0.7220624089241028	False
+التطوير	Historia	0.7214270234107971	False
+السياسة	Economía	0.7094515562057495	False
+التطوير	Modo de juego	0.6743238568305969	False
+التطوير	Lanzamiento	0.6602620482444763	False
+التطوير	Marketing	0.646064043045044	False
+السياسة	Demografía	0.5258583426475525	False
+التطوير	Jugabilidad	0.5241026878356934	False
+السياسة	Organización político-administrativa	0.47606849670410156	False
+السياسة	Religión	0.21808402240276337	False
+التفاصيل	Previo	0.18950766324996948	False
+التفاصيل	Características	0.10495608299970627	False
+التفاصيل	Consecuencias	0.05669577419757843	False
+التفاصيل	Referencias	0.04881691187620163	False
+التفاصيل	Contexto histórico	0.04690438136458397	False
+التفاصيل	Enlaces externos	0.039895813912153244	False
+التفاصيل	Véase también	0.02501845359802246	False
+التفاصيل	Reacciones	0.021946704015135765	False

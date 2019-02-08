@@ -1,0 +1,3793 @@
+secFrom	langTo	prob	isTranslation
+References	脚注	0.9981556534767151	False
+References	出典	0.9974204301834106	False
+References	参考文献	0.9973432421684265	True
+References	参照	0.9947574138641357	True
+References	関連項目	0.9940899014472961	False
+References	参考	0.992016077041626	True
+References	参考資料	0.9908079504966736	False
+References	外部リンク	0.9907540082931519	False
+References	註	0.9907211065292358	False
+References	出典・脚注	0.9900416731834412	False
+External links	参考文献	0.9985896944999695	False
+External links	外部リンク	0.9982666969299316	True
+External links	脚注	0.9974485039710999	False
+External links	出典	0.9958251714706421	False
+External links	脚注・出典	0.9953522682189941	False
+External links	参考資料	0.9924919009208679	False
+External links	引用	0.9919415712356567	False
+External links	注釈	0.9919078350067139	False
+External links	参照	0.9903629422187805	False
+External links	出典・脚注	0.9903068542480469	False
+See also	関連項目	0.9863081574440002	True
+See also	参照	0.9769725799560547	False
+See also	参考	0.9543667435646057	False
+See also	参照項目	0.953839898109436	False
+See also	関連	0.9500044584274292	False
+See also	関連事項	0.9477433562278748	False
+See also	交通	0.8879926204681396	False
+See also	脚注	0.8799146413803101	False
+See also	その他	0.8690627217292786	False
+See also	関連記事	0.865893542766571	False
+History	歴史	0.9932597279548645	True
+History	概要	0.9913330674171448	False
+History	沿革	0.9889422655105591	True
+History	来歴	0.983887255191803	False
+History	地理	0.9806338548660278	False
+History	経緯	0.9609581232070923	False
+History	略歴	0.9551016092300415	False
+History	経歴	0.9546645879745483	False
+History	艦歴	0.902029275894165	False
+History	概略	0.9017057418823242	False
+Notes	脚注	0.9972405433654785	False
+Notes	参考文献	0.9970628619194031	False
+Notes	出典	0.9968622922897339	False
+Notes	参照	0.9897602200508118	False
+Notes	注	0.988105297088623	False
+Notes	脚注・出典	0.9846917986869812	False
+Notes	関連項目	0.9818504452705383	False
+Notes	注釈	0.9792750477790833	True
+Notes	脚註	0.9790760278701782	False
+Notes	外部リンク	0.9766783118247986	False
+Career	経歴	0.9968666434288025	True
+Career	キャリア	0.9957863688468933	True
+Career	所属クラブ	0.9956924319267273	False
+Career	略歴	0.9955151677131653	False
+Career	来歴	0.9913325905799866	True
+Career	生涯	0.9909452199935913	False
+Career	主な戦績	0.9906405210494995	False
+Career	主な出演作品	0.990365743637085	False
+Career	戦績	0.9883840084075928	False
+Career	人物	0.9867337942123413	False
+Further reading	脚注	0.9978331923484802	False
+Further reading	参考文献	0.9976147413253784	True
+Further reading	出典	0.9965290427207947	False
+Further reading	関連文献	0.9961776733398438	False
+Further reading	注釈	0.9912688732147217	False
+Further reading	脚注・出典	0.9905766248703003	False
+Further reading	参照	0.9875856637954712	False
+Further reading	関連図書	0.9857043027877808	True
+Further reading	参考	0.9850471019744873	False
+Further reading	文献	0.9832069873809814	False
+Biography	生涯	0.9970382452011108	False
+Biography	略歴	0.996381402015686	False
+Biography	経歴	0.99587482213974	False
+Biography	来歴	0.9953061938285828	False
+Biography	来歴・人物	0.9935146570205688	False
+Biography	概要	0.9915681481361389	False
+Biography	人物	0.9899771213531494	False
+Biography	生い立ち	0.9859992861747742	False
+Biography	人物・来歴	0.9834327697753906	False
+Biography	プロフィール	0.9812296628952026	True
+Track listing	収録曲	0.9916218519210815	True
+Track listing	解説	0.9904767274856567	False
+Track listing	概要	0.9870685338973999	False
+Track listing	背景	0.9776572585105896	False
+Track listing	トラックリスト	0.9721859097480774	False
+Track listing	トラック・リスト	0.9465833306312561	False
+Track listing	クレジット	0.9431951642036438	False
+Track listing	収録内容	0.9425067901611328	False
+Track listing	シングル	0.9386684894561768	False
+Track listing	パーソナル	0.9358013868331909	False
+Personal life	私生活	0.9986971020698547	False
+Personal life	家族	0.9972039461135864	False
+Personal life	人物	0.9918709993362427	False
+Personal life	プライベート	0.9848600029945374	False
+Personal life	個人	0.9843575954437256	False
+Personal life	略歴	0.9792330861091614	False
+Personal life	その他	0.9762241244316101	False
+Personal life	プロフィール	0.958370566368103	False
+Personal life	エピソード	0.9526498913764954	False
+Personal life	生涯	0.9501297473907471	True
+Early life	生い立ち	0.9989253878593445	True
+Early life	来歴	0.9981585144996643	False
+Early life	略歴	0.9961744546890259	False
+Early life	概要	0.9933371543884277	False
+Early life	プロフィール	0.9927070736885071	False
+Early life	経歴	0.9921586513519287	False
+Early life	人物	0.9908971190452576	False
+Early life	生涯	0.9908815622329712	False
+Early life	初期の経歴	0.9893206357955933	True
+Early life	前半生	0.9832267165184021	False
+Cast	キャスト	0.9978283047676086	True
+Cast	概要	0.9939001798629761	False
+Cast	ストーリー	0.9904549717903137	False
+Cast	出演者	0.9896013140678406	False
+Cast	登場人物	0.9867957830429077	True
+Cast	映画	0.9821470379829407	False
+Cast	解説	0.9793993234634399	False
+Cast	内容	0.9777674078941345	False
+Cast	出演	0.9749932885169983	False
+Cast	あらすじ	0.9703521728515625	False
+Bibliography	参考文献	0.9979839324951172	True
+Bibliography	脚注	0.9934666752815247	False
+Bibliography	書籍	0.9885912537574768	False
+Bibliography	文献	0.9827685952186584	False
+Bibliography	参考資料	0.9790040850639343	False
+Bibliography	出典	0.974943995475769	False
+Bibliography	著書	0.9596396088600159	False
+Bibliography	作品リスト	0.9452557563781738	False
+Bibliography	出典・脚注	0.943873405456543	False
+Bibliography	参照	0.9370535016059875	False
+Geography	地理	0.99806147813797	True
+Geography	概要	0.9958304762840271	False
+Geography	地形	0.9727082848548889	False
+Geography	歴史	0.9594249129295349	False
+Geography	地勢	0.9201905727386475	False
+Geography	地理・気候	0.8547719717025757	False
+Geography	行政	0.8370824456214905	False
+Geography	隣接州	0.8294934034347534	False
+Geography	流路	0.8171745538711548	False
+Geography	概説	0.7970152497291565	False
+Sources	出典	0.9978253841400146	False
+Sources	参考文献	0.9977680444717407	False
+Sources	脚注	0.9974308609962463	False
+Sources	文献	0.9923833012580872	False
+Sources	参照	0.9923442006111145	False
+Sources	参考資料	0.9916279315948486	False
+Sources	外部リンク	0.9870796799659729	False
+Sources	子女	0.9857928156852722	False
+Sources	脚注・出典	0.9851090908050537	False
+Sources	註	0.9849216341972351	False
+Plot	ストーリー	0.9960430860519409	False
+Plot	あらすじ	0.9941476583480835	True
+Plot	概要	0.9912653565406799	False
+Plot	解説	0.9789074063301086	False
+Plot	キャスト	0.9663226008415222	False
+Plot	プロット	0.9572950601577759	False
+Plot	登場人物	0.9549856185913086	False
+Plot	物語	0.9454097151756287	False
+Plot	内容	0.944879412651062	False
+Plot	キャラクター	0.939272403717041	False
+Background	背景	0.9986047148704529	True
+Background	概要	0.9976818561553955	False
+Background	経歴	0.9921668767929077	False
+Background	解説	0.991158664226532	False
+Background	経緯	0.9890273809432983	False
+Background	来歴	0.9888562560081482	False
+Background	略歴	0.9868767261505127	False
+Background	歴史	0.9864377975463867	False
+Background	生涯	0.9814019799232483	False
+Background	概説	0.969468355178833	False
+Reception	評価	0.9797206521034241	False
+Reception	受賞歴	0.9646575450897217	False
+Reception	受賞	0.9639074802398682	False
+Reception	評判	0.960199236869812	False
+Reception	批評	0.9579460620880127	False
+Reception	反響・評価	0.9484518766403198	False
+Reception	キャスト	0.9432073831558228	False
+Reception	受賞とノミネート	0.9338162541389465	False
+Reception	反響	0.9192358255386353	False
+Reception	スタッフ	0.8949378728866577	False
+Description	概要	0.9946704506874084	False
+Description	説明	0.9937006235122681	False
+Description	特徴	0.9934020638465881	False
+Description	解説	0.9922224879264832	True
+Description	詳細	0.9897069931030273	False
+Description	形態	0.9885077476501465	False
+Description	記載	0.9804258346557617	False
+Description	地理	0.9697775840759277	False
+Description	構造	0.9656692147254944	False
+Description	概説	0.9279575347900391	False
+Discography	ディスコグラフィー	0.9974608421325684	True
+Discography	作品	0.9967021346092224	False
+Discography	ディスコグラフィ	0.996626615524292	False
+Discography	アルバム	0.9868654608726501	False
+Discography	主な作品	0.968575656414032	False
+Discography	シングル	0.9305968284606934	False
+Discography	代表作	0.9156847596168518	False
+Discography	出演	0.9126071929931641	False
+Discography	略歴	0.9122370481491089	False
+Discography	音楽	0.9097140431404114	False
+Personnel	参加ミュージシャン	0.9963244795799255	False
+Personnel	クレジット	0.9958925247192383	False
+Personnel	メンバー	0.9921767115592957	False
+Personnel	パーソネル	0.990294337272644	False
+Personnel	収録曲	0.9889499545097351	False
+Personnel	概要	0.9886422753334045	False
+Personnel	解説	0.9885346293449402	False
+Personnel	プレイヤー	0.9872717261314392	False
+Personnel	担当	0.98553466796875	False
+Personnel	スタッフ	0.9848281741142273	True
+Demographics	人口	0.983688235282898	False
+Demographics	地理	0.9827985167503357	False
+Demographics	住民	0.9660923480987549	False
+Demographics	統計	0.9389689564704895	False
+Demographics	民族	0.9363566637039185	False
+Demographics	人口統計	0.9276543855667114	False
+Demographics	宗教	0.9109663367271423	False
+Demographics	民族構成	0.8862941861152649	False
+Demographics	言語	0.8511963486671448	False
+Demographics	歴史	0.8445523977279663	False
+Awards	受賞	0.9981074333190918	False
+Awards	賞	0.9966534972190857	True
+Awards	受賞歴	0.9962228536605835	False
+Awards	表彰	0.9845645427703857	False
+Awards	所属クラブ	0.9812945127487183	False
+Awards	略歴	0.9694356322288513	False
+Awards	評価	0.9685397744178772	False
+Awards	主な受賞歴	0.9675924777984619	False
+Awards	年譜	0.9531325101852417	False
+Awards	得点ランキング	0.9436398148536682	False
+Education	教育	0.9888184666633606	True
+Education	略歴	0.9777532815933228	False
+Education	学校	0.9708490967750549	False
+Education	学歴	0.9673931002616882	False
+Education	経歴	0.9607768654823303	False
+Education	地域	0.9346554279327393	False
+Education	来歴	0.9254528284072876	False
+Education	地理	0.8751848936080933	False
+Education	生い立ち	0.844840943813324	False
+Education	歴史	0.844822347164154	False
+Filmography	出演	0.9985520243644714	False
+Filmography	作品	0.9977766871452332	False
+Filmography	フィルモグラフィ	0.9973457455635071	False
+Filmography	フィルモグラフィー	0.9967017769813538	False
+Filmography	主な出演作品	0.9954008460044861	False
+Filmography	出演作品	0.9924643039703369	False
+Filmography	主な作品	0.9919608235359192	False
+Filmography	監督作品	0.9900698065757751	False
+Filmography	キャリア	0.9888086915016174	False
+Filmography	経歴	0.9887112379074097	False
+Results	主な戦績	0.9928508996963501	False
+Results	競技結果	0.9925591945648193	False
+Results	試合結果	0.9923250675201416	False
+Results	成績	0.9881929755210876	False
+Results	経歴	0.9858806729316711	False
+Results	結果	0.9833143949508667	True
+Results	得点ランキング	0.9809792637825012	False
+Results	選挙結果	0.9803651571273804	False
+Results	順位表	0.9795516729354858	True
+Results	日程	0.979182779788971	False
+Life	略歴	0.9970011115074158	False
+Life	経歴	0.9968594312667847	False
+Life	生涯	0.9954476952552795	True
+Life	来歴	0.9932934045791626	False
+Life	概要	0.9930824041366577	False
+Life	人物	0.9870122075080872	False
+Life	人生	0.980404794216156	False
+Life	人物・来歴	0.9724526405334473	False
+Life	年譜	0.9713115692138672	False
+Life	来歴・人物	0.9686103463172913	False
+Honours	タイトル	0.9970912933349609	False
+Honours	獲得タイトル	0.9954280853271484	False
+Honours	栄典	0.9919449687004089	False
+Honours	歴史	0.9832391738891602	False
+Honours	個人成績	0.982606053352356	False
+Honours	成績	0.9822894930839539	False
+Honours	受賞歴	0.9785715341567993	True
+Honours	過去の成績	0.9774410128593445	False
+Honours	個人タイトル	0.9770426750183105	False
+Honours	代表歴	0.9729582667350769	False
+Works	作品	0.997670590877533	True
+Works	著作	0.9972327351570129	False
+Works	作品リスト	0.9941923022270203	False
+Works	代表作	0.9928406476974487	True
+Works	主な作品	0.9904938340187073	False
+Works	業績	0.9889044165611267	False
+Works	出演	0.9878041744232178	False
+Works	主要作品	0.9872057437896729	False
+Works	作品一覧	0.986262321472168	False
+Works	参加作品	0.975985586643219	False
+Production	製作	0.9983332753181458	True
+Production	キャスト	0.9957723021507263	False
+Production	制作	0.9919677376747131	False
+Production	概要	0.9902327060699463	False
+Production	スタッフ	0.9869786500930786	False
+Production	生産	0.9831000566482544	False
+Production	解説	0.9797490239143372	False
+Production	作品解説	0.9787898659706116	False
+Production	製造	0.9700844287872314	False
+Production	エピソード	0.9698853492736816	False
+Gallery	ギャラリー	0.9981846213340759	True
+Gallery	画像	0.9954866766929626	True
+Gallery	写真	0.9839707016944885	False
+Gallery	構造	0.9662459492683411	False
+Gallery	作品	0.9656078219413757	False
+Gallery	観光	0.9561355113983154	False
+Gallery	隣の駅	0.948455274105072	False
+Gallery	行政区画	0.9228046536445618	False
+Gallery	利用可能な鉄道路線	0.9159690737724304	False
+Gallery	概要	0.890641450881958	False
+Death	死	0.9965493679046631	False
+Death	死去	0.9875280261039734	True
+Death	晩年	0.9858630299568176	False
+Death	死後	0.9644460678100586	False
+Death	受賞	0.9602928161621094	False
+Death	生涯	0.9499878883361816	False
+Death	エピソード	0.854364812374115	False
+Death	私生活	0.854364812374115	False
+Death	家族	0.8457564115524292	False
+Death	死亡	0.8421850800514221	False
+Distribution	分布	0.9951689839363098	True
+Distribution	歴史	0.9608166813850403	False
+Distribution	生息地	0.9393144845962524	False
+Distribution	特徴	0.8614922761917114	False
+Distribution	生態	0.8520405888557434	False
+Distribution	公開	0.8501704335212708	False
+Distribution	キャスト	0.8399831652641296	False
+Distribution	下位系統	0.834018349647522	False
+Distribution	概説	0.8071548938751221	False
+Distribution	下位分類	0.8023560047149658	False
+Early life and education	生い立ち	0.9988191723823547	False
+Early life and education	来歴	0.9975097179412842	False
+Early life and education	概要	0.9966741800308228	False
+Early life and education	経歴	0.9948091506958008	False
+Early life and education	略歴	0.9948091506958008	False
+Early life and education	生涯	0.9935872554779053	False
+Early life and education	プロフィール	0.9926919341087341	False
+Early life and education	人物	0.9891064763069153	False
+Early life and education	出自	0.9880865812301636	False
+Early life and education	生い立ちと初期の経歴	0.9795758128166199	False
+Legacy	遺産	0.9961813688278198	True
+Legacy	影響	0.9890062808990479	False
+Legacy	その後	0.988365650177002	False
+Legacy	評価	0.9818482398986816	False
+Legacy	後世への影響	0.9747524857521057	False
+Legacy	映画	0.972770094871521	False
+Legacy	その他	0.9477242827415466	False
+Legacy	死後	0.9350191950798035	False
+Legacy	逸話	0.9299387335777283	False
+Legacy	生涯	0.9121647477149963	False
+Publications	著作	0.9969972372055054	False
+Publications	出版物	0.9952038526535034	True
+Publications	論文	0.9923283457756042	False
+Publications	出版	0.9919769167900085	False
+Publications	作品	0.9867096543312073	False
+Publications	主な著作	0.9811382293701172	False
+Publications	書籍	0.9639699459075928	False
+Publications	著作物	0.9571095705032349	False
+Publications	著書	0.9298967719078064	True
+Publications	作品リスト	0.9172254204750061	False
+Footnotes	脚注	0.9979023933410645	True
+Footnotes	参考文献	0.9948979020118713	False
+Footnotes	出典	0.9926887154579163	False
+Footnotes	参照	0.9857638478279114	False
+Footnotes	外部リンク	0.9777827262878418	False
+Footnotes	関連項目	0.9740159511566162	False
+Footnotes	子女	0.9715502858161926	False
+Footnotes	著書	0.7989428043365479	False
+Footnotes	登場作品	0.6882059574127197	False
+Footnotes	過去の成績	0.6857912540435791	False
+Career statistics	来歴	0.9935867786407471	False
+Career statistics	個人成績	0.9933041930198669	False
+Career statistics	タイトル	0.9931979179382324	False
+Career statistics	経歴	0.9920612573623657	True
+Career statistics	所属クラブ	0.9912084341049194	False
+Career statistics	獲得タイトル	0.9884707927703857	False
+Career statistics	略歴	0.9871904253959656	False
+Career statistics	成績	0.986804723739624	False
+Career statistics	クラブ経歴	0.9847795367240906	False
+Career statistics	クラブ歴	0.9780980348587036	False
+Family	家族	0.9985811710357666	True
+Family	系譜	0.9976400136947632	False
+Family	家系	0.9970703125	False
+Family	子孫	0.9939901828765869	False
+Family	子女	0.9935038685798645	False
+Family	系図	0.9885010719299316	False
+Family	宗室	0.9878787398338318	False
+Family	親族	0.9871591329574585	False
+Family	出自	0.9868321418762207	False
+Family	私生活	0.9835598468780518	False
+Species	種	0.9876902103424072	True
+Species	分類	0.9823686480522156	False
+Species	種類	0.9565500020980835	False
+Species	下位分類	0.928179919719696	False
+Species	ギャラリー	0.8797094821929932	False
+Species	主な種	0.8498376607894897	False
+Species	画像	0.7601692080497742	False
+Species	系統	0.7362610697746277	False
+Species	属と種	0.7142081260681152	False
+Species	概要	0.7124149203300476	False
+Population	人口	0.9838108420372009	True
+Population	分布	0.9770376682281494	False
+Population	住民	0.9537031650543213	False
+Population	言語	0.9308458566665649	False
+Population	行政区画	0.9137169718742371	False
+Population	民族	0.8178613781929016	False
+Population	行政	0.7457384467124939	False
+Population	人口動態	0.7366849184036255	False
+Population	統計	0.7289063334465027	False
+Population	地理	0.7089619040489197	False
+Schedule	日程	0.986598014831543	True
+Schedule	スケジュール	0.973301351070404	True
+Schedule	結果	0.9284064173698425	False
+Schedule	競技日程	0.873748779296875	False
+Schedule	競技会場	0.8435202240943909	False
+Schedule	大会日程	0.8405700325965881	False
+Schedule	最終成績	0.8240053057670593	False
+Schedule	区間及び総合首位の変遷	0.8114048838615417	False
+Schedule	予備予選	0.8092252612113953	False
+Schedule	区間及び総合成績	0.6258391737937927	False
+Critical reception	批評	0.9935721158981323	True
+Critical reception	評価	0.9843287467956543	False
+Critical reception	反響・評価	0.9590121507644653	False
+Critical reception	来歴	0.9139925241470337	False
+Critical reception	キャスト	0.9069908857345581	False
+Critical reception	受賞	0.869769811630249	False
+Critical reception	構成	0.8646358251571655	False
+Critical reception	作品	0.8402239084243774	False
+Critical reception	解説	0.8361214399337769	False
+Critical reception	概要	0.7503344416618347	False
+Events	できごと	0.9938808679580688	False
+Events	人物	0.9870626330375671	False
+Events	イベント	0.9863384366035461	True
+Events	概要	0.9714938998222351	False
+Events	出来事	0.9659245014190674	False
+Events	日程	0.9652772545814514	False
+Events	経過	0.9413391351699829	False
+Events	背景	0.9395097494125366	False
+Events	種目	0.9173973798751831	False
+Events	最終成績	0.903588056564331	False
+Economy	経済	0.9951907396316528	True
+Economy	産業	0.984801709651947	True
+Economy	交通	0.9318659901618958	False
+Economy	地理	0.9086436033248901	False
+Economy	歴史	0.8836073875427246	False
+Economy	概要	0.8346894383430481	False
+Economy	地域	0.813556969165802	False
+Economy	政治	0.8048420548439026	False
+Economy	施設	0.7787512540817261	False
+Economy	写真	0.7721661925315857	False
+Notable people	著名な出身者	0.9970040917396545	False
+Notable people	人物	0.9931198358535767	False
+Notable people	出身者	0.993101954460144	False
+Notable people	出身人物	0.9910906553268433	False
+Notable people	ゆかりの人物	0.9812737703323364	False
+Notable people	著名人	0.9786916375160217	True
+Notable people	主な出身者	0.9709091186523438	False
+Notable people	出身の著名人	0.9548718929290771	False
+Notable people	出身有名人	0.9499272704124451	False
+Notable people	著名な住人	0.9478316903114319	False
+Etymology	語源	0.9981456995010376	True
+Etymology	名称	0.993850827217102	False
+Etymology	国名	0.9869454503059387	False
+Etymology	呼称	0.9824965000152588	False
+Etymology	由来	0.9808505773544312	False
+Etymology	起源	0.9758561849594116	False
+Etymology	歴史	0.9514714479446411	False
+Etymology	概要	0.9356060028076172	False
+Etymology	地理	0.9259594082832336	False
+Etymology	地名の由来	0.9054830074310303	False
+Location	地理	0.9983888864517212	False
+Location	位置	0.9971423745155334	True
+Location	概要	0.9937164187431335	False
+Location	所在地	0.9872124791145325	True
+Location	場所	0.9755892157554626	True
+Location	ストーリー	0.9469083547592163	False
+Location	アクセス	0.9366872906684875	False
+Location	駅周辺	0.9341763257980347	False
+Location	歴史	0.907885730266571	False
+Location	発見	0.8686165809631348	False
+Release	公開	0.9939852356910706	False
+Release	評価	0.992082953453064	False
+Release	リリース	0.984437882900238	True
+Release	反響	0.9773333072662354	False
+Release	反響・評価	0.9437978863716125	False
+Release	スタッフ	0.9385554790496826	False
+Release	製作	0.93288654088974	False
+Release	解説	0.9244934916496277	False
+Release	キャスト	0.9178797602653503	False
+Release	書誌情報	0.9083085060119629	False
+Early years	生い立ち	0.9982686042785645	True
+Early years	来歴	0.997067391872406	False
+Early years	略歴	0.9918544292449951	False
+Early years	プロフィール	0.9911221265792847	False
+Early years	初期の経歴	0.9910741448402405	True
+Early years	概要	0.9890880584716797	False
+Early years	経歴	0.9874148964881897	False
+Early years	生涯	0.9871231317520142	False
+Early years	初期	0.9869524240493774	False
+Early years	歴史	0.9832718968391418	False
+Music	楽曲	0.9898534417152405	False
+Music	スタッフ	0.9890056252479553	False
+Music	音楽	0.988807201385498	True
+Music	主題歌	0.9878119826316833	False
+Music	作品	0.9874119758605957	False
+Music	解説	0.9833051562309265	False
+Music	音楽作品	0.9753225445747375	False
+Music	ディスコグラフィー	0.9731876254081726	False
+Music	作風	0.9524321556091309	False
+Music	サウンドトラック	0.9521651268005371	False
+Life and career	略歴	0.9970445036888123	False
+Life and career	経歴	0.9970299005508423	False
+Life and career	生涯	0.9968100190162659	False
+Life and career	来歴	0.9968024492263794	False
+Life and career	人物	0.9890180826187134	False
+Life and career	フィルモグラフィ	0.9877289533615112	False
+Life and career	プロフィール	0.986936628818512	False
+Life and career	来歴・人物	0.9868414402008057	False
+Life and career	キャリア	0.9852212071418762	False
+Life and career	概要	0.9837772846221924	False
+Aftermath	その後	0.9979594945907593	True
+Aftermath	戦後	0.995943009853363	False
+Aftermath	影響	0.9929063320159912	False
+Aftermath	戦闘の後	0.9895673394203186	False
+Aftermath	余波	0.987929105758667	False
+Aftermath	戦いの後	0.9846855401992798	False
+Aftermath	結果	0.9777141213417053	False
+Aftermath	事故後	0.9486227035522461	False
+Aftermath	エピソード	0.9088156223297119	False
+Aftermath	選挙結果	0.8907098174095154	False
+Awards and nominations	受賞	0.9971287846565247	False
+Awards and nominations	受賞歴	0.9930944442749023	False
+Awards and nominations	キャスト	0.9924042820930481	False
+Awards and nominations	フィルモグラフィー	0.9916364550590515	False
+Awards and nominations	スタッフ	0.9907801747322083	False
+Awards and nominations	評価	0.9896931052207947	False
+Awards and nominations	来歴	0.9846084713935852	False
+Awards and nominations	出演	0.9825442433357239	False
+Awards and nominations	フィルモグラフィ	0.9819754958152771	False
+Awards and nominations	受賞とノミネート	0.9801488518714905	True
+Soundtrack	スタッフ	0.9932464361190796	False
+Soundtrack	サウンドトラック	0.9887005686759949	True
+Soundtrack	主題歌	0.9843508005142212	False
+Soundtrack	楽曲	0.9833043813705444	False
+Soundtrack	音楽	0.9802767038345337	False
+Soundtrack	映画	0.9061077833175659	False
+Soundtrack	キャスト	0.8975982666015625	False
+Soundtrack	挿入曲	0.8558185696601868	False
+Soundtrack	概要	0.838781476020813	False
+Soundtrack	主題歌・挿入歌	0.8101829290390015	False
+Politics	政治	0.996432900428772	True
+Politics	行政	0.9946657419204712	False
+Politics	地方行政区分	0.9274283647537231	False
+Politics	経歴	0.8774194121360779	False
+Politics	政治家	0.8423371315002441	False
+Politics	姉妹都市	0.7977384328842163	False
+Politics	生涯	0.7940722703933716	False
+Politics	歴史	0.7831297516822815	False
+Politics	地理	0.7825404405593872	False
+Politics	概要	0.6973841190338135	False
+Development	開発	0.9977723956108093	True
+Development	開発	0.9977723956108093	True
+Development	歴史	0.9958698153495789	False
+Development	概要	0.9944061040878296	False
+Development	沿革	0.9828699231147766	False
+Development	開発経緯	0.948095977306366	True
+Development	スタッフ	0.9440301060676575	False
+Development	開発の経緯	0.9436741471290588	False
+Development	キャスト	0.9410761594772339	False
+Development	経緯	0.9151102304458618	False
+Transportation	交通	0.9979680180549622	True
+Transportation	アクセス	0.9766784310340881	False
+Transportation	交通機関	0.9711548089981079	False
+Transportation	地理	0.9135160446166992	False
+Transportation	概要	0.8755330443382263	False
+Transportation	歴史	0.861352801322937	False
+Transportation	輸送	0.8583152890205383	True
+Transportation	経済	0.8318465948104858	False
+Transportation	地域	0.7783420085906982	False
+Transportation	主要都市	0.7483734488487244	False
+Music video	ミュージックビデオ	0.98898845911026	True
+Music video	背景	0.9761189222335815	False
+Music video	ミュージック・ビデオ	0.9662668704986572	False
+Music video	概要	0.9477951526641846	False
+Music video	プロモーション・ビデオ	0.9405085444450378	False
+Music video	制作	0.9315220713615417	False
+Music video	リリース	0.9309437274932861	False
+Music video	プロモーションビデオ	0.8879908323287964	False
+Music video	解説	0.8514619469642639	False
+Music video	プロモーション	0.8458830714225769	False
+Episodes	エピソード	0.9935590624809265	True
+Episodes	サブタイトル	0.9013970494270325	False
+Episodes	放送リスト	0.8730456233024597	False
+Episodes	内容	0.8676163554191589	False
+Episodes	製作	0.8635373115539551	False
+Episodes	エピソード一覧	0.8556763529777527	False
+Episodes	放送日程	0.8478707075119019	False
+Episodes	放映リスト	0.819772481918335	False
+Episodes	放送	0.7933465242385864	False
+Episodes	キャスト	0.7673806548118591	False
+In popular culture	その他	0.9937101602554321	False
+In popular culture	登場作品	0.9914496541023254	False
+In popular culture	備考	0.9896536469459534	False
+In popular culture	映画	0.988787829875946	False
+In popular culture	文化	0.9868680238723755	False
+In popular culture	影響	0.9702164530754089	False
+In popular culture	関連作品	0.9697701930999756	False
+In popular culture	映像化	0.9695110321044922	False
+In popular culture	大衆文化	0.96832275390625	True
+In popular culture	大衆文化の中で	0.965145468711853	False
+Deaths	死去	0.9976465106010437	True
+Deaths	忌日	0.9689526557922363	False
+Deaths	死亡	0.9644096493721008	True
+Deaths	誕生日	0.9427419900894165	False
+Deaths	人物	0.9170281887054443	False
+Deaths	主な人物	0.8865731358528137	False
+Deaths	誕生	0.8855116963386536	False
+Deaths	できごと	0.73299640417099	False
+Deaths	脚注	0.5459012985229492	False
+Deaths	参考文献	0.5005438923835754	False
+Books	著作	0.9952473044395447	False
+Books	著書	0.9933443069458008	False
+Books	書籍	0.9673610925674438	False
+Books	作品	0.9420960545539856	False
+Books	主な著書	0.9293035268783569	False
+Books	邦訳	0.7800818681716919	False
+Books	概要	0.7320343255996704	False
+Books	内容	0.6624931693077087	False
+Books	経歴	0.5212206244468689	False
+Books	参考文献	0.5035413503646851	False
+Transport	交通	0.9980364441871643	False
+Transport	地理	0.981905460357666	False
+Transport	アクセス	0.9604734778404236	False
+Transport	交通機関	0.9598439335823059	False
+Transport	地勢・産業	0.9479432106018066	False
+Transport	交通アクセス	0.9468634724617004	False
+Transport	地勢	0.9344593286514282	False
+Transport	経済と社会資本	0.9297086000442505	False
+Transport	概要	0.8666003942489624	False
+Transport	輸送	0.8411251306533813	True
+Gameplay	概要	0.994515061378479	False
+Gameplay	システム	0.9802761077880859	False
+Gameplay	キャラクター	0.9748654365539551	False
+Gameplay	ルール	0.9692549705505371	False
+Gameplay	内容	0.9649258255958557	False
+Gameplay	ストーリー	0.9448205232620239	False
+Gameplay	ゲームプレイ	0.9384578466415405	False
+Gameplay	特徴	0.9363787770271301	False
+Gameplay	コース	0.8933374285697937	False
+Gameplay	ゲーム内容	0.8382012844085693	True
+Other uses	その他	0.9782013893127441	True
+Other uses	参考文献	0.9593812227249146	False
+Other uses	一般	0.9486252665519714	False
+Other uses	企業	0.9085342884063721	False
+Other uses	人名	0.8493494391441345	False
+Other uses	関連項目	0.8475356698036194	False
+Other uses	フィクション	0.8473993539810181	False
+Other uses	地名	0.8321608304977417	False
+Other uses	艦船	0.8281534314155579	False
+Other uses	脚注	0.8264181613922119	False
+Selected filmography	フィルモグラフィー	0.9928908348083496	False
+Selected filmography	出演作品	0.9912575483322144	False
+Selected filmography	主なフィルモグラフィ	0.9908288717269897	False
+Selected filmography	経歴	0.9906344413757324	False
+Selected filmography	主な作品	0.9895104169845581	True
+Selected filmography	代表作	0.9878817796707153	False
+Selected filmography	主な出演作品	0.9857585430145264	True
+Selected filmography	フィルモグラフィ	0.9792704582214355	False
+Selected filmography	主な監督作品	0.9756287336349487	True
+Selected filmography	キャリア	0.9706175923347473	False
+Births	誕生	0.9937584400177002	True
+Births	誕生日	0.9731371998786926	False
+Births	忌日	0.9657313227653503	False
+Births	死去	0.8009756803512573	False
+Births	できごと	0.6755037903785706	False
+Births	他の紀年法	0.37669819593429565	False
+Births	記念日・年中行事	0.3714938759803772	False
+Births	出来事	0.2836294174194336	False
+Births	関連項目	0.2589588761329651	False
+Births	フィクションのできごと	0.2527567148208618	False
+Members	メンバー	0.9945366382598877	True
+Members	歴史	0.9873762130737305	False
+Members	会員	0.986158013343811	False
+Members	概要	0.9832774996757507	False
+Members	構成	0.9824747443199158	False
+Members	加盟国	0.9640402793884277	False
+Members	委員	0.961463451385498	False
+Members	活動	0.8877658843994141	False
+Members	元メンバー	0.8753259778022766	False
+Members	略歴	0.8706358075141907	False
+Notable alumni	卒業生	0.9937876462936401	False
+Notable alumni	出身者	0.9899033308029175	False
+Notable alumni	著名な卒業生	0.9853174090385437	True
+Notable alumni	主な卒業生	0.983659029006958	False
+Notable alumni	主な出身者	0.9765199422836304	False
+Notable alumni	著名な出身者	0.9635558128356934	True
+Notable alumni	出身著名人	0.9543979167938232	False
+Notable alumni	有名な卒業生	0.9389954805374146	False
+Notable alumni	大学関係者	0.9199784994125366	False
+Notable alumni	著名出身者	0.8015064597129822	False
+Release history	リリース	0.9936920404434204	False
+Release history	リリース日一覧	0.9873896837234497	False
+Release history	特徴	0.983674943447113	False
+Release history	発売日一覧	0.982632040977478	False
+Release history	リリース履歴	0.9826016426086426	True
+Release history	発売日	0.9795715808868408	False
+Release history	バージョン	0.9516243934631348	False
+Release history	各国の発売日	0.9318655729293823	False
+Release history	概要	0.8559024333953857	False
+Release history	仕様	0.8538800477981567	False
+Plot summary	あらすじ	0.994248628616333	True
+Plot summary	ストーリー	0.9941459894180298	False
+Plot summary	概要	0.9900257587432861	False
+Plot summary	内容	0.9889901876449585	False
+Plot summary	物語	0.9796852469444275	False
+Plot summary	キャスト	0.9668437242507935	False
+Plot summary	登場人物	0.859057605266571	False
+Plot summary	概説	0.6899500489234924	False
+Plot summary	構成	0.5947290658950806	False
+Plot summary	主な登場人物	0.567751944065094	False
+Statistics	決勝トーナメント	0.9902617335319519	False
+Statistics	就航路線	0.9901277422904968	False
+Statistics	統計	0.9803823232650757	True
+Statistics	個人成績	0.9802676439285278	False
+Statistics	得点ランキング	0.978919267654419	False
+Statistics	所属クラブ	0.9763289093971252	False
+Statistics	出場チーム	0.961575448513031	False
+Statistics	就航航空会社	0.9550313949584961	False
+Statistics	過去の成績	0.9541743993759155	False
+Statistics	就航航空会社と就航都市	0.9388750195503235	False
+Achievements	主な戦績	0.9955234527587891	True
+Achievements	主な実績	0.9944109320640564	False
+Achievements	実績	0.9919034838676453	True
+Achievements	業績	0.9913260340690613	False
+Achievements	タイトル	0.9900866150856018	False
+Achievements	人物	0.9885162115097046	False
+Achievements	歴史	0.986777126789093	False
+Achievements	略歴	0.9856955409049988	False
+Achievements	主な成績	0.970113217830658	False
+Achievements	経歴	0.9691276550292969	False
+Draw	シード選手	0.9846158623695374	False
+Draw	会場	0.9823050498962402	False
+Draw	ドロー表	0.9728154540061951	False
+Draw	出場チーム	0.9694134593009949	False
+Draw	概要	0.965132474899292	False
+Draw	抽選	0.9534748792648315	False
+Draw	会場一覧	0.9512020349502563	False
+Draw	予選	0.9484764337539673	False
+Draw	ドロー	0.9481399059295654	False
+Draw	結果	0.9417341351509094	False
+Characters	キャスト	0.9917954802513123	False
+Characters	登場人物	0.9915660619735718	False
+Characters	主な登場人物	0.9861688613891602	False
+Characters	キャラクター	0.9860652685165405	True
+Characters	登場キャラクター	0.9807915091514587	False
+Characters	ラジオ	0.925501823425293	False
+Characters	主題歌	0.9189494252204895	False
+Characters	特徴	0.9082761406898499	False
+Characters	概要	0.8909751176834106	False
+Characters	映画	0.8730929493904114	False
+Structure	構造	0.9982091188430786	True
+Structure	構成	0.9944313168525696	False
+Structure	機構	0.9925697445869446	False
+Structure	組織	0.9753820896148682	True
+Structure	編成	0.9688155651092529	False
+Structure	編制	0.9408265352249146	False
+Structure	学部	0.9389062523841858	False
+Structure	概要	0.9236748218536377	False
+Structure	内容	0.9163978695869446	False
+Structure	沿革	0.9019948244094849	False
+Seeds	シード選手	0.9860009551048279	True
+Seeds	シニア	0.9528641104698181	False
+Seeds	結果	0.9377301931381226	False
+Seeds	ドロー	0.8338336944580078	False
+Seeds	ドロー表	0.7707277536392212	False
+Seeds	表彰	0.4031960368156433	False
+Seeds	ジュニア	0.25890418887138367	False
+Seeds	参考文献	0.20678643882274628	False
+Seeds	脚注	0.19968357682228088	False
+Seeds	本大会	0.09578289836645126	False
+Awards and honors	受賞	0.9976175427436829	False
+Awards and honors	受賞歴	0.99418044090271	True
+Awards and honors	評価	0.9922624826431274	False
+Awards and honors	スタッフ	0.9916914701461792	False
+Awards and honors	栄誉	0.9870738983154297	False
+Awards and honors	主な受賞歴	0.9860156774520874	False
+Awards and honors	受賞とノミネート	0.9743209481239319	False
+Awards and honors	受賞など	0.9672182202339172	False
+Awards and honors	作品	0.9627884030342102	False
+Awards and honors	歴史	0.9515026211738586	False
+Climate	気候	0.9984209537506104	True
+Climate	地理	0.8393071293830872	False
+Climate	地理・気候	0.7875850200653076	False
+Climate	歴史	0.6840685606002808	False
+Climate	概要	0.66346275806427	False
+Climate	自然	0.5690340399742126	False
+Climate	医療	0.558197021484375	False
+Climate	交通	0.475313276052475	False
+Climate	経済	0.4009692072868347	False
+Climate	教育	0.3237136900424957	False
+Architecture	建築	0.9964123368263245	True
+Architecture	構成	0.9912632703781128	False
+Architecture	アーキテクチャ	0.9905952215194702	False
+Architecture	伽藍	0.984325647354126	False
+Architecture	構造	0.9824845194816589	False
+Architecture	仕様	0.9693543910980225	False
+Architecture	特徴	0.9686398506164551	False
+Architecture	建物	0.9657819271087646	False
+Architecture	詳細	0.9623693823814392	False
+Architecture	観光	0.9558770656585693	False
+Design	設計	0.9959267973899841	True
+Design	概要	0.9901302456855774	False
+Design	特徴	0.987720787525177	False
+Design	デザイン	0.9874457120895386	True
+Design	経緯	0.9613184332847595	False
+Design	仕様	0.953012228012085	False
+Design	構造	0.9484425187110901	False
+Design	装備	0.9323550462722778	False
+Design	開発	0.9111953973770142	False
+Design	歴史	0.9056177735328674	False
+Literature	文献	0.9929227828979492	True
+Literature	参考文献	0.992626965045929	False
+Literature	文学	0.9858960509300232	False
+Literature	出典	0.9846888780593872	False
+Literature	脚注	0.9820998907089233	False
+Literature	人物	0.9459728598594666	False
+Literature	文化	0.9219673275947571	False
+Literature	参考資料	0.8702718019485474	False
+Literature	経歴	0.8494221568107605	False
+Literature	参考	0.8380639553070068	False
+Taxonomy	分類	0.9916421175003052	True
+Taxonomy	発見	0.9776696562767029	False
+Taxonomy	種	0.9702006578445435	False
+Taxonomy	系統	0.9692608118057251	False
+Taxonomy	分類学	0.9324991703033447	False
+Taxonomy	分布	0.9054731130599976	False
+Taxonomy	亜種	0.9051526188850403	False
+Taxonomy	下位分類	0.8885228037834167	False
+Taxonomy	特徴	0.8677887320518494	False
+Taxonomy	概要	0.8634759783744812	False
+Medalists	概要	0.9954584836959839	False
+Medalists	メダル獲得者	0.9886651039123535	True
+Medalists	メダル	0.9823020696640015	False
+Medalists	メダリスト	0.972255289554596	False
+Medalists	水泳	0.9589233994483948	False
+Medalists	競技結果	0.9136625528335571	False
+Medalists	選手団	0.9130424857139587	False
+Medalists	結果	0.8824505805969238	False
+Medalists	男子	0.8597551584243774	False
+Medalists	大会結果	0.791401207447052	False
+Teams	概要	0.9965219497680664	False
+Teams	歴史	0.9947117567062378	False
+Teams	参加チーム	0.9940357208251953	False
+Teams	出場チーム	0.9924136996269226	False
+Teams	チーム	0.9801344275474548	True
+Teams	出場国	0.9741958975791931	False
+Teams	予選	0.965285062789917	False
+Teams	参加クラブ	0.9625422954559326	False
+Teams	1回戦	0.9614469408988953	False
+Teams	出場クラブ	0.9433032274246216	False
+Sports	スポーツ	0.993098795413971	True
+Sports	文化	0.9777942299842834	False
+Sports	実施競技	0.949720025062561	False
+Sports	交通	0.8753859400749207	False
+Sports	著名人	0.8614047765731812	False
+Sports	歴史	0.7727687358856201	False
+Sports	教育	0.7444051504135132	False
+Sports	概要	0.721855640411377	False
+Sports	経済	0.7145818471908569	False
+Sports	観光	0.6893773078918457	False
+Other	その他	0.9880601763725281	True
+Other	参考文献	0.9566081762313843	False
+Other	文化	0.9217050075531006	False
+Other	関連項目	0.8126214742660522	False
+Other	組織	0.8050400018692017	False
+Other	地名	0.7795904278755188	False
+Other	人名	0.7665920257568359	False
+Other	人物以外	0.7650183439254761	False
+Other	教育	0.7540861368179321	False
+Other	脚注	0.7218914031982422	False
+Facilities	施設	0.9838817119598389	False
+Facilities	施設概要	0.9791141152381897	False
+Facilities	概要	0.9297811388969421	False
+Facilities	歴史	0.8467293977737427	False
+Facilities	特徴	0.826012372970581	False
+Facilities	役割	0.817543089389801	False
+Facilities	主な就航航空会社	0.8061981797218323	False
+Facilities	交通	0.7124674320220947	False
+Facilities	建物	0.654101550579071	False
+Facilities	ターミナル	0.6310176849365234	False
+Features	特徴	0.9968600273132324	True
+Features	機能	0.9964314699172974	False
+Features	概要	0.9844154715538025	False
+Features	詳細	0.9772047400474548	False
+Features	仕様	0.9743345379829407	False
+Features	特長	0.9685057401657104	False
+Features	主な天体	0.9601303339004517	False
+Features	連載作品	0.9405285716056824	False
+Features	歴史	0.9101305603981018	False
+Features	新機能	0.8937333226203918	False
+Election results	選挙結果	0.9866117238998413	True
+Election results	歴史	0.9760552048683167	False
+Election results	年表	0.955729603767395	False
+Election results	沿革	0.9484667778015137	False
+Election results	党勢	0.9098603129386902	False
+Election results	概要	0.8986226916313171	False
+Election results	略史	0.8896578550338745	False
+Election results	役職	0.8896532654762268	False
+Election results	選挙における党勢推移	0.8671412467956543	False
+Election results	党勢の推移	0.781126856803894	False
+Work	作品	0.9947683811187744	False
+Work	業績	0.994738757610321	False
+Work	研究	0.9889594316482544	False
+Work	略歴	0.9800550937652588	False
+Work	代表作	0.9762271046638489	False
+Work	作風	0.973734974861145	False
+Work	思想	0.9722899198532104	False
+Work	主な作品	0.9709514379501343	False
+Work	経歴	0.9677096009254456	False
+Work	主な出演作品	0.9673083424568176	False
+Personal	家族	0.996414303779602	False
+Personal	私生活	0.9960038065910339	False
+Personal	個人	0.9916267395019531	False
+Personal	人物	0.9889230728149414	False
+Personal	その他	0.9573744535446167	False
+Personal	エピソード	0.9223859906196594	False
+Personal	生い立ち	0.910975456237793	False
+Personal	教育	0.8611003756523132	False
+Personal	人物・エピソード	0.7841206192970276	False
+Personal	自己ベスト	0.7070222496986389	False
+Singles	シングル	0.9982663989067078	True
+Singles	アルバム	0.9939433932304382	False
+Singles	ディスコグラフィ	0.9904816746711731	False
+Singles	ディスコグラフィー	0.9738019108772278	False
+Singles	収録曲	0.9600569605827332	False
+Singles	概要	0.9475420713424683	False
+Singles	略歴	0.9342640042304993	False
+Singles	トラックリスト	0.8606152534484863	False
+Singles	リリース	0.7878180742263794	False
+Singles	4大大会シングルス成績	0.7522739171981812	True
+Records	記録	0.9976391792297363	True
+Records	クラブ各種記録	0.9739718437194824	False
+Records	戦績	0.9693459272384644	False
+Records	入場者数	0.9592387676239014	False
+Records	歴代優勝クラブ	0.9569324851036072	False
+Records	世界記録	0.949877142906189	False
+Records	競技結果	0.9452741742134094	False
+Records	選手	0.9370911121368408	False
+Records	統計	0.9265832901000977	False
+Records	クラブ別優勝回数	0.9237208366394043	False
+Culture	文化	0.9949226975440979	True
+Culture	言語	0.9696191549301147	False
+Culture	人物	0.9238697290420532	False
+Culture	歴史	0.9058296084403992	False
+Culture	音楽	0.8868550658226013	False
+Culture	文化・観光	0.8676308393478394	False
+Culture	地理	0.8355070948600769	False
+Culture	芸術・文化	0.7982617020606995	False
+Culture	交通	0.7959267497062683	False
+Culture	スポーツ	0.7947546243667603	False
+Selected works	著作	0.994986891746521	False
+Selected works	作品	0.9941278696060181	False
+Selected works	代表作	0.9895414710044861	False
+Selected works	主な著作	0.989001989364624	False
+Selected works	主要作品	0.9841246008872986	False
+Selected works	著書	0.9832845330238342	False
+Selected works	主な作品	0.977570652961731	True
+Selected works	翻訳	0.975411057472229	False
+Selected works	作品リスト	0.9751085042953491	False
+Selected works	コレクション	0.9674863815307617	False
+Early career	生い立ち	0.9955679774284363	False
+Early career	来歴	0.9941243529319763	False
+Early career	初期の経歴	0.9929906129837036	True
+Early career	経歴	0.9913185834884644	False
+Early career	略歴	0.98847496509552	False
+Early career	プロフィール	0.9834339618682861	False
+Early career	生涯	0.9769430160522461	False
+Early career	年譜	0.9735963940620422	False
+Early career	人物	0.9714903235435486	False
+Early career	初期	0.9652381539344788	False
+Variants	派生型	0.9953718781471252	False
+Variants	各型	0.9916107058525085	False
+Variants	バリエーション	0.988289475440979	True
+Variants	形式	0.9800654053688049	False
+Variants	運用	0.974922776222229	False
+Variants	スペック	0.9704885482788086	False
+Variants	型式	0.9644794464111328	False
+Variants	搭載機	0.9605359435081482	False
+Variants	種類	0.9576700329780579	False
+Variants	要目	0.9555237293243408	False
+Name	名称	0.9975830316543579	True
+Name	名前	0.9972831010818481	True
+Name	由来	0.9940705895423889	False
+Name	呼称	0.9916752576828003	False
+Name	語源	0.9911966323852539	False
+Name	地名	0.9689537882804871	False
+Name	概説	0.9631548523902893	False
+Name	名称の由来	0.9569455981254578	False
+Name	国名	0.9430140852928162	False
+Name	名前の由来	0.934695839881897	False
+Media	主題歌	0.9927418231964111	False
+Media	スタッフ	0.990766167640686	False
+Media	メディア	0.9893689751625061	True
+Media	OVA	0.9875164031982422	False
+Media	漫画	0.982055127620697	False
+Media	概要	0.9800357222557068	False
+Media	テレビアニメ	0.975679337978363	False
+Media	アニメ	0.9743311405181885	False
+Media	ゲーム	0.9738300442695618	False
+Media	書誌情報	0.9607988595962524	False
+Coaching career	所属クラブ	0.9939443469047546	False
+Coaching career	略歴	0.992327868938446	False
+Coaching career	経歴	0.9920177459716797	False
+Coaching career	来歴	0.9909358620643616	False
+Coaching career	引退後	0.9864006042480469	False
+Coaching career	監督成績	0.9767931699752808	False
+Coaching career	指導歴	0.9765299558639526	True
+Coaching career	監督経歴	0.9735855460166931	False
+Coaching career	監督歴	0.957991898059845	False
+Coaching career	タイトル	0.9339797496795654	False
+Early life and career	来歴	0.9974552989006042	False
+Early life and career	概要	0.996799111366272	False
+Early life and career	生い立ち	0.9953189492225647	False
+Early life and career	プロフィール	0.9951881170272827	False
+Early life and career	経歴	0.9948581457138062	False
+Early life and career	略歴	0.9937585592269897	False
+Early life and career	初期の経歴	0.9899946451187134	True
+Early life and career	生い立ちと初期の経歴	0.9849995970726013	False
+Early life and career	キャリア	0.9834834337234497	False
+Early life and career	生涯	0.9823198914527893	False
+Honors	タイトル	0.9964423775672913	False
+Honors	栄誉	0.9955831170082092	False
+Honors	受賞歴	0.9937601685523987	True
+Honors	受賞	0.9934585690498352	False
+Honors	賞	0.9923001527786255	False
+Honors	栄典	0.9913023710250854	False
+Honors	獲得タイトル	0.9887043833732605	False
+Honors	命名	0.9860067367553711	False
+Honors	評価	0.9740346074104309	False
+Honors	名誉	0.9718785285949707	False
+Winners	受賞者	0.9935762286186218	False
+Winners	歴代優勝者	0.989984393119812	True
+Winners	受賞	0.985672116279602	False
+Winners	歴代受賞者	0.9785222411155701	False
+Winners	受賞者一覧	0.9780673384666443	False
+Winners	歴史	0.9761389493942261	False
+Winners	受賞作一覧	0.9601360559463501	False
+Winners	結果	0.9429156184196472	False
+Winners	歴代優勝クラブ	0.9260151386260986	True
+Winners	クラブ別優勝回数	0.909091591835022	False
+Composition	解説	0.988958477973938	False
+Composition	構成	0.9877602458000183	False
+Composition	概要	0.987220287322998	False
+Composition	組成	0.9858637452125549	False
+Composition	作曲の経緯	0.9829097390174866	False
+Composition	経緯	0.9745426774024963	False
+Composition	成分	0.9723657369613647	False
+Composition	背景	0.9675995111465454	False
+Composition	歴史	0.9563277959823608	False
+Composition	制作	0.9428388476371765	False
+Administration	行政	0.9968131184577942	True
+Administration	政治	0.9881601333618164	False
+Administration	行政区画	0.9776681661605835	False
+Administration	行政区分	0.9750038981437683	False
+Administration	主要都市	0.9706154465675354	False
+Administration	地域	0.9567732214927673	False
+Administration	現況	0.8933629989624023	False
+Administration	行政区	0.8712400794029236	False
+Administration	歴史	0.8501054048538208	False
+Administration	行政区域	0.8376320600509644	False
+Controversy	論争	0.9905009269714355	False
+Controversy	議論	0.9849271774291992	False
+Controversy	エピソード	0.9819195866584778	False
+Controversy	批判	0.9791085124015808	False
+Controversy	事件	0.9397347569465637	False
+Controversy	影響	0.933523952960968	False
+Controversy	発言	0.8204822540283203	False
+Controversy	キャスト	0.708284318447113	False
+Controversy	製作	0.671438992023468	False
+Controversy	概要	0.6348066329956055	False
+Services	路線	0.9931383728981018	False
+Services	就航路線	0.9842336773872375	False
+Services	就航都市	0.9739871025085449	False
+Services	サービス	0.9737170934677124	True
+Services	運行形態	0.9598050713539124	False
+Services	概要	0.9595696926116943	False
+Services	事業内容	0.958573579788208	False
+Services	隣の駅	0.8754631876945496	False
+Services	歴史	0.8447871804237366	False
+Services	沿革	0.8335966467857361	False
+Government	政治	0.996826171875	False
+Government	行政	0.9900208711624146	True
+Government	市政府	0.9757694602012634	False
+Government	政府	0.9550986886024475	False
+Government	郡政府	0.9273808002471924	False
+Government	町政府	0.889130711555481	False
+Government	経済	0.8308915495872498	False
+Government	行政区画	0.830112099647522	False
+Government	地区	0.8247736096382141	False
+Government	地方行政区画	0.8146543502807617	False
+Origins	起源	0.9983115196228027	True
+Origins	背景	0.9964779019355774	False
+Origins	概要	0.9963828325271606	False
+Origins	由来	0.9911627769470215	False
+Origins	歴史	0.9859127402305603	False
+Origins	沿革	0.9854341745376587	False
+Origins	経緯	0.9848308563232422	False
+Origins	概説	0.9845412969589233	False
+Origins	語源	0.9795712232589722	False
+Origins	発端	0.9765189290046692	False
+Examples	例	0.9975932240486145	True
+Examples	実例	0.9887126684188843	False
+Examples	種類	0.9851039052009583	False
+Examples	具体例	0.979464590549469	False
+Examples	性質	0.9636446833610535	False
+Examples	事例	0.960302472114563	False
+Examples	使用例	0.887772262096405	True
+Examples	代表例	0.8811513185501099	False
+Examples	証明	0.8652186393737793	False
+Examples	Examples	0.8160765767097473	False
+Format	フォーマット	0.9938915967941284	False
+Format	概要	0.9932386875152588	False
+Format	形式	0.9880005717277527	True
+Format	大会方式	0.9802784323692322	False
+Format	内容	0.9745154976844788	False
+Format	統計	0.9738826155662537	False
+Format	大会形式	0.9656572937965393	False
+Format	開催方式	0.9277849197387695	False
+Format	表彰	0.9231205582618713	False
+Format	歴史	0.9002525210380554	False
+Research	研究	0.9917900562286377	True
+Research	業績	0.9874237179756165	False
+Research	人物	0.9515880942344666	False
+Research	臨床試験	0.919522225856781	False
+Research	概要	0.6861841082572937	False
+Research	略歴	0.6642542481422424	False
+Research	歴史	0.6120308637619019	False
+Research	経歴	0.5768334269523621	False
+Research	研究開発	0.5263521671295166	False
+Research	副作用	0.4133332073688507	False
+Selected publications	主な著作	0.9887109398841858	True
+Selected publications	主な著書	0.9866595268249512	False
+Selected publications	受賞	0.9125860929489136	False
+Selected publications	著作	0.8864700198173523	False
+Selected publications	著書	0.8730992078781128	False
+Selected publications	出版物	0.8395445346832275	False
+Selected publications	業績	0.7232804894447327	False
+Selected publications	参考文献	0.7177698612213135	False
+Selected publications	脚注	0.6705772280693054	False
+Selected publications	代表的著作	0.6218357682228088	False
+Summary	概要	0.9936630725860596	True
+Summary	あらすじ	0.9904568791389465	False
+Summary	内容	0.9890401363372803	False
+Summary	構成	0.9786660671234131	False
+Summary	解説	0.9771512746810913	False
+Summary	予選	0.9702168107032776	False
+Summary	キャスト	0.9675219655036926	False
+Summary	概説	0.9671880006790161	False
+Summary	経緯	0.9392099380493164	False
+Summary	背景	0.9346367716789246	False
+Ecology	生態	0.9900602102279663	True
+Ecology	生態系	0.9825100302696228	False
+Ecology	亜種	0.9687184691429138	False
+Ecology	環境	0.9425623416900635	False
+Ecology	生物	0.9406179785728455	False
+Ecology	自然	0.9359992742538452	False
+Ecology	分類	0.9104838371276855	False
+Ecology	生態学	0.8781753182411194	False
+Ecology	分布	0.83286452293396	False
+Ecology	概要	0.7658019065856934	False
+Subspecies	分布	0.9820227026939392	False
+Subspecies	亜種	0.93027263879776	True
+Subspecies	分類	0.5864892601966858	False
+Subspecies	特徴	0.47081315517425537	False
+Subspecies	生態	0.4028954803943634	False
+Subspecies	形態	0.313691645860672	False
+Subspecies	参考文献	0.24733418226242065	False
+Subspecies	人間との関係	0.23342527449131012	False
+Subspecies	画像	0.22738151252269745	False
+Subspecies	名称	0.1983228623867035	False
+Publication history	歴史	0.9908215999603271	False
+Publication history	背景	0.9637355804443359	False
+Publication history	概要	0.9321563243865967	False
+Publication history	人物	0.9267066717147827	False
+Publication history	出版履歴	0.9127451181411743	False
+Publication history	出版上の歴史	0.8854355216026306	False
+Publication history	出版史	0.8625553846359253	False
+Publication history	評価	0.8447936177253723	False
+Publication history	解題	0.8392234444618225	False
+Publication history	単行本	0.8290300965309143	False
+Construction	建造	0.9919711351394653	False
+Construction	構造	0.9919061660766602	False
+Construction	建設	0.9870772361755371	False
+Construction	構成	0.9863872528076172	False
+Construction	計画	0.9839028120040894	False
+Construction	製造	0.9714232683181763	False
+Construction	沿革	0.9548102021217346	False
+Construction	概要	0.9388397336006165	False
+Construction	歴史	0.9369924664497375	False
+Construction	建築	0.8937563896179199	True
+Uses	用途	0.9967032074928284	True
+Uses	利用	0.9942622184753418	False
+Uses	使用	0.9881072640419006	False
+Uses	分類	0.9705410003662109	False
+Uses	応用	0.9560267329216003	False
+Uses	使用例	0.9547752737998962	False
+Uses	主な種	0.9042784571647644	False
+Uses	下位分類	0.8813117146492004	False
+Uses	近縁種	0.8586058020591736	False
+Uses	効能・効果	0.8275205492973328	False
+Players	現所属メンバー	0.9873857498168945	False
+Players	選手	0.9843605160713196	True
+Players	戦績	0.9637553095817566	False
+Players	主な選手	0.9359965324401855	False
+Players	栄誉	0.9332981705665588	False
+Players	記録	0.9205284118652344	False
+Players	歴史	0.8814616799354553	False
+Players	所属メンバー	0.8791937232017517	False
+Players	歴代優勝クラブ	0.7947770357131958	False
+Players	概要	0.758262574672699	False
+Television	テレビ	0.987966001033783	True
+Television	テレビ番組	0.983829915523529	False
+Television	出演作品	0.9439813494682312	False
+Television	キャスト	0.9420055150985718	False
+Television	フィルモグラフィー	0.9124755859375	False
+Television	主な出演作品	0.8962180614471436	False
+Television	略歴	0.8297376036643982	False
+Television	フィルモグラフィ	0.7904611825942993	False
+Television	経歴	0.7880027890205383	False
+Television	出演	0.7878719568252563	False
+Function	機能	0.9962390661239624	True
+Function	役割	0.910663902759552	False
+Function	概要	0.9037601947784424	False
+Function	構造	0.8963568210601807	False
+Function	経緯	0.6851750612258911	False
+Function	歴史	0.684541642665863	False
+Function	呼称	0.6025165915489197	False
+Function	発見	0.5980855226516724	False
+Function	歴史的経緯	0.5910423994064331	False
+Function	解説	0.5421845316886902	False
+Schools	教育	0.9435737133026123	False
+Schools	学校	0.925493061542511	True
+Schools	由来	0.8890560269355774	False
+Schools	その他	0.786939799785614	False
+Schools	概要	0.4615136682987213	False
+Schools	概説	0.4310787618160248	False
+Schools	歴史	0.37260690331459045	False
+Schools	人口動勢	0.31554093956947327	False
+Schools	姓	0.2228248119354248	False
+Schools	姉妹都市・提携都市	0.21848125755786896	False
+Criticism	批判	0.996353030204773	False
+Criticism	評価	0.984002411365509	False
+Criticism	批評	0.9822205901145935	True
+Criticism	論争	0.8480638265609741	False
+Criticism	備考	0.7930057048797607	False
+Criticism	活動内容	0.765093207359314	False
+Criticism	経緯	0.7555343508720398	False
+Criticism	参考文献	0.7398597002029419	False
+Criticism	概要	0.6508637070655823	False
+Criticism	歴史	0.6120308637619019	False
+Religion	宗教	0.9967965483665466	True
+Religion	信仰	0.9708179831504822	False
+Religion	住民	0.9534209966659546	False
+Religion	文化	0.9259356260299683	False
+Religion	観光地	0.7955229878425598	False
+Religion	観光	0.7861160039901733	False
+Religion	概要	0.7313558459281921	False
+Religion	地理	0.7156242728233337	False
+Religion	歴史	0.7039811015129089	False
+Religion	統計	0.6401500701904297	False
+Classification	予選	0.9953442215919495	False
+Classification	分類	0.9937916398048401	True
+Classification	概要	0.9884399175643921	False
+Classification	エントリーリスト	0.9878166317939758	False
+Classification	結果	0.9844372272491455	False
+Classification	系統	0.9831353425979614	False
+Classification	レース概要	0.9632807374000549	False
+Classification	種類	0.9566769003868103	False
+Classification	決勝	0.9255821108818054	False
+Classification	種	0.9097514748573303	False
+Station layout	概要	0.9957192540168762	False
+Station layout	駅構造	0.9907700419425964	True
+Station layout	乗り入れ路線	0.9674256443977356	False
+Station layout	歴史	0.9564328789710999	False
+Station layout	利用可能な鉄道路線	0.9427715539932251	False
+Station layout	その他	0.49493780732154846	False
+Station layout	配置	0.37649470567703247	False
+Station layout	脚注	0.35158857703208923	False
+Station layout	出典	0.3448563516139984	False
+Station layout	駅周辺	0.313393235206604	False
+Characteristics	特徴	0.997509241104126	True
+Characteristics	性質	0.9903098940849304	False
+Characteristics	概要	0.980180561542511	False
+Characteristics	特性	0.9762945771217346	False
+Characteristics	種類	0.9708607792854309	False
+Characteristics	特色	0.9493602514266968	False
+Characteristics	物理的性質	0.93730229139328	False
+Characteristics	地理	0.9264532327651978	False
+Characteristics	軌道の性質	0.9121429920196533	False
+Characteristics	歴史	0.8776425123214722	False
+Products	製品	0.9981638789176941	False
+Products	主な製品	0.9819621443748474	True
+Products	ラインナップ	0.9801401495933533	False
+Products	事業内容	0.9760122895240784	False
+Products	機種	0.9696789383888245	False
+Products	種類	0.9644030332565308	False
+Products	車種	0.9618858098983765	False
+Products	製品一覧	0.9551786184310913	False
+Products	車種一覧	0.9473971724510193	False
+Products	開発タイトル	0.9191836714744568	False
+Activities	活動	0.9951350092887878	True
+Activities	略歴	0.9308407306671143	False
+Activities	主な活動	0.9075965285301208	True
+Activities	経歴	0.8129927515983582	False
+Activities	歴史	0.8124568462371826	False
+Activities	沿革	0.7497068643569946	False
+Activities	概要	0.7325493097305298	False
+Activities	構成	0.5939612984657288	False
+Activities	日本	0.3737710416316986	False
+Activities	賞	0.29962000250816345	False
+Champions	大会経過	0.978630006313324	False
+Champions	歴代優勝クラブ	0.9605677127838135	True
+Champions	準決勝	0.9443531632423401	False
+Champions	歴史	0.9436934590339661	False
+Champions	シニア	0.9406260251998901	False
+Champions	決勝	0.9275349974632263	False
+Champions	歴代大会結果	0.9204607605934143	False
+Champions	優勝者	0.9130653738975525	False
+Champions	統計	0.9094623923301697	False
+Champions	歴代チャンピオン	0.9079661965370178	False
+Notable residents	出身者	0.9925841093063354	False
+Notable residents	人物	0.9892997741699219	False
+Notable residents	著名な出身者	0.9861820936203003	False
+Notable residents	出身人物	0.9836591482162476	False
+Notable residents	主な出身者	0.983431875705719	True
+Notable residents	著名人	0.9773993492126465	False
+Notable residents	ゆかりの人物	0.9757338166236877	False
+Notable residents	出身有名人	0.9655237197875977	False
+Notable residents	著名な住人	0.9507918357849121	False
+Notable residents	関係者	0.9490953683853149	False
+Content	内容	0.9968165755271912	True
+Content	解説	0.9907496571540833	False
+Content	概要	0.9906489253044128	False
+Content	背景	0.9892454147338867	False
+Content	構成	0.9853524565696716	False
+Content	コンテンツ	0.9645385146141052	False
+Content	評価	0.9144065976142883	False
+Content	特徴	0.8144699335098267	False
+Content	キャスト	0.796014130115509	False
+Content	経緯	0.73734450340271	False
+Citations	脚注	0.9964559674263	False
+Citations	参考文献	0.9947496056556702	False
+Citations	出典	0.973491907119751	False
+Citations	外部リンク	0.8874319791793823	False
+Citations	関連項目	0.4145272970199585	False
+Citations	引用	0.3894069790840149	True
+Citations	備考	0.36517533659935	False
+Citations	日本語訳	0.19356566667556763	False
+Citations	関連作品	0.18421563506126404	False
+Citations	フィクション	0.1840614676475525	False
+Specifications	仕様	0.9973251819610596	False
+Specifications	性能	0.9924688935279846	False
+Specifications	要目	0.9915177226066589	False
+Specifications	諸元	0.9905879497528076	False
+Specifications	スペック	0.9891953468322754	False
+Specifications	バリエーション	0.9798339009284973	False
+Specifications	主要諸元	0.978700578212738	False
+Specifications	メカニズム	0.9743372201919556	False
+Specifications	特徴	0.9666088819503784	False
+Specifications	構成	0.9529838562011719	False
+Recognition	受賞	0.996134877204895	False
+Recognition	栄典	0.9928767085075378	False
+Recognition	栄誉	0.9907515048980713	False
+Recognition	受賞歴	0.9899154901504517	False
+Recognition	評価	0.9889877438545227	False
+Recognition	表彰	0.957136332988739	True
+Recognition	業績	0.9457851052284241	False
+Recognition	エピソード	0.939869225025177	False
+Recognition	学術賞	0.9161383509635925	False
+Recognition	略歴	0.9043083190917969	False
+Design and development	設計と開発	0.9975525736808777	True
+Design and development	概要	0.9973633885383606	False
+Design and development	概略	0.9903546571731567	False
+Design and development	歴史	0.9892430305480957	False
+Design and development	来歴	0.9891111254692078	False
+Design and development	開発	0.9887203574180603	False
+Design and development	経緯	0.9816957712173462	False
+Design and development	特徴	0.9730525016784668	False
+Design and development	開発経緯	0.9716020226478577	False
+Design and development	背景	0.9695502519607544	False
+Sport	スポーツ	0.9968875050544739	True
+Sport	文化と見所	0.9428084492683411	False
+Sport	文化	0.9134241342544556	False
+Sport	人物	0.7856149673461914	False
+Sport	その他	0.778044581413269	False
+Sport	観光	0.7686445116996765	False
+Sport	地理	0.7193354964256287	False
+Sport	歴史	0.7166686058044434	False
+Sport	関連事項	0.6480284929275513	False
+Sport	交通	0.6345077753067017	False
+Organization	組織	0.992664098739624	True
+Organization	機構	0.9923418760299683	False
+Organization	編成	0.9904384016990662	False
+Organization	構成	0.9845051169395447	False
+Organization	編制	0.984406590461731	False
+Organization	概要	0.973640501499176	False
+Organization	歴史	0.9191496968269348	False
+Organization	沿革	0.9118456840515137	False
+Organization	略史	0.8964480757713318	False
+Organization	施設	0.8958213329315186	False
+Operations	路線	0.9935470223426819	False
+Operations	運営	0.9874611496925354	True
+Operations	事業	0.9734479784965515	False
+Operations	運用	0.971209704875946	False
+Operations	就航路線	0.9704980850219727	False
+Operations	概要	0.9692193269729614	False
+Operations	事業内容	0.9676733016967773	False
+Operations	業務	0.9605937600135803	False
+Operations	作戦	0.9563195109367371	False
+Operations	操作	0.9513629674911499	False
+Demography	住民	0.9875031113624573	False
+Demography	人口	0.9865036010742188	False
+Demography	統計	0.9822441935539246	False
+Demography	人口動態	0.9805808067321777	False
+Demography	人口統計	0.9718406796455383	True
+Demography	行政区画	0.9314646124839783	False
+Demography	概要	0.85402911901474	False
+Demography	歴史	0.8424919247627258	False
+Demography	主要都市	0.8272721767425537	False
+Demography	行政区分	0.8246341943740845	False
+Standings	順位表	0.9610694050788879	True
+Standings	最終成績	0.9436833262443542	False
+Standings	日程	0.9429339170455933	False
+Standings	出場チーム	0.936439573764801	False
+Standings	試合結果	0.9324841499328613	False
+Standings	エントリーリスト	0.9297475218772888	False
+Standings	歴史	0.9141393303871155	False
+Standings	参加チーム	0.9054358601570129	False
+Standings	結果	0.8863313794136047	False
+Standings	最終順位	0.8023963570594788	False
+Maps	関連項目	0.6980214715003967	False
+Maps	出典	0.6662822365760803	False
+Maps	参考文献	0.5991498827934265	False
+Maps	地形	0.5585694313049316	False
+Maps	外部リンク	0.4449383020401001	False
+Maps	地図	0.4109882116317749	True
+Maps	脚注	0.40168139338493347	False
+Maps	ゆかりの人物	0.2756972014904022	False
+Maps	世界遺産	0.19752033054828644	False
+Maps	交通	0.1926136463880539	False
+Contents	内容	0.9948440790176392	True
+Contents	構成	0.980169951915741	False
+Contents	概要	0.9791638255119324	False
+Contents	成立	0.9145127534866333	False
+Contents	評価	0.8986653685569763	False
+Contents	要約	0.8358003497123718	False
+Contents	収録作品	0.8273364901542664	False
+Contents	収録内容	0.746261715888977	False
+Contents	構造	0.6703855395317078	False
+Contents	経緯	0.6162316203117371	False
+Origin	起源	0.9986547231674194	True
+Origin	語源	0.995941698551178	False
+Origin	歴史	0.9957534074783325	False
+Origin	背景	0.9954861998558044	False
+Origin	概要	0.9945237636566162	False
+Origin	由来	0.9944862723350525	False
+Origin	発祥	0.9854126572608948	False
+Origin	来歴	0.9836770296096802	False
+Origin	分布	0.9771461486816406	False
+Origin	解説	0.9682121872901917	False
+Habitat	分布	0.9866327047348022	False
+Habitat	生態	0.9167556762695312	False
+Habitat	ギャラリー	0.8884177207946777	False
+Habitat	種	0.8844900727272034	False
+Habitat	生息地	0.8253004550933838	True
+Habitat	分類	0.8121263384819031	False
+Habitat	利用	0.5730475783348083	False
+Habitat	特徴	0.5389657616615295	False
+Habitat	形態	0.49053558707237244	False
+Habitat	概要	0.481626033782959	False
+Exhibitions	展示	0.9883103370666504	False
+Exhibitions	展覧会	0.9491029977798462	False
+Exhibitions	作品	0.925914466381073	False
+Exhibitions	主な展覧会	0.8563763499259949	False
+Exhibitions	代表作	0.8382938504219055	False
+Exhibitions	歴史	0.7849370241165161	False
+Exhibitions	ギャラリー	0.49343040585517883	False
+Exhibitions	略歴	0.4583558142185211	False
+Exhibitions	概要	0.4367513060569763	False
+Exhibitions	コレクション	0.42321616411209106	False
+Service	戦歴	0.9940223097801208	False
+Competitions	大会	0.9884181618690491	True
+Service	概要	0.9876019358634949	False
+Service	路線	0.9802618026733398	False
+Service	サービス	0.9681803584098816	True
+Competitions	大会一覧	0.9654632806777954	False
+Service	運用	0.9642372131347656	False
+Service	艦歴	0.9641815423965454	False
+Competitions	主催大会	0.9569472074508667	False
+Competitions	概要	0.9563565850257874	False
+Competitions	過去の成績	0.9547569155693054	False
+Service	歴史	0.9330968856811523	False
+Competitions	タイトル	0.9153029918670654	False
+Competitions	主な国際大会成績	0.8213791251182556	False
+Service	バリエーション	0.7958714962005615	False
+Service	使用国	0.6276238560676575	False
+Service	設計	0.5816980600357056	False
+Competitions	歴史	0.5752063393592834	False
+Competitions	主な成績	0.530875563621521	False
+Competitions	ルール	0.5008229613304138	False
+Definition	定義	0.9985707998275757	True
+Definition	概要	0.9907861948013306	False
+Definition	分類	0.9525118470191956	False
+Definition	導入	0.9181072115898132	False
+Definition	概説	0.8784075975418091	False
+Definition	特徴	0.8533849716186523	False
+Definition	性質	0.8401840329170227	False
+Definition	歴史	0.8244045972824097	False
+Definition	Examples	0.8233256936073303	False
+Definition	Definition	0.8082932233810425	False
+Communities	都市	0.9583007097244263	False
+Communities	コミュニティ	0.9313643574714661	True
+Communities	市町村	0.9089969396591187	False
+Communities	自治体	0.8956639170646667	False
+Communities	都市と町	0.89308100938797	False
+Communities	地理	0.8865613341331482	False
+Communities	統計上処理される自治体	0.7687652707099915	False
+Communities	歴史	0.7665826082229614	False
+Communities	行政区分	0.747737467288971	False
+Communities	都市及び町	0.7102839946746826	False
+Controversies	論争	0.9823440313339233	True
+Controversies	批判	0.9763502478599548	False
+Controversies	評価	0.953158438205719	False
+Controversies	議論	0.8931886553764343	False
+Controversies	エピソード	0.8200511336326599	False
+Controversies	騒動	0.6660770773887634	False
+Controversies	結果	0.43000155687332153	False
+Controversies	紛争	0.4278614819049835	False
+Controversies	キャスト	0.33751118183135986	False
+Controversies	略歴	0.33485108613967896	False
+Programs	プログラム	0.9820688366889954	True
+Programs	プログラム使用曲	0.9656643867492676	False
+Programs	経歴	0.8532491326332092	False
+Programs	人物	0.8046728372573853	False
+Programs	歴史	0.7172417044639587	False
+Programs	制作番組	0.6736263036727905	False
+Programs	沿革	0.4614528715610504	False
+Programs	主な番組	0.4324074685573578	False
+Programs	概要	0.3956325352191925	False
+Programs	主な戦績	0.31339526176452637	False
+Awards and recognition	受賞	0.9960827827453613	False
+Awards and recognition	栄典	0.9917052984237671	False
+Awards and recognition	受賞歴	0.9885890483856201	True
+Awards and recognition	キャスト	0.9689518809318542	False
+Awards and recognition	生い立ち	0.9642767310142517	False
+Awards and recognition	概説	0.9642483592033386	False
+Awards and recognition	ディスコグラフィ	0.9631587266921997	False
+Awards and recognition	人物	0.9530412554740906	False
+Awards and recognition	キャリア	0.9521918296813965	False
+Awards and recognition	フィルモグラフィ	0.9453767538070679	False
+Awards and honours	受賞	0.9973268508911133	False
+Awards and honours	スタッフ	0.9940167665481567	False
+Awards and honours	主な受賞歴	0.9939185380935669	False
+Awards and honours	受賞歴	0.9927338361740112	True
+Awards and honours	タイトル	0.9920451641082764	False
+Awards and honours	評価	0.9848142266273499	False
+Awards and honours	略歴	0.9779354333877563	False
+Awards and honours	栄典	0.9544260501861572	False
+Awards and honours	代表歴	0.9535481333732605	False
+Awards and honours	来歴	0.9476763010025024	False
+Albums	アルバム	0.9840407371520996	True
+Albums	ディスコグラフィー	0.9704628586769104	False
+Albums	ディスコグラフィ	0.9586053490638733	False
+Albums	シングル	0.9497935771942139	False
+Albums	来歴	0.6744661927223206	False
+Albums	概要	0.6459671258926392	False
+Albums	メンバー	0.49993956089019775	False
+Albums	経歴	0.4692048132419586	False
+Albums	人物	0.38541218638420105	False
+Albums	歴史	0.3852885961532593	False
+Conservation	保護	0.9910892248153687	False
+Conservation	人との関わり	0.8625986576080322	False
+Conservation	構成	0.8498255014419556	False
+Conservation	分布	0.8229612112045288	False
+Conservation	分類	0.6822023391723633	False
+Conservation	生態	0.643751859664917	False
+Conservation	人間との関係	0.6151152849197388	False
+Conservation	参考文献	0.5286175012588501	False
+Conservation	保全状況	0.5164600014686584	False
+Conservation	概要	0.49046584963798523	False
+Geology	地質	0.9956631064414978	True
+Geology	地形	0.9920899868011475	False
+Geology	地理	0.981048583984375	False
+Geology	概要	0.9727861285209656	False
+Geology	特徴	0.9581245183944702	False
+Geology	歴史	0.9355579018592834	False
+Geology	地質学	0.9144774079322815	True
+Geology	画像	0.8858948349952698	False
+Geology	形成	0.8833320736885071	False
+Geology	火山	0.8766903281211853	False
+Biology	生態	0.99280846118927	False
+Biology	生物学	0.9755447506904602	True
+Biology	分類	0.9172258973121643	False
+Biology	生活史	0.7888079881668091	False
+Biology	系統	0.6643428206443787	False
+Biology	応用	0.6381492018699646	False
+Biology	利用	0.6236016154289246	False
+Biology	概要	0.6131251454353333	False
+Biology	分布	0.578015148639679	False
+Biology	下位分類	0.5732507109642029	False
+List	一覧	0.9888421297073364	True
+List	リスト	0.978268563747406	False
+List	歴代首相一覧	0.9404245018959045	False
+List	人口上位10都市(2016年)	0.8898484706878662	False
+List	概説	0.8653619885444641	False
+List	その他の都市	0.8488588333129883	False
+List	人口上位10都市(2015年)	0.8182220458984375	False
+List	人口上位10都市(2012年)	0.76816725730896	False
+List	表	0.7645281553268433	False
+List	歴代大統領	0.7484608292579651	False
+Programming	プログラミング	0.955900251865387	True
+Programming	主な番組	0.8691189289093018	False
+Programming	概要	0.8204949498176575	False
+Programming	制作番組	0.813141405582428	False
+Programming	歴史	0.7916389107704163	False
+Programming	機能	0.7189254760742188	False
+Programming	番組内容	0.6971030831336975	False
+Programming	沿革	0.6275445818901062	False
+Programming	経歴	0.5653698444366455	False
+Programming	特徴	0.4463770091533661	False
+Later years	その後	0.9969996809959412	False
+Later years	晩年	0.9923160076141357	True
+Later years	遺産	0.9721512794494629	False
+Later years	生涯	0.9625632762908936	False
+Later years	略歴	0.9565798044204712	False
+Later years	後半生	0.9517082571983337	False
+Later years	子女	0.9284349083900452	False
+Later years	家族	0.8910371661186218	False
+Later years	人物	0.8344762921333313	False
+Later years	私生活	0.8229271769523621	False
+Film	映画	0.9877076745033264	True
+Film	作品	0.982780933380127	False
+Film	映画化	0.9580777883529663	False
+Film	略歴	0.9549952745437622	False
+Film	主な出演作品	0.9445697665214539	False
+Film	来歴	0.9209997057914734	False
+Film	出演作品	0.9097892642021179	False
+Film	代表作	0.8693841695785522	False
+Film	映像作品	0.837047815322876	False
+Film	作品名	0.821843683719635	False
+Mission	任務	0.9933417439460754	True
+Mission	概要	0.9864113926887512	False
+Mission	役割	0.9724062085151672	False
+Mission	ミッション	0.9570149183273315	True
+Mission	沿革	0.9427299499511719	False
+Mission	計画	0.9285084009170532	False
+Mission	設計	0.9247694611549377	False
+Mission	搭乗員	0.9194414615631104	False
+Mission	目的	0.9096829891204834	False
+Mission	機構	0.876747727394104	False
+Diagnosis	診断	0.9916776418685913	True
+Diagnosis	定義	0.949509859085083	False
+Diagnosis	類型	0.9381892681121826	False
+Diagnosis	種類	0.9223912358283997	False
+Diagnosis	原因	0.8931193351745605	False
+Diagnosis	症状	0.8781582713127136	False
+Diagnosis	検査	0.8599452972412109	False
+Diagnosis	統計	0.854889452457428	False
+Diagnosis	概要	0.8213526010513306	False
+Diagnosis	分類	0.7997656464576721	False
+S	S	0.9755379557609558	True
+S	さ行	0.9656001925468445	False
+S	R	0.7588427066802979	False
+S	U	0.6406077146530151	False
+S	V	0.6301076412200928	False
+S	T	0.6243199706077576	False
+S	P	0.5925400257110596	False
+S	概要	0.5919241905212402	False
+S	C	0.5734886527061462	False
+S	M	0.5473403930664062	False
+Treatment	治療	0.9974057078361511	True
+Route	路線	0.992624044418335	False
+Route	ルート	0.9922113418579102	True
+Route	概要	0.9886850714683533	False
+Treatment	治療法	0.9855519533157349	False
+Route	歴史	0.9775153994560242	False
+Route	駅	0.9640375971794128	False
+Route	駅一覧	0.8809109330177307	False
+Route	沿線概況	0.816932201385498	False
+Route	運行形態	0.7527764439582825	False
+Treatment	概念	0.7385039925575256	False
+Route	特徴	0.7147632837295532	False
+Treatment	分類	0.6728307604789734	False
+Treatment	概要	0.6683973670005798	False
+Treatment	診断	0.6346814036369324	False
+Treatment	症状	0.6122954487800598	False
+Treatment	予後	0.5867161750793457	False
+Treatment	原因	0.5641187429428101	False
+Treatment	疫学	0.5475925207138062	False
+Route	構造	0.5244728326797485	False
+Campus	キャンパス	0.9978466033935547	True
+Campus	基礎データ	0.984831690788269	False
+Campus	概観	0.9552615284919739	False
+Campus	組織	0.8900233507156372	False
+Campus	歴史	0.8581914901733398	False
+Campus	沿革	0.81394362449646	False
+Campus	概要	0.8080866932868958	False
+Campus	特色	0.6422092318534851	False
+Campus	研究	0.6358357667922974	False
+Campus	学部	0.6047346591949463	False
+M	M	0.9791796803474426	True
+M	ま行	0.9623768925666809	False
+M	C	0.557263970375061	False
+M	E	0.5391871333122253	False
+M	H	0.5209560394287109	False
+M	L	0.44823816418647766	False
+M	あ行	0.43539077043533325	False
+M	た行	0.4208245575428009	False
+M	P	0.401936411857605	False
+M	さ行	0.39145568013191223	False
+A	A	0.9938198924064636	True
+A	あ行	0.9047932624816895	False
+A	P	0.8243506550788879	False
+A	H	0.8098065853118896	False
+A	M	0.8097409605979919	False
+A	L	0.804959237575531	False
+A	E	0.8012993931770325	False
+A	B	0.8003392219543457	False
+A	S	0.7881158590316772	False
+A	C	0.7678335905075073	False
+Reviews	評価	0.9837072491645813	True
+Reviews	作品	0.7191036343574524	False
+Reviews	概要	0.4877704679965973	False
+Reviews	脚注	0.4383118152618408	False
+Reviews	キャスト	0.4171418249607086	False
+Reviews	関連項目	0.3277572989463806	False
+Reviews	参考文献	0.2679445743560791	False
+Reviews	歴史	0.22775158286094666	False
+Reviews	内容	0.2246030867099762	False
+Reviews	特徴	0.20580609142780304	False
+Types	種類	0.9947739243507385	False
+Types	分類	0.9676869511604309	False
+Types	類型	0.9176821708679199	False
+Types	例	0.8981594443321228	False
+Types	歴史	0.8699292540550232	False
+Types	詳細	0.8424299955368042	False
+Types	タイプ	0.7946573495864868	True
+Types	概要	0.7858250141143799	False
+Types	概説	0.7557187676429749	False
+Types	構造	0.754294216632843	False
+Racing career	経歴	0.9972981810569763	False
+Racing career	戦績	0.9969989061355591	False
+Racing career	人物	0.9878308176994324	False
+Racing career	略歴	0.9863702058792114	False
+Racing career	来歴	0.9863503575325012	False
+Racing career	生涯	0.9846990704536438	False
+Racing career	プロフィール	0.9814759492874146	False
+Racing career	評価	0.9660259485244751	False
+Racing career	成績	0.9602756500244141	False
+Racing career	記録	0.9498452544212341	False
+Elections	選挙	0.9707287549972534	True
+Elections	選挙結果	0.9527753591537476	False
+Elections	政治	0.9267199635505676	False
+Elections	議席	0.6553628444671631	False
+Elections	構成	0.4725327789783478	False
+Elections	経歴	0.3703700304031372	False
+Elections	概要	0.2865404784679413	False
+Elections	関連項目	0.256063848733902	False
+Elections	議会構成	0.23119191825389862	False
+Elections	脚注	0.21507233381271362	False
+Infrastructure	交通	0.9945085644721985	False
+Infrastructure	施設	0.9786975979804993	False
+Infrastructure	経済と社会資本	0.9784321784973145	False
+Infrastructure	路線	0.9723765850067139	False
+Infrastructure	インフラ	0.9616008996963501	False
+Infrastructure	車両	0.9215044379234314	False
+Infrastructure	主な都市	0.8718987703323364	False
+Infrastructure	地理	0.8627179861068726	False
+Infrastructure	文化	0.8138059973716736	False
+Infrastructure	政治	0.8072279691696167	False
+Films	作品	0.9939938187599182	False
+R	R	0.9875674247741699	True
+Films	フィルモグラフィー	0.9855266809463501	False
+Films	映画	0.9835984110832214	True
+Films	主な監督作品	0.9716812968254089	False
+Films	監督作品	0.9708563089370728	False
+Films	シリーズ一覧	0.9546224474906921	False
+Films	フィルモグラフィ	0.954389214515686	False
+Films	主な出演作品	0.9496241211891174	False
+Films	経歴	0.9332097768783569	False
+Films	評価	0.9136579632759094	False
+R	ら行	0.7932024598121643	False
+R	P	0.40900272130966187	False
+R	ま行	0.39368703961372375	False
+R	V	0.35781311988830566	False
+R	T	0.35713520646095276	False
+R	は行	0.35600391030311584	False
+R	U	0.34204521775245667	False
+R	た行	0.3168291747570038	False
+R	あ行	0.29235318303108215	False
+World War II	第二次世界大戦	0.991068959236145	True
+World War II	歴史	0.9908903241157532	False
+World War II	経歴	0.9879207611083984	False
+World War II	略歴	0.9832987189292908	False
+World War II	沿革	0.9789982438087463	False
+World War II	来歴	0.9786295294761658	False
+World War II	生涯	0.9717920422554016	False
+World War II	概要	0.9717718958854675	False
+World War II	軍歴	0.9315817952156067	False
+World War II	年譜	0.8647586703300476	False
+G	G	0.9735313653945923	True
+G	か行	0.7000721096992493	False
+G	F	0.5400475263595581	False
+G	た	0.49589842557907104	False
+G	た行	0.48360374569892883	False
+G	ま行	0.4819522798061371	False
+G	E	0.45865392684936523	False
+G	さ行	0.43279582262039185	False
+G	H	0.423951119184494	False
+G	あ行	0.38512831926345825	False
+P	P	0.984514594078064	True
+P	は行	0.6607255935668945	False
+P	た行	0.52271568775177	False
+P	ま行	0.4829568564891815	False
+P	あ行	0.4353455901145935	False
+P	さ行	0.4132767915725708	False
+P	な行	0.3698956072330475	False
+P	R	0.3674237132072449	False
+P	L	0.3581703007221222	False
+P	T	0.3537898063659668	False
+T	T	0.9765814542770386	False
+T	た行	0.9589349031448364	False
+T	た	0.9522673487663269	False
+T	S	0.5496663451194763	False
+T	R	0.5359205007553101	False
+T	U	0.5329782962799072	False
+T	V	0.5240885615348816	False
+T	H	0.48510822653770447	False
+T	I	0.4505804777145386	False
+T	A	0.4152725338935852	False
+Timeline	年表	0.9849945902824402	False
+Timeline	歴史	0.9835126996040344	False
+Timeline	経過	0.9692957401275635	False
+Timeline	略歴	0.9683316946029663	False
+Timeline	沿革	0.9304041862487793	False
+Timeline	経緯	0.9089856743812561	False
+Timeline	概要	0.8738661408424377	False
+Timeline	生涯	0.8622813820838928	False
+Timeline	歴代国王	0.845539391040802	False
+Timeline	経歴	0.8279488682746887	False
+L	L	0.9878610968589783	True
+L	ら行	0.951399564743042	False
+L	あ行	0.49366986751556396	False
+L	ま行	0.43780553340911865	False
+L	な行	0.4362506568431854	False
+L	た行	0.4284718334674835	False
+L	さ行	0.3855690062046051	False
+L	K	0.38152116537094116	False
+L	か行	0.37105071544647217	False
+L	G	0.3681585192680359	False
+H	H	0.9853701591491699	True
+H	は行	0.6887384653091431	False
+H	C	0.5698889493942261	False
+H	た	0.5662786364555359	False
+H	U	0.5109890103340149	False
+H	G	0.45852968096733093	False
+H	あ行	0.42529749870300293	False
+H	ま行	0.41481971740722656	False
+H	F	0.4133234918117523	False
+H	か行	0.40669986605644226	False
+United States	アメリカ合衆国	0.9775072932243347	True
+United States	アメリカ	0.9707452654838562	True
+United States	地名	0.8294888734817505	False
+United States	概要	0.5888524055480957	False
+United States	アメリカ軍	0.5028173923492432	False
+United States	通過する地域一覧	0.49440643191337585	False
+United States	外部リンク	0.42913100123405457	False
+United States	歴史	0.4034045934677124	False
+United States	日本	0.3262813091278076	False
+United States	関連項目	0.2780769467353821	False
+Places of interest	名所	0.9945441484451294	True
+Places of interest	見どころ	0.9903433322906494	False
+Places of interest	観光	0.9797880053520203	False
+Places of interest	駅周辺	0.9732037782669067	False
+Places of interest	観光地	0.9632319808006287	False
+Places of interest	史跡	0.9516419768333435	False
+Places of interest	施設	0.9481255412101746	False
+Places of interest	交通	0.9066040515899658	False
+Places of interest	著名人	0.9035423398017883	False
+Places of interest	見所	0.8704659342765808	False
+Others	その他	0.9878582954406738	True
+Others	概要	0.7835623025894165	False
+Others	関連項目	0.7660496234893799	False
+Others	参考文献	0.7619096040725708	False
+Others	脚注	0.753188967704773	False
+Others	歴史	0.7141770124435425	False
+Others	人名	0.6995456218719482	False
+Others	来歴	0.6616538763046265	False
+Others	人物	0.6559969782829285	False
+Others	特徴	0.6364426612854004	False
+Attractions	アトラクション	0.9872224926948547	True
+Attractions	名所	0.9859864711761475	False
+Attractions	施設	0.981504499912262	False
+Attractions	見どころ	0.9773613214492798	False
+Attractions	観光	0.9707931280136108	False
+Attractions	観光地	0.9660618901252747	False
+Attractions	史跡	0.9254928827285767	False
+Attractions	文化と見所	0.91251540184021	False
+Attractions	見所	0.8749399185180664	False
+Attractions	世界遺産	0.8736811876296997	False
+Style	スタイル	0.991804838180542	True
+Style	作風	0.9916020035743713	False
+Style	様式	0.9772262573242188	True
+Style	特徴	0.9634199142456055	False
+Style	音楽性	0.9568363428115845	False
+Style	スタッフ	0.9327953457832336	False
+Style	ストーリー	0.9327736496925354	False
+Style	私生活	0.8847241997718811	False
+Style	概要	0.8690189719200134	False
+Style	作品	0.7642313241958618	False
+Landmarks	見どころ	0.9815249443054199	True
+Landmarks	建築物	0.9787188172340393	False
+Landmarks	みどころ	0.977973997592926	False
+Landmarks	名所	0.9775904417037964	False
+Landmarks	観光	0.977584183216095	False
+Landmarks	ランドマーク	0.9759121537208557	False
+Landmarks	施設	0.8984497785568237	False
+Landmarks	概要	0.85262531042099	False
+Landmarks	地理	0.8157861828804016	False
+Landmarks	歴史	0.7779449820518494	False
+Course	地理	0.9960808157920837	False
+Course	概要	0.9942954182624817	False
+Course	流路	0.9939810633659363	False
+Course	流域	0.9885750412940979	False
+Course	背景	0.9678133130073547	False
+Course	支流	0.9018669128417969	False
+Course	歴史	0.8966223001480103	False
+Course	コース	0.87119060754776	True
+Course	流域の都市	0.8341385126113892	False
+Course	ギャラリー	0.8260523080825806	False
+Later career	その後	0.990912675857544	False
+Later career	経歴	0.9868582487106323	False
+Later career	人物	0.9826555252075195	False
+Later career	評価	0.9786058068275452	False
+Later career	生涯	0.9733327627182007	False
+Later career	略歴	0.9721968173980713	False
+Later career	作品	0.9673619866371155	False
+Later career	キャリア	0.964197039604187	False
+Later career	晩年	0.9604567289352417	True
+Later career	来歴	0.9446490406990051	False
+Technology	技術	0.9959585070610046	True
+Technology	テクノロジー	0.9897692203521729	True
+Technology	特徴	0.9735928177833557	False
+Technology	路線	0.9664496183395386	False
+Technology	概要	0.9651287794113159	False
+Technology	仕様	0.914080798625946	False
+Technology	用語	0.8627986311912537	False
+Technology	その他	0.8424423336982727	False
+Technology	歴史	0.7807247042655945	False
+Technology	モデル	0.6937326192855835	False
+Writings	著作	0.99505615234375	True
+Writings	作品	0.9833251237869263	False
+Writings	作風	0.9125248193740845	False
+Writings	著書	0.8572439551353455	True
+Writings	伝記	0.7447670698165894	False
+Writings	生涯	0.6878427863121033	False
+Writings	弟子	0.6620916128158569	False
+Writings	人物	0.6210324168205261	False
+Writings	経歴	0.5883021354675293	False
+Writings	参考文献	0.5566209554672241	False
+Usage	用途	0.9923017024993896	False
+Usage	使用	0.9911311268806458	False
+Usage	呼称	0.9868664741516113	False
+Usage	使用法	0.9838898181915283	True
+Usage	使用例	0.9828117489814758	True
+Usage	利用	0.9761589169502258	False
+Usage	用法	0.9652003049850464	False
+Usage	分布	0.9461468458175659	False
+Usage	運用	0.9426419138908386	False
+Usage	使い方	0.9322382807731628	False
+Themes	テーマ	0.9894737601280212	True
+Themes	主題	0.9766715168952942	True
+Themes	主題歌	0.9552559852600098	False
+Themes	内容	0.9035666584968567	False
+Themes	受賞	0.8215590715408325	False
+Themes	スタッフ	0.806296169757843	False
+Themes	製作	0.7933933138847351	False
+Themes	概要	0.7730713486671448	False
+Themes	フィルモグラフィー	0.7638622522354126	False
+Themes	構成	0.7497812509536743	False
+Interactions	相互作用	0.9860503077507019	True
+Interactions	代謝	0.9828813076019287	False
+Interactions	薬物動態	0.8766430616378784	False
+Interactions	禁忌	0.8032164573669434	False
+Interactions	副作用	0.7167547941207886	False
+Interactions	薬物動態学	0.48541420698165894	False
+Interactions	作用機序	0.4784453809261322	False
+Interactions	薬物相互作用	0.4048974812030792	False
+Interactions	歴史	0.3710225224494934	False
+Interactions	用途	0.3678288459777832	False
+Popular culture	登場作品	0.9924005270004272	False
+Popular culture	文化	0.9882303476333618	False
+Popular culture	その他	0.9867809414863586	False
+Popular culture	大衆文化	0.985352098941803	True
+Popular culture	備考	0.9850785732269287	False
+Popular culture	大衆文化の中で	0.9262300133705139	False
+Popular culture	関連作品	0.8544819951057434	False
+Popular culture	交通	0.8079482913017273	False
+Popular culture	参考文献	0.8042920827865601	False
+Popular culture	死去	0.7189403176307678	False
+Battle	戦闘	0.996181845664978	True
+Battle	経過	0.9856158494949341	False
+Battle	戦闘の経過	0.9387450814247131	False
+Battle	戦い	0.9385852217674255	False
+Battle	概要	0.8805456757545471	False
+Battle	会戦	0.8544545769691467	False
+Battle	参加兵力	0.8374265432357788	False
+Battle	戦いの経過	0.7868009209632874	False
+Battle	背景	0.7530174255371094	False
+Battle	戦闘経過	0.7193682789802551	False
+Buildings	建築	0.9833388328552246	False
+Buildings	主な作品	0.9650253057479858	False
+Buildings	建築物	0.9480804204940796	False
+Buildings	概要	0.8731130957603455	False
+Buildings	代表作	0.7318173050880432	False
+Buildings	歴史	0.7121279239654541	False
+Buildings	構成	0.7089964747428894	False
+Buildings	コレクション	0.5866430997848511	False
+Buildings	ビル	0.4121761918067932	True
+Buildings	地名	0.3336213231086731	False
+First round	1回戦	0.9947077035903931	True
+First round	予選	0.992251455783844	False
+First round	2回戦	0.9782152771949768	False
+First round	出場チーム	0.9751874208450317	False
+First round	結果	0.9645387530326843	False
+First round	1次予選	0.9585059285163879	False
+First round	開催地	0.9533169865608215	False
+First round	グループステージ	0.9203669428825378	False
+First round	試合会場	0.9197025895118713	False
+First round	グループリーグ	0.9103262424468994	False
+Major results	経歴	0.9959093332290649	False
+Major results	主な戦績	0.9916707277297974	False
+Major results	来歴	0.9883191585540771	False
+Major results	主な実績	0.9468489289283752	False
+Major results	主な成績	0.9229910373687744	True
+Major results	エピソード	0.6449597477912903	False
+Major results	参考文献	0.48753607273101807	False
+Major results	所属チーム	0.2124572992324829	False
+Major results	外部リンク	0.14467456936836243	False
+Major results	関連項目	0.1337762176990509	False
+Academic career	学歴	0.9923959970474243	False
+Academic career	略歴	0.9915805459022522	False
+Academic career	職歴	0.9907703399658203	True
+Academic career	経歴	0.9875664710998535	True
+Academic career	研究	0.9867962598800659	False
+Academic career	来歴	0.9828885793685913	False
+Academic career	人物	0.9775789380073547	False
+Academic career	生涯	0.971634030342102	False
+Academic career	概要	0.9514210224151611	False
+Academic career	研究歴	0.9462296962738037	False
+Story	ストーリー	0.9958977103233337	True
+Story	あらすじ	0.9889892935752869	False
+Story	概要	0.9861270189285278	False
+Story	内容	0.9603119492530823	False
+Story	設定	0.933912992477417	False
+Story	ステージ	0.790313720703125	False
+Story	ゲーム内容	0.7526177763938904	False
+Story	登場キャラクター	0.704451322555542	False
+Story	世界観	0.6523151993751526	False
+Story	主題歌	0.5990386605262756	False
+Coat of arms	紋章	0.9931421279907227	True
+Coat of arms	行政	0.9546021223068237	False
+Coat of arms	人口	0.8202682137489319	False
+Coat of arms	地理	0.7737957239151001	False
+Coat of arms	経済	0.7702844738960266	False
+Coat of arms	歴史	0.7691144347190857	False
+Coat of arms	キャンパス	0.7599776387214661	False
+Coat of arms	沿革	0.7278724908828735	False
+Coat of arms	組織	0.7165384888648987	False
+Coat of arms	産業	0.7139741778373718	False
+Early history	歴史	0.9943332672119141	False
+Early history	沿革	0.9935346841812134	False
+Early history	来歴	0.988760232925415	False
+Early history	初期	0.9793490171432495	True
+Early history	初期の歴史	0.9751043319702148	False
+Early history	地理	0.9728918075561523	False
+Early history	概要	0.9549731016159058	False
+Early history	先史時代	0.914969801902771	False
+Early history	製品	0.8795533180236816	False
+Early history	名称	0.8792836666107178	False
+Rankings	評価	0.9897799491882324	False
+Rankings	ランキング	0.9865090250968933	False
+Rankings	概要	0.8961217999458313	False
+Rankings	表彰	0.8913828730583191	False
+Rankings	大学ランキング	0.829728364944458	False
+Rankings	脚注	0.5006785988807678	False
+Rankings	組織	0.41459646821022034	False
+Rankings	キャンパス	0.3823827803134918	False
+Rankings	参考文献	0.37419241666793823	False
+Rankings	交通	0.35766175389289856	False
+Selected bibliography	作品リスト	0.9387291073799133	False
+Selected bibliography	主要作品	0.9274187088012695	False
+Selected bibliography	参考文献	0.9032782912254333	False
+Selected bibliography	著作	0.7626105546951294	False
+Selected bibliography	人物	0.6824466586112976	False
+Selected bibliography	作品	0.6717613935470581	False
+Selected bibliography	著書	0.6066060066223145	False
+Selected bibliography	著作リスト	0.5910922288894653	False
+Selected bibliography	脚注	0.38435402512550354	False
+Selected bibliography	受賞歴	0.34996962547302246	False
+Songs	音楽	0.9854267835617065	False
+Songs	主題歌	0.9839876890182495	False
+Songs	解説	0.9801986813545227	False
+Songs	作品	0.9767662286758423	True
+Songs	ディスコグラフィー	0.97555011510849	False
+Songs	主な作品	0.9529079794883728	False
+Songs	収録曲	0.9457112550735474	False
+Songs	キャスト	0.8837507367134094	False
+Songs	音楽について	0.8825172781944275	False
+Songs	ディスコグラフィ	0.8441745638847351	False
+International relations	姉妹都市・提携都市	0.9924420118331909	False
+International relations	姉妹都市	0.9910057783126831	False
+International relations	行政	0.9841701984405518	False
+International relations	友好都市	0.9821045994758606	False
+International relations	姉妹都市・友好都市	0.9796565771102905	False
+International relations	国際関係	0.9489494562149048	True
+International relations	交通	0.819786012172699	False
+International relations	歴史	0.7411221861839294	False
+International relations	スポーツ	0.7116196751594543	False
+International relations	観光	0.7011657357215881	False
+Introduction	概要	0.9971510767936707	True
+Introduction	定義	0.9933629035949707	False
+Introduction	背景	0.9917279481887817	False
+Introduction	導入	0.9907364249229431	True
+Introduction	地理	0.9774752855300903	False
+Introduction	はじめに	0.9718037247657776	True
+Introduction	特徴	0.9695520401000977	False
+Introduction	歴史	0.9482928514480591	False
+Introduction	経緯	0.9395407438278198	False
+Introduction	説明	0.8694435358047485	False
+Recording	概要	0.9939965009689331	False
+Recording	背景	0.9901866912841797	False
+Recording	解説	0.9867651462554932	False
+Recording	経緯	0.98103928565979	False
+Recording	制作	0.9741523265838623	False
+Recording	レコーディング	0.9653854966163635	False
+Recording	録音	0.9603545665740967	True
+Recording	パーソネル	0.9546024203300476	False
+Recording	プレイヤー	0.9459604620933533	False
+Recording	参加ミュージシャン	0.8352209329605103	False
+Stadium	スタジアム	0.9897319674491882	True
+Stadium	ホームスタジアム	0.9893223643302917	False
+Stadium	概要	0.9776384234428406	False
+Stadium	歴史	0.8902736306190491	False
+Stadium	ライバル	0.8483943939208984	False
+Stadium	タイトル	0.7165897488594055	False
+Stadium	クラブ各種記録	0.37221646308898926	False
+Stadium	獲得タイトル	0.369655579328537	False
+Stadium	沿革	0.3471429646015167	False
+Stadium	下部組織	0.32857373356819153	False
+Causes	原因	0.9953626394271851	True
+Causes	背景	0.990517795085907	False
+Causes	種類	0.9838638305664062	False
+Causes	要因	0.9706087112426758	True
+Causes	病因	0.9143404960632324	False
+Causes	症状	0.8754871487617493	False
+Causes	概要	0.863244354724884	False
+Causes	分類	0.8432907462120056	False
+Causes	概念	0.7926898002624512	False
+Causes	疫学	0.7544118165969849	False
+Collections	コレクション	0.9908885955810547	True
+Collections	ギャラリー	0.962372899055481	False
+Collections	代表作	0.9580209851264954	False
+Collections	収蔵作品	0.8845175504684448	False
+Collections	概要	0.7855238318443298	False
+Collections	主な収蔵品	0.6649858951568604	False
+Collections	主な展示物	0.6387802362442017	False
+Collections	生涯	0.5377781391143799	False
+Collections	作品	0.528296709060669	False
+Collections	沿革	0.5046559572219849	False
+Impact	影響	0.9918870329856873	True
+Impact	被害	0.9880384802818298	False
+Impact	経過	0.9728351831436157	False
+Impact	反響	0.9442771673202515	False
+Impact	その他	0.8981028199195862	False
+Impact	概要	0.7757987380027771	False
+Impact	歴史	0.7056577205657959	False
+Impact	逸話	0.43794113397598267	False
+Impact	ディスコグラフィー	0.4197975993156433	False
+Impact	キャスト	0.3802964389324188	False
+Retirement	引退後	0.9763820767402649	False
+Retirement	引退	0.9677987098693848	True
+Retirement	獲得タイトル	0.8398728370666504	False
+Retirement	評価	0.7508182525634766	False
+Retirement	戦後	0.7493991255760193	False
+Retirement	エピソード	0.732562780380249	False
+Retirement	ギャラリー	0.6686855554580688	False
+Retirement	略歴	0.6511510014533997	False
+Retirement	経歴	0.6456453204154968	False
+Retirement	概要	0.634369432926178	False
+Administrative divisions	行政	0.9740004539489746	False
+Administrative divisions	行政区分	0.9533020257949829	False
+Administrative divisions	行政区画	0.9466050863265991	False
+Administrative divisions	都市	0.9334552884101868	False
+Administrative divisions	スポーツ	0.9153192639350891	False
+Administrative divisions	地方行政区分	0.9018020033836365	False
+Administrative divisions	行政区	0.8983907103538513	True
+Administrative divisions	概要	0.8963743448257446	False
+Administrative divisions	行政区域	0.8885289430618286	False
+Administrative divisions	主要都市	0.871799111366272	False
+Cultivation	栽培	0.9960528612136841	True
+Cultivation	産地	0.9468827843666077	False
+Cultivation	分類	0.9420429468154907	False
+Cultivation	生産	0.9071385860443115	False
+Cultivation	保護	0.8928086757659912	False
+Cultivation	利用	0.8862157464027405	False
+Cultivation	利害	0.8823326230049133	False
+Cultivation	系統	0.7716675996780396	False
+Cultivation	特徴	0.7357305288314819	False
+Cultivation	分布	0.7147907614707947	False
+Promotion	プロモーション	0.9873894453048706	True
+Promotion	シングル	0.9753391146659851	False
+Promotion	背景	0.8840290904045105	False
+Promotion	概要	0.8464598655700684	False
+Promotion	解説	0.7273371815681458	False
+Promotion	沿革	0.6841925978660583	False
+Promotion	収録曲	0.5534870028495789	False
+Promotion	キャスト	0.5344370007514954	False
+Promotion	受賞歴	0.5145928859710693	False
+Promotion	スタッフ	0.4927426874637604	False
+Final standings	日程	0.9814820289611816	False
+Final standings	成績	0.978367030620575	True
+Final standings	総合成績	0.9777682423591614	False
+Final standings	最終順位	0.9731426239013672	False
+Final standings	準決勝	0.972658097743988	False
+Final standings	最終成績	0.9701567888259888	False
+Final standings	概要	0.9650982618331909	False
+Final standings	参加チーム	0.9623673558235168	False
+Final standings	結果	0.9529098272323608	True
+Final standings	出場チーム	0.9493587613105774	False
+Genera	属	0.9788395762443542	False
+Genera	系統	0.9395963549613953	False
+Genera	主な属	0.8921923041343689	False
+Genera	分類	0.8840968608856201	True
+Genera	下位分類	0.4846058189868927	False
+Genera	分布	0.34065067768096924	False
+Genera	生態	0.2856554090976715	False
+Genera	特徴	0.2565861642360687	False
+Genera	形態	0.24861416220664978	False
+Genera	概説	0.1925564855337143	False
+Locations	所在地	0.984204113483429	True
+Locations	概要	0.9474895000457764	False
+Locations	沿革	0.8757547736167908	False
+Locations	歴史	0.8654621839523315	False
+Locations	キャスト	0.7295100688934326	False
+Locations	位置	0.54945969581604	True
+Locations	分類	0.4233130216598511	False
+Locations	製品	0.41667383909225464	False
+Locations	エピソード	0.3941410779953003	False
+Locations	特徴	0.38073763251304626	False
+Management	治療	0.9768123030662537	False
+Management	運営	0.969086229801178	True
+Management	管理	0.9389368295669556	False
+Management	経営	0.8908641934394836	True
+Management	治療法	0.8423892259597778	False
+Management	経歴	0.8102214932441711	False
+Management	歴代監督	0.6945641040802002	False
+Management	概要	0.6674148440361023	False
+Management	歴史	0.6160104870796204	False
+Management	診断	0.4888482093811035	False
+Influence	影響	0.9976707100868225	True
+Influence	評価	0.9718508124351501	False
+Influence	思想	0.9366933703422546	False
+Influence	後世への影響	0.9249048829078674	False
+Influence	業績	0.875621497631073	False
+Influence	その他	0.873920738697052	False
+Influence	メンバー	0.8611535429954529	False
+Influence	沿革	0.8389330506324768	False
+Influence	論文	0.8043550252914429	False
+Influence	影響力	0.8004247546195984	False
+Recreation	レクリエーション	0.93964684009552	False
+Recreation	公園とレクリエーション	0.8353597521781921	False
+Recreation	郡政府	0.7594014406204224	False
+Recreation	地理	0.6895903944969177	False
+Recreation	概要	0.6672924757003784	False
+Recreation	公園	0.5791556239128113	False
+Recreation	リクリエーション	0.5613569021224976	True
+Recreation	交通	0.5579656362533569	False
+Recreation	経済	0.5057496428489685	False
+Recreation	都市及び町	0.46092042326927185	False
+Equipment	装備	0.9966128468513489	True
+Equipment	使用機材	0.9905276298522949	False
+Equipment	機材	0.989766538143158	False
+Equipment	使用楽器	0.9290634989738464	False
+Equipment	主要装備	0.9285901784896851	False
+Equipment	人物	0.8584133982658386	False
+Equipment	ギャラリー	0.8128904104232788	False
+Equipment	組織	0.7826054096221924	False
+Equipment	概要	0.7651352882385254	False
+Equipment	編成	0.7370871901512146	False
+Crew	エピソード	0.9966842532157898	False
+Crew	スタッフ	0.9903345704078674	True
+Crew	乗組員	0.9884152412414551	True
+Crew	ミッション	0.9852973818778992	False
+Crew	乗員	0.9681763648986816	False
+Crew	搭乗員	0.9676204919815063	False
+Crew	評価	0.9654913544654846	False
+Crew	バックアップ	0.9392884969711304	False
+Crew	クルー	0.9101580381393433	False
+Crew	キャスト	0.8502436280250549	False
+Partial filmography	フィルモグラフィー	0.9935106635093689	False
+Partial filmography	主な出演作	0.9931997656822205	False
+Partial filmography	主な出演作品	0.9889935851097107	False
+Partial filmography	主な監督作品	0.9885711073875427	False
+Partial filmography	出演作品	0.98792564868927	False
+Partial filmography	主な作品	0.9861776828765869	True
+Partial filmography	監督作品	0.9668042063713074	False
+Partial filmography	経歴	0.7988354563713074	False
+Partial filmography	来歴	0.7117764949798584	False
+Partial filmography	略歴	0.6320676207542419	False
+Electoral history	歴史	0.9491632580757141	False
+Electoral history	選挙結果	0.9366230964660645	False
+Electoral history	概要	0.8343483209609985	False
+Electoral history	選挙歴	0.820215106010437	True
+Electoral history	経歴	0.771485447883606	False
+Electoral history	選挙経歴	0.5777835249900818	False
+Electoral history	大統領候補	0.5408425331115723	False
+Electoral history	関連事項	0.44351479411125183	False
+Electoral history	著書	0.4117724597454071	False
+Electoral history	著作	0.4089541435241699	False
+Writing	文字	0.986262321472168	False
+Writing	作品	0.9694955945014954	False
+Writing	概要	0.9340702891349792	False
+Writing	執筆活動	0.8956896066665649	False
+Writing	著書	0.8888879418373108	False
+Writing	著作	0.8763907551765442	True
+Writing	方言	0.8317162990570068	False
+Writing	略歴	0.764054536819458	False
+Writing	生涯	0.6025302410125732	False
+Writing	分類	0.5144038796424866	False
+Details	詳細	0.9894059300422668	True
+Details	内容	0.9871079325675964	False
+Details	概要	0.9853882193565369	False
+Details	沿革	0.9534270763397217	False
+Details	例	0.8978223204612732	False
+Details	歴史	0.6369845271110535	False
+Details	用途	0.5269617438316345	False
+Details	名称	0.4304629862308502	False
+Details	特徴	0.31981828808784485	False
+Details	ギャラリー	0.28072506189346313	False
+Series overview	ストーリー	0.9876787066459656	False
+Series overview	概要	0.9767975211143494	False
+Series overview	あらすじ	0.9699485898017883	False
+Series overview	キャスト	0.960817813873291	False
+Series overview	概説	0.8497430086135864	False
+Series overview	内容	0.8328269720077515	False
+Series overview	登場人物	0.8171212673187256	False
+Series overview	エピソード	0.8132050633430481	False
+Series overview	賞	0.7957090139389038	False
+Series overview	シリーズ概要	0.7956240177154541	True
+Analysis	構成	0.9859844446182251	False
+Analysis	分析	0.9772585034370422	True
+Analysis	評価	0.9515879154205322	False
+Analysis	解題	0.9495473504066467	False
+Analysis	製作	0.9468911290168762	False
+Analysis	解釈	0.9183619022369385	False
+Analysis	特徴	0.916423499584198	False
+Analysis	内容	0.8745650053024292	False
+Analysis	概要	0.7667336463928223	False
+Analysis	キャスト	0.7105236053466797	False
+Reactions	反応	0.9941149353981018	True
+Reactions	反響	0.9553055763244629	False
+Reactions	合成	0.7783635854721069	False
+Reactions	背景	0.7069292664527893	False
+Reactions	概要	0.6876615285873413	False
+Reactions	用途	0.5657147169113159	False
+Reactions	反応性	0.5446499586105347	False
+Reactions	性質	0.484117716550827	False
+Reactions	推移	0.42229291796684265	False
+Reactions	対応	0.39898186922073364	False
+Images	画像	0.9930635094642639	True
+Images	ギャラリー	0.9893938899040222	False
+Images	写真	0.7981132864952087	True
+Images	名称	0.4692424535751343	False
+Images	脚注	0.39718323945999146	False
+Images	参考文献	0.3898051679134369	False
+Images	出典	0.38287508487701416	False
+Images	地理	0.34762921929359436	False
+Images	歴史	0.3140425682067871	False
+Images	交通	0.310341477394104	False
+Matches	試合結果	0.9894786477088928	False
+Matches	結果	0.9890901446342468	False
+Matches	日程	0.9864331483840942	False
+Matches	歴代優勝クラブ	0.9808905124664307	False
+Matches	クラブ別優勝回数	0.9797930717468262	False
+Matches	出場チーム	0.9767031073570251	False
+Matches	歴代大会結果	0.9709421396255493	False
+Matches	会場	0.9663093686103821	False
+Matches	順位表	0.9528788328170776	False
+Matches	試合	0.9394641518592834	True
+Swimming	水泳	0.9581429958343506	True
+Swimming	経歴	0.39392417669296265	False
+Swimming	メダル獲得者	0.38821905851364136	False
+Swimming	種目別選手・スタッフ名簿及び成績	0.33256426453590393	False
+Swimming	選手団	0.22911036014556885	False
+Swimming	自転車	0.19169604778289795	False
+Swimming	関連項目	0.18493342399597168	False
+Swimming	概要	0.17704646289348602	False
+Swimming	メダル	0.1681584268808365	False
+Swimming	脚注	0.12251181155443192	False
+Europe	ヨーロッパ	0.9957589507102966	True
+Europe	経歴	0.8465842008590698	False
+Europe	日本	0.5986985564231873	False
+Europe	概要	0.5547443628311157	False
+Europe	オセアニア	0.509222149848938	False
+Europe	歴史	0.5012589693069458	False
+Europe	中国	0.4562973976135254	False
+Europe	アフリカ	0.4461941421031952	False
+Europe	イギリス	0.4444315433502197	False
+Europe	オーストラリア	0.4018402397632599	False
+Clinical significance	疾患	0.9743795394897461	False
+Clinical significance	病理学	0.917605459690094	False
+Clinical significance	臨床的意義	0.8924859166145325	True
+Clinical significance	機能	0.8122434020042419	False
+Clinical significance	病理	0.7845177054405212	False
+Clinical significance	分類	0.7644340991973877	False
+Clinical significance	利用	0.7291277050971985	False
+Clinical significance	概要	0.7219858765602112	False
+Clinical significance	構造	0.7200101613998413	False
+Clinical significance	反応	0.7021130919456482	False
+Discovery	発見	0.9987831711769104	True
+Discovery	歴史	0.9945401549339294	False
+Discovery	分布	0.9923530220985413	False
+Discovery	経緯	0.9900231957435608	False
+Discovery	概要	0.9845276474952698	False
+Discovery	名称	0.9771397709846497	False
+Discovery	語源	0.9760370254516602	False
+Discovery	発見の経緯	0.9700192213058472	False
+Discovery	命名	0.8956040143966675	False
+Discovery	研究史	0.8940147161483765	False
+Editions	エディション	0.9620965123176575	False
+Editions	大会一覧	0.9529401063919067	False
+Editions	版	0.9484070539474487	True
+Editions	概要	0.9391641020774841	False
+Editions	クラブ別優勝回数	0.929313063621521	False
+Editions	刊本	0.8998247385025024	False
+Editions	開催地一覧	0.8894010782241821	False
+Editions	リリース	0.8760721683502197	False
+Editions	特徴	0.862400472164154	False
+Editions	歴代大会結果	0.8223714232444763	False
+Purpose	目的	0.9944215416908264	True
+Purpose	概要	0.9346914291381836	False
+Purpose	構成	0.7385751605033875	False
+Purpose	沿革	0.6286174058914185	False
+Purpose	歴史	0.6133682131767273	False
+Purpose	語源	0.6104470491409302	False
+Purpose	内容	0.5820979475975037	False
+Purpose	概説	0.5739065408706665	False
+Purpose	名称	0.5215213298797607	False
+Purpose	開発	0.4962962567806244	False
+Group stage	会場	0.9903518557548523	False
+Group stage	結果	0.9886140823364258	False
+Group stage	グループステージ	0.9884634613990784	True
+Group stage	グループリーグ	0.98786860704422	False
+Group stage	予選	0.9754776954650879	False
+Group stage	出場チーム	0.9750911593437195	False
+Group stage	日程	0.9691954851150513	False
+Group stage	会場一覧	0.9639094471931458	False
+Group stage	本大会	0.9573140740394592	False
+Group stage	準決勝	0.9568522572517395	False
+Appearances	出演	0.9951004385948181	True
+Appearances	歴史	0.9894450306892395	False
+Appearances	キャスト	0.9888794422149658	False
+Appearances	概要	0.987174391746521	False
+Appearances	経歴	0.9776201844215393	False
+Appearances	来歴	0.9746296405792236	False
+Appearances	特徴	0.9695950746536255	False
+Appearances	人物	0.9691240787506104	False
+Appearances	概説	0.968176007270813	False
+Appearances	登場作品	0.968066930770874	False
+Naming	名称	0.9939900636672974	False
+Naming	命名	0.9937518239021301	True
+Naming	分類	0.9709252715110779	False
+Naming	概要	0.9708596467971802	False
+Naming	名前	0.9704663157463074	False
+Naming	名称の由来	0.9631364941596985	False
+Naming	地理	0.9629969596862793	False
+Naming	分布	0.9237669110298157	False
+Naming	その他	0.9049742221832275	False
+Naming	経緯	0.86274653673172	False
+Candidates	概要	0.9818587899208069	False
+Candidates	基礎データ	0.9781615734100342	False
+Candidates	候補者	0.9614193439483643	True
+Candidates	経緯	0.93802809715271	False
+Candidates	選挙データ	0.9160493016242981	False
+Candidates	結果	0.8097235560417175	False
+Candidates	選挙結果	0.708399772644043	False
+Candidates	投票結果	0.5675884485244751	False
+Candidates	日程	0.5032508969306946	False
+Candidates	特徴	0.49731895327568054	False
+Business	経済	0.9861286878585815	False
+Business	ビジネス	0.980692446231842	True
+Business	歴史	0.9344174265861511	False
+Business	人口	0.8326511383056641	False
+Business	タイトル	0.8229924440383911	False
+Business	概要	0.6777907013893127	False
+Business	地理	0.572605311870575	False
+Business	行政	0.5311368703842163	False
+Business	沿革	0.49185416102409363	False
+Business	政治	0.4838730990886688	False
+Access	アクセス	0.9930517673492432	True
+Access	交通	0.9920468330383301	False
+Access	交通機関	0.9792699813842773	False
+Access	交通アクセス	0.9703096151351929	False
+Access	登山	0.9637938141822815	False
+Access	ギャラリー	0.9113009572029114	False
+Access	施設	0.8215644955635071	False
+Access	概要	0.7074080109596252	False
+Access	建物	0.5581479668617249	False
+Access	地理	0.5406893491744995	False
+Language	言語	0.9982430934906006	True
+Venues	会場	0.9963288903236389	False
+Venues	日程	0.9920571446418762	False
+Venues	会場一覧	0.9916521906852722	False
+Venues	スタジアム	0.9811269640922546	False
+Language	住民	0.9805682897567749	False
+Venues	開催地	0.9783537983894348	True
+Venues	歴史	0.9733085036277771	False
+Venues	競技会場	0.9717152714729309	False
+Venues	結果	0.9540314674377441	False
+Venues	実施競技	0.9534964561462402	False
+Venues	本大会	0.9472249150276184	False
+Language	特徴	0.9339609146118164	False
+Language	行政区分	0.9011214375495911	False
+Language	概要	0.8716113567352295	False
+Language	名称	0.8715632557868958	False
+Language	歴史	0.8675438165664673	False
+Language	文化	0.8161631226539612	False
+Language	社会	0.7525367736816406	False
+Language	地理	0.7420088648796082	False
+Other activities	その他の活動	0.9826867580413818	True
+Other activities	私生活	0.8916827440261841	False
+Other activities	エピソード	0.850177526473999	False
+Other activities	家族	0.8286411762237549	False
+Other activities	沿革	0.8123378753662109	False
+Other activities	著作	0.7975766658782959	False
+Other activities	略歴	0.7968845367431641	False
+Other activities	CM	0.7664840817451477	False
+Other activities	ディスコグラフィー	0.7609300017356873	False
+Other activities	出典	0.7560854554176331	False
+Canada	カナダ	0.9748518466949463	True
+Canada	イギリス	0.7658426761627197	False
+Canada	アメリカ	0.7274459004402161	False
+Canada	概説	0.6701847910881042	False
+Canada	アメリカ合衆国	0.5831345915794373	False
+Canada	概要	0.4973738491535187	False
+Canada	その他	0.4878263771533966	False
+Canada	歴史	0.3997493088245392	False
+Canada	ヨーロッパ	0.38970813155174255	False
+Canada	日本	0.3491460978984833	False
+Use	用途	0.9956967830657959	False
+Use	使用	0.9929137229919434	True
+Use	利用	0.9872902035713196	False
+Use	使用例	0.9815549254417419	False
+Use	使用法	0.976232647895813	False
+Use	概説	0.9734981060028076	False
+Use	概要	0.9444013237953186	False
+Use	合成	0.9305124878883362	False
+Use	欠点	0.9121459126472473	False
+Use	歴史	0.8576368689537048	False
+Signs and symptoms	特徴	0.9861702919006348	False
+Signs and symptoms	症状	0.9636387228965759	False
+Signs and symptoms	概要	0.9594209790229797	False
+Signs and symptoms	臨床像	0.887327253818512	False
+Signs and symptoms	解説	0.8834221363067627	False
+Signs and symptoms	概念	0.8801102638244629	False
+Signs and symptoms	定義	0.8712655901908875	False
+Signs and symptoms	原因	0.8707256317138672	False
+Signs and symptoms	歴史	0.8643410801887512	False
+Signs and symptoms	概説	0.8476526737213135	False
+Organisation	機構	0.9919628500938416	False
+Organisation	組織	0.9868068099021912	True
+Organisation	沿革	0.9243143200874329	False
+Organisation	歴史	0.9135282039642334	False
+Organisation	概要	0.8840060830116272	False
+Organisation	歴代会長	0.7842121720314026	False
+Organisation	役割	0.6362553238868713	False
+Organisation	関連施設	0.5917638540267944	False
+Organisation	構成	0.5736323595046997	False
+Organisation	大会方式	0.504833996295929	False
+Marriage	結婚	0.9931496977806091	True
+Marriage	家族	0.9804592132568359	False
+Marriage	生涯	0.9747396111488342	False
+Marriage	略歴	0.9728187322616577	False
+Marriage	子女	0.9721857905387878	False
+Marriage	人物	0.9510146379470825	False
+Marriage	概要	0.8979095816612244	False
+Marriage	結婚と子女	0.8313709497451782	False
+Marriage	来歴	0.705367386341095	False
+Marriage	参考文献	0.6858741641044617	False
+Organizations	組織	0.9868454933166504	True
+Organizations	企業	0.873112678527832	False
+Organizations	その他	0.7134708166122437	False
+Organizations	楽曲	0.6264439225196838	False
+Organizations	概要	0.5218997597694397	False
+Organizations	応用	0.50620436668396	False
+Organizations	歴史	0.45573002099990845	False
+Organizations	概説	0.407432496547699	False
+Organizations	伝記	0.38316914439201355	False
+Organizations	交通	0.35974687337875366	False
+Staff	スタッフ	0.9974849224090576	True
+Staff	主題歌	0.9553295373916626	False
+Staff	職員	0.9426400065422058	False
+Staff	歴代監督	0.9350641369819641	False
+Staff	音楽	0.9068966507911682	False
+Staff	概要	0.7268960475921631	False
+Staff	歴史	0.7155401706695557	False
+Staff	タイトル	0.4795742928981781	False
+Staff	組織	0.4741385877132416	False
+Staff	各話リスト	0.4625353515148163	False
+Projects	作品	0.9923161268234253	False
+Projects	代表作	0.9864605665206909	False
+Projects	主な作品	0.9542474746704102	False
+Projects	プロジェクト	0.9456033706665039	True
+Projects	概要	0.9048945903778076	False
+Projects	歴史	0.7713422775268555	False
+Projects	ディスコグラフィー	0.5926808714866638	False
+Projects	年表	0.5706855654716492	False
+Projects	開発タイトル	0.5371056199073792	False
+Projects	略歴	0.5083472728729248	False
+United Kingdom	イギリス	0.9858993291854858	True
+United Kingdom	概要	0.585965096950531	False
+United Kingdom	種類	0.48218488693237305	False
+United Kingdom	ヨーロッパ	0.47315144538879395	False
+United Kingdom	日本	0.43439334630966187	False
+United Kingdom	歴史	0.39390718936920166	False
+United Kingdom	ドイツ	0.3632633090019226	False
+United Kingdom	概説	0.3533554673194885	False
+United Kingdom	沿革	0.3092571794986725	False
+United Kingdom	参考文献	0.27600693702697754	False
+Lyrics	歌詞	0.9950317144393921	True
+Lyrics	概要	0.9424208998680115	False
+Lyrics	解説	0.7029058933258057	False
+Lyrics	タイトル	0.4376825988292694	False
+Lyrics	ディスコグラフィ	0.3159341812133789	False
+Lyrics	歴史	0.3093966543674469	False
+Lyrics	関連項目	0.2376703917980194	False
+Lyrics	収録曲	0.22656302154064178	False
+Lyrics	日本語訳	0.22304290533065796	False
+Lyrics	メンバー	0.19456104934215546	False
+Example	例	0.9988818764686584	True
+Example	使用例	0.9787529706954956	False
+Example	具体例	0.9550848007202148	False
+Example	解説	0.9329980611801147	False
+Example	歴史	0.8714418411254883	False
+Example	詳細	0.8365948796272278	False
+Example	プログラム例	0.836357057094574	False
+Example	アルゴリズム	0.808982253074646	False
+Example	実行例	0.8036812543869019	False
+Example	定義	0.7676959037780762	False
+Points of interest	名所	0.9976542592048645	False
+Points of interest	見どころ	0.9969363212585449	True
+Points of interest	観光	0.9903215765953064	False
+Points of interest	施設	0.9854953289031982	False
+Points of interest	みどころ	0.9810813069343567	False
+Points of interest	交通	0.9361522793769836	False
+Points of interest	文化・観光	0.8756084442138672	False
+Points of interest	治安	0.8710882663726807	False
+Points of interest	経済	0.8505683541297913	False
+Points of interest	公共施設	0.8226782083511353	False
+Second round	2回戦	0.9880997538566589	True
+Second round	会場	0.987171471118927	False
+Second round	結果	0.9779690504074097	False
+Second round	1回戦	0.9756782054901123	False
+Second round	決勝トーナメント	0.9709609150886536	False
+Second round	予選	0.9691911339759827	False
+Second round	出場チーム	0.9617144465446472	False
+Second round	準決勝	0.9612609148025513	False
+Second round	3回戦	0.9508423805236816	False
+Second round	準々決勝	0.9315473437309265	False
+Asia	アジア	0.9944169521331787	True
+Asia	ヨーロッパ	0.8395786285400391	False
+Asia	日本	0.717958927154541	False
+Asia	中国	0.7002245783805847	False
+Asia	概要	0.6461759209632874	False
+Asia	アメリカ合衆国	0.6161482334136963	False
+Asia	歴史	0.5921774506568909	False
+Asia	分類	0.5371264219284058	False
+Asia	イギリス	0.46441739797592163	False
+Asia	できごと	0.45955944061279297	False
+Preparation	合成	0.9962396621704102	False
+Preparation	生成	0.9873140454292297	False
+Preparation	作り方	0.9793322086334229	False
+Preparation	歴史	0.975222110748291	False
+Preparation	調製	0.9664196968078613	False
+Preparation	合成法	0.9592624306678772	False
+Preparation	製法	0.935261070728302	False
+Preparation	準備	0.9182121157646179	True
+Preparation	応用	0.912891685962677	False
+Preparation	背景	0.9106773734092712	False
+Stations	路線	0.9910228252410889	False
+Stations	駅一覧	0.9866201877593994	True
+Stations	概要	0.9860790371894836	False
+Stations	駅	0.9722825884819031	False
+Stations	事業所	0.9572019577026367	False
+Stations	沿線概況	0.9427664875984192	False
+Stations	歴史	0.7150061726570129	False
+Stations	沿革	0.692115306854248	False
+Stations	車両	0.5918033719062805	False
+Stations	参考文献	0.5208873748779297	False
+Quotes	語録	0.9930515289306641	False
+Quotes	参考文献	0.984911322593689	False
+Quotes	引用	0.9767911434173584	True
+Quotes	発言	0.9207302927970886	False
+Quotes	評価	0.8139606714248657	False
+Quotes	思想	0.5814189910888672	False
+Quotes	脚注	0.5303070545196533	False
+Quotes	出典	0.4798593819141388	False
+Quotes	経歴	0.4446602463722229	False
+Quotes	交通	0.40198081731796265	False
+Semi-finals	得点ランキング	0.9977201819419861	False
+Semi-finals	準々決勝	0.9977198243141174	False
+Semi-finals	準決勝	0.995784342288971	True
+Semi-finals	3位決定戦	0.9926092028617859	False
+Semi-finals	2回戦	0.9922163486480713	False
+Semi-finals	決勝トーナメント	0.991520345211029	False
+Semi-finals	試合結果	0.990029513835907	False
+Semi-finals	3回戦	0.9888272285461426	False
+Semi-finals	ラウンド16	0.9751577377319336	False
+Semi-finals	最終結果	0.9736295342445374	False
+Reproduction	生態	0.8750141859054565	False
+Reproduction	繁殖	0.8731284737586975	True
+Reproduction	分類	0.6374001502990723	False
+Reproduction	形態	0.5799705386161804	False
+Reproduction	分布	0.5763596296310425	False
+Reproduction	画像	0.569206953048706	False
+Reproduction	人間との関係	0.5394546389579773	False
+Reproduction	参考文献	0.5238272547721863	False
+Reproduction	ギャラリー	0.48821160197257996	False
+Reproduction	出典	0.4442967176437378	False
+Competitive highlights	主な戦績	0.9940038323402405	False
+Competitive highlights	経歴	0.9919818043708801	False
+Competitive highlights	人物	0.6406501531600952	False
+Competitive highlights	主な成績	0.5646913051605225	True
+Competitive highlights	脚注	0.5056278705596924	False
+Competitive highlights	参考文献	0.4975299537181854	False
+Competitive highlights	プログラム	0.48431164026260376	False
+Competitive highlights	プログラム使用曲	0.36119505763053894	False
+Competitive highlights	記録	0.2490018755197525	False
+Competitive highlights	スポンサー	0.12380922585725784	False
+Influences	影響	0.9962604641914368	True
+Influences	音楽性	0.9871705174446106	False
+Influences	特徴	0.9348180890083313	False
+Influences	製作	0.9282347559928894	False
+Influences	後世への影響	0.8996620178222656	False
+Influences	背景	0.8576388955116272	False
+Influences	生涯	0.8194897770881653	False
+Influences	評価	0.8143648505210876	False
+Influences	作品解説	0.8037323951721191	False
+Influences	解説	0.7932406067848206	False
+Preliminary round	会場	0.9874967336654663	False
+Preliminary round	予選	0.9799361228942871	True
+Preliminary round	予選ラウンド	0.9568500518798828	False
+Preliminary round	1回戦	0.9452577829360962	False
+Preliminary round	予備予選	0.9268393516540527	False
+Preliminary round	1次ラウンド	0.9252024292945862	False
+Preliminary round	決勝ラウンド	0.7467478513717651	False
+Preliminary round	表彰	0.7409722805023193	False
+Preliminary round	最終結果	0.722531795501709	False
+Preliminary round	決勝トーナメント	0.712295651435852	False
+Australia	オーストラリア	0.9721332788467407	True
+Australia	略歴	0.9693381786346436	False
+Australia	イギリス	0.751474916934967	False
+Australia	アメリカ	0.6529589295387268	False
+Australia	分類	0.6455546021461487	False
+Australia	各国の制度	0.6375634670257568	False
+Australia	歴史	0.6026821732521057	False
+Australia	アメリカ合衆国	0.5229821801185608	False
+Australia	日本	0.5071981549263	False
+Australia	概要	0.49256646633148193	False
+Flora and fauna	動植物	0.9923228025436401	True
+Flora and fauna	生態系	0.9897370934486389	False
+Flora and fauna	生物	0.9869551062583923	False
+Flora and fauna	植物相と動物相	0.8974437713623047	False
+Flora and fauna	動物相	0.8243231773376465	False
+Flora and fauna	政治	0.821607232093811	False
+Flora and fauna	歴史	0.8112151622772217	False
+Flora and fauna	登山	0.7743927836418152	False
+Flora and fauna	気候	0.7585867047309875	False
+Flora and fauna	地質	0.7378780841827393	False
+Twin towns	姉妹都市	0.9926362037658691	True
+Twin towns	友好都市	0.9343420267105103	False
+Twin towns	姉妹都市・提携都市	0.8688129782676697	False
+Twin towns	交通	0.8181490302085876	False
+Twin towns	スポーツ	0.6849706172943115	False
+Twin towns	地理	0.6728171110153198	False
+Twin towns	行政	0.6711863279342651	False
+Twin towns	名所	0.6092351675033569	False
+Twin towns	観光	0.5922613739967346	False
+Twin towns	脚注	0.5674968957901001	False
+Behavior	行動	0.9415886998176575	False
+Behavior	生態	0.8956813812255859	False
+Behavior	分類	0.8403964638710022	False
+Behavior	特徴	0.735581636428833	False
+Behavior	分布	0.729514479637146	False
+Behavior	系統	0.4998607337474823	False
+Behavior	亜種	0.4850243628025055	False
+Behavior	形態	0.3393685519695282	False
+Behavior	参考文献	0.3297794461250305	False
+Behavior	人間との関係	0.3115813136100769	False
+Military	軍事	0.988940417766571	False
+Military	地方行政区分	0.9449989199638367	False
+Military	その他	0.8723081350326538	False
+Military	概要	0.8538345098495483	False
+Military	軍隊	0.8436257839202881	True
+Military	歴史	0.8157010674476624	False
+Military	経済	0.6683228015899658	False
+Military	交通	0.6343750953674316	False
+Military	地理	0.5665979981422424	False
+Military	文化	0.4999059736728668	False
+Terminology	用語	0.9807435870170593	True
+Terminology	定義	0.9802047610282898	False
+Terminology	概説	0.9629942178726196	False
+Terminology	名称	0.9351069927215576	False
+Terminology	概要	0.9221429228782654	False
+Terminology	目的	0.9184837937355042	False
+Terminology	特徴	0.9135138988494873	False
+Terminology	歴史	0.9088510274887085	False
+Terminology	呼称	0.9030970335006714	False
+Terminology	用語法	0.8420324921607971	False
+Participants	概要	0.9869758486747742	False
+Participants	キャスト	0.9788528084754944	False
+Participants	エントリーリスト	0.9768331050872803	False
+Participants	参加国	0.961043655872345	False
+Participants	歴史	0.9592394828796387	False
+Participants	最終成績	0.9564628005027771	False
+Participants	参加者	0.955862283706665	True
+Participants	シーズンの概要	0.946295976638794	False
+Participants	グランプリ	0.8891676664352417	False
+Participants	結果	0.7635908126831055	False
+About	概要	0.9895147085189819	True
+About	来歴	0.966760516166687	False
+About	沿革	0.5035806894302368	False
+About	歴史	0.4010680317878723	False
+About	出演	0.27310922741889954	False
+About	関連項目	0.16835296154022217	False
+About	参考文献	0.14244753122329712	False
+About	脚注	0.12393995374441147	False
+Epidemiology	疫学	0.9798340201377869	True
+Epidemiology	治療	0.7632836103439331	False
+Epidemiology	診断	0.7143479585647583	False
+Epidemiology	概要	0.6389444470405579	False
+Epidemiology	原因	0.6075897812843323	False
+Epidemiology	予防	0.5913732051849365	False
+Epidemiology	参考文献	0.5852154493331909	False
+Epidemiology	症状	0.5642250776290894	False
+Epidemiology	分類	0.5160777568817139	False
+Epidemiology	予後	0.4634205996990204	False
+Calendar	概要	0.9864069819450378	False
+Calendar	日程	0.9824652671813965	True
+Calendar	エントリーリスト	0.9266830086708069	False
+Calendar	参戦チーム・ドライバー	0.8521673083305359	False
+Calendar	できごと	0.5766203999519348	False
+Calendar	実施競技と日程	0.5715965628623962	False
+Calendar	歴史	0.5684754848480225	False
+Calendar	実施競技と日程表	0.5097659230232239	False
+Calendar	2013年のスケジュール	0.4874114394187927	False
+Calendar	ハイライト	0.4111722409725189	False
+Africa	アフリカ	0.9795603156089783	True
+Africa	オーストラリア	0.774179220199585	False
+Africa	歴史	0.7598772048950195	False
+Africa	概要	0.7516824007034302	False
+Africa	イギリス	0.7291254997253418	False
+Africa	アジア	0.7195858359336853	False
+Africa	来歴	0.7086320519447327	False
+Africa	概説	0.6418259739875793	False
+Africa	オセアニア	0.5594072937965393	False
+Africa	カナダ	0.5254402160644531	False
+Box office	評価	0.987765908241272	False
+Box office	興行収入	0.9052556157112122	True
+Box office	スタッフ	0.8638001084327698	False
+Box office	受賞	0.7737393975257874	False
+Box office	音楽	0.7375526428222656	False
+Box office	公開	0.7236302495002747	False
+Box office	備考	0.709233283996582	False
+Box office	ストーリー	0.6604093313217163	False
+Box office	参考文献	0.656250536441803	False
+Box office	脚注	0.641643762588501	False
+Military service	略歴	0.9850430488586426	False
+Military service	来歴	0.9815266728401184	False
+Military service	軍歴	0.9685779809951782	True
+Military service	経歴	0.9678966403007507	False
+Military service	生涯	0.9430937767028809	False
+Military service	概要	0.8909017443656921	False
+Military service	人物	0.8731774687767029	False
+Military service	家族	0.7061668634414673	False
+Military service	栄典	0.6757678985595703	False
+Military service	生い立ち	0.6424703001976013	False
+Fauna	動物相	0.9797873497009277	True
+Fauna	生物相	0.9773040413856506	False
+Fauna	動物	0.9772613048553467	False
+Fauna	自然	0.9683322310447693	False
+Fauna	生物	0.9478790163993835	False
+Fauna	地理	0.9050941467285156	False
+Fauna	分類	0.5787631273269653	False
+Fauna	概要	0.4689185619354248	False
+Fauna	作品	0.4575209319591522	False
+Fauna	歴史	0.3850202262401581	False
+Student life	学生生活	0.9357556700706482	True
+Student life	ランキング	0.8623311519622803	False
+Student life	概要	0.8562753200531006	False
+Student life	歴史	0.8306412696838379	False
+Student life	キャンパス	0.8133316040039062	False
+Student life	組織	0.7930007576942444	False
+Student life	沿革	0.789503812789917	False
+Student life	行事	0.7836435437202454	False
+Student life	学部	0.7762686014175415	False
+Student life	スポーツ	0.7497863173484802	False
+Models	ラインナップ	0.9914337396621704	False
+Models	モデル	0.9913696050643921	True
+Models	バリエーション	0.9837145209312439	False
+Models	車種	0.983611524105072	False
+Models	歴史	0.9629598259925842	False
+Models	車種一覧	0.9515913724899292	False
+Models	特徴	0.9362373352050781	False
+Models	デザイン	0.9044641852378845	False
+Models	概要	0.7436349987983704	False
+Models	現行モデル	0.6561646461486816	False
+Result	結果	0.9341781735420227	True
+Result	大会結果	0.9277102947235107	False
+Result	決勝	0.7339213490486145	False
+Result	得点ランキング	0.6447159647941589	False
+Result	関連項目	0.25696441531181335	False
+Result	事故原因	0.24506542086601257	False
+Result	経緯	0.2137332409620285	False
+Result	背景	0.21043939888477325	False
+Result	参考文献	0.16426149010658264	False
+Result	脚注	0.12693072855472565	False
+Aircraft	製品	0.9958631992340088	False
+Aircraft	機体	0.9937917590141296	False
+Aircraft	航空機	0.9863461852073669	True
+Aircraft	概要	0.9832067489624023	False
+Aircraft	装備	0.9821720719337463	False
+Aircraft	歴史	0.9780433177947998	False
+Aircraft	編成	0.9657873511314392	False
+Aircraft	事故機	0.9416685700416565	False
+Aircraft	設計	0.7894668579101562	False
+Aircraft	製品一覧	0.7820996046066284	False
+Present day	現在	0.9923170804977417	True
+Present day	現状	0.9855683445930481	False
+Present day	概要	0.9711167216300964	False
+Present day	歴史	0.7601671814918518	False
+Present day	ギャラリー	0.5973598957061768	False
+Present day	参考文献	0.5790717601776123	False
+Present day	構造	0.5647845268249512	False
+Present day	沿革	0.5600045323371887	False
+Present day	言語	0.4773041009902954	False
+Present day	名称	0.42238524556159973	False
+Artists	歴史	0.9904654026031494	False
+Artists	アーティスト	0.9896188378334045	True
+Artists	所属アーティスト	0.9840630292892456	False
+Business career	職歴	0.9787048101425171	True
+Business career	プロフィール	0.9771822094917297	False
+Artists	レーベル	0.9521899819374084	False
+Business career	経歴	0.951697051525116	False
+Business career	来歴	0.9372665882110596	False
+Artists	概要	0.9181322455406189	False
+Artists	所属	0.9105691313743591	False
+Artists	主なアーティスト	0.9099931716918945	False
+Business career	略歴	0.9003168940544128	False
+Business career	概要	0.8958570957183838	False
+Business career	人物	0.7864628434181213	False
+Artists	ディスコグラフィ	0.7328925728797913	False
+Artists	沿革	0.7007272839546204	False
+Business career	私生活	0.6809465289115906	False
+Business career	栄典	0.6791288256645203	False
+Business career	家族	0.6186042428016663	False
+Artists	種類	0.45040184259414673	False
+Radio	ラジオ	0.9689140915870667	True
+Radio	メンバー	0.959284782409668	False
+Radio	概要	0.7821385264396667	False
+Radio	沿革	0.6503236293792725	False
+Radio	人物	0.48152098059654236	False
+Radio	映画	0.41438889503479004	False
+Radio	略歴	0.41066882014274597	False
+Radio	歴史	0.4064445495605469	False
+Radio	生い立ち	0.34862157702445984	False
+Radio	プロフィール	0.33220160007476807	False
+Variations	バリエーション	0.9894371032714844	False
+Variations	種類	0.9828738570213318	False
+Variations	変種	0.9806748032569885	False
+Variations	派生	0.9541589617729187	True
+Variations	用途	0.9474406242370605	False
+Variations	ルール	0.9172110557556152	False
+Variations	デザイン	0.9057521224021912	False
+Variations	アルゴリズム	0.8439559936523438	False
+Variations	例	0.7857130765914917	False
+Variations	歴史	0.7495574355125427	False
+Final round	会場	0.9769089818000793	False
+Final round	決勝ラウンド	0.9751359224319458	False
+Final round	決勝トーナメント	0.9733315110206604	False
+Final round	試合会場	0.9691746830940247	False
+Final round	試合結果	0.9598375558853149	False
+Final round	準決勝	0.9501451253890991	False
+Final round	開催地	0.9374595284461975	False
+Final round	最終結果	0.8901998996734619	True
+Final round	予選ラウンド	0.8507727980613708	False
+Final round	決勝	0.8160676956176758	False
+Performance	性能	0.9946962594985962	False
+Performance	パフォーマンス	0.9728776216506958	True
+Performance	演奏	0.9681278467178345	False
+Performance	クラブ別優勝回数	0.9324311017990112	False
+Performance	歴代優勝クラブ	0.9191681742668152	False
+Performance	解説	0.8844506144523621	False
+Performance	機能	0.8525209426879883	False
+Performance	出演	0.8240997791290283	False
+Performance	メカニズム	0.8183652758598328	False
+Performance	概要	0.7510464191436768	False
+Performances	演奏	0.9878990054130554	False
+Performances	パフォーマンス	0.9833552241325378	True
+Performances	歴史	0.9814950823783875	False
+Performances	メンバー	0.9594555497169495	False
+Performances	結果	0.9457607269287109	False
+Performances	歴代優勝クラブ	0.945362389087677	False
+Performances	略歴	0.930635392665863	False
+Performances	クラブ別優勝回数	0.9139562845230103	False
+Performances	解説	0.9077046513557434	False
+Performances	歴代大会結果	0.8714075088500977	False
+Later life and death	晩年	0.9955615997314453	True
+Later life and death	戦後	0.9951795339584351	False
+Later life and death	引退後	0.9623213410377502	False
+Later life and death	生涯	0.9620413184165955	False
+Later life and death	晩年と死	0.9594388604164124	False
+Later life and death	参考文献	0.9520049691200256	False
+Later life and death	評価	0.9500972628593445	False
+Later life and death	家族	0.9460195302963257	False
+Later life and death	伝記	0.9420207142829895	False
+Later life and death	エピソード	0.9373683929443359	False
+World War I	歴史	0.9829477667808533	False
+World War I	第一次世界大戦	0.97496098279953	True
+World War I	生涯	0.9377199411392212	False
+World War I	経歴	0.9234974980354309	False
+World War I	沿革	0.8861183524131775	False
+World War I	概要	0.8845236897468567	False
+World War I	来歴	0.8349887728691101	False
+World War I	起源	0.8148208260536194	False
+World War I	子女	0.7781210541725159	False
+World War I	栄典	0.7697513103485107	False
+Image gallery	ギャラリー	0.9983035326004028	True
+Image gallery	画像	0.9935001730918884	False
+Image gallery	文学	0.9447715878486633	False
+Image gallery	地理	0.9229913949966431	False
+Image gallery	構造	0.9084770083427429	False
+Image gallery	交通	0.8475184440612793	False
+Image gallery	分類	0.8428913354873657	False
+Image gallery	行政区画	0.8140425682067871	False
+Image gallery	参考文献	0.7699403166770935	False
+Image gallery	脚注	0.7576192021369934	False
+Chemistry	化学	0.9875592589378357	True
+Chemistry	構造	0.9566830992698669	False
+Chemistry	成分	0.8765217065811157	False
+Chemistry	その他	0.8246264457702637	False
+Chemistry	合成	0.7797979712486267	False
+Chemistry	化学的性質	0.7495385408401489	False
+Chemistry	化合物	0.7455523610115051	False
+Chemistry	利用	0.7412955164909363	False
+Chemistry	副作用	0.6706253290176392	False
+Chemistry	作用機序	0.6373403072357178	False
+Ownership	株主	0.9783076047897339	False
+Ownership	沿革	0.9779027104377747	False
+Ownership	所有権	0.9324439764022827	True
+Ownership	歴史	0.8349076509475708	False
+Ownership	概要	0.7301485538482666	False
+Ownership	建物	0.37589067220687866	False
+Ownership	成績	0.31829017400741577	False
+Ownership	タイトル	0.2903566062450409	False
+Ownership	サッカー	0.28489822149276733	False
+Ownership	スタジアム	0.2609198987483978	False
+Science and technology	コンピュータ	0.9932423233985901	False
+Science and technology	記号	0.9861339926719666	False
+Science and technology	記号・単位	0.8990771174430847	False
+Science and technology	略語	0.868289053440094	False
+Science and technology	作品	0.8312180638313293	False
+Science and technology	地理	0.7927501797676086	False
+Science and technology	歴史	0.75966876745224	False
+Science and technology	他の記号等を付して用いるもの	0.7510606646537781	False
+Science and technology	政治	0.7485334873199463	False
+Science and technology	経済	0.7444269061088562	False
+Environment	環境	0.9940391778945923	True
+Environment	自然	0.9924760460853577	False
+Environment	言語	0.9649944305419922	False
+Environment	構造	0.9443612694740295	False
+Environment	地理	0.8532259464263916	False
+Environment	環境問題	0.7578330636024475	False
+Environment	歴史	0.6667774319648743	False
+Environment	概要	0.6285454034805298	False
+Environment	交通	0.5949733853340149	False
+Environment	経済	0.562873363494873	False
+Broadcast	放送	0.9914911389350891	True
+Recipients	受賞者	0.9900615215301514	True
+Recipients	受賞者一覧	0.9804855585098267	False
+Broadcast	スタッフ	0.9601516723632812	False
+Recipients	受章者	0.881027102470398	False
+Recipients	主な受章者	0.8742575645446777	False
+Recipients	受賞作	0.8385828137397766	False
+Broadcast	概要	0.7301350831985474	False
+Broadcast	キャスト	0.715496838092804	False
+Broadcast	エピソード	0.7089183330535889	False
+Recipients	著名な受賞者	0.6760900616645813	False
+Broadcast	映画	0.6575790047645569	False
+Broadcast	主題歌	0.656717836856842	False
+Broadcast	サブタイトル	0.6256940960884094	False
+Broadcast	ポイントと賞金総額	0.5515977740287781	False
+Broadcast	賞	0.5362603664398193	False
+Recipients	関連項目	0.17761024832725525	False
+Recipients	歴史	0.15907835960388184	False
+Recipients	概要	0.15675601363182068	False
+Recipients	沿革	0.1357978731393814	False
+Versions	バージョン	0.9955008625984192	True
+Versions	シリーズ	0.9895846247673035	False
+Versions	バリエーション	0.9846124053001404	False
+Versions	用途	0.9785043001174927	False
+Versions	例	0.9713830947875977	False
+Versions	派生型	0.9665442109107971	False
+Versions	登場人物	0.9608736038208008	False
+Versions	歴史	0.9506704807281494	False
+Versions	概要	0.9334629774093628	False
+Versions	仕様	0.930266261100769	False
+Semifinals	準決勝	0.9963570237159729	True
+Semifinals	準々決勝	0.9789809584617615	False
+Semifinals	結果	0.9668927788734436	False
+Semifinals	3位決定戦	0.9550479054450989	False
+Semifinals	最終順位	0.9174129962921143	False
+Semifinals	最終フェーズ	0.9093559980392456	False
+Semifinals	1回戦	0.8500352501869202	False
+Semifinals	第1フェーズ	0.6177792549133301	False
+Semifinals	参考文献	0.3048766553401947	False
+Semifinals	フォーマット	0.09192449599504471	False
+Quarter-finals	準々決勝	0.9986868500709534	True
+Quarter-finals	決勝トーナメント	0.9962890148162842	False
+Quarter-finals	3回戦	0.9959442019462585	False
+Quarter-finals	2回戦	0.9955026507377625	False
+Quarter-finals	準決勝	0.9918870329856873	False
+Quarter-finals	出場チーム	0.9905191659927368	False
+Quarter-finals	3位決定戦	0.9897240400314331	False
+Quarter-finals	ラウンド32	0.9889351725578308	False
+Quarter-finals	ラウンド16	0.9881961345672607	False
+Quarter-finals	1回戦	0.9876018166542053	False
+Sister cities	姉妹都市・提携都市	0.9919090867042542	False
+Sister cities	姉妹都市	0.9899795055389404	True
+Sister cities	友好都市	0.9718138575553894	False
+Sister cities	姉妹都市・友好都市	0.9585568308830261	False
+Sister cities	国際交流	0.8162166476249695	False
+Sister cities	交通	0.8090839982032776	False
+Sister cities	友好姉妹都市	0.7803829312324524	False
+Sister cities	名所	0.7427416443824768	False
+Sister cities	経済	0.7308042049407959	False
+Sister cities	観光	0.6779080033302307	False
+Concept	概要	0.9966986775398254	False
+Concept	コンセプト	0.9922723770141602	True
+Concept	歴史	0.9916383624076843	False
+Concept	概説	0.9893292784690857	False
+Concept	解説	0.9889673590660095	False
+Concept	背景	0.9723896384239197	False
+Concept	内容	0.9252314567565918	False
+Concept	収録曲	0.8243714570999146	False
+Concept	メンバー	0.7616896033287048	False
+Concept	特徴	0.7486607432365417	False
+Legend	概要	0.983431875705719	False
+Legend	伝承	0.9815863966941833	True
+Legend	伝説	0.9736878275871277	False
+Legend	経歴	0.8500127196311951	False
+Legend	生涯	0.8100547790527344	False
+Legend	歴史	0.6707156896591187	False
+Legend	背景	0.4973641335964203	False
+Legend	子女	0.41181033849716187	False
+Legend	崇敬	0.2090190351009369	False
+Legend	ギャラリー	0.1892549991607666	False
+Private life	私生活	0.9972338080406189	True
+Private life	家族	0.9944607019424438	False
+Private life	人物	0.9845709204673767	False
+Private life	獲得タイトル	0.962785542011261	False
+Private life	生い立ち	0.9541126489639282	False
+Private life	子女	0.9325318336486816	False
+Private life	系譜	0.9090031385421753	False
+Private life	エピソード	0.8876489996910095	False
+Private life	栄典	0.8830656409263611	False
+Private life	著作	0.874137282371521	False
+Style of play	プレイスタイル	0.9927218556404114	False
+Style of play	プレースタイル	0.9861156940460205	True
+Style of play	評価	0.9802230596542358	False
+Style of play	私生活	0.9596397280693054	False
+Style of play	エピソード	0.9553133249282837	False
+Style of play	家族	0.934128999710083	False
+Style of play	代表	0.9041846990585327	False
+Style of play	生い立ち	0.8962168097496033	False
+Style of play	概要	0.8941592574119568	False
+Style of play	タイトル	0.8819262981414795	False
+Other media	ゲーム	0.9861283302307129	False
+Other media	映画化	0.9791790246963501	False
+Other media	映画	0.9724207520484924	False
+Other media	関連作品	0.9579518437385559	False
+Other media	参考文献	0.9416303634643555	False
+Other media	スタッフ	0.9341520667076111	False
+Other media	作品	0.9333598613739014	False
+Other media	漫画版	0.9268460869789124	False
+Other media	主題歌	0.896340012550354	False
+Other media	音楽	0.8961484432220459	False
+Family life	家族	0.9925538897514343	True
+Family life	子女	0.9354804158210754	False
+Family life	略歴	0.8950490951538086	False
+Family life	栄典	0.8652207255363464	False
+Family life	生涯	0.852315366268158	False
+Family life	逸話	0.7895218133926392	False
+Family life	家庭生活	0.7575362920761108	False
+Family life	死	0.7196987271308899	False
+Family life	評価	0.7055963277816772	False
+Family life	出典	0.6419445872306824	False
+Cycling	自転車	0.9707396626472473	True
+Cycling	種目別選手・スタッフ名簿及び成績	0.909231424331665	False
+Cycling	概要	0.7767595648765564	False
+Cycling	水泳	0.5216318368911743	False
+Cycling	歴史	0.45876219868659973	False
+Cycling	メダル獲得者	0.44953370094299316	False
+Cycling	参考文献	0.40712693333625793	False
+Cycling	メダル	0.3934621214866638	False
+Cycling	選手団	0.335635781288147	False
+Cycling	外部リンク	0.27067267894744873	False
+20th century	歴史	0.9895513653755188	False
+20th century	概要	0.9853814840316772	False
+20th century	20世紀	0.7786690592765808	True
+20th century	概説	0.47493016719818115	False
+20th century	年表	0.4378608763217926	False
+20th century	近代	0.43153735995292664	False
+20th century	近代史	0.38391757011413574	False
+20th century	19世紀	0.326265811920166	False
+20th century	18世紀	0.31226876378059387	False
+20th century	現代	0.26169678568840027	False
+Morphology	分類	0.9804609417915344	False
+Morphology	文法	0.9797009229660034	False
+Morphology	形態	0.9784382581710815	False
+Morphology	下位分類	0.9250839948654175	False
+Morphology	特徴	0.8829443454742432	False
+Morphology	形態論	0.7627639770507812	False
+Morphology	種	0.7616005539894104	False
+Morphology	呼称	0.5337316393852234	False
+Morphology	生態	0.4813002049922943	False
+Morphology	歴史	0.475044310092926	False
+Context	概要	0.9943376183509827	False
+Context	背景	0.9937018156051636	True
+Context	内容	0.9926888346672058	False
+Context	経緯	0.9862601161003113	False
+Context	定義	0.9085524082183838	False
+Context	経過	0.9057207703590393	False
+Context	歴史	0.8987116813659668	False
+Context	概説	0.8912005424499512	False
+Context	コンテクスト	0.7156429886817932	True
+Context	構成	0.6229705214500427	False
+Match	試合結果	0.9844955801963806	False
+Match	結果	0.976344108581543	False
+Match	詳細	0.9751877784729004	False
+Match	試合	0.9738456606864929	True
+Match	出場チーム	0.9465171098709106	False
+Match	試合詳細	0.9296277761459351	False
+Match	試合経過	0.9200093150138855	False
+Match	試合後	0.5626752376556396	False
+Match	背景	0.543087363243103	False
+Match	決勝戦までの道のり	0.49176886677742004	False
+Names	呼称	0.9961887001991272	False
+Names	名称	0.9949378967285156	True
+Names	名前	0.9941025376319885	False
+Names	構造	0.9779437780380249	False
+Names	概要	0.9720728993415833	False
+Names	分布	0.9612470865249634	False
+Names	地名	0.9587014317512512	False
+Names	来歴	0.949836790561676	False
+Names	歴史	0.9068679213523865	False
+Names	地理	0.8186888694763184	False
+Football	サッカー	0.9859370589256287	True
+Football	歴史	0.9844301342964172	False
+Football	概要	0.9779868721961975	False
+Football	経歴	0.9463827610015869	False
+Football	フットボール	0.8589769005775452	False
+Football	来歴	0.7579686641693115	False
+Football	その他	0.5366805791854858	False
+Football	獲得タイトル	0.4109435975551605	False
+Football	メダル	0.3926558196544647	False
+Football	地理	0.3719385266304016	False
+Translations	翻訳	0.9841167330741882	True
+Translations	日本語訳	0.5755526423454285	False
+Translations	作品	0.5647859573364258	False
+Translations	伝記	0.5432620644569397	False
+Translations	映画	0.515265166759491	False
+Translations	影響	0.4871476888656616	False
+Translations	訳書	0.4870680272579193	False
+Translations	歴史	0.45133131742477417	False
+Translations	参考文献	0.4096795320510864	False
+Translations	著作	0.4034406840801239	False
+Miscellaneous	観光	0.9952858090400696	False
+Miscellaneous	その他	0.9929047226905823	True
+Miscellaneous	姉妹都市	0.9736310839653015	False
+Miscellaneous	地理	0.6781624555587769	False
+Miscellaneous	メディア	0.5817899107933044	False
+Miscellaneous	出身人物	0.5345145463943481	False
+Miscellaneous	文化	0.5246070623397827	False
+Miscellaneous	概要	0.5033917427062988	False
+Miscellaneous	獲得タイトル	0.4855068624019623	False
+Miscellaneous	交通	0.47288113832473755	False
+Casualties	損失	0.9762570858001709	False
+Casualties	犠牲者	0.9726752042770386	True
+Casualties	死傷者	0.9644507169723511	True
+Casualties	損害	0.8442867994308472	False
+Casualties	概要	0.6738355159759521	False
+Casualties	影響	0.47928494215011597	False
+Casualties	被害・影響	0.4624544382095337	False
+Casualties	出典	0.34433525800704956	False
+Casualties	戦闘	0.31586405634880066	False
+Casualties	脚注	0.3103521764278412	False
+Novels	作品	0.97975093126297	False
+Novels	小説	0.957787036895752	True
+Novels	作品リスト	0.9064053893089294	False
+Novels	シリーズ作品	0.8854584693908691	False
+Novels	登場作品	0.8006706237792969	False
+Novels	映画	0.7763167023658752	False
+Novels	シリーズ	0.6125460267066956	False
+Novels	主な作品	0.6056516170501709	False
+Novels	登場人物	0.5927698612213135	False
+Novels	キャスト	0.5100084543228149	False
+Wildlife	野生動物	0.9886701107025146	False
+Wildlife	生物	0.9787794947624207	False
+Wildlife	動植物	0.9322595000267029	False
+Wildlife	野生生物	0.8554877042770386	True
+Wildlife	自然	0.7473136186599731	False
+Wildlife	生態系	0.7460052967071533	False
+Wildlife	ギャラリー	0.6811987161636353	False
+Wildlife	地理	0.5850756764411926	False
+Wildlife	交通	0.5569857358932495	False
+Wildlife	政治	0.5318744778633118	False
+Cause	原因	0.9953946471214294	True
+Cause	病因	0.9716372489929199	False
+Cause	種類	0.9714080691337585	False
+Cause	病原体	0.9554172158241272	False
+Cause	概要	0.8406273722648621	False
+Cause	症状	0.7257543206214905	False
+Cause	概説	0.7084007859230042	False
+Cause	感染経路	0.6432791352272034	False
+Cause	解説	0.6184614300727844	False
+Cause	定義	0.5924497842788696	False
+Incidents	事件	0.9937279224395752	True
+Criticisms	批判	0.9917755126953125	True
+Incidents	事故	0.987405002117157	False
+Criticisms	批評	0.8516349196434021	True
+Incidents	路線	0.826453447341919	False
+Incidents	その他	0.7899781465530396	False
+Criticisms	特徴	0.7779459357261658	False
+Incidents	駅一覧	0.7052775025367737	False
+Criticisms	概要	0.6789190769195557	False
+Incidents	概要	0.6550149917602539	False
+Incidents	就航航空会社と就航都市	0.626335620880127	False
+Incidents	歴史	0.5967468023300171	False
+Incidents	利用状況	0.5150821805000305	False
+Criticisms	参考文献	0.48769548535346985	False
+Criticisms	歴史	0.4573639929294586	False
+Criticisms	議論	0.3901066780090332	False
+Criticisms	評価	0.36602160334587097	True
+Criticisms	文献	0.35401248931884766	False
+Incidents	沿革	0.35217735171318054	False
+Criticisms	関連項目	0.3362138867378235	False
+Safety	安全性	0.9836360812187195	True
+Safety	用途	0.7801849842071533	False
+Safety	概要	0.6668416261672974	False
+Safety	議論	0.4971412420272827	False
+Safety	事故	0.46844595670700073	False
+Safety	性質	0.4508986175060272	False
+Safety	関連項目	0.4345942735671997	False
+Safety	歴史	0.38527509570121765	False
+Safety	毒性	0.3820006847381592	False
+Safety	参考文献	0.3788904547691345	False
+Plot introduction	あらすじ	0.9348428845405579	True
+Plot introduction	収録作品	0.6679946184158325	False
+Plot introduction	評価	0.5486074090003967	False
+Plot introduction	主な登場人物	0.18178121745586395	False
+Plot introduction	映画化	0.17016233503818512	False
+Plot introduction	関連項目	0.1676167994737625	False
+Plot introduction	日本語訳	0.1659644991159439	False
+Plot introduction	派生作品	0.16429471969604492	False
+Plot introduction	映像化	0.14738748967647552	False
+Plot introduction	映像化作品	0.14229018986225128	False
+Functions	機能	0.9921482801437378	True
+Functions	種類	0.9607334136962891	False
+Functions	権能	0.9467717409133911	False
+Functions	歴史	0.8940879106521606	False
+Functions	概要	0.811689555644989	False
+Functions	沿革	0.7736115455627441	False
+Functions	例	0.7012885212898254	False
+Functions	任務	0.5507903099060059	False
+Functions	構成	0.5144323110580444	False
+Functions	構造	0.49251818656921387	False
+Video games	ゲーム	0.9896001815795898	False
+Video games	作品	0.9854021072387695	False
+Video games	関連商品	0.9536718130111694	False
+Video games	シリーズ一覧	0.9268786907196045	False
+Video games	コンピュータゲーム	0.89781653881073	False
+Video games	音楽	0.8875904679298401	False
+Video games	スタッフ	0.871644914150238	False
+Video games	その他	0.8657186627388	False
+Video games	テレビゲーム	0.8582282662391663	True
+Video games	書籍	0.8235960006713867	False
+Art	美術	0.9630973935127258	True
+Art	芸術	0.9620732069015503	True
+Art	代表作	0.9124933481216431	False
+Art	歴史	0.7747018337249756	False
+Art	地理	0.6639373898506165	False
+Art	人物	0.6567380428314209	False
+Art	作品	0.5785448551177979	False
+Art	音楽	0.5247861742973328	False
+Art	ギャラリー	0.4997471570968628	False
+Art	概要	0.47818344831466675	False
+Mechanism	機構	0.9944186210632324	True
+Mechanism	メカニズム	0.9921350479125977	True
+Mechanism	定義	0.9648461937904358	False
+Mechanism	構成	0.9557382464408875	False
+Mechanism	原理	0.9514628052711487	False
+Mechanism	分類	0.9332764744758606	False
+Mechanism	作用機序	0.8604579567909241	False
+Mechanism	概要	0.841914176940918	False
+Mechanism	反応機構	0.7925436496734619	False
+Mechanism	症状	0.7744986414909363	False
+Routes	経路	0.9878901839256287	True
+Routes	概要	0.9750664830207825	False
+Routes	歴史	0.8720085620880127	False
+Routes	関連項目	0.18219245970249176	False
+Routes	使用車両	0.1600545048713684	False
+Routes	外部リンク	0.1477520912885666	False
+Routes	遺産	0.12082473188638687	False
+Routes	参考文献	0.11830805242061615	False
+Routes	ギャラリー	0.10360381752252579	False
+Routes	統計	0.09684091806411743	False
+Other work	ディスコグラフィー	0.9812923669815063	False
+Other work	その他	0.9744330644607544	False
+Other work	作品	0.9647343158721924	False
+Other work	受賞	0.9221721291542053	False
+Other work	業績	0.8836365342140198	False
+Other work	著作	0.8807458877563477	False
+Other work	プロフィール	0.8782978653907776	False
+Other work	出演	0.8745883703231812	False
+Other work	エピソード	0.873185932636261	False
+Other work	その他の活動	0.8727166056632996	False
+Community	コミュニティ	0.9727419018745422	True
+Community	使用状況	0.8269779682159424	False
+Community	歴史	0.5516926646232605	False
+Community	概要	0.42498838901519775	False
+Community	交通	0.4152582883834839	False
+Community	政治	0.3513810634613037	False
+Community	文法	0.34651264548301697	False
+Community	教育	0.3070356845855713	False
+Community	経済	0.3004680573940277	False
+Community	関連項目	0.29971814155578613	False
+Definitions	定義	0.9968691468238831	True
+Definitions	地理	0.9737424254417419	False
+Definitions	概説	0.9688587784767151	False
+Definitions	呼称	0.9481480121612549	False
+Definitions	概要	0.9424254298210144	False
+Definitions	特徴	0.9175665378570557	False
+Definitions	歴史	0.8260896801948547	False
+Definitions	用語	0.80524080991745	False
+Definitions	分類	0.670928955078125	False
+Definitions	Definitions	0.6246089339256287	False
+21st century	歴史	0.8666550517082214	False
+21st century	21世紀	0.6516071557998657	True
+21st century	外部リンク	0.586397111415863	False
+21st century	現在	0.5133340358734131	False
+21st century	関連項目	0.40882590413093567	False
+21st century	前史	0.39972826838493347	False
+21st century	その他	0.3961282968521118	False
+21st century	スポーツ	0.39262157678604126	False
+21st century	参考文献	0.3596072196960449	False
+21st century	概要	0.2756495475769043	False
+Marketing	マーケティング	0.9849473237991333	False
+Marketing	販売	0.8760541081428528	True
+Marketing	製作	0.7976060509681702	False
+Marketing	大会マスコット	0.7751544713973999	False
+Marketing	キャスト	0.7536875009536743	False
+Marketing	スタッフ	0.7257023453712463	False
+Marketing	概要	0.7190908789634705	False
+Marketing	モータースポーツ	0.6971431374549866	False
+Marketing	評価	0.6761029362678528	False
+Marketing	公開	0.6376422047615051	False
+Health	健康	0.9767736196517944	True
+Health	歴史	0.725620448589325	False
+Health	都市と町	0.6644567847251892	False
+Health	地理	0.5775908827781677	False
+Health	医療	0.5571568608283997	False
+Health	経済	0.543228030204773	False
+Health	健康面	0.5363068580627441	False
+Health	特徴	0.5304983258247375	False
+Health	宗教	0.5184446573257446	False
+Health	交通	0.5162613391876221	False
+Poetry	詩	0.9641332626342773	True
+Poetry	逸話	0.9437823295593262	False
+Poetry	作品	0.9395707845687866	False
+Poetry	詩作	0.8758367896080017	False
+Poetry	生涯	0.6299821138381958	False
+Poetry	系譜	0.49170780181884766	False
+Poetry	概要	0.42131122946739197	False
+Poetry	略歴	0.41385969519615173	False
+Poetry	評価	0.4010619521141052	False
+Poetry	年譜	0.39066654443740845	False
+Reaction	反応	0.9900898933410645	True
+Reaction	影響	0.9893914461135864	False
+Reaction	反響	0.9812310338020325	False
+Reaction	評価	0.9724360704421997	False
+Reaction	その後	0.8990161418914795	False
+Reaction	概要	0.7513877749443054	False
+Reaction	キャスト	0.685660719871521	False
+Reaction	その他	0.5919064283370972	False
+Reaction	スタッフ	0.43853574991226196	False
+Reaction	製作	0.3716113865375519	False
+Languages	分類	0.9955493211746216	False
+Languages	言語	0.9949607849121094	True
+Languages	住民	0.9932460784912109	False
+Languages	下位分類	0.9784814119338989	False
+Languages	行政	0.9671428203582764	False
+Languages	社会	0.9598397612571716	False
+Languages	概説	0.9259287714958191	False
+Languages	名称	0.9091253876686096	False
+Languages	分布	0.890619695186615	False
+Languages	民族構成	0.8320510983467102	False
+Geography and climate	地理	0.9973376393318176	False
+Geography and climate	概要	0.9848664402961731	False
+Geography and climate	地理と気候	0.9831138849258423	True
+Geography and climate	気候	0.982948362827301	False
+Geography and climate	地勢	0.9801514744758606	False
+Geography and climate	地理・気候	0.9600135684013367	False
+Geography and climate	歴史	0.9202930927276611	False
+Geography and climate	交通	0.8127676248550415	False
+Geography and climate	政治	0.8046573996543884	False
+Geography and climate	文化	0.7795518040657043	False
+Issues	問題	0.9881255626678467	False
+Issues	課題	0.962841808795929	False
+Issues	問題点	0.9169613122940063	True
+Issues	概要	0.7371566891670227	False
+Issues	歴史	0.499542236328125	False
+Issues	分類	0.43956202268600464	False
+Issues	機能	0.36143946647644043	False
+Issues	仕様	0.2967471182346344	False
+Issues	関連項目	0.27761685848236084	False
+Issues	沿革	0.2714363634586334	False
+Philosophy	哲学	0.9921070337295532	True
+Philosophy	思想	0.9887795448303223	False
+Philosophy	人物	0.9070850014686584	False
+Philosophy	概要	0.8788429498672485	False
+Philosophy	著作	0.8129482269287109	False
+Philosophy	歴史	0.7835351228713989	False
+Philosophy	業績	0.7623763084411621	False
+Philosophy	生涯	0.5984975695610046	False
+Philosophy	経歴	0.5320925712585449	False
+Philosophy	文法	0.5197213888168335	False
+Advantages	利点	0.9911937117576599	True
+Advantages	特徴	0.9834166765213013	False
+Advantages	技術	0.9722899794578552	False
+Advantages	概要	0.7992978096008301	False
+Advantages	欠点	0.5246491432189941	False
+Advantages	用途	0.5105522274971008	False
+Advantages	特長	0.47297531366348267	False
+Advantages	構造	0.44289320707321167	False
+Advantages	歴史	0.4337999224662781	False
+Advantages	概説	0.4205490052700043	False
+Second World War	第二次世界大戦	0.9882485866546631	True
+Second World War	来歴	0.9867864847183228	False
+Second World War	経歴	0.9767695069313049	False
+Second World War	生涯	0.9595192670822144	False
+Second World War	歴史	0.916756272315979	False
+Second World War	略歴	0.8368065357208252	False
+Second World War	家族	0.7616351842880249	False
+Second World War	著作	0.7615587711334229	False
+Second World War	映画	0.7424871325492859	False
+Second World War	子女	0.665913462638855	False
+Author	概要	0.9124442338943481	False
+Author	著者	0.9048514366149902	True
+Author	業績	0.786446213722229	False
+Author	生涯	0.7364066243171692	False
+Author	略歴	0.6163212656974792	False
+Author	著作	0.5602759122848511	False
+Author	著書	0.42488884925842285	False
+Author	経歴	0.378415048122406	False
+Author	参考文献	0.3425791561603546	False
+Author	人物	0.33416131138801575	False
+Society and culture	文化	0.9867536425590515	False
+Japan	日本	0.9821950793266296	True
+Society and culture	乱用	0.896851658821106	False
+Society and culture	ドーピング	0.8711773157119751	False
+Japan	概要	0.8711242079734802	False
+Society and culture	スポーツ	0.8548054695129395	False
+Society and culture	規制	0.8515259027481079	False
+Society and culture	社会と文化	0.8503724336624146	True
+Society and culture	予後	0.8316906094551086	False
+Society and culture	副作用	0.8290789723396301	False
+Japan	香港	0.8212875723838806	False
+Society and culture	治療	0.8133722543716431	False
+Japan	歴史	0.7833550572395325	False
+Japan	アジア	0.7681730389595032	False
+Society and culture	種類	0.7673646807670593	False
+Japan	ヨーロッパ	0.7591077089309692	False
+Japan	イギリス	0.7544721961021423	False
+Japan	著書	0.7510598301887512	False
+Japan	参考文献	0.7370105385780334	False
+Japan	種類	0.727850079536438	False
+Science	科学	0.9909466505050659	True
+Science	その他	0.910163164138794	False
+Science	物理学	0.7660946846008301	False
+Science	教育	0.566276490688324	False
+Science	楽曲	0.45440584421157837	False
+Science	標準時	0.44375717639923096	False
+Science	人物	0.427476704120636	False
+Science	経済	0.42161229252815247	False
+Science	参考文献	0.4135371744632721	False
+Science	映画	0.36954906582832336	False
+2000s	2000年代	0.989051878452301	True
+2000s	2010年代	0.964039146900177	False
+2000s	受賞と候補の一覧	0.9506233930587769	False
+2000s	外部リンク	0.9259817004203796	False
+2000s	関連項目	0.9105216860771179	False
+2000s	1990年代	0.8843672275543213	False
+2000s	1980年代	0.8829680681228638	False
+2000s	来歴	0.8432854413986206	False
+2000s	1970年代	0.7869951725006104	False
+2000s	経歴	0.31567874550819397	False
+1990s	1990年代	0.9947376847267151	True
+1990s	1980年代	0.9746876358985901	False
+1990s	1970年代	0.9391473531723022	False
+1990s	受賞と候補の一覧	0.9366527795791626	False
+1990s	2000年代	0.9264535307884216	False
+1990s	2010年代	0.8960666060447693	False
+1990s	経歴	0.8344852328300476	False
+1990s	来歴	0.8137704133987427	False
+1990s	年表	0.6124802827835083	False
+1990s	概要	0.4175378680229187	False
+France	フランス	0.9970748424530029	True
+France	イギリス	0.8480096459388733	False
+France	概要	0.8118813633918762	False
+France	その他	0.7796455025672913	False
+France	オーストリア	0.7563793659210205	False
+France	歴史	0.7421106696128845	False
+France	アジア	0.7255185842514038	False
+France	ヨーロッパ	0.7203259468078613	False
+France	語源	0.647190272808075	False
+France	日本	0.5699563026428223	False
+North America	北アメリカ	0.9597033858299255	True
+North America	ヨーロッパ	0.8757304549217224	False
+North America	日本	0.8610411286354065	False
+North America	中国	0.8271183371543884	False
+North America	歴史	0.7807665467262268	False
+North America	アフリカ	0.7685239315032959	False
+North America	分類	0.7625498175621033	False
+North America	概要	0.7573131918907166	False
+North America	イギリス	0.7473446130752563	False
+North America	アジア	0.7404100894927979	False
+19th century	歴史	0.9922539591789246	False
+19th century	19世紀	0.9178091883659363	True
+19th century	概要	0.5797739624977112	False
+19th century	年表	0.4648398756980896	False
+19th century	近代	0.4614149034023285	False
+19th century	近世	0.378512442111969	False
+19th century	前史	0.3391827344894409	False
+19th century	中世	0.26326820254325867	False
+19th century	現代	0.2575395405292511	False
+19th century	スペイン植民地時代	0.23439471423625946	False
+Germany	ドイツ	0.9943228960037231	True
+Germany	オーストリア	0.864055335521698	False
+Germany	概要	0.8300325870513916	False
+Germany	ヨーロッパ	0.7953223586082458	False
+Germany	イギリス	0.7876066565513611	False
+Germany	その他	0.6816137433052063	False
+Germany	種類	0.6692660450935364	False
+Germany	アジア	0.615289032459259	False
+Germany	日本	0.4695380926132202	False
+Germany	作品	0.465760737657547	False
+Agriculture	農業	0.9939991235733032	True
+Agriculture	行政	0.7778080701828003	False
+Agriculture	経済	0.7269576191902161	False
+Agriculture	地理	0.716093897819519	False
+Agriculture	言語	0.6094205379486084	False
+Agriculture	人口	0.6063696146011353	False
+Agriculture	住民	0.6008434891700745	False
+Agriculture	歴史	0.5738233923912048	False
+Agriculture	文化	0.5066801309585571	False
+Agriculture	概要	0.5001832246780396	False
+1980s	1980年代	0.9978172779083252	True
+1980s	1970年代	0.9859532117843628	False
+1980s	1990年代	0.9730123281478882	False
+1980s	受賞と候補の一覧	0.9366527795791626	False
+1980s	2000年代	0.9080889821052551	False
+1980s	2010年代	0.8960666060447693	False
+1980s	歴史	0.700337827205658	False
+1980s	経歴	0.6293203234672546	False
+1980s	年表	0.4755503833293915	False
+1980s	概要	0.4334533214569092	False
+2010s	2010年代	0.9911295175552368	True
+2010s	2000年代	0.9770895838737488	False
+2010s	受賞と候補の一覧	0.9561935067176819	False
+2010s	1990年代	0.9028306007385254	False
+2010s	関連項目	0.8769145011901855	False
+2010s	1980年代	0.8147003054618835	False
+2010s	1970年代	0.7898933291435242	False
+2010s	歴史	0.3186047077178955	False
+2010s	来歴	0.282743901014328	False
+2010s	ディスコグラフィ	0.20931518077850342	False
+Book	書籍	0.9680241942405701	True
+Book	内容	0.9115158915519714	False
+Book	参考文献	0.6837711334228516	False
+Book	私生活	0.6758921146392822	False
+Book	ディスコグラフィ	0.5611222386360168	False
+Book	プロフィール	0.5249791741371155	False
+Book	脚注	0.5101065635681152	False
+Book	構成	0.5088797807693481	False
+Book	その他	0.37764912843704224	False
+Book	略歴	0.37495121359825134	False
+Post-war	戦後	0.9870889782905579	True
+Post-war	受賞歴	0.9778962135314941	False
+Post-war	登場作品	0.9607412815093994	False
+Post-war	第二次世界大戦	0.9235022664070129	False
+Post-war	経歴	0.9031592607498169	False
+Post-war	外部リンク	0.8758223652839661	False
+Post-war	関連文献	0.8661015033721924	False
+Post-war	関連項目	0.8244548439979553	False
+Post-war	生涯	0.6856524348258972	False
+Post-war	略歴	0.6582800149917603	False
+Patents	特許	0.9922047257423401	True
+Patents	発明	0.7940368056297302	False
+Patents	関連項目	0.6175625920295715	False
+Patents	出典	0.5262105464935303	False
+Patents	外部リンク	0.4754270613193512	False
+Patents	脚注	0.4727785289287567	False
+Patents	参考文献	0.4472171664237976	False
+Patents	著作	0.37546294927597046	False
+Patents	副作用	0.35079967975616455	False
+Patents	評価	0.3417595326900482	False
+Technical details	特徴	0.9829574227333069	False
+Technical details	仕様	0.9638118743896484	False
+Technical details	概要	0.957217812538147	False
+Technical details	技術的詳細	0.9434306621551514	False
+Technical details	歴史	0.8621915578842163	False
+Technical details	技術詳細	0.8534278869628906	False
+Technical details	機能	0.8366772532463074	False
+Technical details	詳細	0.784254252910614	True
+Technical details	例	0.653797447681427	False
+Technical details	沿革	0.6412696838378906	False
+Song information	解説	0.9937332272529602	False
+Song information	チャート	0.9114775061607361	False
+Song information	収録曲	0.8602985143661499	True
+Song information	チャート成績	0.2664976119995117	False
+Final ranking	表彰	0.9915959239006042	False
+Final ranking	得点ランキング	0.9715036749839783	False
+Final ranking	最終順位	0.9632276296615601	False
+Final ranking	結果	0.8691022396087646	False
+Final ranking	審判	0.8467544317245483	False
+Final ranking	会場	0.5508851408958435	False
+Final ranking	外部リンク	0.36295098066329956	False
+Final ranking	主な出場選手	0.3312966227531433	False
+Final ranking	関連項目	0.3105025887489319	False
+Final ranking	最終結果	0.2972177565097809	False
+Stages	日程	0.9853612780570984	False
+Stages	結果	0.9785707592964172	False
+Stages	最終成績	0.9495733380317688	False
+Stages	区間及び総合首位の変遷	0.8885498642921448	False
+Stages	概要	0.7340750098228455	False
+Stages	日程及び成績	0.7098928093910217	False
+Stages	区間及び総合成績	0.6777417063713074	False
+Stages	特徴	0.6444584727287292	False
+Stages	歴史	0.5935039520263672	False
+Stages	区間優勝者と総合1位選手	0.5143686532974243	False
+Sponsors	スポンサー	0.9970380067825317	True
+Sponsors	冠スポンサー	0.9361797571182251	False
+Sponsors	概要	0.6910690665245056	False
+Sponsors	タイトル	0.49423062801361084	False
+Sponsors	表彰	0.46234381198883057	False
+Sponsors	歴代監督	0.4534945487976074	False
+Sponsors	現所属メンバー	0.42990362644195557	False
+Sponsors	参考文献	0.3831024765968323	False
+Sponsors	関連項目	0.3133964538574219	False
+Sponsors	その他	0.30260133743286133	False
+Brands	ブランド	0.9930116534233093	False
+Brands	歴史	0.9512479901313782	False
+Brands	製品	0.8417825698852539	False
+Brands	概要	0.5545245409011841	False
+Brands	沿革	0.4961945116519928	False
+Brands	楽曲	0.3625045716762543	False
+Brands	日本での展開	0.3372911512851715	False
+Brands	略歴	0.3110438585281372	False
+Brands	関連項目	0.2824566662311554	False
+Brands	歴代社長	0.2539066970348358	False

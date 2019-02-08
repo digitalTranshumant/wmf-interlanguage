@@ -1,0 +1,91 @@
+secFrom	langTo	prob	isTranslation
+脚注	Notas y referencias	0.9966542720794678	False
+脚注	Referencias	0.9937210083007812	False
+脚注	Notas	0.9922911524772644	True
+脚注	Enlaces externos	0.9867014288902283	False
+脚注	Bibliografía	0.9239593148231506	False
+脚注	Véase también	0.9057201743125916	False
+脚注	Bibliografía adicional	0.889106810092926	False
+脚注	Evolución demográfica	0.8821274638175964	False
+脚注	Lista de canciones	0.8403064012527466	False
+脚注	Ver también	0.7866702675819397	False
+概要	Diseño y desarrollo	0.9766076803207397	False
+概要	Lista de canciones	0.9643986821174622	False
+概要	Sistema de juego	0.9620814919471741	False
+概要	Modo de juego	0.9538516998291016	False
+概要	Historia operacional	0.9402986168861389	False
+概要	Jugabilidad	0.9178835153579712	False
+概要	Diseño	0.905803382396698	False
+概要	Grabación	0.8849725723266602	False
+概要	Historia y desarrollo	0.8789371848106384	False
+概要	Visión general	0.8563287258148193	False
+参考文献	Notas y referencias	0.9869177937507629	False
+参考文献	Referencias	0.9839551448822021	True
+参考文献	Enlaces externos	0.9786956906318665	False
+参考文献	Lectura adicional	0.9232468605041504	False
+参考文献	Referencias y notas de pie	0.9194531440734863	False
+参考文献	Lecturas adicionales	0.9073672294616699	False
+参考文献	Arte y literatura	0.9037259817123413	False
+参考文献	Notas	0.8600087761878967	False
+参考文献	Bibliografía	0.8558728098869324	False
+参考文献	Bibliografía adicional	0.8036848306655884	False
+歴史	Historia	0.985503613948822	True
+歴史	Datos del club	0.9538608193397522	False
+歴史	Origen del nombre	0.8567578792572021	False
+歴史	Palmarés	0.8379873037338257	False
+歴史	History	0.7392852306365967	False
+歴史	Participación en Competiciones de la AFC	0.7336845993995667	False
+歴史	Condados adyacentes	0.708372950553894	False
+歴史	Historia y desarrollo	0.7048130035400391	False
+歴史	Participación en Competiciones de la UEFA	0.6652092337608337	False
+歴史	Reseña histórica	0.6504471302032471	False
+経歴	Biografía	0.9873695969581604	False
+経歴	Carrera profesional	0.9859798550605774	True
+経歴	Carrera	0.9849401116371155	False
+経歴	Vida y carrera	0.9810224175453186	False
+経歴	Trayectoria	0.980127215385437	False
+経歴	Resultados en Grandes Vueltas y Campeonatos del Mundo	0.9706161022186279	False
+経歴	Carrera política	0.9684678316116333	False
+経歴	Carrera deportiva	0.9641240239143372	False
+経歴	Carrera militar	0.9635158777236938	False
+経歴	Estadísticas de su carrera en la NBA	0.9578778743743896	False
+出典	Notas y referencias	0.9959244728088379	False
+出典	Referencias	0.9958792924880981	True
+出典	Enlaces externos	0.9928337335586548	False
+出典	Notas	0.990912914276123	False
+出典	Galería de imágenes	0.9656186103820801	False
+出典	Bibliografía	0.9634677171707153	False
+出典	Fuentes	0.9206858277320862	True
+出典	Lista de canciones	0.8879181146621704	False
+出典	Referencia	0.8849491477012634	False
+出典	Véase también	0.8585851788520813	False
+沿革	Historia	0.9619231820106506	True
+沿革	Historia de la construcción	0.9133140444755554	False
+沿革	Historia operacional	0.9115048050880432	False
+沿革	Desarrollo	0.906100332736969	True
+沿革	Lanzamiento	0.881455659866333	False
+沿革	Líneas	0.8618561625480652	False
+沿革	El edificio	0.7756412029266357	False
+沿革	Diseño y desarrollo	0.7033495903015137	False
+沿革	Descripción	0.7004826664924622	False
+沿革	Filmografía	0.6764903664588928	False
+来歴	Vida y carrera	0.9906788468360901	False
+来歴	Primeros años	0.9841578006744385	False
+来歴	Carrera	0.9837168455123901	False
+来歴	Carrera musical	0.983690083026886	False
+来歴	Biografía	0.979033887386322	False
+来歴	Carrera profesional	0.9770448207855225	False
+来歴	Torneos de Grand Slam	0.9769479036331177	False
+来歴	Historia	0.9736317992210388	True
+来歴	Trayectoria	0.9666762948036194	False
+来歴	Carrera en artes marciales mixtas	0.9648969769477844	False
+地理	Geografía	0.9781848192214966	True
+地理	Condados adyacentes	0.9639723896980286	False
+地理	Origen del nombre	0.9613789319992065	False
+地理	Características	0.9181095361709595	False
+地理	Contexto geográfico	0.9099411368370056	False
+地理	Geografía y clima	0.9068318605422974	False
+地理	Geografía física	0.9013124704360962	False
+地理	Situación	0.8689858317375183	False
+地理	Localización	0.8610444068908691	False
+地理	Ubicación	0.8350889682769775	False

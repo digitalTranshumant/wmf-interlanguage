@@ -1,0 +1,471 @@
+secFrom	langTo	prob	isTranslation
+外部リンク	Voir aussi	0.9790184497833252	False
+外部リンク	Liens externes	0.9762846827507019	True
+外部リンク	Références	0.9714279770851135	False
+外部リンク	Notes et références	0.9706254601478577	False
+外部リンク	Sous-espèces	0.9334002733230591	False
+外部リンク	Notes	0.9103968739509583	False
+外部リンク	Lien externe	0.9024691581726074	False
+外部リンク	Annexes	0.9020866751670837	False
+外部リンク	Aujourd'hui	0.8508024215698242	False
+外部リンク	Sources	0.8254185318946838	False
+脚注	Notes et références	0.9973714351654053	True
+脚注	Références	0.9867905974388123	False
+脚注	Liens externes	0.9847407937049866	False
+脚注	Voir aussi	0.972953200340271	False
+脚注	Articles connexes	0.9728317856788635	False
+脚注	Lien externe	0.9696041941642761	False
+脚注	Notes	0.9548870325088501	False
+脚注	Bibliographie	0.9276753067970276	False
+脚注	Galerie de photos	0.9273412823677063	False
+脚注	Références et notes	0.9169711470603943	False
+関連項目	Compléments	0.8994817137718201	False
+関連項目	Box-office	0.8986800909042358	False
+関連項目	Sous-espèces	0.8739624619483948	False
+関連項目	Voir aussi	0.8545399904251099	True
+関連項目	L'histoire	0.8493285179138184	False
+関連項目	Demi-finales	0.8457821607589722	False
+関連項目	Notes et références	0.8389312624931335	False
+関連項目	Aujourd'hui	0.8128560185432434	False
+関連項目	Voir également	0.6707935929298401	False
+関連項目	Références	0.6611850261688232	False
+概要	Système de jeu	0.9773929715156555	False
+概要	Autour du film	0.9620266556739807	False
+概要	Manga	0.9279783964157104	False
+概要	Liste des titres	0.9187643527984619	False
+概要	Synopsis	0.8977165222167969	False
+概要	Bilan de la saison	0.8342923521995544	False
+概要	Conception et développement	0.817133367061615	False
+概要	Liste des chansons	0.797441840171814	False
+概要	Biographie	0.7954955697059631	False
+概要	Situation ferroviaire	0.7743434906005859	False
+参考文献	Références	0.9944890737533569	True
+参考文献	Notes et références	0.9938249588012695	False
+参考文献	Liens externes	0.9862826466560364	False
+参考文献	Voir aussi	0.9778663516044617	False
+参考文献	Articles connexes	0.9472228288650513	False
+参考文献	Article connexe	0.9314817786216736	False
+参考文献	Sources et bibliographie	0.9311705231666565	True
+参考文献	Sources	0.9291819334030151	True
+参考文献	Notes	0.9204809665679932	False
+参考文献	Voir également	0.9198845028877258	False
+歴史	Histoire	0.9530359506607056	True
+歴史	Historique	0.9101580381393433	False
+歴史	Situation sur le réseau	0.8799833059310913	False
+歴史	Comtés adjacents	0.7986124753952026	False
+歴史	Palmarès	0.7945430278778076	False
+歴史	Résultats en championnat du monde de Formule 1	0.7525289058685303	False
+歴史	Joueurs et personnalités du club	0.7390788197517395	False
+歴史	Origine du nom	0.7335603833198547	False
+歴史	Personnalités du club	0.7053819298744202	False
+歴史	Personnalités liées à la ville	0.6114060282707214	False
+経歴	Biographie	0.9874465465545654	False
+経歴	Carrière	0.9836931824684143	True
+経歴	Carrière en club	0.9815203547477722	False
+経歴	Carrière de joueur	0.978758692741394	False
+経歴	Carrière professionnelle	0.9514487981796265	False
+経歴	Carrière sportive	0.9392881989479065	False
+経歴	Carrière politique	0.9386221766471863	False
+経歴	Résultats en championnat du monde de Formule 1	0.9317825436592102	False
+経歴	Résultats sur les grands tours	0.8755577206611633	False
+経歴	Clubs	0.8715524673461914	False
+出典	Notes et références	0.9983140230178833	False
+出典	Références	0.995243489742279	True
+出典	Articles connexes	0.9904087781906128	False
+出典	Liens externes	0.9891780614852905	False
+出典	Lien externe	0.9869164228439331	False
+出典	Voir aussi	0.9855620861053467	False
+出典	Système de jeu	0.98480623960495	False
+出典	Article connexe	0.9745457172393799	False
+出典	Sources	0.9636217951774597	False
+出典	Liens internes	0.963552713394165	False
+沿革	Histoire	0.9267409443855286	True
+沿革	Manga	0.9107609987258911	False
+沿革	Historique	0.874531626701355	False
+沿革	Destinations	0.8384710550308228	False
+沿革	Contenu	0.8372147679328918	False
+沿革	Compagnies aériennes et destinations	0.8122398257255554	False
+沿革	Système de jeu	0.8098537921905518	False
+沿革	Source de la traduction	0.7556891441345215	False
+沿革	Jeux développés	0.7421818971633911	False
+沿革	Origine	0.6797078847885132	False
+来歴	Carrière	0.9636102914810181	False
+来歴	Carrière professionnelle	0.9581296443939209	False
+来歴	Parcours en MMA	0.9529088139533997	False
+来歴	Carrière de catcheur	0.9443591237068176	False
+来歴	Palmarès sur piste	0.9400475025177002	False
+来歴	Biographie	0.9340105056762695	False
+来歴	Parcours en « Premier Mandatory » et « Premier 5 »	0.9324838519096375	False
+来歴	Caractéristiques au catch	0.9179858565330505	False
+来歴	Histoire du groupe	0.9119648933410645	False
+来歴	Carrière en club	0.9076852202415466	False
+地理	Géographie	0.990642249584198	True
+地理	Comtés adjacents	0.9647473096847534	False
+地理	Administration	0.8822437524795532	False
+地理	Situation et accès	0.835008978843689	False
+地理	Situation	0.8093134164810181	False
+地理	Comtés voisins	0.7826404571533203	False
+地理	Événement commémoratif	0.7423574924468994	False
+地理	Situation géographique	0.7330151796340942	False
+地理	Origine du nom	0.7206742763519287	False
+地理	Source de la traduction	0.7021268010139465	False
+収録曲	Titres	0.9826468825340271	False
+収録曲	Liste des titres	0.9805319905281067	False
+収録曲	Liste des chansons	0.9513253569602966	True
+収録曲	Liste des pistes	0.9381317496299744	False
+収録曲	Pistes	0.9238446950912476	False
+収録曲	Personnel	0.8895963430404663	False
+収録曲	Musiciens	0.8850984573364258	False
+収録曲	Liste des morceaux	0.8340587615966797	False
+収録曲	Titres de l’album	0.8199475407600403	False
+収録曲	Composition du groupe	0.8161964416503906	False
+人物	Style de jeu	0.9696532487869263	False
+人物	Vie privée	0.9430537223815918	False
+人物	Galerie de photos	0.938683807849884	False
+人物	Personnalités liées à la ville	0.9247483015060425	False
+人物	Personnalités liées à la commune	0.9171628355979919	False
+人物	Carrière de joueur	0.8979602456092834	False
+人物	Personnalités	0.8918395638465881	True
+人物	Vie personnelle	0.8707391023635864	False
+人物	Patronyme	0.8136835098266602	False
+人物	Personnages significatifs	0.7917491793632507	False
+交通	Transport	0.9714937806129456	False
+交通	Transports	0.9707918763160706	True
+交通	Transport publics	0.9486958980560303	False
+交通	Transports en commun	0.9283416867256165	False
+交通	Infrastructures	0.881464421749115	False
+交通	Population et société	0.8797050714492798	False
+交通	Économie et transport	0.8760164976119995	False
+交通	Communications	0.8681783080101013	False
+交通	Galerie de photos	0.8548690676689148	False
+交通	Voies de communication et transports	0.8530614376068115	False
+著書	Liste partielle des publications	0.9812548160552979	False
+著書	Écrits	0.8836178779602051	False
+著書	Source de la traduction	0.8275185227394104	False
+著書	Œuvres	0.7987295985221863	True
+著書	Œuvres traduites en français	0.7870691418647766	False
+著書	Ouvrages	0.7647889852523804	True
+著書	Livre	0.7001944184303284	False
+著書	Dans la fiction	0.6999369859695435	False
+著書	Publications	0.6532788276672363	False
+著書	Dans la culture populaire	0.6429336071014404	False
+生涯	Biographie	0.9809531569480896	False
+生涯	Éléments biographiques	0.8913886547088623	False
+生涯	Son œuvre	0.8636083602905273	False
+生涯	Mariage et descendance	0.8326455950737	False
+生涯	Carrière	0.8187543153762817	False
+生涯	Carrière politique	0.808233916759491	False
+生涯	Vie et œuvre	0.800410807132721	False
+生涯	Sa vie	0.7547428011894226	False
+生涯	Dans la culture populaire	0.7447823286056519	False
+生涯	Mariages et descendance	0.738706111907959	False
+その他	Autour du film	0.9908288717269897	False
+その他	Dans la culture populaire	0.979905903339386	False
+その他	Dans la culture	0.969142735004425	False
+その他	Vie privée	0.9647890329360962	False
+その他	Service des voyageurs	0.9197113513946533	False
+その他	Voir aussi	0.8969853520393372	False
+その他	Autres	0.8944056034088135	True
+その他	À noter	0.8939458131790161	False
+その他	Culture populaire	0.8925735354423523	False
+その他	Système de jeu	0.8813737034797668	False
+あらすじ	Synopsis	0.9898934960365295	True
+あらすじ	L'histoire	0.9884129166603088	False
+あらすじ	Résumé	0.9334303736686707	False
+あらすじ	Box-office	0.9243672490119934	False
+あらすじ	L'œuvre	0.8881970643997192	False
+あらすじ	Argument	0.7701497077941895	False
+あらすじ	Intrigue	0.636661946773529	False
+あらすじ	Résumé du film	0.6089466214179993	False
+あらすじ	Résumé détaillé	0.5893309712409973	False
+あらすじ	''Anime''	0.5432183742523193	False
+解説	Historique	0.9875689148902893	False
+解説	Enregistrement	0.9783520698547363	False
+解説	Liste des chansons	0.9754683375358582	False
+解説	Composition du groupe	0.9721377491950989	False
+解説	Contenu	0.9683132171630859	False
+解説	Clip	0.9683103561401367	False
+解説	Clip vidéo	0.9649716019630432	False
+解説	Autour du film	0.9619554281234741	False
+解説	Genèse et enregistrement	0.9581249356269836	False
+解説	Liste des titres	0.9492887258529663	False
+ストーリー	Synopsis	0.9973330497741699	True
+ストーリー	Scénario	0.9901092052459717	False
+ストーリー	Trame	0.9850916266441345	False
+ストーリー	Univers	0.9846464991569519	False
+ストーリー	Système de jeu	0.9714897274971008	False
+ストーリー	Résumé	0.9668405055999756	False
+ストーリー	Intrigue	0.9649109840393066	False
+ストーリー	Autour du film	0.9489418268203735	False
+ストーリー	Résumé détaillé	0.9475220441818237	False
+ストーリー	Histoire	0.938549816608429	False
+特徴	Fonctionnalités	0.985289990901947	False
+特徴	Système de jeu	0.9726060032844543	False
+特徴	Caractéristiques	0.908179521560669	False
+特徴	Mode de vie	0.8443910479545593	False
+特徴	Habitats et répartition	0.7592136263847351	False
+特徴	Distribution et habitat	0.7431132793426514	False
+特徴	Caractéristiques techniques	0.7290281057357788	False
+特徴	Caractéristiques physiques	0.720492422580719	False
+特徴	Liste des espèces	0.6259212493896484	False
+特徴	Répartition et habitat	0.6089196801185608	False
+作品	Discographie	0.9829574227333069	False
+作品	Œuvres principales	0.9790169596672058	False
+作品	Analyse de l'œuvre	0.9710034728050232	False
+作品	Son œuvre	0.9671100378036499	False
+作品	Singles	0.9511204957962036	False
+作品	Ludographie	0.9461484551429749	False
+作品	Principales œuvres	0.9393929243087769	False
+作品	Films	0.9353092312812805	False
+作品	Œuvres	0.9289884567260742	True
+作品	Travaux	0.9288353323936462	False
+アクセス	Accès	0.9769884943962097	True
+アクセス	Situation et accès	0.9747381210327148	False
+アクセス	Galerie de photos	0.908117949962616	False
+アクセス	Dans la culture	0.9034316539764404	False
+アクセス	Dans la culture populaire	0.8979640007019043	False
+アクセス	Voir aussi	0.8626345992088318	False
+アクセス	Compagnies aériennes et destinations	0.8284860849380493	False
+アクセス	Dans la fiction	0.820228636264801	False
+アクセス	Origine du nom	0.7828016877174377	False
+アクセス	Compagnies et destinations	0.7778244614601135	False
+エピソード	Dans la culture populaire	0.979759156703949	False
+エピソード	Autour du film	0.9734544157981873	False
+エピソード	Épisodes	0.9654979109764099	True
+エピソード	Liste des épisodes	0.9264600276947021	False
+エピソード	Style de jeu	0.8631809949874878	False
+エピソード	Caractéristiques au catch	0.8278757929801941	False
+エピソード	Liste des titres	0.8275429010391235	False
+エピソード	Résultats en championnat du monde de Formule 1	0.7511702179908752	False
+エピソード	Autour de la série	0.7501791715621948	False
+エピソード	Divers	0.747187614440918	False
+詳細情報	Carrière	0.8569548726081848	False
+詳細情報	Carrière professionnelle	0.5047600865364075	False
+詳細情報	Biographie	0.48184338212013245	False
+詳細情報	Palmarès	0.2902219295501709	False
+詳細情報	Statistiques	0.1142738088965416	False
+詳細情報	Vie personnelle	0.0953502431511879	False
+詳細情報	Statistiques en carrière	0.06119189411401749	False
+詳細情報	Notes et références	0.050151485949754715	False
+詳細情報	Ligues majeures de baseball	0.035023972392082214	False
+詳細情報	Carrière d'instructeur	0.032735396176576614	False
+脚注・出典	Notes et références	0.9891552329063416	True
+脚注・出典	Bibliographie	0.9824044108390808	False
+脚注・出典	Références	0.9767324328422546	True
+脚注・出典	Notes	0.9746894240379333	False
+脚注・出典	Sources	0.9569078087806702	False
+脚注・出典	Liens externes	0.9469407200813293	False
+脚注・出典	Voir aussi	0.9015532732009888	False
+脚注・出典	Lien externe	0.8618543744087219	False
+脚注・出典	Annexes	0.7868539094924927	False
+脚注・出典	Résumé	0.19491328299045563	False
+メンバー	Membres	0.9949074387550354	True
+メンバー	Composition du groupe	0.9928176403045654	False
+メンバー	Membres du groupe	0.9873965382575989	True
+メンバー	Caractéristiques	0.9164308905601501	False
+メンバー	Composition	0.9031232595443726	False
+メンバー	Histoire	0.8903050422668457	False
+メンバー	Style musical	0.8544564247131348	False
+メンバー	Palmarès	0.8498804569244385	False
+メンバー	Histoire du groupe	0.8482223749160767	False
+メンバー	Formation	0.8474377989768982	False
+所属クラブ	Clubs successifs	0.9171938300132751	False
+所属クラブ	Clubs	0.9149808883666992	False
+所属クラブ	Carrière de joueur	0.8994637131690979	False
+所属クラブ	Carrière	0.8580841422080994	False
+所属クラブ	Carrière en club	0.7713031768798828	True
+所属クラブ	Carrière d'entraîneur	0.7681332230567932	False
+所属クラブ	Statistiques	0.7334814071655273	False
+所属クラブ	Biographie	0.6926736235618591	False
+所属クラブ	Équipes	0.614372730255127	False
+所属クラブ	Statistiques détaillées	0.6087701320648193	False
+参考資料	Références	0.9714570045471191	False
+参考資料	Bibliographie	0.9702205061912537	True
+参考資料	Sources	0.9018085598945618	False
+参考資料	Notes et références	0.870553195476532	False
+参考資料	Lien externe	0.7205034494400024	False
+参考資料	Liens externes	0.5747142434120178	False
+参考資料	Voir aussi	0.5423955917358398	False
+参考資料	Références bibliographiques	0.4847172498703003	False
+参考資料	Source	0.4731169641017914	False
+参考資料	Article connexe	0.4118749797344208	False
+タイトル	Distinctions personnelles	0.9701856970787048	False
+タイトル	Carrière de joueur	0.9432955980300903	False
+タイトル	Palmarès et distinctions	0.9375205636024475	False
+タイトル	Palmarès de joueur	0.9344854950904846	False
+タイトル	Records	0.9344050288200378	False
+タイトル	Palmarès	0.9234179854393005	False
+タイトル	Palmarès et statistiques	0.9200359582901001	False
+タイトル	Carrière en club	0.9034428596496582	False
+タイトル	Distinction personnelle	0.8926678895950317	False
+タイトル	Palmarès et records	0.866694986820221	False
+交通アクセス	Accès	0.9246217012405396	True
+交通アクセス	Notes et références	0.2955298125743866	False
+交通アクセス	Voir aussi	0.2163533717393875	False
+交通アクセス	Articles connexes	0.17324736714363098	False
+交通アクセス	Liens externes	0.16072213649749756	False
+交通アクセス	Galerie	0.14046813547611237	False
+交通アクセス	Histoire	0.12978561222553253	False
+交通アクセス	Références	0.11909715086221695	False
+交通アクセス	Architecture	0.08855710923671722	False
+交通アクセス	Lien externe	0.08344989269971848	False
+著作	Écrits	0.9499565958976746	False
+著作	Œuvres	0.8861886858940125	False
+著作	Liste partielle des publications	0.862849235534668	False
+著作	Analyse de l'œuvre	0.8195189237594604	False
+著作	Publications	0.7318729162216187	False
+著作	Source de la traduction	0.6901347041130066	False
+著作	Voir aussi	0.6754029989242554	False
+著作	Ouvrages	0.6373138427734375	True
+著作	Quelques publications	0.6331081390380859	False
+著作	Livres	0.595256507396698	False
+ディスコグラフィー	Discographie	0.9901401400566101	True
+ディスコグラフィー	Chansons	0.9842169284820557	False
+ディスコグラフィー	Singles	0.9670357704162598	False
+ディスコグラフィー	Discographie sélective	0.958767831325531	False
+ディスコグラフィー	Albums	0.9506844878196716	False
+ディスコグラフィー	Vidéographie	0.850091814994812	False
+ディスコグラフィー	Collaborations	0.8423563838005066	False
+ディスコグラフィー	Composition du groupe	0.8209168910980225	False
+ディスコグラフィー	Histoire du groupe	0.8191237449645996	False
+ディスコグラフィー	Carrière musicale	0.7829692959785461	False
+行政	Politique et administration	0.98399817943573	False
+行政	Culture et patrimoine	0.8984330296516418	False
+行政	Politique	0.896587610244751	False
+行政	Galerie de photos	0.808498740196228	False
+行政	Subdivisions administratives	0.7963854074478149	False
+行政	Voir aussi	0.7939601540565491	False
+行政	Divisions administratives	0.7673144340515137	False
+行政	Personnalités liées à la ville	0.7516034245491028	False
+行政	Administration et politique	0.7106883525848389	False
+行政	Origine du nom	0.6316275596618652	False
+ギャラリー	Galerie de photos	0.9919416904449463	False
+ギャラリー	Galerie	0.9909996390342712	True
+ギャラリー	Galerie de photographies	0.9228405952453613	False
+ギャラリー	Photographies	0.8957310318946838	False
+ギャラリー	Dans la culture populaire	0.8852829933166504	False
+ギャラリー	Voir aussi	0.8623026609420776	False
+ギャラリー	Notes et références	0.8587924242019653	False
+ギャラリー	Lien externe	0.8380787968635559	False
+ギャラリー	Liste des espèces	0.8254115581512451	False
+ギャラリー	Distribution	0.8234798312187195	False
+参照	Notes et références	0.9985983967781067	False
+参照	Articles connexes	0.994899332523346	False
+参照	Références	0.9919976592063904	False
+参照	Liens externes	0.9853297472000122	False
+参照	Voir aussi	0.9818997383117676	True
+参照	Notes	0.9738705158233643	False
+参照	Sources	0.9584758281707764	False
+参照	Lien externe	0.9525227546691895	False
+参照	Résultats en championnat du monde de Formule 1	0.9296769499778748	False
+参照	Bibliographie	0.9277935028076172	False
+ディスコグラフィ	Discographie	0.9947070479393005	True
+ディスコグラフィ	Discographie sélective	0.9812461733818054	False
+ディスコグラフィ	Discographie en solo	0.9721872210502625	False
+ディスコグラフィ	Albums	0.9675291180610657	False
+ディスコグラフィ	Musique	0.9666974544525146	False
+ディスコグラフィ	Singles	0.9434354305267334	False
+ディスコグラフィ	Solo	0.922163188457489	False
+ディスコグラフィ	Collaborations	0.8868458271026611	False
+ディスコグラフィ	Discographie partielle	0.837019681930542	False
+ディスコグラフィ	Vidéographie	0.7853564023971558	False
+備考	Autour du film	0.9937193393707275	False
+備考	Dans la culture populaire	0.8992499113082886	False
+備考	Commentaires	0.8991410136222839	False
+備考	Autour de la série	0.8905215859413147	False
+備考	À noter	0.8867954611778259	False
+備考	Livre audio en français	0.8836118578910828	False
+備考	Voir aussi	0.8574079871177673	False
+備考	Anecdotes	0.8484245538711548	False
+備考	Notes et références	0.82305508852005	False
+備考	Système de jeu	0.8177614808082581	False
+評価	Réception critique	0.9853661060333252	False
+評価	Accueil critique	0.9763020873069763	False
+評価	Récompenses et distinctions	0.9430875182151794	False
+評価	Réception	0.9382818937301636	False
+評価	Accueil	0.9295616745948792	False
+評価	Sortie et accueil	0.9100430011749268	False
+評価	Récompenses et nominations	0.9046332240104675	False
+評価	Style de jeu	0.8920732140541077	False
+評価	Autour du film	0.8405315279960632	False
+評価	Distinctions	0.8320633172988892	False
+教育	Éducation	0.9673106670379639	False
+教育	Enseignement	0.9295636415481567	False
+教育	Population et société	0.9119006991386414	False
+教育	Source de la traduction	0.8537262082099915	False
+教育	Personnalités liées à la ville	0.8487194180488586	False
+教育	Dans la culture populaire	0.8376107215881348	False
+教育	Universités	0.8217060565948486	False
+教育	Voir aussi	0.7730405926704407	False
+教育	Dans la fiction	0.7532392740249634	False
+教育	Notes et références	0.7304288148880005	False
+内容	Origine du nom	0.9832950234413147	False
+内容	Contenu	0.9721781015396118	True
+内容	Synopsis	0.9566212892532349	False
+内容	Énoncé	0.956079363822937	False
+内容	Résumé	0.9425263404846191	False
+内容	Présentation	0.93829345703125	False
+内容	Système de jeu	0.9075259566307068	False
+内容	Récit	0.856624960899353	False
+内容	Description	0.7663795948028564	False
+内容	Hadiths liés à cette sourate	0.7645273804664612	False
+分布	Répartition et habitat	0.9861021041870117	False
+分布	Distribution et habitat	0.9844025373458862	True
+分布	Habitat et répartition	0.9823620915412903	False
+分布	Écologie et distribution	0.976379930973053	False
+分布	Description de l'espèce	0.9761808514595032	False
+分布	Aire de répartition	0.9737161993980408	False
+分布	Répartition	0.9690282344818115	False
+分布	Habitats et répartition	0.9656710028648376	False
+分布	Répartition géographique	0.9487501382827759	False
+分布	Distribution	0.9424780607223511	True
+概説	Autour du film	0.9721807241439819	False
+概説	Biographie	0.9442534446716309	False
+概説	Argument	0.8937789797782898	False
+概説	Synopsis	0.8768674731254578	False
+概説	Mythe	0.8394500017166138	False
+概説	Utilisation	0.7195417284965515	False
+概説	Géographie	0.6541322469711304	False
+概説	Dans la culture populaire	0.6248643398284912	False
+概説	Situation géographique	0.6201658844947815	False
+概説	Présentation	0.6030554175376892	False
+背景	Contexte	0.9909875988960266	False
+背景	Le contexte	0.9905809760093689	False
+背景	Liste des titres	0.9642258882522583	False
+背景	Contexte historique	0.9634060859680176	True
+背景	Prélude	0.945598840713501	False
+背景	Production	0.9151055812835693	False
+背景	Liste des pistes	0.9136661887168884	False
+背景	Musiciens	0.91326904296875	False
+背景	Origines	0.9083961844444275	False
+背景	Campagne précédant la bataille	0.8895956873893738	False
+プロフィール	Récompenses et nominations	0.9463173151016235	False
+プロフィール	Parcours sportif	0.9331461787223816	False
+プロフィール	Résultats en championnat du monde de Formule 1	0.9326112866401672	False
+プロフィール	Biographie	0.9105125665664673	False
+プロフィール	Les débuts	0.9073286056518555	False
+プロフィール	Victoires en Championnat du monde de Formule 1	0.893406093120575	False
+プロフィール	Palmarès	0.8759042024612427	False
+プロフィール	Jeunesse	0.8113052845001221	False
+プロフィール	Résultats en compétition automobile	0.7630323767662048	False
+プロフィール	Carrière de catcheur	0.7572156190872192	False
+分類	Liste des espèces	0.9862877130508423	False
+分類	Classification	0.9765298366546631	True
+分類	Liste des familles	0.950390636920929	False
+分類	Liste des ordres	0.932840883731842	False
+分類	Position systématique	0.9301469326019287	False
+分類	Liste des genres	0.9117673635482788	False
+分類	Systématique	0.8996386528015137	False
+分類	Écologie et comportement	0.8871714472770691	False
+分類	Espèces	0.8344972133636475	False
+分類	Synonymes	0.829582691192627	False
+生態	Écologie et comportement	0.934016227722168	False
+生態	Paléobiologie	0.9204092621803284	False
+生態	Biologie et écologie	0.8690611720085144	False
+生態	Écologie	0.83921879529953	True
+生態	Voir aussi	0.777040958404541	False
+生態	Description et caractéristiques	0.7660413384437561	False
+生態	Distribution et habitat	0.7583989500999451	False
+生態	Répartition et habitat	0.7254361510276794	False
+生態	Publication originale	0.7085485458374023	False
+生態	Liste des espèces	0.6933944225311279	False

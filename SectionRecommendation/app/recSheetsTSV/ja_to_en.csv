@@ -1,0 +1,681 @@
+secFrom	langTo	prob	isTranslation
+外部リンク	External links	0.9750607013702393	True
+外部リンク	References	0.971376895904541	False
+外部リンク	Notes	0.9323402047157288	False
+外部リンク	Adjacent stations	0.8333145380020142	False
+外部リンク	Footnotes	0.8154314756393433	False
+外部リンク	Sources	0.7043180465698242	False
+外部リンク	Further reading	0.6012744307518005	False
+外部リンク	Post-election	0.46254169940948486	False
+外部リンク	2000s	0.4527719020843506	False
+外部リンク	Post-war	0.4510987102985382	False
+関連項目	See also	0.9794107675552368	True
+関連項目	References	0.8162891864776611	False
+関連項目	Semi-finals	0.7859480977058411	False
+関連項目	Notes	0.7859086990356445	False
+関連項目	Quarter-finals	0.6142805814743042	False
+関連項目	Spin-offs	0.3915293216705322	False
+関連項目	Further reading	0.3710322082042694	False
+関連項目	Spin-off	0.3689520061016083	False
+関連項目	Footnotes	0.365843266248703	False
+関連項目	Notes and references	0.2142600119113922	False
+概要	Design and development	0.9625586271286011	False
+概要	Overview	0.9617055058479309	False
+概要	Development	0.948648989200592	False
+概要	Gameplay	0.9361333847045898	False
+概要	Operational history	0.9221101999282837	False
+概要	Track listing	0.9189659357070923	False
+概要	Station layout	0.8919104933738708	False
+概要	Early life	0.8912869095802307	False
+概要	Production	0.8897024989128113	False
+概要	Design	0.8816409111022949	False
+参考文献	References	0.9964832067489624	False
+参考文献	Further reading	0.9935223460197449	False
+参考文献	Sources	0.9868673086166382	False
+参考文献	External links	0.9825405478477478	False
+参考文献	Notes	0.9803275465965271	False
+参考文献	Bibliography	0.9768630266189575	True
+参考文献	Notes and references	0.9755732417106628	False
+参考文献	See also	0.9441837668418884	False
+参考文献	Footnotes	0.9328725337982178	False
+参考文献	Other sources	0.9167103171348572	False
+歴史	History	0.9827893376350403	True
+歴史	Airlines and destinations	0.7543151378631592	False
+歴史	Station layout	0.732664942741394	False
+歴史	See also	0.725156307220459	False
+歴史	Main sights	0.6813419461250305	False
+歴史	In popular culture	0.6690746545791626	False
+歴史	Early history	0.6677232384681702	False
+歴史	Operational history	0.6344171762466431	False
+歴史	Design and development	0.5894442796707153	False
+歴史	Publication history	0.5790585279464722	False
+経歴	Life and career	0.9910383224487305	False
+経歴	Career	0.9885185360908508	True
+経歴	Club career	0.9881381392478943	False
+経歴	Playing career	0.9853689074516296	False
+経歴	Life	0.9797152280807495	False
+経歴	Biography	0.9760892987251282	False
+経歴	Club statistics	0.9740771055221558	False
+経歴	Professional career	0.9699090719223022	False
+経歴	Early life and career	0.9682202339172363	False
+経歴	Political career	0.9678378701210022	False
+出典	References	0.9971396923065186	True
+出典	Further reading	0.9951125979423523	False
+出典	Notes	0.9941335320472717	False
+出典	Notes and references	0.988976001739502	False
+出典	Sources	0.9886686205863953	False
+出典	See also	0.9739084839820862	False
+出典	Footnotes	0.9734722375869751	False
+出典	External links	0.9698910713195801	False
+出典	References and sources	0.9188121557235718	False
+出典	Citations	0.894527018070221	False
+沿革	Historical districts	0.930820882320404	False
+沿革	History	0.8899329900741577	True
+沿革	Building	0.8590140342712402	False
+沿革	Airlines and destinations	0.850990891456604	False
+沿革	Development	0.8312029838562012	True
+沿革	Early history	0.7651819586753845	False
+沿革	See also	0.7569977045059204	False
+沿革	Election results	0.754011332988739	False
+沿革	Notes and references	0.6949776411056519	False
+沿革	Operational history	0.6887924671173096	False
+来歴	Life and career	0.9891778230667114	False
+来歴	Early life and education	0.9845576286315918	False
+来歴	Club career	0.9838846325874329	False
+来歴	Playing career	0.9818744659423828	False
+来歴	Early life and career	0.978348433971405	False
+来歴	Professional career	0.9777811169624329	False
+来歴	Mixed martial arts career	0.9764475226402283	False
+来歴	Early life	0.976187527179718	False
+来歴	Club statistics	0.9719344973564148	False
+来歴	Early years	0.9685317873954773	False
+地理	Geography	0.9880157113075256	True
+地理	Geography and climate	0.9739680886268616	False
+地理	External links	0.9515101909637451	False
+地理	Economy and infrastructure	0.9326804280281067	False
+地理	Location	0.8990041017532349	False
+地理	Overview	0.8952442407608032	False
+地理	Surrounding municipalities	0.8758025169372559	False
+地理	Neighboring municipalities	0.8439211845397949	False
+地理	Places of interest	0.8225672245025635	False
+地理	See also	0.8123915195465088	False
+略歴	Life	0.988515317440033	False
+略歴	Early life and career	0.9883096218109131	False
+略歴	Biography	0.9876930117607117	False
+略歴	Club career	0.982012152671814	False
+略歴	Professional career	0.9760482907295227	False
+略歴	Life and work	0.9750257730484009	False
+略歴	Life and career	0.9747995138168335	False
+略歴	Club statistics	0.973732590675354	False
+略歴	Education and career	0.962247908115387	False
+略歴	Early life and education	0.9616869688034058	False
+人物	Personal life	0.9844581484794617	True
+人物	Early life and career	0.9675085544586182	False
+人物	Significant people	0.9604805111885071	False
+人物	Notable people	0.948408305644989	False
+人物	Early life and education	0.9408565163612366	False
+人物	Life and career	0.9385150671005249	False
+人物	Famous people	0.9281523823738098	False
+人物	Early life	0.917641818523407	False
+人物	People	0.9061124920845032	False
+人物	Championships and accomplishments	0.879512369632721	False
+交通	Transport	0.9943345785140991	False
+交通	Transportation	0.9942575693130493	True
+交通	Infrastructure	0.9908400177955627	False
+交通	Economy and infrastructure	0.937933623790741	False
+交通	See also	0.9339102506637573	False
+交通	Access	0.933700680732727	False
+交通	In popular culture	0.9113094210624695	False
+交通	Points of interest	0.9091576933860779	False
+交通	Sister city relations	0.8410037755966187	False
+交通	Places of interest	0.8181353211402893	False
+著書	Selected works	0.9314357042312622	False
+著書	External links	0.8828731775283813	False
+著書	See also	0.881607174873352	False
+著書	Later years	0.7925280332565308	False
+著書	List of works	0.7923035621643066	False
+著書	Career and research	0.780471682548523	False
+著書	Life and work	0.7747207283973694	False
+著書	Life and career	0.7288236618041992	False
+著書	Books	0.7286393046379089	False
+著書	In popular culture	0.6967151761054993	False
+生涯	Life	0.9896047115325928	False
+生涯	Biography	0.9868714809417725	True
+生涯	Life and career	0.9868386387825012	False
+生涯	Life and work	0.9691548347473145	False
+生涯	Early life and education	0.9585011005401611	False
+生涯	Later years	0.9458708763122559	False
+生涯	Early years	0.9457743763923645	False
+生涯	Political career	0.9404615759849548	False
+生涯	Later life	0.9389165639877319	False
+生涯	Military career	0.9355242252349854	False
+スタッフ	Staff	0.9886271357536316	True
+スタッフ	Soundtrack	0.9765974879264832	False
+スタッフ	Crew	0.9666528105735779	False
+スタッフ	Development	0.9619975686073303	False
+スタッフ	Awards and nominations	0.956643283367157	False
+スタッフ	Awards and honors	0.9524857997894287	False
+スタッフ	Production	0.9524757266044617	False
+スタッフ	Music	0.9424233436584473	False
+スタッフ	Development and release	0.929262638092041	False
+スタッフ	Anime	0.900611400604248	False
+出演	Filmography	0.9885910153388977	True
+出演	Life and career	0.9634089469909668	False
+出演	Cast	0.9554007649421692	False
+出演	Appearances	0.95024174451828	False
+出演	Acting career	0.9502038955688477	False
+出演	Cast and characters	0.9364591240882874	False
+出演	Notable voice roles	0.9324021935462952	False
+出演	Selected filmography	0.9207616448402405	False
+出演	Awards and nominations	0.9073891639709473	False
+出演	Anime	0.901214063167572	False
+その他	In popular culture	0.9925428628921509	False
+その他	Other uses	0.9716746211051941	False
+その他	Other	0.9697026014328003	True
+その他	Others	0.9585986733436584	False
+その他	See also	0.9554542303085327	False
+その他	Personal life	0.9540525078773499	False
+その他	In media	0.8667994737625122	False
+その他	Miscellaneous	0.8658979535102844	False
+その他	Other media	0.8539533019065857	False
+その他	Championships and accomplishments	0.8443267941474915	False
+あらすじ	Plot	0.9776057600975037	False
+あらすじ	Synopsis	0.9493049383163452	False
+あらすじ	Plot summary	0.9071686863899231	False
+あらすじ	Premise	0.9020569324493408	False
+あらすじ	Story	0.8386720418930054	False
+あらすじ	Summary	0.716626763343811	True
+あらすじ	Spin-off	0.26986703276634216	False
+あらすじ	Setting	0.2636919915676117	False
+あらすじ	Overview	0.24693214893341064	False
+あらすじ	Score	0.23502562940120697	False
+登場人物	Characters	0.9710328578948975	True
+登場人物	Cast	0.9403644800186157	False
+登場人物	Main characters	0.808200478553772	False
+登場人物	Voice cast	0.8009175062179565	False
+登場人物	Spin-offs	0.7175021767616272	False
+登場人物	Cast and characters	0.6420102715492249	False
+登場人物	Spin-off	0.4017770290374756	False
+登場人物	Synopsis	0.3832511901855469	False
+登場人物	Awards and nominations	0.36150461435317993	False
+登場人物	Voice actors	0.353740394115448	False
+キャスト	Cast	0.9950101375579834	True
+キャスト	Cast and characters	0.9917235970497131	False
+キャスト	Characters	0.9842638373374939	False
+キャスト	Main cast	0.9779552817344666	False
+キャスト	Plot summary	0.9748042821884155	False
+キャスト	Voice cast	0.9710572361946106	False
+キャスト	Plot	0.9626737236976624	False
+キャスト	Production	0.960533857345581	False
+キャスト	Awards and nominations	0.9558461308479309	False
+キャスト	Synopsis	0.9300829768180847	False
+ストーリー	Plot	0.9957752823829651	False
+ストーリー	Story	0.9832925200462341	True
+ストーリー	Plot summary	0.981691300868988	False
+ストーリー	Premise	0.9775614142417908	False
+ストーリー	Cast and characters	0.9410992860794067	False
+ストーリー	Synopsis	0.9304477572441101	False
+ストーリー	Gameplay	0.926395058631897	False
+ストーリー	See also	0.9166771769523621	False
+ストーリー	Musical numbers	0.8956476449966431	False
+ストーリー	Plot and setting	0.8682769536972046	False
+特徴	Features	0.9901385307312012	True
+特徴	Characteristics	0.987851083278656	False
+特徴	Design	0.9398718476295471	False
+特徴	Design and development	0.913387656211853	False
+特徴	Specifications	0.8942254185676575	False
+特徴	Gameplay	0.8612034320831299	False
+特徴	Notable features	0.8431199193000793	False
+特徴	Characters	0.8423457741737366	False
+特徴	Discovery and naming	0.8166585564613342	False
+特徴	See also	0.7896299958229065	False
+作品	Works	0.9941480159759521	True
+作品	Work	0.9842645525932312	False
+作品	Compositions	0.969870388507843	False
+作品	Selected works	0.9640259742736816	False
+作品	Writings	0.9633091688156128	False
+作品	List of works	0.9542292356491089	False
+作品	Filmography	0.9423532485961914	False
+作品	Films	0.9252943992614746	False
+作品	Life and career	0.9141855835914612	False
+作品	Discography	0.9141584038734436	False
+アクセス	Transportation	0.9950114488601685	False
+アクセス	Ground transportation	0.9912061095237732	False
+アクセス	Access	0.9901328086853027	True
+アクセス	Ground transport	0.9895762205123901	False
+アクセス	Transport links	0.9810536503791809	False
+アクセス	Transport	0.9645279049873352	False
+アクセス	Location	0.9480522274971008	False
+アクセス	See also	0.9435428977012634	False
+アクセス	Data	0.9192023873329163	False
+アクセス	In popular culture	0.9087375402450562	False
+出演作品	Filmography	0.9563456773757935	True
+出演作品	Career	0.9504446983337402	False
+出演作品	Selected filmography	0.9101822972297668	False
+出演作品	Partial filmography	0.8552809357643127	False
+出演作品	Acting career	0.8255439400672913	False
+出演作品	Life and career	0.76140296459198	False
+出演作品	Credits	0.7498207688331604	False
+出演作品	Select filmography	0.7058200240135193	False
+出演作品	Works	0.6940419673919678	False
+出演作品	Film	0.6831214427947998	False
+エピソード	Episodes	0.9732261300086975	True
+エピソード	Trivia	0.9430895447731018	False
+エピソード	Crew	0.9290041327476501	False
+エピソード	In popular culture	0.9252920746803284	False
+エピソード	Personal life	0.9163919687271118	False
+エピソード	Life and career	0.9141855835914612	False
+エピソード	Style of play	0.8732908964157104	False
+エピソード	See also	0.8704257607460022	False
+エピソード	Production	0.8595559597015381	False
+エピソード	Track listing	0.824715793132782	False
+脚注・出典	Notes	0.9913090467453003	False
+脚注・出典	References	0.9738257527351379	True
+脚注・出典	Further reading	0.9586142301559448	False
+脚注・出典	Sources	0.9274107217788696	False
+脚注・出典	External links	0.8043408989906311	False
+脚注・出典	See also	0.4239920377731323	False
+脚注・出典	Bibliography	0.3186286389827728	False
+脚注・出典	Charts	0.13112400472164154	False
+脚注・出典	Personal life	0.11721603572368622	False
+脚注・出典	Gallery	0.11496056616306305	False
+所在地	Location	0.9663986563682556	True
+所在地	Locations	0.9303421974182129	False
+所在地	See also	0.9238092303276062	False
+所在地	In popular culture	0.8750096559524536	False
+所在地	Points of interest	0.8074278235435486	False
+所在地	In fiction	0.7061367630958557	False
+所在地	Powers and functions	0.569932758808136	False
+所在地	Further reading	0.4811718761920929	False
+所在地	External links	0.453631192445755	False
+所在地	Geography	0.3913760185241699	False
+所属クラブ	Clubs	0.9601077437400818	False
+所属クラブ	Awards	0.856737494468689	False
+所属クラブ	Career	0.8000807762145996	False
+所属クラブ	Club statistics	0.7941550612449646	False
+所属クラブ	Playing career	0.7831346392631531	False
+所属クラブ	Post-retirement	0.7629676461219788	False
+所属クラブ	Club career	0.7385809421539307	True
+所属クラブ	Teams	0.7210429906845093	False
+所属クラブ	Early career	0.718911349773407	False
+所属クラブ	Career statistics	0.7161285281181335	False
+注釈	Notes	0.995934009552002	True
+注釈	References	0.9931172132492065	False
+注釈	Further reading	0.9920788407325745	False
+注釈	Notes and references	0.9838259816169739	False
+注釈	See also	0.9742158055305481	False
+注釈	External links	0.9621517062187195	False
+注釈	Sources	0.8455736637115479	False
+注釈	Early life and education	0.7785694003105164	False
+注釈	Literature	0.7210381627082825	False
+注釈	Later life	0.7194206714630127	False
+利用状況	Passenger statistics	0.42884597182273865	False
+利用状況	Usage	0.424069344997406	False
+利用状況	Adjacent stations	0.24522970616817474	False
+利用状況	Station layout	0.18138021230697632	False
+利用状況	History	0.18068087100982666	False
+利用状況	References	0.1799878031015396	False
+利用状況	Layout	0.16505269706249237	False
+利用状況	Overview	0.10476034879684448	False
+利用状況	See also	0.08917780965566635	False
+利用状況	Lines	0.08190078288316727	False
+参考資料	Notes	0.9538842439651489	False
+参考資料	References	0.9478334188461304	True
+参考資料	Sources	0.9440699219703674	False
+参考資料	Bibliography	0.8386201858520508	True
+参考資料	Further reading	0.7755135893821716	False
+参考資料	External links	0.6565772294998169	False
+参考資料	Commanders	0.6233579516410828	False
+参考資料	Notes and references	0.510075032711029	False
+参考資料	Post-presidency	0.4342743456363678	False
+参考資料	See also	0.3291807770729065	False
+個人成績	Club statistics	0.9304113984107971	False
+個人成績	Career statistics	0.9174011945724487	False
+個人成績	Career	0.8984346389770508	False
+個人成績	Playing career	0.8964138031005859	False
+個人成績	Club career	0.8464159965515137	False
+個人成績	Football career	0.7972187399864197	False
+個人成績	Statistics	0.7894201278686523	False
+個人成績	Awards	0.7663366794586182	False
+個人成績	International goals	0.7528086304664612	False
+個人成績	Club career statistics	0.7354927659034729	False
+タイトル	Honours	0.9909322261810303	False
+タイトル	Honors	0.9767842888832092	False
+タイトル	Awards and honours	0.9734901189804077	False
+タイトル	Championships and accomplishments	0.967162549495697	False
+タイトル	Honors and awards	0.9668487310409546	False
+タイトル	Titles	0.937288224697113	False
+タイトル	Team honors	0.9269569516181946	False
+タイトル	Honours and achievements	0.9112902283668518	False
+タイトル	Achievements	0.8958150148391724	False
+タイトル	Awards	0.884907603263855	False
+出演者	Cast	0.97562575340271	True
+出演者	Plot	0.907127320766449	False
+出演者	Cast and characters	0.8718888163566589	False
+出演者	Characters	0.8661481738090515	False
+出演者	Awards and nominations	0.4966689348220825	False
+出演者	Accolades	0.4611682593822479	False
+出演者	Series synopsis	0.3697408139705658	False
+出演者	Music	0.3376695513725281	False
+出演者	History	0.25097399950027466	False
+出演者	The festival	0.24808166921138763	False
+交通アクセス	Access	0.98044753074646	True
+交通アクセス	Transport	0.9276718497276306	False
+交通アクセス	Ground transportation	0.787479043006897	False
+交通アクセス	Gallery	0.3806474506855011	False
+交通アクセス	See also	0.25279930233955383	False
+交通アクセス	Passenger facilities	0.23499339818954468	False
+交通アクセス	Notes	0.21587395668029785	False
+交通アクセス	References	0.17530620098114014	False
+交通アクセス	Transport connections	0.1404380202293396	False
+交通アクセス	External links	0.11626920104026794	False
+著作	Works	0.9923011064529419	True
+著作	Writings	0.9861623048782349	False
+著作	List of works	0.9685815572738647	False
+著作	Publications	0.9646852612495422	True
+著作	Selected works	0.9475951790809631	False
+著作	Major works	0.9308128952980042	False
+著作	Books	0.917587399482727	False
+著作	See also	0.8716253042221069	False
+著作	Life and work	0.8064411282539368	False
+著作	Literary works	0.8023868799209595	False
+受賞歴	Awards	0.9870766997337341	True
+受賞歴	Awards and honors	0.9458830952644348	False
+受賞歴	Recognition	0.9353392720222473	False
+受賞歴	Honors	0.931010365486145	False
+受賞歴	Honors and awards	0.9169636368751526	False
+受賞歴	Awards and honours	0.9142447710037231	False
+受賞歴	Awards and nominations	0.9084134697914124	False
+受賞歴	Post-war	0.8812819123268127	False
+受賞歴	Honours and awards	0.8763055801391602	False
+受賞歴	Honours	0.8477119207382202	False
+ディスコグラフィー	Discography	0.9841538071632385	True
+ディスコグラフィー	Music videos	0.9539884924888611	False
+ディスコグラフィー	Selected discography	0.9253379702568054	False
+ディスコグラフィー	Albums	0.9115873575210571	False
+ディスコグラフィー	Music	0.9069553017616272	False
+ディスコグラフィー	Life and career	0.9061070084571838	False
+ディスコグラフィー	Singles	0.9019954204559326	False
+ディスコグラフィー	Music career	0.87770015001297	False
+ディスコグラフィー	Recordings	0.8775772452354431	False
+ディスコグラフィー	Solo discography	0.7986626029014587	False
+行政	Governance	0.9841325283050537	False
+行政	Government	0.9840362668037415	False
+行政	Administration	0.9755322933197021	True
+行政	Administrative divisions	0.9485258460044861	False
+行政	Local government	0.9385144114494324	False
+行政	International relations	0.9156493544578552	False
+行政	Administrative districts	0.9005802869796753	False
+行政	Politics	0.8967950344085693	False
+行政	Twin towns — sister cities	0.8644589185714722	False
+行政	City government	0.837806224822998	False
+ギャラリー	Gallery	0.9978571534156799	True
+ギャラリー	Image gallery	0.9949576258659363	False
+ギャラリー	Photo gallery	0.9778739809989929	False
+ギャラリー	See also	0.9705718755722046	False
+ギャラリー	Distribution and habitat	0.9556989073753357	False
+ギャラリー	Tourism	0.9534937143325806	False
+ギャラリー	Images	0.9398629665374756	False
+ギャラリー	Works	0.9382295608520508	False
+ギャラリー	Notes and references	0.8964490294456482	False
+ギャラリー	Sights	0.8815024495124817	False
+参照	See also	0.9968686699867249	True
+参照	References	0.9934811592102051	False
+参照	Notes and references	0.992489218711853	False
+参照	Notes	0.9903429746627808	False
+参照	Bibliography	0.9781869053840637	False
+参照	Footnotes	0.9768809676170349	False
+参照	Further reading	0.9745715260505676	False
+参照	Sources	0.9660474061965942	False
+参照	External links	0.9617249369621277	False
+参照	In popular culture	0.9430494904518127	False
+ディスコグラフィ	Discography	0.9896787405014038	True
+ディスコグラフィ	Selected discography	0.9599364399909973	False
+ディスコグラフィ	Singles	0.953627347946167	False
+ディスコグラフィ	Solo discography	0.9446688294410706	False
+ディスコグラフィ	Albums	0.9231576323509216	False
+ディスコグラフィ	Early life and career	0.9207108020782471	False
+ディスコグラフィ	Life and career	0.9061070084571838	False
+ディスコグラフィ	Music	0.904428243637085	False
+ディスコグラフィ	Videography	0.8026858568191528	False
+ディスコグラフィ	Awards and recognition	0.8007761240005493	False
+備考	In popular culture	0.9809263944625854	False
+備考	Popular culture	0.9698329567909241	False
+備考	See also	0.9554542303085327	False
+備考	Cultural references	0.9168330430984497	False
+備考	Notes and references	0.8846033811569214	False
+備考	Awards and nominations	0.8693099617958069	False
+備考	In other media	0.8084505796432495	False
+備考	Notes	0.7597270011901855	True
+備考	Sequel	0.7291929721832275	False
+備考	Other media	0.7263977527618408	False
+評価	Reception	0.9825765490531921	False
+評価	Critical reception	0.9739078283309937	False
+評価	Awards and honors	0.9652379751205444	False
+評価	Release	0.9613133668899536	False
+評価	Awards and nominations	0.9590021967887878	False
+評価	Critical response	0.9589320421218872	False
+評価	Release and reception	0.9394396543502808	False
+評価	Racing career	0.9099474549293518	False
+評価	Evaluation	0.9086003303527832	False
+評価	Awards	0.887630045413971	False
+教育	Education	0.9945499300956726	True
+教育	Early life and education	0.9566226601600647	False
+教育	Colleges and universities	0.9331814646720886	False
+教育	Points of interest	0.9155207276344299	False
+教育	Early life	0.9060722589492798	False
+教育	Places of interest	0.8863982558250427	False
+教育	See also	0.8832153677940369	False
+教育	In popular culture	0.849261462688446	False
+教育	Arts and culture	0.7513042688369751	False
+教育	Notes and references	0.7225170135498047	False
+内容	Content	0.9911181330680847	False
+内容	Contents	0.9888727068901062	True
+内容	Story	0.974595308303833	False
+内容	Plot summary	0.970663845539093	False
+内容	Theme and subject matter	0.9705937504768372	False
+内容	Plot	0.9643272161483765	False
+内容	Premise	0.9608947038650513	False
+内容	Synopsis	0.9604500532150269	False
+内容	Context	0.9563404321670532	False
+内容	Overview	0.9523447751998901	False
+経済	Economy	0.9874497652053833	True
+経済	Industry	0.9436095952987671	False
+経済	Places of interest	0.8959452509880066	False
+経済	See also	0.8459956049919128	False
+経済	Economy and infrastructure	0.8417338728904724	False
+経済	Points of interest	0.8354237675666809	False
+経済	Economics	0.8067951798439026	False
+経済	Notes and references	0.7929714918136597	False
+経済	Government and politics	0.7876603007316589	False
+経済	Twin towns – sister cities	0.7869690656661987	False
+概説	Early life	0.9410837888717651	False
+概説	Life	0.9325897097587585	False
+概説	Concept	0.887390673160553	False
+概説	Mythology	0.881298303604126	False
+概説	Life and work	0.8641904592514038	False
+概説	Production	0.8273665904998779	False
+概説	Features	0.8171949982643127	False
+概説	Life and career	0.8077747821807861	False
+概説	Career	0.7977715134620667	False
+概説	Overview	0.7761064171791077	False
+作品リスト	Works	0.9694552421569824	False
+作品リスト	Filmography	0.8848162293434143	False
+作品リスト	Notable works	0.7882351279258728	False
+作品リスト	List of games	0.770993173122406	False
+作品リスト	List of works	0.7608232498168945	True
+作品リスト	Publications	0.7257499694824219	False
+作品リスト	Episodes	0.7037093043327332	False
+作品リスト	Selected works	0.6777039170265198	False
+作品リスト	Published works	0.6438618302345276	False
+作品リスト	Career	0.5993366241455078	False
+主題歌	Theme songs	0.9921603798866272	True
+主題歌	Songs	0.989007830619812	False
+主題歌	Music	0.9865759015083313	False
+主題歌	Soundtrack	0.9785671234130859	False
+主題歌	Media	0.9765822291374207	False
+主題歌	Themes	0.9731631278991699	False
+主題歌	Audio	0.968438982963562	False
+主題歌	Other media	0.960105299949646	False
+主題歌	Anime	0.9287236332893372	False
+主題歌	Awards and nominations	0.9096739292144775	False
+背景	Background	0.9934055805206299	True
+背景	Prelude	0.9847131371498108	False
+背景	Recording	0.9666262865066528	False
+背景	Context	0.9632551074028015	False
+背景	Historical background	0.9533740878105164	False
+背景	Background and production	0.9519914388656616	False
+背景	Music video	0.9441807866096497	False
+背景	Track listing	0.9287019371986389	False
+背景	Origins	0.8927558660507202	False
+背景	Causes	0.8921919465065002	False
+書誌情報	Works cited	0.9117317795753479	False
+書誌情報	Manga	0.897286057472229	False
+書誌情報	Release	0.8170127272605896	False
+書誌情報	Publication	0.7353070378303528	False
+書誌情報	Media	0.43508294224739075	False
+書誌情報	Production	0.3276876211166382	False
+書誌情報	Sources	0.23431703448295593	False
+書誌情報	References	0.2035183161497116	False
+書誌情報	Reception	0.18797540664672852	False
+書誌情報	Chapters	0.18033908307552338	False
+書籍	Books	0.9884960651397705	False
+書籍	Bibliography	0.9814062118530273	False
+書籍	Photobooks	0.9731642603874207	False
+書籍	Publications	0.9061792492866516	False
+書籍	See also	0.8821102976799011	False
+書籍	Notes and references	0.8729852437973022	False
+書籍	Early life and education	0.8597634434700012	False
+書籍	In popular culture	0.8524394035339355	False
+書籍	Book	0.7582104802131653	True
+書籍	Discography and releases	0.7190383672714233	False
+プロフィール	Early life	0.9830541014671326	False
+プロフィール	Early life and education	0.9826441407203674	False
+プロフィール	Early life and career	0.976430356502533	False
+プロフィール	Early years	0.9702782034873962	False
+プロフィール	Life and career	0.9629930257797241	False
+プロフィール	Early career	0.9541577696800232	False
+プロフィール	Formula One career	0.9466042518615723	False
+プロフィール	World Championship results	0.9461389780044556	False
+プロフィール	Racing career	0.9437063932418823	False
+プロフィール	Film career	0.9374850988388062	False
+主な作品	Filmography	0.9758284687995911	False
+主な作品	Career	0.9552399516105652	False
+主な作品	Works	0.9171468019485474	False
+主な作品	Selected filmography	0.9023190140724182	False
+主な作品	Selected works	0.8932327628135681	False
+主な作品	Major works	0.7663751840591431	True
+主な作品	Film career	0.7571952939033508	False
+主な作品	Life and career	0.7515984177589417	False
+主な作品	Credits	0.7440503239631653	False
+主な作品	Life and work	0.7282047271728516	False
+姉妹都市	International relations	0.9639171957969666	False
+姉妹都市	Sister cities	0.9498464465141296	True
+姉妹都市	Twin towns	0.9317228198051453	False
+姉妹都市	Twin towns – sister cities	0.8958490490913391	False
+姉妹都市	Twin towns and sister cities	0.8891158699989319	False
+姉妹都市	Twin cities	0.8483862280845642	False
+姉妹都市	Twin towns — sister cities	0.8254590034484863	False
+姉妹都市	Twinnings	0.8249940276145935	False
+姉妹都市	Sister city	0.7686907052993774	True
+姉妹都市	''Frazioni''	0.6657422780990601	False
+できごと	Events	0.9667981863021851	True
+できごと	Predicted and scheduled events	0.27168411016464233	False
+できごと	Significant people	0.18023952841758728	False
+できごと	Politics and wars	0.10856844484806061	False
+できごと	References	0.07643115520477295	False
+できごと	Significant persons	0.07111068814992905	False
+できごと	Deaths	0.053484924137592316	False
+できごと	Overview	0.04543652385473251	False
+できごと	People	0.04398290812969208	False
+できごと	Technology	0.03543335199356079	False
+分類	Taxonomy and naming	0.9753519296646118	False
+分類	Taxonomy and systematics	0.9583219289779663	False
+分類	Species	0.9561582803726196	False
+分類	Taxonomy	0.954784631729126	False
+分類	Classification	0.9296797513961792	True
+分類	Types	0.9269894957542419	False
+分類	Taxonomy and phylogeny	0.8794362545013428	False
+分類	Systematics	0.8768741488456726	False
+分類	See also	0.8286826014518738	False
+分類	Taxonomy and evolution	0.8270465135574341	False
+生態	Biology	0.9400374293327332	False
+生態	Distribution and habitat	0.9290229678153992	False
+生態	Behavior and ecology	0.9135984778404236	False
+生態	Biology and ecology	0.9088765382766724	False
+生態	Ecology	0.8958777785301208	True
+生態	Other sources	0.8359405994415283	False
+生態	See also	0.8263296484947205	False
+生態	Paleobiology	0.8217814564704895	False
+生態	Ecology and behaviour	0.807632327079773	False
+生態	Taxonomy and naming	0.7952155470848083	False
+組織	Organization	0.9931042790412903	True
+組織	Structure	0.9870081543922424	False
+組織	Organizations	0.9862311482429504	False
+組織	Organizational structure	0.9851676821708679	False
+組織	Organisation	0.9847944378852844	False
+組織	Recruitment	0.8975737690925598	False
+組織	Order of battle	0.8848357200622559	False
+組織	See also	0.8195313215255737	False
+組織	Other uses	0.8062101006507874	False
+組織	In popular culture	0.7941468358039856	False
+関連書籍	Merchandise	0.8248163461685181	False
+関連書籍	Spin-off	0.7825648188591003	False
+関連書籍	Notes	0.5881087779998779	False
+関連書籍	Further reading	0.5677149295806885	False
+関連書籍	Bibliography	0.4877563416957855	False
+関連書籍	See also	0.48073479533195496	True
+関連書籍	References	0.3692939579486847	True
+関連書籍	Home media	0.3032969534397125	False
+関連書籍	Literature	0.1984158605337143	False
+関連書籍	Related media	0.1713060736656189	False
+家族	Personal life	0.9918668866157532	False
+家族	Family	0.9897981882095337	True
+家族	Marriage and issue	0.9882016777992249	False
+家族	Marriage and children	0.9861519932746887	False
+家族	Marriage and family	0.9844086766242981	False
+家族	Family life	0.975611686706543	False
+家族	Death and legacy	0.9664638042449951	False
+家族	Marriages and children	0.9632486701011658	False
+家族	Personal	0.95682293176651	False
+家族	Early life and career	0.9499737024307251	False
+構造	Structure	0.9958480596542358	True
+構造	Design and development	0.9502318501472473	False
+構造	Components	0.9348820447921753	False
+構造	Chemical properties	0.9118205904960632	False
+構造	Construction	0.9100118279457092	False
+構造	Design	0.8938185572624207	False
+構造	Structure and bonding	0.8898708820343018	False
+構造	Names	0.8472270965576172	False
+構造	Description	0.8456618785858154	False
+構造	Architecture	0.8221266865730286	False
+受賞	Awards	0.9947167038917542	True
+受賞	Awards and honors	0.9929907321929932	False
+受賞	Honors and awards	0.989392876625061	False
+受賞	Awards and honours	0.9892426133155823	False
+受賞	Awards and nominations	0.9887240529060364	False
+受賞	Awards and recognition	0.9841300249099731	False
+受賞	Accolades	0.9618932008743286	False
+受賞	Life and career	0.9321268796920776	False
+受賞	Prizes	0.9111345410346985	False
+受賞	Recognition	0.892795741558075	False
+系譜	Family	0.9856611490249634	False
+系譜	Genealogy	0.9786856174468994	True
+系譜	Family tree	0.9743527173995972	False
+系譜	Early life and education	0.9530689716339111	False
+系譜	Early life	0.949638843536377	False
+系譜	Early years	0.9489056468009949	False
+系譜	Consorts and children	0.926571249961853	False
+系譜	Ancestry	0.8859667778015137	False
+系譜	See also	0.8109960556030273	False
+系譜	Ancestors	0.7914136648178101	False
+人口動態	Demography	0.3412395119667053	False
+人口動態	Population	0.27018994092941284	False
+人口動態	Demographic	0.1746281236410141	False
+人口動態	References	0.08400017023086548	False
+人口動態	See also	0.08305983990430832	False
+人口動態	Demographics	0.07917886972427368	True
+人口動態	Politics	0.054099150002002716	False
+人口動態	Government	0.04965251311659813	False
+人口動態	Geography	0.03892765939235687	False
+人口動態	Climate	0.03681795671582222	False
