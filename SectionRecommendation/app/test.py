@@ -14,9 +14,10 @@ cursor = mariadb_connection.cursor()
 #Sec Rec API
 @route('/API/recommendation/<lang>/<title>')
 def APIRecs(lang,title):
-	userIp = request.environ.get('REMOTE_ADDR')
+	userIp = request.environ.get('HTTP_X_FORWARDED_FOR')
 	verbose = request.query.verbose or True
 	blind = request.query.blid or False
+	print(verbose,blind)
 	f.write('SecRec %s %s %s \n' % (userIp,lang,title))
 	if lang not in SecRec.suportedLangs:
 		error = {'error':'%s is not supported; supported languages are: %s' % (lang,','.join(SecRec.suportedLangs))}
@@ -31,7 +32,7 @@ def APIRecs(lang,title):
 
 @route('/API/alignment/<lang1>/<lang2>/<section>')
 def APIAlignment(lang1,lang2,section):
-	userIp = request.environ.get('REMOTE_ADDR')
+	userIp = request.environ.get('HTTP_X_FORWARDED_FOR')
 	f.write('Alignment %s %s %s %s \n' % (userIp,lang1,lang2,section))
 	if lang1 not in SecRec.suportedLangs:
 		error = {'error':'%s is not supported; supported languages are: %s' % (lang1,','.join(SecRec.suportedLangs))}
@@ -51,7 +52,7 @@ def server_static(filename):
 def index():
 	title = request.query.title or 'Quilombo'
 	lang = request.query.lang or 'en'
-	userIp = request.environ.get('REMOTE_ADDR')
+	userIp = request.environ.get('HTTP_X_FORWARDED_FOR')
 	f.write('Demopage %s %s %s \n' % (userIp,lang,title))
 	if lang not in SecRec.suportedLangs:
 		text = '%s is not supported; supported languages are: %s' 
@@ -71,9 +72,16 @@ def index():
 				numPerLang[l] = len(s)
 
 		except:
-			text = 'Article not found, please try another article'
+			try:    #this try is in case that SecRec.getRecs fails, but there is still a pagepreview
+				response = requests.get("https://%s.wikipedia.org/api/rest_v1/page/summary/%s" % (lang,title))
+				r = response.json()
+				text = r['extract_html'] 
+				image =  r['thumbnail']['source']
+			except:
+				text = 'Article not found, please try another article'
+				image = ''
+
 			secRec = []
-			image = ''
 			currentSec = ''
 			langtitles = {}
 			numPerLang = {}
@@ -147,7 +155,7 @@ def index():
   			  	         <h3> {{title}} - {{lang}}.wikipedia.org </h3>  
 					 <b> Article Summary: </b> <br>
 
-					<img src="{{image}}" ALIGN="left"> {{!text}} 
+					<img style="margin: 0px 15px 5px 0px" src="{{image}}" ALIGN="left"> {{!text}} 
 				<br>
 				%if secRec: 
 				<a href='https://{{lang}}.wikipedia.org/w/index.php?title={{title}}&action=edit' target='_blank'> Go to Wikipedia and edit this article </a>
@@ -157,13 +165,15 @@ def index():
 				<div class="col-sm">
 
 				<b>Recommended sections:</b>
-				<ul>
+				<ul><table>
 				<form action="/evaluated/{{lang}}/{{title}}/">
+					
 
 
 					  % for item in secRec:
-					    <li><b>{{item}}</b>   <input type="radio" name="{{item}}" value="good" > Good  <input type="radio" name="{{item}}" value="fair"> Fair   <input type="radio" name="{{item}}" value="bad"> Bad </li>
+					     <tr> <td ><li><b>{{item}}</b> </li></td><td>  <input type="radio" name="{{item}}" value="good" > Good  </td><td><input type="radio" name="{{item}}" value="redundant"> Redundant   </td><td><input type="radio" name="{{item}}" value="NotRelated"> Not Related </td></tr>
 					  % end
+				</table></ul>
 					 %if secRec:
 					 <input type="submit" value="Evaluate"> <br>
 					 %end
@@ -175,13 +185,21 @@ def index():
 					</ul>
 					<b>Number of sections in other languages:</b>
 					<ul>
+					  % if not numPerLang:
+						<li> These article does not exists in any of the other supported languages </li>
+					  %end
 					  % for l,n in numPerLang.items():
 					    <li><b> {{l}}:</b> {{n}}  <a href="https://{{l}}.wikipedia.org/wiki/{{langtitles[l]}}">{{langtitles[l]}}</a></li>
 					  % end
 					</ul>
 					<b>Current sections and subsections in this article are:</b>
 					<ul>
-					 <li>	{{currentSec}} </li>
+					  %if currentSec:
+					 <li>{{currentSec}} </li>
+					 %end	
+					  %if not currentSec:
+					 <li>The current article has no sections yet. </li>
+					 %end
 					</ul>
 
 				</div>
@@ -198,7 +216,7 @@ def index():
 ### Evaluated
 @route('/evaluated/<lang>/<title>/')
 def evaluated(lang,title):
-	userIp = request.environ.get('REMOTE_ADDR')
+	userIp = request.environ.get('HTTP_X_FORWARDED_FOR')
 	evaluations = dict(request.query.decode())
 	for sec,value in evaluations.items():
 		cursor.execute("INSERT INTO evaluation (ip,article,lang,section,evaluation) VALUES ('%s','%s','%s','%s','%s')" % (userIp,title,lang,sec,value))
