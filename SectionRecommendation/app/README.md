@@ -2,7 +2,8 @@
 
 An online demo app can be found in: http://secrec.wmflabs.org
 
-A demo API can be found here: http://secrec.wmflabs.org/API/recommendation/<lang>/<title>
+A demo API can be found here: secrec.wmflabs.org/API/recommendation/<lang>/<title>
+
 API example: http://secrec.wmflabs.org/API/recommendation/en/Quilombo?verbose=False&blind=False
 
 Where the parameters are:
