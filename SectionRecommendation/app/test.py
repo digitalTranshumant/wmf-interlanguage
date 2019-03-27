@@ -221,6 +221,8 @@ def indexv1():
 ### Evaluated
 @route('/evaluated/<lang>/<title>/')
 def evaluated(lang,title):
+	mariadb_connection = mariadb.connect(user='app', password='pool', database='app')
+	cursor = mariadb_connection.cursor() 
 	userIp = request.environ.get('HTTP_X_FORWARDED_FOR')
 	evaluations = dict(request.query.decode())
 	for sec,value in evaluations.items():
