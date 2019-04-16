@@ -40,7 +40,7 @@ for f in os.listdir('recSheetsTSV/'):
 def getAlignment(lang1,lang2,sec):  
     df = rec[lang1][lang2]
     tmp = df[df.index ==sec][['langTo','prob']]
-    return list(zip(tmp['langTo'],tmp['prob']))
+    return list(map(list, zip(tmp['langTo'],tmp['prob']))) 
 
 
 # In[81]:

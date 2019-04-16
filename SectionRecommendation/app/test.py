@@ -1,4 +1,4 @@
-from bottle import route, run, template,request,static_file
+from bottle import route, run, template,request,static_file,response
 import SecRecV4 as SecRec
 import json
 import requests
@@ -43,7 +43,8 @@ def APIAlignment(lang1,lang2,section):
 		error = {'error':'%s is not supported; supported languages are: %s' % (lang2,','.join(SecRec.suportedLangs))}
 		return error
 	recs = SecRec.getAlignment(lang1,lang2,section)	
-	return recs
+	response.content_type = 'application/json'
+	return json.dumps(recs)
 
 @route('/static/<filename>')
 def server_static(filename):
@@ -535,4 +536,4 @@ def indexv1():
 
 
 
-run(host='0.0.0.0',port=80,server='paste',reloader=True,interval=20,quiet=False)
+run(host='0.0.0.0',port=80,server='paste',reloader=True,interval=5,quiet=False)
