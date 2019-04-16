@@ -5,7 +5,7 @@ import requests
 import mysql.connector as mariadb
 
 f = open('server.log','a',buffering=1)
-
+supportedLangs = ['en','es','fr','ru','ja','ar']
 
 
 # create TABLE evaluation (    ip VARCHAR(100),    article VARCHAR(200) ,    lang VARCHAR(40),    section VARCHAR(40),    evaluation VARCHAR(40), ts TIMESTAMP );
@@ -26,7 +26,7 @@ def APIRecs(lang,title):
 		return error
 	try:
 		recs = SecRec.getRecs2(title,lang,blind=blind,verbose=verbose)
-		return template('{{name}}', name=recs)
+		return recs
 	except:
 		error = {'error':'%s not found, please try with another article' % title}
 		return error
@@ -43,8 +43,7 @@ def APIAlignment(lang1,lang2,section):
 		error = {'error':'%s is not supported; supported languages are: %s' % (lang2,','.join(SecRec.suportedLangs))}
 		return error
 	recs = SecRec.getAlignment(lang1,lang2,section)	
-	return template('{{name}}', name=recs)
-
+	return recs
 
 @route('/static/<filename>')
 def server_static(filename):
@@ -54,6 +53,7 @@ def server_static(filename):
 def indexv1():
 	title = request.query.title or 'Quilombo'
 	lang = request.query.lang or 'en'
+	print(request.environ)
 	userIp = request.environ.get('HTTP_X_FORWARDED_FOR')
 	f.write('Demopage %s %s %s \n' % (userIp,lang,title))
 	if lang not in SecRec.suportedLangs:
@@ -134,7 +134,7 @@ def indexv1():
 
 
 			   <div class="row">  
-				<form action="/">
+				<form action="/v1">
 
 				Wiki: 
 				  <select name="lang" value="{{lang}}">
@@ -280,7 +280,7 @@ def evaluated(lang,title):
 
 
 			   <div class="row">  
-				<form action="/">
+				<form action="/v1">
 
 				Wiki: 
 				  <select name="lang">
@@ -311,11 +311,12 @@ def index():
 	try:
 		evaluations = dict(request.query.decode())
 		if evaluations.get('GenerateRandom',False):
-			title = SecRec.getArticleWithRec('en')
-			lang =  'en'
-		else:
-			title = request.query.title or SecRec.getArticleWithRec('en')
 			lang = request.query.lang or 'en'
+			title = SecRec.getArticleWithRec(lang)
+		else:
+			lang = request.query.lang or 'en'
+			title = request.query.title or SecRec.getArticleWithRec(lang)
+
 		print(title,lang)
 		userIp = request.environ.get('HTTP_X_FORWARDED_FOR')
 		f.write('Demopage %s %s %s \n' % (userIp,lang,title))
@@ -523,6 +524,11 @@ def index():
 	except Exception as e: 
 		print('error - reloading',e)
 		index()
+
+@route('/test')
+def indexv1():
+
+	return {"test":"this"}
 		
 
 
