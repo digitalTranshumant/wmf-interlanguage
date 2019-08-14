@@ -22,10 +22,13 @@ def APIRecs(lang,title):
 	verbose = request.query.verbose or False
 	if verbose == 'False':
 		verbose = False
-	blind = request.query.blind or True
+	blind = request.query.blind or False
 	if blind == 'False':
 		blind = False
+	if blind == 'True':
+		blind= True
 	f.write('SecRec %s %s %s \n' % (userIp,lang,title))
+	print(blind,verbose)
 	if lang not in SecRec.suportedLangs:
 		error = {'error':'%s is not supported; supported languages are: %s' % (lang,','.join(SecRec.suportedLangs))}
 		return error
