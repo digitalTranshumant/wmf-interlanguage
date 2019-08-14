@@ -1,4 +1,5 @@
-from bottle import route, run, template,request,static_file,response
+from bottle import route, run, template,request,static_file,response,Bottle
+import bottle
 import SecRecV4 as SecRec
 import json
 import requests
@@ -12,29 +13,36 @@ supportedLangs = ['en','es','fr','ru','ja','ar']
 
 # create TABLE evaluationGeneral (    ip VARCHAR(100),    article VARCHAR(200) ,    lang VARCHAR(40),    Q1 VARCHAR(40),    Q2 VARCHAR(40), Q3 VARCHAR(40),Q4 VARCHAR(40),Q5 VARCHAR(40),ts TIMESTAMP );
 
+app = Bottle()
 
 #Sec Rec API
-@route('/API/recommendation/<lang>/<title>')
+@app.route('/API/recommendation/<lang>/<title>')
 def APIRecs(lang,title):
 	userIp = request.environ.get('HTTP_X_FORWARDED_FOR')
 	verbose = request.query.verbose or True
-	blind = request.query.blid or False
-	print(verbose,blind)
+	if verbose == 'False':
+		verbose = False
+	blind = request.query.blind or True
+	if blind == 'False':
+		blind = False
 	f.write('SecRec %s %s %s \n' % (userIp,lang,title))
 	if lang not in SecRec.suportedLangs:
 		error = {'error':'%s is not supported; supported languages are: %s' % (lang,','.join(SecRec.suportedLangs))}
 		return error
 	try:
 		recs = SecRec.getRecs2(title,lang,blind=blind,verbose=verbose)
+		print(json.dumps(recs))
 		return recs
 	except:
 		error = {'error':'%s not found, please try with another article' % title}
 		return error
 	
 
-@route('/API/alignment/<lang1>/<lang2>/<section>')
+@app.route('/API/alignment/<lang1>/<lang2>/<section>')
 def APIAlignment(lang1,lang2,section):
+	print('hola')
 	userIp = request.environ.get('HTTP_X_FORWARDED_FOR')
+	print(section)
 	f.write('Alignment %s %s %s %s \n' % (userIp,lang1,lang2,section))
 	if lang1 not in SecRec.suportedLangs:
 		error = {'error':'%s is not supported; supported languages are: %s' % (lang1,','.join(SecRec.suportedLangs))}
@@ -46,11 +54,11 @@ def APIAlignment(lang1,lang2,section):
 	response.content_type = 'application/json'
 	return json.dumps(recs)
 
-@route('/static/<filename>')
+@app.route('/static/<filename>')
 def server_static(filename):
 	return static_file(filename, root='.')
 
-@route('/v1')
+@app.route('/v1')
 def indexv1():
 	title = request.query.title or 'Quilombo'
 	lang = request.query.lang or 'en'
@@ -220,7 +228,7 @@ def indexv1():
 
 
 ### Evaluated
-@route('/evaluated/<lang>/<title>/')
+@app.route('/evaluated/<lang>/<title>/')
 def evaluated(lang,title):
 	mariadb_connection = mariadb.connect(user='app', password='pool', database='app')
 	cursor = mariadb_connection.cursor() 
@@ -307,7 +315,7 @@ def evaluated(lang,title):
 
 ## sandbox
 
-@route('/')
+@app.route('/')
 def index():
 	try:
 		evaluations = dict(request.query.decode())
@@ -526,14 +534,15 @@ def index():
 		print('error - reloading',e)
 		index()
 
-@route('/test')
-def indexv1():
-
-	return {"test":"this"}
-		
-
-
-
+@app.route("/test/:category/:category2", method=["GET","POST"])
+def admin(category,category2):
+    try:
+        return category+category2
+    except Exception(e):
+        print ("e:"+str(e))
 
 
-run(host='0.0.0.0',port=80,server='paste',reloader=True,interval=5,quiet=False)
+
+
+
+run(app,host='0.0.0.0',port=80,server='tornado',reloader=True,interval=3,quiet=False,debug=True)

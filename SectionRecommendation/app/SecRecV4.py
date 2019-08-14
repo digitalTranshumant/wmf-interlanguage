@@ -345,7 +345,7 @@ def getRecs2(title,TargetLang,auxLang=False,blind=False,verbose=False,giveTitles
             output['context']['titles'] = titles
             
     else:
-        output = list(set(finalRecs))
+        output = {'Recommendations':list(set(finalRecs))}
     return output
 
 
