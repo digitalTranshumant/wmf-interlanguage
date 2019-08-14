@@ -263,6 +263,7 @@ def getRecs2(title,TargetLang,auxLang=False,blind=False,verbose=False,giveTitles
     
     '''
     #load translations
+    print('hola')
     global rec
     # get sections in all Languages
     if giveTitles:
