@@ -19,7 +19,7 @@ app = Bottle()
 @app.route('/API/recommendation/<lang>/<title>')
 def APIRecs(lang,title):
 	userIp = request.environ.get('HTTP_X_FORWARDED_FOR')
-	verbose = request.query.verbose or True
+	verbose = request.query.verbose or False
 	if verbose == 'False':
 		verbose = False
 	blind = request.query.blind or True
