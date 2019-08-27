@@ -150,13 +150,18 @@ def indexv1():
 
 				Wiki: 
 				  <select name="lang" value="{{lang}}">
-				    <option value="en" selected ></option>
+
+				    <option value="ar">ar.wikipedia</option>
 				    <option value="ar">ar.wikipedia</option>
 				    <option value="en">en.wikipedia</option>
 				    <option value="es">es.wikipedia</option>
 				    <option value="fr">fr.wikipedia</option>
 				    <option value="ja">ja.wikipedia</option>
 				    <option value="ru">ru.wikipedia</option>
+				    <option value="pt">.wikipedia</option>
+
+
+				    <option value="en" selected ></option>
 				  </select>
 				Article: <input type="text" name="title" value="{{title}}">
 				 <input type="submit" value="Try Another Article"> <br>
@@ -429,9 +434,11 @@ def index():
 				<table >
 					 <tr> <td >Wiki:  </td><td style="margin:5px">
 					  <select name="lang" value="{{lang}}">
-					    <option value="en" selected ></option>
+
+
+					    <option value="{{lang if lang else 'en'}}" selected="selected">{{lang if lang else 'en'}}.wikipedia</option>
+	
 					    <option value="ar">ar.wikipedia</option>
-					    <option value="en" selected="selected">en.wikipedia</option>
 					    <option value="es">es.wikipedia</option>
 					    <option value="fr">fr.wikipedia</option>
 					    <option value="ja">ja.wikipedia</option>
