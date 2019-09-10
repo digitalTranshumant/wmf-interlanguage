@@ -19,7 +19,11 @@ import re
 import json
 import sys
 import pandas as pd
+import os
 
+directory ='multiLanguageFromDumps'
+if not os.path.exists(directory):
+    os.makedirs(directory)
 
 
 sections_RE = re.compile(r'(^|[^=])==([^=\n\r]+)==([^=]|$)')
